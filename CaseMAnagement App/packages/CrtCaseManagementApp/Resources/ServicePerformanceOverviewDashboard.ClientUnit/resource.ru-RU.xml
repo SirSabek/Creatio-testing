@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Обзор эффективности сервиса" />
+			<Item Name="LocalizableStrings.AverageResolutionTimeIndicatorWidget_title.Value" Value="Среднее время разрешения, часов" />
+			<Item Name="LocalizableStrings.AverageResolutionTimePerSourceChartWidget_label.Value" Value="Часов" />
+			<Item Name="LocalizableStrings.AverageResolutionTimePerSourceChartWidget_series_0.Value" Value="Часов" />
+			<Item Name="LocalizableStrings.AverageResolutionTimePerSourceChartWidget_title.Value" Value="Среднее время разрешения по каналу, часов" />
+			<Item Name="LocalizableStrings.CasesByAssigneeChartWidget_label.Value" Value="Обращение" />
+			<Item Name="LocalizableStrings.CasesByAssigneeChartWidget_series_0.Value" Value="Обращений" />
+			<Item Name="LocalizableStrings.CasesByAssigneeChartWidget_title.Value" Value="Обращения по ответственному" />
+			<Item Name="LocalizableStrings.CasesByCategoryChartWidget_series_0.Value" Value="Обращение" />
+			<Item Name="LocalizableStrings.CasesByCategoryChartWidget_title.Value" Value="Обращения по категориям" />
+			<Item Name="LocalizableStrings.CasesByScoreChartWidget_series_0.Value" Value="Обращений" />
+			<Item Name="LocalizableStrings.CasesByScoreChartWidget_title.Value" Value="Уровень удовлетворенности решением обращений" />
+			<Item Name="LocalizableStrings.CasesByServiceChartWidget_series_0.Value" Value="Обращениe" />
+			<Item Name="LocalizableStrings.CasesByServiceChartWidget_title.Value" Value="Обращения по сервисам" />
+			<Item Name="LocalizableStrings.CasesOnSupportLinesChartWidget_series_0.Value" Value="Обращений" />
+			<Item Name="LocalizableStrings.CasesOnSupportLinesChartWidget_title.Value" Value="Обращения на линиях поддержки" />
+			<Item Name="LocalizableStrings.CustomerSatisfactionIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CustomerSatisfactionIndicatorWidget_title.Value" Value="Средняя оценка (1-5)" />
+			<Item Name="LocalizableStrings.FirstContactResolutionIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.FirstContactResolutionIndicatorWidget_title.Value" Value="Решено с первого раза" />
+			<Item Name="LocalizableStrings.NumberOfEvaluatedCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.NumberOfEvaluatedCasesIndicatorWidget_title.Value" Value="Оценено обращений" />
+			<Item Name="LocalizableStrings.OverdueResolutionCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OverdueResolutionCasesIndicatorWidget_title.Value" Value="Просрочено по разрешению" />
+			<Item Name="LocalizableStrings.OverdueResponseCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OverdueResponseCasesIndicatorWidget_title.Value" Value="Просрочено по реакции" />
+			<Item Name="LocalizableStrings.PlannedVersusResolvedCasesChartWidget_series_0.Value" Value="Запланировано решить" />
+			<Item Name="LocalizableStrings.PlannedVersusResolvedCasesChartWidget_series_1.Value" Value="Фактически решено" />
+			<Item Name="LocalizableStrings.PlannedVersusResolvedCasesChartWidget_title.Value" Value="План-факт разрешения обращений" />
+			<Item Name="LocalizableStrings.ReopenedCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.ReopenedCasesIndicatorWidget_title.Value" Value="Переоткрыто обращений" />
+		</Items>
+	</Group>
+</Resources>

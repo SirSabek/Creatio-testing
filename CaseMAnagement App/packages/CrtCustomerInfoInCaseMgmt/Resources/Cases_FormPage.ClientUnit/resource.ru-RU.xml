@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AccountInfoLabel_caption.Value" Value="Информация о контрагенте" />
+			<Item Name="LocalizableStrings.CustomerProfileTabContainer_caption.Value" Value="Профиль клиента" />
+			<Item Name="LocalizableStrings.CustomerProfileTabContainerHeaderLabel_caption.Value" Value="Профиль клиента" />
+			<Item Name="LocalizableStrings.Label_59nue7x_caption.Value" Value="Информация о контрагенте" />
+		</Items>
+	</Group>
+</Resources>

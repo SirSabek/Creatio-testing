@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="คุณลักษณะในหน้าค้นหาระดับการสนับสนุน" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="รูปภาพเริ่มต้น" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="โปรดกรอกในฟิลด์เวลาการแก้ปัญหา" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="โปรดกรอกในฟิลด์เวลาการแก้ปัญหา" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="โปรดกรอกในฟิลด์เวลาการแก้ปัญหา" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="โปรดกรอกในฟิลด์เวลาการแก้ปัญหา" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="สถานะปัจจุบันมีอยู่แล้ว" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="สถานะปัจจุบันมีอยู่แล้ว" />
+		</Items>
+	</Group>
+</Resources>

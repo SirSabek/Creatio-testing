@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "99e2e60e-c28a-44b3-b5a6-f027322df2c4",
+    "Name": "CaseTermStrategyByPriorityAndSLA",
+    "ModifiedOnUtc": "\/Date(1479464965000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CaseTermStrategyByPriorityAndSLA",
+    "DependsOn": []
+  }
+}

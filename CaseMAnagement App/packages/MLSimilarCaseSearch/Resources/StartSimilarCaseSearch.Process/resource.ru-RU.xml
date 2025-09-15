@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Обращение создано" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Обновлено описание обращения" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Поиск похожих обращений" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.Caption" Value="Идентификатор обращения" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.DisplayValue" Value="[#Обращение создано.Unique identifier of record#] == Guid.Empty ? [#Обновлено описание обращения.Unique identifier of record#] : [#Обращение создано.Unique identifier of record#]" />
+			<Item Name="Caption" Value="Запуск поиска похожих обращений" />
+		</Items>
+	</Group>
+</Resources>

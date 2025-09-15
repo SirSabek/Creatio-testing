@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Черный список email адресов и доменов для регистрации обращений" />
+			<Item Name="Columns.Name.Caption" Value="Email или Домен" />
+			<Item Name="Columns.TypeOfField.Caption" Value="Тип колонки" />
+		</Items>
+	</Group>
+</Resources>

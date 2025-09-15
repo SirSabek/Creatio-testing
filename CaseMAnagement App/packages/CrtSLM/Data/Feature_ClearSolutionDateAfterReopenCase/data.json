@@ -1,0 +1,16 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "ClearSolutionDateAfterReopenCase"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4342fb4b-e38c-4dc1-8f4c-e9d534061891"
+        }
+      ]
+    }
+  ]
+}

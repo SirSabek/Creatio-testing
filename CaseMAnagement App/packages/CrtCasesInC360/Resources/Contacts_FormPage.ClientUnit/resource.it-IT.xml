@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Casi" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Esporta in Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Aggiorna" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Ricerca" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Azioni" />
+			<Item Name="LocalizableStrings.ExpansionPanel_5etntax_title.Value" Value="Lista espansa" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_cwv991v_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_d9kp62y_caption.Value" Value="Esporta in Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_714xipa_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ajk754f_caption.Value" Value="Aggiorna" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_sj49lgw_placeholder.Value" Value="Ricerca" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_63wr3ah_caption.Value" Value="Azioni" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="Service" />
+			<Item Name="LocalizableStrings.TabContainer_mv41ha8_caption.Value" Value="Service" />
+		</Items>
+	</Group>
+</Resources>

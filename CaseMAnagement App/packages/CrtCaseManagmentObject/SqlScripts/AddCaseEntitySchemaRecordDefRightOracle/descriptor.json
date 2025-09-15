@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "18b804cc-ab70-4365-8411-e112e7d99f18",
+    "Name": "AddCaseEntitySchemaRecordDefRightOracle",
+    "DBEngineType": 1,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1521730534000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

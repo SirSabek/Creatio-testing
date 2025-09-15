@@ -1,0 +1,83 @@
+﻿{
+  "Descriptor": {
+    "UId": "335c46ac-da94-33b1-a9b5-03a3f3644fe8",
+    "PackageVersion": "7.8.0",
+    "Name": "CrtCaseService",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1732030532000)\/",
+    "Maintainer": "Creatio",
+    "ProjectPath": "Files/CrtCaseService.csproj",
+    "DependsOn": [
+      {
+        "UId": "01204aad-6bd9-1e6a-387d-e1f2a0a2a898",
+        "Name": "CrtEmailMessage",
+        "Type": 1
+      },
+      {
+        "UId": "3a71e376-9ac3-3049-c62b-9c43b9abe054",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCoreBase",
+        "Type": 1
+      },
+      {
+        "UId": "4e73fa03-93ef-4f81-12f9-2182efad1e2a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtJunkFilter",
+        "Type": 1
+      },
+      {
+        "UId": "70ff4e5f-d0af-6a9b-e063-f7171aac2c42",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIPlatform",
+        "Type": 1
+      },
+      {
+        "UId": "770dc51c-891a-7c39-d5b1-7f312aa8ff11",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMacrosBase",
+        "Type": 1
+      },
+      {
+        "UId": "787ad917-aee4-f583-3cd7-77806d25542a",
+        "Name": "CrtMessage",
+        "Type": 1
+      },
+      {
+        "UId": "81cb4000-b73f-c170-40d8-84e3f0db46aa",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMLangContent",
+        "Type": 1
+      },
+      {
+        "UId": "83b1062a-d944-eba7-a72b-5400034c6223",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseManagmentObject",
+        "Type": 1
+      },
+      {
+        "UId": "8f97b9c3-0e5e-c366-1ded-8ec4dbcea788",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCalendar",
+        "Type": 1
+      },
+      {
+        "UId": "942cf87c-44d4-f25e-3a88-438377d1268a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBaseConsts",
+        "Type": 1
+      },
+      {
+        "UId": "a30121bf-bdff-36b8-79da-1419b5a04295",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEmailTemplate",
+        "Type": 1
+      },
+      {
+        "UId": "c83be714-964b-a59b-b343-a9db276244da",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEmailSender",
+        "Type": 1
+      }
+    ]
+  }
+}

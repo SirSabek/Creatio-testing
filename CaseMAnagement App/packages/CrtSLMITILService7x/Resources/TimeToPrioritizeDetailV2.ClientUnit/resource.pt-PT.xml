@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Tempo para priorizar detalhes" />
+			<Item Name="LocalizableStrings.Caption.Caption" Value="Time to prioritize" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Time to prioritize" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Caption" Value="O valor atual já existe" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Value" Value="O valor atual já existe" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Caption" Value="A &quot;prioridade do caso&quot; não pode estar vazia" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Value" Value="A &quot;prioridade do caso&quot; não pode estar vazia" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Caption" Value="Por favor preencha o tempo de resposta ou o tempo de resolução" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Value" Value="Por favor preencha o tempo de resposta ou o tempo de resolução" />
+		</Items>
+	</Group>
+</Resources>

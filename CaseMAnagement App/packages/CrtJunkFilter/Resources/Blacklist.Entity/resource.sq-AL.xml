@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Lista e zezë e adresave të emailit dhe domeneve për regjistrimin e çështjes" />
+			<Item Name="Columns.Name.Caption" Value="Adresa e Emailit ose Fusha" />
+			<Item Name="Columns.TypeOfField.Caption" Value="Lloji i fushës" />
+		</Items>
+	</Group>
+</Resources>

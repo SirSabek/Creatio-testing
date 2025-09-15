@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Trường hợp tương tự" />
+			<Item Name="Columns.MLModel.Caption" Value="Mô hình ML" />
+			<Item Name="Columns.ParentCase.Caption" Value="Trường hợp cha" />
+			<Item Name="Columns.PredictionDate.Caption" Value="Prediction date" />
+			<Item Name="Columns.PredictionQuality.Caption" Value="Số lượng dự đoán" />
+			<Item Name="Columns.Score.Caption" Value="Score" />
+			<Item Name="Columns.SimilarCase.Caption" Value="Trường hợp tương tự" />
+		</Items>
+	</Group>
+</Resources>

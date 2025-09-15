@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.1f2e5cfc-2520-9ae7-1959-16a1158193a4.Caption" Value="回應時間：隱藏元素" />
+			<Item Name="AddonConfig.Rules.360eb3e1-7959-8d8c-9ecf-6855ead49909.Caption" Value="账户：需要字段" />
+			<Item Name="AddonConfig.Rules.45b3cd01-8d03-fc89-bd04-8c4cf0de2aa7.Caption" Value="解决方法：使字段可编辑 " />
+			<Item Name="AddonConfig.Rules.476b3d24-2baa-d622-f45d-a32808664892.Caption" Value="服务：使字段可编辑 " />
+			<Item Name="AddonConfig.Rules.489d6530-3c30-9f64-2c67-39e27810b2b1.Caption" Value="联系人配置文件容器：隐藏元素" />
+			<Item Name="AddonConfig.Rules.656410ad-1a63-ac84-10ff-7842bddcef7f.Caption" Value="提升、重新分类按钮：隐藏元素" />
+			<Item Name="AddonConfig.Rules.76d3e582-4360-aaeb-799f-d858ff4bc0dd.Caption" Value="使字段可编辑 " />
+			<Item Name="AddonConfig.Rules.8b98c023-22b3-11a2-5519-1b07dcdf0633.Caption" Value="對話標籤：隱藏元素" />
+			<Item Name="AddonConfig.Rules.911473bb-a74c-0706-cc13-5a7d27630b3a.Caption" Value="Terms container: Hide element" />
+			<Item Name="AddonConfig.Rules.9c6d7b1a-ca57-8df8-d534-c001f0cea608.Caption" Value="聯絡方式： 設定欄位為必填" />
+			<Item Name="AddonConfig.Rules.a3e75584-a119-9987-1244-e8de0ba83aa1.Caption" Value="Parent case: Make field required" />
+			<Item Name="AddonConfig.Rules.b7f05943-17c2-6a3f-44d6-d3e536b0531d.Caption" Value="Resolution timer: Hide element" />
+			<Item Name="AddonConfig.Rules.fcfb90c1-ef2e-d6aa-00ef-0355c98defe0.Caption" Value="Account profile container: Hide element" />
+			<Item Name="Caption" Value="案件表單頁面 (業務規則)" />
+		</Items>
+	</Group>
+</Resources>

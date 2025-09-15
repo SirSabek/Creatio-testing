@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4898f7ea-06ca-401a-9cd3-bbb193f916c1",
+    "Name": "RunAnalyzeCaseSatisfactionLevel",
+    "ModifiedOnUtc": "\/Date(1756637873000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Run process: Analyze case satisfaction level",
+    "DependsOn": []
+  }
+}

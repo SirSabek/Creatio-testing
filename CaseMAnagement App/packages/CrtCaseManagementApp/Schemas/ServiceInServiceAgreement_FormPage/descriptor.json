@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "db26f775-39c9-4881-9c77-d6f31cddd325",
+    "Name": "ServiceInServiceAgreement_FormPage",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "Parent": {
+      "UId": "97e48060-149c-408f-9f17-8ba82c400249",
+      "Name": "PageWithAreaFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Service in service agreement form page",
+    "DependsOn": []
+  }
+}

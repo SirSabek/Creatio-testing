@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Skrzynka pocztowa do rejestracji incydentów" />
+			<Item Name="Columns.AliasAddress.Caption" Value="Alias skrzynki pocztowej" />
+			<Item Name="Columns.Category.Caption" Value="Kategoria zgłoszenia" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="Skrzynka pocztowa" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="Język wiadomości" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="Zawsze używaj języka skrzynki odbiorczej" />
+		</Items>
+	</Group>
+</Resources>

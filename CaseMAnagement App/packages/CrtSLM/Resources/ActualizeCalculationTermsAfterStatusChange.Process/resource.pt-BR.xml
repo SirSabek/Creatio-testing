@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="CalculateTerms" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Status modificado" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Identidade do registro" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Caso criado sem termos" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Identidade do registro" />
+			<Item Name="Caption" Value="Atualizar os períodos do cálculo após a mudança de status" />
+			<Item Name="Description" Value="Atualizar os períodos do cálculo após as mudanças de status" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Faixa 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.CaseRecordId.Caption" Value="CaseRecordId" />
+		</Items>
+	</Group>
+</Resources>

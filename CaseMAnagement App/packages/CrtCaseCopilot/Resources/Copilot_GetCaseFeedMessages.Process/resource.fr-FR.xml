@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadFeeds.Caption" Value="Lire les messages de feed" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.AggregationColumnName.Caption" Value="Nom de la colonne de fonction agrégée" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.CanReadUncommitedData.Caption" Value="Lire les données non validées" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ConsiderTimeInFilter.Caption" Value="Considérez l'heure dans le filtre" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.DataSourceFilters.Caption" Value="Sources de données des filtres" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.EntityColumnMetaPathes.Caption" Value="Colonnes à lire" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.EntityColumnMetaPathes.DisplayValue" Value="ebf6bb93-8aa6-4a01-900d-c6ea67affe21;e80190a5-03b2-4095-90f7-a193a960adee;fb47c81f-a125-488b-b2fb-05415b8da84c" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.FunctionType.Caption" Value="Type de fonction d'agrégation" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.IgnoreDisplayValues.Caption" Value="Ne pas lire les valeurs affichées des colonnes de la table de référence" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.NumberOfRecords.Caption" Value="Nombre d'enregistrements à lire" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.NumberOfRecords.DisplayValue" Value="30" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.OrderInfo.Caption" Value="Ordre des colonnes" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.OrderInfo.DisplayValue" Value="CreatedOn:2:1" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ReadSomeTopRecords.Caption" Value="Lecture en premier" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ReadSomeTopRecords.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.Caption" Value="Ensemble d'enregistrements" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Contact" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Créé(e/s) le" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.Message.Caption" Value="Message/commentaire" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCount.Caption" Value="Nombre d'enregistrements" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultDateTimeFunction.Caption" Value="Résultat de la fonction (Date/Heure)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultEntity.Caption" Value="Premier élément de la collection résultante" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultEntityCollection.Caption" Value="Collection résultante" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultFloatFunction.Caption" Value="Résultat de la fonction (Décimal)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultIntegerFunction.Caption" Value="Résultat de la fonction (Entier)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultRowsCount.Caption" Value="Nombre d'enregistrements lus" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultType.Caption" Value="Type de résultat" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultType.DisplayValue" Value="2" />
+			<Item Name="BaseElements.RemoveHtmlScriptTask.Caption" Value="Supprimer les Tags HTML" />
+			<Item Name="Caption" Value="Récupérer les messages du Feed du Cas" />
+			<Item Name="Description" Value="Récupération des 30 derniers messages à partir d'un cas basé sur l'ID du cas" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Ligne 1" />
+			<Item Name="NotificationCaption.Caption" Value="Légende de l'instance du processus" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="ID du Cas" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="Identifiant unique du Cas" />
+			<Item Name="Parameters.FeedMessages.Caption" Value="Messages Feed" />
+			<Item Name="Parameters.FeedMessages.CreatedBy.Caption" Value="CreatedBy" />
+			<Item Name="Parameters.FeedMessages.CreatedBy.Sys_Description" Value="Auteur du message" />
+			<Item Name="Parameters.FeedMessages.CreatedOn.Caption" Value="Créé(e) le" />
+			<Item Name="Parameters.FeedMessages.CreatedOn.Sys_Description" Value="Date de création" />
+			<Item Name="Parameters.FeedMessages.Message.Caption" Value="Message" />
+			<Item Name="Parameters.FeedMessages.Message.Sys_Description" Value="Corps du message" />
+			<Item Name="Parameters.FeedMessages.Sys_Description" Value="Les 10 derniers messages dans le Feed par Cas" />
+		</Items>
+	</Group>
+</Resources>

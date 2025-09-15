@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Eset" />
+			<Item Name="Stages.Stage1.Caption" Value="Új" />
+			<Item Name="Stages.Stage2.Caption" Value="Megszakítva" />
+			<Item Name="Stages.Stage3.Caption" Value="Lezárt" />
+			<Item Name="Stages.Stage4.Caption" Value="Elintézve" />
+			<Item Name="Stages.Stage5.Caption" Value="Waiting for response" />
+			<Item Name="Stages.Stage6.Caption" Value="Folyamatban" />
+			<Item Name="Stages.Stage7.Caption" Value="Újranyitva" />
+		</Items>
+	</Group>
+</Resources>

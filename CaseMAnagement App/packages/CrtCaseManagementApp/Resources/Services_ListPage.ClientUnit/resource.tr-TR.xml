@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Hizmetler Listesi Sayfası" />
+			<Item Name="LocalizableStrings.MenuItem_ddifcrw_caption.Value" Value="Excel'den içe aktar" />
+			<Item Name="LocalizableStrings.MenuItem_ImportToExcel_caption.Value" Value="Veri içe aktarma" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Yenile" />
+		</Items>
+	</Group>
+</Resources>

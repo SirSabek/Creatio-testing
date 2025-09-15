@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "920cb22e-703c-4148-81e3-7e5605d8ea88",
+    "Name": "CaseRuleInStageDetail",
+    "ModifiedOnUtc": "\/Date(1487082462000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "CaseRuleInStageDetail",
+    "DependsOn": []
+  }
+}

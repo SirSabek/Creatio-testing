@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Caz similar" />
+			<Item Name="Columns.MLModel.Caption" Value="Model ML" />
+			<Item Name="Columns.ParentCase.Caption" Value="Caz parinte" />
+			<Item Name="Columns.PredictionDate.Caption" Value="Data predicției" />
+			<Item Name="Columns.PredictionQuality.Caption" Value="Calitate predicție" />
+			<Item Name="Columns.Score.Caption" Value="Punctaj" />
+			<Item Name="Columns.SimilarCase.Caption" Value="Caz similar" />
+		</Items>
+	</Group>
+</Resources>

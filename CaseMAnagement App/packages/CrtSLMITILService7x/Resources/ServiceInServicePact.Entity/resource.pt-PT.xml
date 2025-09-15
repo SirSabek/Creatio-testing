@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service in service agreement" />
+			<Item Name="Columns.Calendar.Caption" Value="Calendário" />
+			<Item Name="Columns.ConcatName.Caption" Value="ServiseAndServiseInServicePactName" />
+			<Item Name="Columns.ReactionTime.Caption" Value="Tempo de resposta" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="A unidade de tempo da resposta" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Valor de tempo de resposta" />
+			<Item Name="Columns.ServiceItem.Caption" Value="Serviço" />
+			<Item Name="Columns.ServicePact.Caption" Value="Contrato de serviço" />
+			<Item Name="Columns.SolutionTime.Caption" Value="Tempo de resolução" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Unidade de tempo da resolução" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Valor de tempo da resolução" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Grupo 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.Methods.GetServiceItemName.Caption" Value="GetServiceItemName" />
+			<Item Name="EventsProcessSchema.Methods.GetServicePactName.Caption" Value="GetServicePactName" />
+		</Items>
+	</Group>
+</Resources>

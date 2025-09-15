@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Priorities in the support level lookup page" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Default image" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTYgMTYiPjxwYXRoIGZpbGw9IiNhZWFlYWUiIGQ9Ik0gNywzIEgxMSBWNSBINyB6Ii8+PHBhdGggZmlsbD0iIzdmN2Y3ZiIgZD0iTSA3LDcgSDEzIFY5IEg3IHoiLz48cGF0aCBmaWxsPSIjYWVhZWFlIiBkPSJNIDcsMTEgSDE1IFYxMyBINyB6Ii8+PHBhdGggZmlsbD0iIzdmN2Y3ZiIgZD0iTSAxIDQgMy41IDEgNiA0Ii8+PHBhdGggZmlsbD0iI2FlYWVhZSIgZD0iTSA2IDEyIDMuNSAxNSAxIDEyIi8+PHBhdGggZmlsbD0iIzdmN2Y3ZiIgZD0iTSAzLDMgSDQgVjcgSDMgeiIvPjxwYXRoIGZpbGw9IiNhZWFlYWUiIGQ9Ik0gMyw5IEg0IFYxMiBIMyB6Ii8+PC9zdmc+" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Please fill in the response time fields" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Please fill in the response time fields" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Please fill in the resolution time fields" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Please fill in the resolution time fields" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="The Current value is already exists" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="The Current value is already exists" />
+		</Items>
+	</Group>
+</Resources>

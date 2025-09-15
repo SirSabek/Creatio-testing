@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "82b9bea0-0053-40fc-8232-85f47d8d17da",
+    "Name": "SatisfactionLevel",
+    "ModifiedOnUtc": "\/Date(1756637869000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Satisfaction level",
+    "DependsOn": []
+  }
+}

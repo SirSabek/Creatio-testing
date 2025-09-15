@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CasePushNotifier" />
+			<Item Name="LocalizableStrings.NewMessageNotificationTemplate.Value" Value="案件に関する新しいメッセージを受信しました" />
+			<Item Name="LocalizableStrings.NewStatusNotificationTemplate.Value" Value="案件ステータスが &quot;{0}&quot; に変更されました" />
+			<Item Name="LocalizableStrings.PushTitleTemplate.Value" Value="案件 #{0}" />
+		</Items>
+	</Group>
+</Resources>

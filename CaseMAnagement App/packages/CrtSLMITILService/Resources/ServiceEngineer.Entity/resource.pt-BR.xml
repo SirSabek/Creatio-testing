@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Membro da equipe de serviços" />
+			<Item Name="Columns.Engineer.Caption" Value="Membro/equipe" />
+			<Item Name="Columns.ServiceItem.Caption" Value="Processo de negócio" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Linha de suporte" />
+		</Items>
+	</Group>
+</Resources>

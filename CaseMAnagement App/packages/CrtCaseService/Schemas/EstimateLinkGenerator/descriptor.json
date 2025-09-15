@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "35e65be3-4578-4856-9860-746fde29c505",
+    "Name": "EstimateLinkGenerator",
+    "ModifiedOnUtc": "\/Date(1655986921000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "EstimateLinkGenerator",
+    "DependsOn": []
+  }
+}

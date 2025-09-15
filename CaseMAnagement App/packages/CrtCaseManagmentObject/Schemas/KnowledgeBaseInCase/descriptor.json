@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1c55afc5-6dad-46db-bb43-06757e834dee",
+    "Name": "KnowledgeBaseInCase",
+    "ModifiedOnUtc": "\/Date(1756637869000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Knowledge base article in case",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Prioriteiten op de opzoekpagina voor ondersteuningsniveau" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Standaard afbeelding" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Vul de velden voor reactietijd in" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Vul de velden voor reactietijd in" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Vul de velden voor de oplossingstijd in" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Vul de velden voor de oplossingstijd in" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="De huidige waarde bestaat al" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="De huidige waarde bestaat al" />
+		</Items>
+	</Group>
+</Resources>

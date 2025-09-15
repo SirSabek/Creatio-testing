@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Read Case Lifecycle" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Name der Aggregatsfunktionsspalte" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Nicht committete Daten lesen" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="wahr" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Datenquelle der Filter" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Zu lesende Spalten" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Aggregatesfunktionstyp" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Angezeigte Werte der Suchspalten nicht lesen" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Zuerst lesen" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Datensatz-Auswahl" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.EndDate.Caption" Value="Enddatum" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Owner.Caption" Value="Zugewiesen an" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Priority.Caption" Value="Priorität" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.StartDate.Caption" Value="Startdatum" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Status.Caption" Value="Status" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.SupportLevel.Caption" Value="Supportline" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="Erstes Item der Ergebniskollektion" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Ergebnistyp" />
+			<Item Name="Caption" Value="Get Case Lifecycle" />
+			<Item Name="Description" Value="Get Case Lifecycle" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="Fall-ID" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="Servicefall-ID" />
+			<Item Name="Parameters.CaseLifecycleData.Assignee.Caption" Value="Zugewiesen an" />
+			<Item Name="Parameters.CaseLifecycleData.Assignee.DisplayValue" Value="[#Read Case Lifecycle.Collection of records:Assignee#]" />
+			<Item Name="Parameters.CaseLifecycleData.Caption" Value="CaseLifecycleData" />
+			<Item Name="Parameters.CaseLifecycleData.DisplayValue" Value="[#Read Case Lifecycle.Collection of records#]" />
+			<Item Name="Parameters.CaseLifecycleData.EndDate.Caption" Value="Enddatum" />
+			<Item Name="Parameters.CaseLifecycleData.EndDate.DisplayValue" Value="[#Read Case Lifecycle.Collection of records:Date end#]" />
+			<Item Name="Parameters.CaseLifecycleData.Priority.Caption" Value="Priorität" />
+			<Item Name="Parameters.CaseLifecycleData.Priority.DisplayValue" Value="[#Read Case Lifecycle.Collection of records:Priority#]" />
+			<Item Name="Parameters.CaseLifecycleData.StartDate.Caption" Value="Startdatum" />
+			<Item Name="Parameters.CaseLifecycleData.StartDate.DisplayValue" Value="[#Read Case Lifecycle.Collection of records:Date begin#]" />
+			<Item Name="Parameters.CaseLifecycleData.Status.Caption" Value="Status" />
+			<Item Name="Parameters.CaseLifecycleData.Status.DisplayValue" Value="[#Read Case Lifecycle.Collection of records:Status#]" />
+			<Item Name="Parameters.CaseLifecycleData.Sys_Description" Value="Case Lifecycle records" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,40 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "189ba6fa-b9a6-4615-bf53-86644a3554c1"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "b257dfd4-0c9f-4f4b-bc68-d54f4fc49c00",
+          "DisplayValue": "Service agreement statuses"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "d497e950-ec40-4a57-9a2f-097f15e17085",
+          "DisplayValue": "Service agreements"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "57265064-542e-4cf8-b774-136479991304"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "b7a96dd2-83f4-4219-95e1-85447cb152b5",
+          "DisplayValue": "Service agreement types"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "d497e950-ec40-4a57-9a2f-097f15e17085",
+          "DisplayValue": "Service agreements"
+        }
+      ]
+    }
+  ]
+}

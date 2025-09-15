@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Destinataire du service" />
+			<Item Name="Columns.Account.Caption" Value="Compte" />
+			<Item Name="Columns.Contact.Caption" Value="Contact" />
+			<Item Name="Columns.Department.Caption" Value="Département" />
+			<Item Name="Columns.ServicePact.Caption" Value="Contrat de service" />
+			<Item Name="Columns.Type.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>

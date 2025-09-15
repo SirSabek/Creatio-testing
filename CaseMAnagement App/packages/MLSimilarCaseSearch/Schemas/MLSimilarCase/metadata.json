@@ -1,0 +1,113 @@
+= MetaData.Schema.UId "44bb92b4-4d75-34f2-8554-4c11b85272be"
+= MetaData.Schema.A2 "MLSimilarCase"
+= MetaData.Schema.A5 "d3d1aca1-b719-4f75-92c6-8c70a7268957"
+= MetaData.Schema.B6 "68cc6c19-a608-8ca9-caa4-c3ceb523cf76"
+= MetaData.Schema.EG1.UId "51270dfd-bec8-4c4d-b7c8-d04ecc888ed2"
+= MetaData.Schema.EG1.A2 "Entity_e56da1cEventsProcess"
+= MetaData.Schema.EG1.A5 "d3d1aca1-b719-4f75-92c6-8c70a7268957"
++ MetaData.Schema.EG1.B8 "0.0.0.0"
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK4.["08594d74-60b0-45ce-bf17-bac1a8b127f7"].CK2.["496d4a3c-b644-4a65-b0ed-2534d9236da5"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["90027ac8-c9c3-4d21-a4f9-da1cde752cd1"].CK2.["d8b8410f-5c8a-4ddc-8fc2-353483452aed"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["5f3bfbbe-1820-44ca-92f1-6f993169b2dd"].CK2.["d7c806b7-a29b-4ce5-9167-b3319472e772"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["dbf48103-dcf6-4f53-a052-d727a95ea0b4"].CK2.["933bf2fc-d052-40c8-a3e0-bf60049da5d8"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["f0646c74-f291-474f-9a10-143ee868f1c9"].CK2.["b3d5b61f-7afe-48b5-a8cc-40317ea9c428"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"].CK2.["c803a450-c8dc-47a4-b704-7125c23db317"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
++ MetaData.Schema.D15 true
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D2 {
+  "UId": "c369279c-93e1-06fb-c931-93749605231a",
+  "A2": "PredictionQuality",
+  "A3": "44bb92b4-4d75-34f2-8554-4c11b85272be",
+  "A4": "44bb92b4-4d75-34f2-8554-4c11b85272be",
+  "A5": "d3d1aca1-b719-4f75-92c6-8c70a7268957",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "c2e0f3d5-2043-7308-e3d8-b294677bdfdb",
+  "E6": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "50cd941e-4bb0-4239-8bc4-99ebcf40a43d"
+  },
+  "E17": "PredictionQualityId",
+  "E18": "PredictionQualityName"
+}
++ MetaData.Schema.D2 {
+  "UId": "64bbb652-a85b-5e12-5072-8535d377cb7f",
+  "A2": "Score",
+  "A3": "44bb92b4-4d75-34f2-8554-4c11b85272be",
+  "A4": "44bb92b4-4d75-34f2-8554-4c11b85272be",
+  "A5": "d3d1aca1-b719-4f75-92c6-8c70a7268957",
+  "S2": "ff22e049-4d16-46ee-a529-92d8808932dc"
+}
++ MetaData.Schema.D2 {
+  "UId": "d84b4aaa-d1bf-c69b-9987-c8453a36bf5c",
+  "A2": "PredictionDate",
+  "A3": "44bb92b4-4d75-34f2-8554-4c11b85272be",
+  "A4": "44bb92b4-4d75-34f2-8554-4c11b85272be",
+  "A5": "d3d1aca1-b719-4f75-92c6-8c70a7268957",
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+}
++ MetaData.Schema.D2 {
+  "UId": "e709bc42-a654-c7fd-cccf-0b349bd63b43",
+  "A2": "MLModel",
+  "A3": "44bb92b4-4d75-34f2-8554-4c11b85272be",
+  "A4": "44bb92b4-4d75-34f2-8554-4c11b85272be",
+  "A5": "d3d1aca1-b719-4f75-92c6-8c70a7268957",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "f0d58f4a-303d-477c-8cf9-d00eaf04f32b",
+  "E6": true,
+  "E17": "MLModelId",
+  "E18": "MLModelName"
+}
++ MetaData.Schema.D2 {
+  "UId": "6f1637aa-79e8-8dff-e529-4eee74d7e52c",
+  "A2": "SimilarCase",
+  "A3": "44bb92b4-4d75-34f2-8554-4c11b85272be",
+  "A4": "44bb92b4-4d75-34f2-8554-4c11b85272be",
+  "A5": "d3d1aca1-b719-4f75-92c6-8c70a7268957",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "117d32f9-8275-4534-8411-1c66115ce9cd",
+  "E6": true,
+  "E17": "SimilarCaseId",
+  "E18": "SimilarCaseNumber"
+}
++ MetaData.Schema.D2 {
+  "UId": "33d44497-c431-4f89-6b9a-6ef9f3465463",
+  "A2": "ParentCase",
+  "A3": "44bb92b4-4d75-34f2-8554-4c11b85272be",
+  "A4": "44bb92b4-4d75-34f2-8554-4c11b85272be",
+  "A5": "d3d1aca1-b719-4f75-92c6-8c70a7268957",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "117d32f9-8275-4534-8411-1c66115ce9cd",
+  "E6": true,
+  "E17": "ParentCaseId",
+  "E18": "ParentCaseNumber"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","c369279c-93e1-06fb-c931-93749605231a","64bbb652-a85b-5e12-5072-8535d377cb7f","d84b4aaa-d1bf-c69b-9987-c8453a36bf5c","e709bc42-a654-c7fd-cccf-0b349bd63b43","6f1637aa-79e8-8dff-e529-4eee74d7e52c","33d44497-c431-4f89-6b9a-6ef9f3465463"]
+= MetaData.Schema.D20.A2 "MLSimilarCaseEvents"
+= MetaData.Schema.D36.A3 "44bb92b4-4d75-34f2-8554-4c11b85272be"
+= MetaData.Schema.D36.BS1 true
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

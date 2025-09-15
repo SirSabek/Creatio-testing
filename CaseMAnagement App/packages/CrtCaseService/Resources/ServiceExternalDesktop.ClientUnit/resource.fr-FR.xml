@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Bureau externe" />
+			<Item Name="LocalizableStrings.ChartWidget_kdjq9cg_series_0.Value" Value="Cas" />
+			<Item Name="LocalizableStrings.ChartWidget_kdjq9cg_title.Value" Value="Mes cas par service" />
+			<Item Name="LocalizableStrings.ExpansionPanel_vjn8kpu_title.Value" Value="Liste étendue" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_suss5f3_caption.Value" Value="Nouveau" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_yx7f2m2_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_x34crvj_caption.Value" Value="Importer les données" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_7wquxz9_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_dlpmv86_placeholder.Value" Value="Recherche" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_f0d10cw_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.IndicatorWidget_de5e411_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_de5e411_title.Value" Value="Cas résolus" />
+			<Item Name="LocalizableStrings.IndicatorWidget_svjoy5p_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_svjoy5p_title.Value" Value="Nouveaux Cas" />
+			<Item Name="LocalizableStrings.IndicatorWidget_wxt16l2_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_wxt16l2_title.Value" Value="En attente de ma réponse" />
+			<Item Name="LocalizableStrings.Label_lj7p336_caption.Value" Value="Cas récents" />
+			<Item Name="LocalizableStrings.Label_w4zh47g_caption.Value" Value="Hello [#Current user.Recipient Name#]!" />
+			<Item Name="LocalizableStrings.MyCasesByServiceChartWidget_series_0.Value" Value="Cas" />
+			<Item Name="LocalizableStrings.MyCasesByServiceChartWidget_title.Value" Value="Mes cas par service" />
+			<Item Name="LocalizableStrings.NewCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.NewCasesIndicatorWidget_title.Value" Value="Nouveaux Cas" />
+			<Item Name="LocalizableStrings.RecentCasesLabel_caption.Value" Value="Cas récents" />
+			<Item Name="LocalizableStrings.ResolvedCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.ResolvedCasesIndicatorWidget_title.Value" Value="Cas résolus" />
+			<Item Name="LocalizableStrings.WaitingForResponseCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.WaitingForResponseCasesIndicatorWidget_title.Value" Value="En attente de ma réponse" />
+			<Item Name="LocalizableStrings.WaitingForResponseIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.WaitingForResponseIndicatorWidget_title.Value" Value="En attente de ma réponse" />
+		</Items>
+	</Group>
+</Resources>

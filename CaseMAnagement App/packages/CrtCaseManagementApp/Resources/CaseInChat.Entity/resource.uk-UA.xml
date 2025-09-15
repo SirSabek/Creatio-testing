@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Звернення в чаті" />
+			<Item Name="Columns.Case.Caption" Value="Кейс" />
+			<Item Name="Columns.Chat.Caption" Value="Чат" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5a8d4b76-2842-47b3-95c9-6814c9fbe9c6",
+    "Name": "InvokableMacrosHelperService",
+    "ModifiedOnUtc": "\/Date(1497725631000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "InvokableMacrosHelperService",
+    "DependsOn": []
+  }
+}

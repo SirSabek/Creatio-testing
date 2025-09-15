@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="คุณสมบัติของเฮดเดอร์" />
+			<Item Name="Columns.ExcludedEmailAdresses.Caption" Value="Excluded email addresses" />
+			<Item Name="Columns.ExcludedEmailAdresses.Description" Value="Email addresses to which the rule will not be applied" />
+			<Item Name="Columns.Handler.Caption" Value="ตัวจัดการ" />
+			<Item Name="Columns.IsActive.Caption" Value="ทำงาน" />
+			<Item Name="Columns.Name.Caption" Value="ชื่อ" />
+		</Items>
+	</Group>
+</Resources>

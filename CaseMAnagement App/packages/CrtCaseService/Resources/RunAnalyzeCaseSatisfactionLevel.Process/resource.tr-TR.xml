@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.RunProcess.Caption" Value="Vaka Memnuniyet Seviyesi Sürecini Analiz Et" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Vaka Memnuniyet Seviyesi Alın" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Kayıt Kimliği" />
+			<Item Name="Caption" Value="İşleme Süreci: Vaka Memnuniyet Düzeyi Analiz Et" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Şerit 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.CaseRecordId.Caption" Value="Vaka kayıt kimliği" />
+			<Item Name="Parameters.CaseRecordId.DisplayValue" Value="[#Get case satisfation level.Record Id#]" />
+		</Items>
+	</Group>
+</Resources>

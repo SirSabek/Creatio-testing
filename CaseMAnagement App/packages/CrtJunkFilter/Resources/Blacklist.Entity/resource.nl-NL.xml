@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Zwarte lijst met e-mailadressen en domeinen voor registratie van cases" />
+			<Item Name="Columns.Name.Caption" Value="E-mailadres of Domein" />
+			<Item Name="Columns.TypeOfField.Caption" Value="Type veld" />
+		</Items>
+	</Group>
+</Resources>

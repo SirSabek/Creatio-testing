@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Stranica za eskalaciju predmeta" />
+			<Item Name="LocalizableStrings.addRecord_0x53hzv_caption.Value" Value="Dodaj novi" />
+			<Item Name="LocalizableStrings.addRecord_rzd3vov_caption.Value" Value="Dodaj novi" />
+			<Item Name="LocalizableStrings.addRecord_zxicyy7_caption.Value" Value="Dodaj novi" />
+			<Item Name="LocalizableStrings.Label_6qcallu_caption.Value" Value="Oznaka" />
+			<Item Name="LocalizableStrings.Label_9myf4hy_caption.Value" Value="Eskalacija zahtjeva" />
+			<Item Name="LocalizableStrings.Label_incl2k4_caption.Value" Value="Navedite liniju za podršku slučaju za eskalaciju" />
+			<Item Name="LocalizableStrings.PageSubtitle_caption.Value" Value="Navedite liniju za podršku slučaju za eskalaciju" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Eskalacija zahtjeva" />
+		</Items>
+	</Group>
+</Resources>

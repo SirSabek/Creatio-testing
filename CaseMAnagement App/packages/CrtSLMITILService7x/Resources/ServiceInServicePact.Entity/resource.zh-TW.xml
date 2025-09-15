@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service in service contract" />
+			<Item Name="Columns.Calendar.Caption" Value="Calendar" />
+			<Item Name="Columns.ConcatName.Caption" Value="ServiseAndServiseInServicePactName" />
+			<Item Name="Columns.ReactionTime.Caption" Value="Response time" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Response time unit" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="响应时间值" />
+			<Item Name="Columns.ServiceItem.Caption" Value="Service" />
+			<Item Name="Columns.ServicePact.Caption" Value="服务协议" />
+			<Item Name="Columns.SolutionTime.Caption" Value="解决时间" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="解决时间" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="解决时间" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="池1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="第一行" />
+			<Item Name="EventsProcessSchema.Methods.GetServiceItemName.Caption" Value="GetServiceItemName" />
+			<Item Name="EventsProcessSchema.Methods.GetServicePactName.Caption" Value="GetServicePactName" />
+		</Items>
+	</Group>
+</Resources>

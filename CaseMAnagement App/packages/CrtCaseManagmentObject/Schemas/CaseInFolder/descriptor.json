@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3b621e1f-8573-4eb6-898c-dbc2929c9dd0",
+    "Name": "CaseInFolder",
+    "ModifiedOnUtc": "\/Date(1756637869000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "\"Cases\" object in folder",
+    "DependsOn": []
+  }
+}

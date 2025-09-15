@@ -1,0 +1,32 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "2d91bff2-6bb1-4056-86e0-29d7c7ef14c9"
+        },
+        {
+          "SchemaColumnUId": "eebe8b0c-7eb9-4fa0-97dc-03f64aa07e7e",
+          "ColumnName": "ColumnCaption",
+          "Value": "Section folder - \"Cases\""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "d7e17199-d5fa-47a7-941e-b2c62ccd4cf8"
+        },
+        {
+          "SchemaColumnUId": "eebe8b0c-7eb9-4fa0-97dc-03f64aa07e7e",
+          "ColumnName": "ColumnCaption",
+          "Value": "Number"
+        }
+      ]
+    }
+  ]
+}

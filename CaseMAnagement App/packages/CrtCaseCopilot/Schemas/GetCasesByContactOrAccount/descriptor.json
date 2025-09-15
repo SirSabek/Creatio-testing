@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d79fa396-051a-44cc-9b16-2d9f31466cb6",
+    "Name": "GetCasesByContactOrAccount",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Get cases by contact and linked account",
+    "DependsOn": []
+  }
+}

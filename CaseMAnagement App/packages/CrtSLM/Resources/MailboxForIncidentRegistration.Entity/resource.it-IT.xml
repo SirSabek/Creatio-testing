@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Cassetta postale per la registrazione degli incident" />
+			<Item Name="Columns.AliasAddress.Caption" Value="Alias della cassetta postale" />
+			<Item Name="Columns.Category.Caption" Value="Categoria caso" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="Cassetta postale" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="Lingua del messaggio" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="Usa sempre la lingua della casella di posta" />
+		</Items>
+	</Group>
+</Resources>

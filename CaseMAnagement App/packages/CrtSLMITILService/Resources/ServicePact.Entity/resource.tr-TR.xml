@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Hizmet sözleşmesi" />
+			<Item Name="Columns.Calendar.Caption" Value="Takvim" />
+			<Item Name="Columns.EndDate.Caption" Value="Son" />
+			<Item Name="Columns.Name.Caption" Value="lBaşlık" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.Number.Caption" Value="Sayı" />
+			<Item Name="Columns.Owner.Caption" Value="Sahip" />
+			<Item Name="Columns.ServiceProvider.Caption" Value="Hesap" />
+			<Item Name="Columns.ServiceProviderContact.Caption" Value="Kişi" />
+			<Item Name="Columns.StartDate.Caption" Value="Start" />
+			<Item Name="Columns.Status.Caption" Value="Durum" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Destek Seviyesi" />
+			<Item Name="Columns.Type.Caption" Value="Tip" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalFlow1.Caption" Value="Is generating number required" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess1.Caption" Value="Etkinlik Alt Süreci 1" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumberUserTask.Caption" Value="Generate ordinal number" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask1.Caption" Value="Pass schema to generator" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask2.Caption" Value="Assign number" />
+			<Item Name="EventsProcessSchema.BaseElements.ServicePactSavingStartMessage.Caption" Value="ServicePactSaved" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Havuz 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Şerit 1" />
+		</Items>
+	</Group>
+</Resources>

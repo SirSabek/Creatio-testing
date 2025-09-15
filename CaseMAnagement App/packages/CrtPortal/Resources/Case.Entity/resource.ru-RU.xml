@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.Caption" Value="Обращение" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Пул 1" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.NewOwnerCaption.Value" Value="Уведомление о назначении ответственного" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.NewOwnerMessage.Value" Value="Вас назначили ответственным по обращению №{0} “{1}”" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OldOwnerCaption.Value" Value="Уведомление о смене ответственного" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OldOwnerMessage.Value" Value="Вы больше не являетесь ответственным по обращению №{0} “{1}”" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.ServiceRequestName.Value" Value="Обращение {0}" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SubjectByString.Value" Value="по" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SubjectForString.Value" Value="на" />
+			<Item Name="EventsProcessSchema.Methods.ActualizePortalUsersRights.Caption" Value="ActualizePortalUsersRights" />
+			<Item Name="EventsProcessSchema.Parameters.CanUseDcm.Caption" Value="CanUseDcm" />
+			<Item Name="EventsProcessSchema.Parameters.IsProcessModeSave.Caption" Value="IsProcessModeSave" />
+			<Item Name="EventsProcessSchema.Parameters.NextProcessElementReady.Caption" Value="NextProcessElementReady" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessListeners.Caption" Value="ProcessListeners" />
+		</Items>
+	</Group>
+</Resources>

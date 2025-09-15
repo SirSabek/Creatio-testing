@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Holder.Caption" Value="주인" />
+			<Item Name="Columns.ServiceCategory.Caption" Value="서비스 범주" />
+			<Item Name="Columns.ServicePact.Caption" Value="SLA" />
+			<Item Name="Columns.SolvedOnSupportLevel.Caption" Value="에 의해 해결됨" />
+			<Item Name="Columns.SupportLevel.Caption" Value="지지선" />
+		</Items>
+	</Group>
+</Resources>

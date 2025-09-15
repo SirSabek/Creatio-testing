@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2272a076-8542-4a0e-8470-6c7ba6e30fc1",
+    "Name": "CategoryProviderWrapper",
+    "ModifiedOnUtc": "\/Date(1493978720000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CategoryProviderWrapper",
+    "DependsOn": []
+  }
+}

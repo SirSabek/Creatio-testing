@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Lasīt lietas dzīves ciklu" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Apkopotās funkcijas kolonnas nosaukums" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="patiess" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Kolonnas, kuras lasīt" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Apkopotās funkcijas veids" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Kolonnu secība" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Ierakstu kolekcija" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.EndDate.Caption" Value="Beigu datums" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Owner.Caption" Value="Assignee" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Priority.Caption" Value="Prioritāte" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.StartDate.Caption" Value="Sākuma datums" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Status.Caption" Value="Statuss" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.SupportLevel.Caption" Value="Atbalsta līnija" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Funkcijas rezultāts (Datums/Laiks)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="Pirmā vienība rezultātu kolekcijā" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Funkcijas rezultāts (decimālskaitlis)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Funkcijas rezultāts (Vesels skaitlis)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Rezultāta veids" />
+			<Item Name="Caption" Value="Iegūt lietas dzīves ciklu" />
+			<Item Name="Description" Value="Iegūt lietas dzīves ciklu" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="Case Id" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="Lietas identifikators" />
+			<Item Name="Parameters.CaseLifecycleData.Assignee.Caption" Value="Assignee" />
+			<Item Name="Parameters.CaseLifecycleData.Assignee.DisplayValue" Value="[#Read Case Lifecycle.Collection of records:Assignee#]" />
+			<Item Name="Parameters.CaseLifecycleData.Caption" Value="CaseLifecycleData" />
+			<Item Name="Parameters.CaseLifecycleData.DisplayValue" Value="[#Read Case Lifecycle.Collection of records#]" />
+			<Item Name="Parameters.CaseLifecycleData.EndDate.Caption" Value="Beigu datums" />
+			<Item Name="Parameters.CaseLifecycleData.EndDate.DisplayValue" Value="[#Read Case Lifecycle.Collection of records:Date end#]" />
+			<Item Name="Parameters.CaseLifecycleData.Priority.Caption" Value="Prioritāte" />
+			<Item Name="Parameters.CaseLifecycleData.Priority.DisplayValue" Value="[#Read Case Lifecycle.Collection of records:Priority#]" />
+			<Item Name="Parameters.CaseLifecycleData.StartDate.Caption" Value="Sākuma datums" />
+			<Item Name="Parameters.CaseLifecycleData.StartDate.DisplayValue" Value="[#Read Case Lifecycle.Collection of records:Date begin#]" />
+			<Item Name="Parameters.CaseLifecycleData.Status.Caption" Value="Statuss" />
+			<Item Name="Parameters.CaseLifecycleData.Status.DisplayValue" Value="[#Read Case Lifecycle.Collection of records:Status#]" />
+			<Item Name="Parameters.CaseLifecycleData.Sys_Description" Value="Lietas dzīves cikla ieraksti" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service" />
+			<Item Name="Columns.Calendar.Caption" Value="Naptár" />
+			<Item Name="Columns.CaseCategory.Caption" Value="Case category" />
+			<Item Name="Columns.Name.Caption" Value="Név" />
+			<Item Name="Columns.Notes.Caption" Value="Megjegyzések" />
+			<Item Name="Columns.Owner.Caption" Value="Tulajdonos" />
+			<Item Name="Columns.ReactionTime.Caption" Value="Válaszidő" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Válaszidő egység" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Válaszidő értéke" />
+			<Item Name="Columns.SolutionTime.Caption" Value="Resolution time" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Resolution time unit" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Megoldási idő értéke" />
+			<Item Name="Columns.Status.Caption" Value="Állapot" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Pool 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="1. sáv" />
+		</Items>
+	</Group>
+</Resources>

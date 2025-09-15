@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edytuj schemat strony - sekcja „Zgłoszenia”" />
+			<Item Name="LocalizableStrings.AccountCaption.Value" Value="Account" />
+			<Item Name="LocalizableStrings.ActualDateGroupCaption.Value" Value="Czas przetwarzania" />
+			<Item Name="LocalizableStrings.AssignToMeCaption.Value" Value="Przypisz do mnie" />
+			<Item Name="LocalizableStrings.CaseInformationTabCaption.Value" Value="Informacje o złoszeniu" />
+			<Item Name="LocalizableStrings.ClosureCodeCaption.Value" Value="Powód zamknięcia" />
+			<Item Name="LocalizableStrings.ClosureDateCaption.Value" Value="Zamknięte" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Kontakt" />
+			<Item Name="LocalizableStrings.CreatedOnCaption.Value" Value="Utworzono:" />
+			<Item Name="LocalizableStrings.CurrentStatusGroupCaption.Value" Value="Obecny status" />
+			<Item Name="LocalizableStrings.DaysCaptionSuffix.Value" Value="d" />
+			<Item Name="LocalizableStrings.DefaultHeader.Value" Value="Zgłoszenie #{0}" />
+			<Item Name="LocalizableStrings.DelayHeaderCaptionSuffix.Value" Value="Opóźnienie:" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Kanał" />
+			<Item Name="LocalizableStrings.FeedbackGroupCaption.Value" Value="Informacje zwrotne" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Informacje o złoszeniu" />
+			<Item Name="LocalizableStrings.GroupCaption.Caption" Value="Grupa przypisanych" />
+			<Item Name="LocalizableStrings.GroupCaption.Value" Value="Przydzielony zespół" />
+			<Item Name="LocalizableStrings.HeaderTemplate.Value" Value="Zgłoszenie #{0}: {1}" />
+			<Item Name="LocalizableStrings.HoursCaptionSuffix.Value" Value="g" />
+			<Item Name="LocalizableStrings.IndicatorsGroupCaption.Value" Value="Ogólne wskaźniki" />
+			<Item Name="LocalizableStrings.LeftHeaderCaptionSuffix.Value" Value="Pozostałe:" />
+			<Item Name="LocalizableStrings.MinutesCaptionSuffix.Value" Value="minuty" />
+			<Item Name="LocalizableStrings.NotesFilesTabCaption.Value" Value="Załączniki" />
+			<Item Name="LocalizableStrings.NumberCaption.Value" Value="Numer" />
+			<Item Name="LocalizableStrings.OriginCaption.Value" Value="Źródło" />
+			<Item Name="LocalizableStrings.OwnerCaption.Caption" Value="Właściciel" />
+			<Item Name="LocalizableStrings.OwnerCaption.Value" Value="Beneficjent" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Caption" Value="Podpis nadrzędnego zgłoszenia" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Value" Value="Nadrzędne zgłoszenie" />
+			<Item Name="LocalizableStrings.PriorityCaption.Value" Value="Priorytet" />
+			<Item Name="LocalizableStrings.RatingGroupCaption.Value" Value="Ocena" />
+			<Item Name="LocalizableStrings.RegisteredOnCaption.Value" Value="Data rejestracji" />
+			<Item Name="LocalizableStrings.RelationsTabCaption.Value" Value="Zamknięcie i informacja zwrotna" />
+			<Item Name="LocalizableStrings.RequiredContactOrAccountMessage.Value" Value="Proszę wypełnić pole &quot;Kontrahent&quot; lub &quot;Kontact&quot;" />
+			<Item Name="LocalizableStrings.RespondedOnCaption.Value" Value="Rzeczywisty czas reakcji" />
+			<Item Name="LocalizableStrings.ResponseDateCaption.Value" Value="Zaplanowany czas reakcji" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCaption.Value" Value="Ocena" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentCaption.Value" Value="Komentarz użytkownika" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Caption" Value="Podpowiedź dotycząca poziomu satysfakcji komentarza" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Value" Value="In order to change feedback you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Caption" Value="Podpowiedź dotycząca poziomu satysfakcji" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Value" Value="In order to change satisfaction level you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SolutionCaption.Value" Value="Rozwiązanie" />
+			<Item Name="LocalizableStrings.SolutionDateCaption.Value" Value="Zaplanowany czas rozwiązania" />
+			<Item Name="LocalizableStrings.SolutionGroupCaption.Value" Value="Rozwiązanie" />
+			<Item Name="LocalizableStrings.SolutionProvidedOnCaption.Value" Value="Rzeczywisty czas rozwiązania" />
+			<Item Name="LocalizableStrings.SolutionTabCaption.Value" Value="Zamknięcie i informacja zwrotna" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Caption" Value="SolvedOnSupportLevelCaption" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="Rozwiązane przez" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Status" />
+			<Item Name="LocalizableStrings.SubjectCaption.Value" Value="Temat" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Śledź kanał informacji" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Od tej chwili śledzisz następujący kanał: {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Caption" Value="SupportLevelCaption" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Linia wsparcia" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="Opis" />
+			<Item Name="LocalizableStrings.TermsControlGroupCaption.Value" Value="Warunki" />
+			<Item Name="LocalizableStrings.TermsGroupCaption.Value" Value="Ramy czasowe" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Caption" Value="TimeZoneSysSettingMessage" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Value" Value="&lt;p&gt;Następująca strefa czasowa służy do wyświetlania dat::&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Strefa czasowa określona w &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;profilu użytkownika.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Jeśli strefa czasowa profilu nie jest ustawiona, zostanie użyta domyślna strefa czasowa (specified in the &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/12fef2c9-8baa-4b07-88e4-464169a44775&quot;&gt;&quot;Domyślna strefa czasowa&quot;&lt;/a&gt; system setting).&lt;/li&gt;&lt;/ol&gt;" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Caption" Value="TimeZoneUserProfileMessage" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Value" Value="&lt;p&gt;Strefy czasowe mogą być wyświetlane na trzy różne sposoby:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Strefa czasowa określona w Twoim profilu,&lt;/li&gt;&#xA;&lt;li&gt;Ustawienie systemowe &quot;Domyślnie strefa czasowa&quot;,&lt;/li&gt;&#xA;&lt;li&gt;Strefa czasowa &quot;Czas w UTC”.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Możesz skonfigurować strefę czasową w &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;Profilu użytkownika&quot;&lt;/a&gt;  lub skontaktuj się z administratorem systemu.&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Zakończ śledzenie kanału" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Przestałeś śledzić kanał: {0}" />
+		</Items>
+	</Group>
+</Resources>

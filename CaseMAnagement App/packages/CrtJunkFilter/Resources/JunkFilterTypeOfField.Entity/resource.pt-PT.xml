@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Tipo de valor de campo &quot;Endereço de e-mail ou domínio&quot;" />
+			<Item Name="Columns.Code.Caption" Value="Código" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "14d34173-2b82-4b3e-9f4e-f10d8f6343b9"
+= MetaData.Schema.A2 "SatisfactionLevelLookupSection"
+= MetaData.Schema.A5 "c3c90037-274c-4793-841e-197eb228d3cd"
+= MetaData.Schema.B6 "0daea9e4-b08a-abb1-687e-7dc834448743"
+= MetaData.Schema.B8 "0.0.0.0"
+= MetaData.Schema.HD1 "c8c39e3b-de05-4d01-814a-45c7981e139f"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

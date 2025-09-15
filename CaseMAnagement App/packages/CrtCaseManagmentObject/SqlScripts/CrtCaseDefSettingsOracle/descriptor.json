@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "ff100bfc-c97e-d0f0-51f1-df90661c579b",
+    "Name": "CrtCaseDefSettingsOracle",
+    "DBEngineType": 1,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1687279942000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

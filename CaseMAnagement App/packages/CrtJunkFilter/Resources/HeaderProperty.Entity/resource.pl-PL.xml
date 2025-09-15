@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Ustawienia nagłówka" />
+			<Item Name="Columns.ExcludedEmailAdresses.Caption" Value="Wykluczone adresy e-mail" />
+			<Item Name="Columns.ExcludedEmailAdresses.Description" Value="Adresy e-mail, do których zasada nie będzie miała zastosowania" />
+			<Item Name="Columns.Handler.Caption" Value="Handler" />
+			<Item Name="Columns.IsActive.Caption" Value="Jest aktywny" />
+			<Item Name="Columns.Name.Caption" Value="Nazwa" />
+		</Items>
+	</Group>
+</Resources>

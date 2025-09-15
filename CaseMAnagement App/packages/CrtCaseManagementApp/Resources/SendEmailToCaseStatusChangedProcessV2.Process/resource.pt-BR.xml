@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Remover o proprietário ao reabrir o caso" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Considerar hora nos filtros" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="verdadeiro" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Filtros da fonte de dados" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Objeto" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Se o objeto atender às seguintes condições" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="verdadeiro" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Definir os valores da coluna" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Trabalhar com o caso e enviar um e-mail" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Caso adicionado" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Identificador único do registro" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Caso Modificado" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Identificador único do registro" />
+			<Item Name="Caption" Value="Enviar um e-mail para o contato na mudança de status de caso" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Faixa 1" />
+			<Item Name="NotificationCaption.Caption" Value="Legenda da instância do processo" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

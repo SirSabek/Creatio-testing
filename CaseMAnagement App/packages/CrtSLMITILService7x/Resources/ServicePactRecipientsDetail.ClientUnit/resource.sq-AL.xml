@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Diagrami i detajuar i marrësve të marrëveshjes së shërbimit" />
+			<Item Name="LocalizableStrings.ActiveServicePacts.Value" Value="Marrëveshjet e Shërbimeve Aktive" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Marrëveshjet e shërbimit" />
+		</Items>
+	</Group>
+</Resources>

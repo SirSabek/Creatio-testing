@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Case" />
+			<Item Name="Stages.Stage1.Caption" Value="Nieuw" />
+			<Item Name="Stages.Stage2.Caption" Value="Geannuleerd" />
+			<Item Name="Stages.Stage3.Caption" Value="Gesloten" />
+			<Item Name="Stages.Stage4.Caption" Value="Opgelost" />
+			<Item Name="Stages.Stage5.Caption" Value="Wachten op een antwoord" />
+			<Item Name="Stages.Stage6.Caption" Value="In behandeling" />
+			<Item Name="Stages.Stage7.Caption" Value="Heropend" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Mailbox for incident registration" />
+			<Item Name="Columns.AliasAddress.Caption" Value="Postafiók álnév" />
+			<Item Name="Columns.Category.Caption" Value="Case category" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="Postafiók" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="Üzenet nyelve" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="Mindig a postafiók nyelvét használja" />
+		</Items>
+	</Group>
+</Resources>

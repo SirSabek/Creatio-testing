@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Cutie postala pentru inregistrare incident" />
+			<Item Name="Columns.AliasAddress.Caption" Value="Alias mailbox" />
+			<Item Name="Columns.Category.Caption" Value="Categorie caz" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="Cutie postala" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="Limba mesajului" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="Utilizaţi întotdeauna limba căsuţei de mesaje" />
+		</Items>
+	</Group>
+</Resources>

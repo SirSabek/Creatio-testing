@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "09d5e522-4a4c-45fb-a412-d5799f195e9c",
+    "Name": "ReopenCaseAndNotifyAssignee",
+    "ModifiedOnUtc": "\/Date(1500290897000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ReopenCaseAndNotifyAssignee",
+    "DependsOn": []
+  }
+}

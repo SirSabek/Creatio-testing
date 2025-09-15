@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service" />
+			<Item Name="Columns.Calendar.Caption" Value="Kalendārs" />
+			<Item Name="Columns.CaseCategory.Caption" Value="Lietas kategorija" />
+			<Item Name="Columns.Name.Caption" Value="Nosaukums" />
+			<Item Name="Columns.Notes.Caption" Value="Piezīmes" />
+			<Item Name="Columns.Owner.Caption" Value="Īpašnieks" />
+			<Item Name="Columns.ReactionTime.Caption" Value="Atbildes laiks" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Atbildes laika vienība" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Atbildes laika vērtība" />
+			<Item Name="Columns.SolutionTime.Caption" Value="Atrisināšanas laiks" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Atrisināšanas laika vienība" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Atrisināšanas laika vērtība" />
+			<Item Name="Columns.Status.Caption" Value="Statuss" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Pūls 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

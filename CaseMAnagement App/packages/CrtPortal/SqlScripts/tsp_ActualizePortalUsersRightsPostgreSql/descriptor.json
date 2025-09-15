@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "91dd7cfe-09c0-4dc8-970b-66817299bb43",
+    "Name": "tsp_ActualizePortalUsersRightsPostgreSql",
+    "DBEngineType": 2,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1545330343000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

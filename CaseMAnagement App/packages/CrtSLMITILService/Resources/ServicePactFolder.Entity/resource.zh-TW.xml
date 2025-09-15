@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="「服務合約」中的資料夾部分" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+			<Item Name="EventsProcessSchema.LaneSets.BaseEntityLaneSet1.Lanes.BaseEntityLane2.Caption" Value="行" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.RunProcess.Caption" Value="Kör process för analys av Ärendenöjdhetsnivå " />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Hämta Ärendenöjdhetsnivå" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="Caption" Value="Kör process: Analysera Ärendenöjdhetsnivå" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Bana 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.CaseRecordId.Caption" Value="Ärendepost-ID" />
+			<Item Name="Parameters.CaseRecordId.DisplayValue" Value="[#Get case satisfation level.Record Id#]" />
+		</Items>
+	</Group>
+</Resources>

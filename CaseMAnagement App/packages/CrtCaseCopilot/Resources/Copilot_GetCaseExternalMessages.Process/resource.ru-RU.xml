@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.CheckObjectExistence.Caption" Value="Проверка доступности объекта Portal Message" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Нет сообщений внешней ленты" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="Portal Message существует" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Caption" Value="Считать количество сообщений внешней ленты" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции (Дата/Время)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultFloatFunction.Caption" Value="Результат функции (Дробное число)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultIntegerFunction.Caption" Value="Результат функции (Целое)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.DefaultSequenceFlow3.Caption" Value="Portal Message не существует" />
+			<Item Name="BaseElements.ParallelGateway1.Caption" Value="Получение сообщений из внешних каналов комуникации" />
+			<Item Name="BaseElements.ReadActivities.Caption" Value="Читать email сообщения" />
+			<Item Name="BaseElements.ReadActivities.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadActivities.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadActivities.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadActivities.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadActivities.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadActivities.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadActivities.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadActivities.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Body.Caption" Value="Тело" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.DetailedResult.Caption" Value="Результат подробно" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Result.Caption" Value="Результат" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.StartDate.Caption" Value="Начало" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции (Дата/Время)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultFloatFunction.Caption" Value="Результат функции (Дробное число)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultIntegerFunction.Caption" Value="Результат функции (Целое)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ReadChatlMessages.Caption" Value="Читать чат сообщения" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Сообщение" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции (Дата/Время)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultFloatFunction.Caption" Value="Результат функции (Дробное число)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultIntegerFunction.Caption" Value="Результат функции (Целое)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Caption" Value="Читать сообщения внешней ленты" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Сообщение/комментарий" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции (Дата/Время)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultFloatFunction.Caption" Value="Результат функции (Дробное число)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultIntegerFunction.Caption" Value="Результат функции (Целое)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ReadPortalMessages.Caption" Value="Читать сообщения портала (устарело)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Контакт" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Дата создания" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Сообщение" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции (Дата/Время)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultFloatFunction.Caption" Value="Результат функции (Дробное число)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultIntegerFunction.Caption" Value="Результат функции (Целое)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.RemoveChatHtmlScriptTask.Caption" Value="Удалить HTML теги из чат сообщений" />
+			<Item Name="BaseElements.RemoveEmailHtmlScriptTask.Caption" Value="Удалить HTML теги из email сообщений" />
+			<Item Name="BaseElements.RemoveFeedHtmlScriptTask.Caption" Value="Удалить HTML теги из сообщений внешней ленты" />
+			<Item Name="BaseElements.RemovePortalHtmlScriptTask.Caption" Value="Удалить HTML теги из портальных сообщений (устарело)" />
+			<Item Name="BaseElements.SequenceFlow13.Caption" Value="Email канал" />
+			<Item Name="BaseElements.SequenceFlow14.Caption" Value="Внешняя лента" />
+			<Item Name="BaseElements.SequenceFlow15.Caption" Value="Чаты" />
+			<Item Name="Caption" Value="Получить внешние сообщения по обращению" />
+			<Item Name="Description" Value="Getting information about the last case messages with a customer by Case Id" />
+			<Item Name="Parameters.CaseId.Caption" Value="Case Id" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="Unique identifier of case" />
+			<Item Name="Parameters.ChatMessages.Caption" Value="Chat messages" />
+			<Item Name="Parameters.ChatMessages.ChatMessage.Caption" Value="Chat Message" />
+			<Item Name="Parameters.ChatMessages.ChatMessage.Sys_Description" Value="Message body" />
+			<Item Name="Parameters.ChatMessages.Contact.Caption" Value="Contact" />
+			<Item Name="Parameters.ChatMessages.Contact.Sys_Description" Value="Contact" />
+			<Item Name="Parameters.ChatMessages.StartDate.Caption" Value="Start date" />
+			<Item Name="Parameters.ChatMessages.StartDate.Sys_Description" Value="Start date" />
+			<Item Name="Parameters.EmailMessages.Body.Caption" Value="Body" />
+			<Item Name="Parameters.EmailMessages.Body.Sys_Description" Value="Message body" />
+			<Item Name="Parameters.EmailMessages.Caption" Value="Email Messages" />
+			<Item Name="Parameters.EmailMessages.Result.Caption" Value="Result" />
+			<Item Name="Parameters.EmailMessages.Result.Sys_Description" Value="Result" />
+			<Item Name="Parameters.EmailMessages.ResultDetails.Caption" Value="Result Details" />
+			<Item Name="Parameters.EmailMessages.ResultDetails.Sys_Description" Value="Details of result" />
+			<Item Name="Parameters.EmailMessages.Start.Caption" Value="Start date" />
+			<Item Name="Parameters.EmailMessages.Start.Sys_Description" Value="Start date" />
+			<Item Name="Parameters.EmailMessages.Sys_Description" Value="Last 50 email messages by case" />
+			<Item Name="Parameters.ExternalFeedMessages.Body.Caption" Value="Body" />
+			<Item Name="Parameters.ExternalFeedMessages.Body.Sys_Description" Value="Message body" />
+			<Item Name="Parameters.ExternalFeedMessages.Caption" Value="External Feed Messages" />
+			<Item Name="Parameters.ExternalFeedMessages.Contact.Caption" Value="Contact" />
+			<Item Name="Parameters.ExternalFeedMessages.Contact.Sys_Description" Value="Contact" />
+			<Item Name="Parameters.ExternalFeedMessages.StartTime.Caption" Value="Start time" />
+			<Item Name="Parameters.ExternalFeedMessages.StartTime.Sys_Description" Value="Start time" />
+			<Item Name="Parameters.ExternalFeedMessages.Sys_Description" Value="Last 50 external feed messages by case" />
+			<Item Name="Parameters.PortalMessageTableExists.Caption" Value="Portal MessageTable Exists" />
+			<Item Name="Parameters.PortalMessageTableExists.DisplayValue" Value="[#Логическое значение.Нет#]" />
+		</Items>
+	</Group>
+</Resources>

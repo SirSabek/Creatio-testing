@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Delayed notification" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Actual send date" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Assembly Qualified Manager Name" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Delay.Caption" Value="Delay" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="Email message template" />
+			<Item Name="Columns.Error.Caption" Value="Error" />
+			<Item Name="Columns.SendDate.Caption" Value="When sends" />
+		</Items>
+	</Group>
+</Resources>

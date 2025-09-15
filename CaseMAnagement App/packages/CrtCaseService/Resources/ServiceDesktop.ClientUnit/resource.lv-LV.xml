@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Servisa darbvirsma" />
+			<Item Name="LocalizableStrings.AverageResolutionTimeIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.AverageResolutionTimeIndicatorWidget_title.Value" Value="Vidējais atrisināšanas laiks, stundās" />
+			<Item Name="LocalizableStrings.CustomerSatisfactionIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CustomerSatisfactionIndicatorWidget_title.Value" Value="Klientu apmierinātība" />
+			<Item Name="LocalizableStrings.FirstContactResolutionIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.FirstContactResolutionIndicatorWidget_title.Value" Value="Pirmā kontakta risinājums" />
+			<Item Name="LocalizableStrings.GreetingLabel_caption.Value" Value="Labdien, [#Curent user.Recipient Name#]!" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_series_0.Value" Value="Plānots atrisināt" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_series_1.Value" Value="Faktiski atrisināts" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_title.Value" Value="Plānotās pret Faktiski atrisinātajās lietas" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_xAxis.Value" Value="Datums" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_yAxis.Value" Value="Lietas" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SetServiceRequestOverdues.Caption" Value="Konfiguro treguesit e çështjes së vonuar" />
+			<Item Name="Caption" Value="Vendos vlerat e vonuara në çështjet" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+		</Items>
+	</Group>
+</Resources>

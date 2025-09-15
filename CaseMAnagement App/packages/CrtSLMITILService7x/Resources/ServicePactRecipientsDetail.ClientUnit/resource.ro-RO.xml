@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Schema detaliilor pactului de servicii pentru destinatari" />
+			<Item Name="LocalizableStrings.ActiveServicePacts.Value" Value="Acorduri de servicii active" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Service agreements" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "405b776d-24fe-496d-aa50-8c08c319ad82",
+    "Name": "MailboxLangEmailTemplateHandler",
+    "ModifiedOnUtc": "\/Date(1492087757000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "MailboxLangEmailTemplateHandler",
+    "DependsOn": []
+  }
+}

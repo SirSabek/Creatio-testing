@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Osnovni slučaj" />
+			<Item Name="Columns.Account.Caption" Value="Account" />
+			<Item Name="Columns.Category.Caption" Value="Kategorija" />
+			<Item Name="Columns.ClosureCode.Caption" Value="Razlog za zatvaranje" />
+			<Item Name="Columns.ClosureDate.Caption" Value="Zatvoreno na" />
+			<Item Name="Columns.Contact.Caption" Value="Kontakt" />
+			<Item Name="Columns.FirstSolutionProvidedOn.Caption" Value="Prvo vrijeme rješavanja" />
+			<Item Name="Columns.Group.Caption" Value="Group" />
+			<Item Name="Columns.Notes.Caption" Value="Bilješke" />
+			<Item Name="Columns.Number.Caption" Value="Number" />
+			<Item Name="Columns.Origin.Caption" Value="Izvor" />
+			<Item Name="Columns.Owner.Caption" Value="Vlasnik" />
+			<Item Name="Columns.Priority.Caption" Value="Prioritet" />
+			<Item Name="Columns.RegisteredOn.Caption" Value="Datum registracije" />
+			<Item Name="Columns.RespondedOn.Caption" Value="Stvarno vrijeme odgovora" />
+			<Item Name="Columns.ResponseDate.Caption" Value="Vrijeme odgovora" />
+			<Item Name="Columns.ResponseOverdue.Caption" Value="Zakašnjeli odgovor" />
+			<Item Name="Columns.SatisfactionLevel.Caption" Value="Razina zadovoljstva" />
+			<Item Name="Columns.SatisfactionLevelComment.Caption" Value="Bilješke povratne informacije" />
+			<Item Name="Columns.Solution.Caption" Value="Rješenje" />
+			<Item Name="Columns.SolutionDate.Caption" Value="Vrijeme rješavanja" />
+			<Item Name="Columns.SolutionOverdue.Caption" Value="Zakašnjelo rješenje" />
+			<Item Name="Columns.SolutionProvidedOn.Caption" Value="Stvarno vrijeme rješenja" />
+			<Item Name="Columns.SolutionRemains.Caption" Value="Preostalo do vremena rješavanja" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="Columns.Subject.Caption" Value="Predmet" />
+			<Item Name="Columns.Symptoms.Caption" Value="Description" />
+		</Items>
+	</Group>
+</Resources>

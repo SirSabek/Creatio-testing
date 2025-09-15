@@ -1,0 +1,32 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "eca47e87-1229-45fb-b187-c20a092b6d0d"
+        },
+        {
+          "SchemaColumnUId": "eebe8b0c-7eb9-4fa0-97dc-03f64aa07e7e",
+          "ColumnName": "ColumnCaption",
+          "Value": "Группа раздела \"Сервисные договоры\""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "afc8c504-53a7-46c3-b3e0-ee510859b585"
+        },
+        {
+          "SchemaColumnUId": "eebe8b0c-7eb9-4fa0-97dc-03f64aa07e7e",
+          "ColumnName": "ColumnCaption",
+          "Value": "Заголовок"
+        }
+      ]
+    }
+  ]
+}

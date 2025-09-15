@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "44bb92b4-4d75-34f2-8554-4c11b85272be",
+    "Name": "MLSimilarCase",
+    "ModifiedOnUtc": "\/Date(1756637887000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Similar case",
+    "DependsOn": []
+  }
+}

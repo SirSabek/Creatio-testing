@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Header Property" />
+			<Item Name="Columns.ExcludedEmailAdresses.Caption" Value="Excluded email addresses" />
+			<Item Name="Columns.ExcludedEmailAdresses.Description" Value="Email addresses to which the rule will not be applied" />
+			<Item Name="Columns.Handler.Caption" Value="핸들러" />
+			<Item Name="Columns.IsActive.Caption" Value="Is Active" />
+			<Item Name="Columns.Name.Caption" Value="이름" />
+		</Items>
+	</Group>
+</Resources>

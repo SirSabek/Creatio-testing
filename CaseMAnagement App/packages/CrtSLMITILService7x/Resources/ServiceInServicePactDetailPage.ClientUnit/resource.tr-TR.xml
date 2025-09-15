@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Detay Düzenleme Sayfası Şeması - Hizmet Sözleşmesinde Hizmet" />
+			<Item Name="LocalizableStrings.CalendarCaption.Value" Value="Takvim" />
+			<Item Name="LocalizableStrings.ReactionTimeDayTypeCaption.Value" Value="Yanıt zamanı gün tipi" />
+			<Item Name="LocalizableStrings.ReactionTimeUnitCaption.Value" Value="Yanıt zaman birimi" />
+			<Item Name="LocalizableStrings.ReactionTimeValueCaption.Value" Value="Yanıt zamanı" />
+			<Item Name="LocalizableStrings.ServiceItemCaption.Value" Value="Service" />
+			<Item Name="LocalizableStrings.ServicePactCaption.Value" Value="Servis sözleşmeleri" />
+			<Item Name="LocalizableStrings.SolutionTimeDayTypeCaption.Value" Value="Resolution time day type" />
+			<Item Name="LocalizableStrings.SolutionTimeUnitCaption.Value" Value="Resolution time unit" />
+			<Item Name="LocalizableStrings.SolutionTimeValueCaption.Value" Value="Çözüm süresi" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Durum" />
+		</Items>
+	</Group>
+</Resources>

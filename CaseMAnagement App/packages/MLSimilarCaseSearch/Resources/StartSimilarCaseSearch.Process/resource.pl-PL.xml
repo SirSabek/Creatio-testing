@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Sprawa utworzona" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Unique identifier of record" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Opis zgłoszenia zaktualizowany" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Unique identifier of record" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Podobne wyszukiwanie zgłoszenia" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.Caption" Value="Identyfikator zgłoszenia" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.DisplayValue" Value="[#Case created.Unique identifier of record#] == Guid.Empty ? [#Case description updated.Unique identifier of record#] : [#Case created.Unique identifier of record#]" />
+			<Item Name="Caption" Value="Wywołaj wyszukiwanie podobnych zgłoszeń" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Podpis instancji procesu" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

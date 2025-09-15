@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Prioritātes atbalsta līmenis - detaļa" />
+			<Item Name="Columns.CasePriority.Caption" Value="Lietas prioritāte" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Atbildes laika vienība" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Atbildes laika vērtība" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Atrisināšanas laika vienība" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Atrisināšanas laika vērtība" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Atbalsta līmenis" />
+		</Items>
+	</Group>
+</Resources>

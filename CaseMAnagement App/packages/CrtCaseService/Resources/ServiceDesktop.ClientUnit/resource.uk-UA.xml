@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Робочий стіл Сервіс" />
+			<Item Name="LocalizableStrings.AverageResolutionTimeIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.AverageResolutionTimeIndicatorWidget_title.Value" Value="Середня тривалість вирішення, годин" />
+			<Item Name="LocalizableStrings.CustomerSatisfactionIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CustomerSatisfactionIndicatorWidget_title.Value" Value="Середня оцінка" />
+			<Item Name="LocalizableStrings.FirstContactResolutionIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.FirstContactResolutionIndicatorWidget_title.Value" Value="Вирішено з першого разу" />
+			<Item Name="LocalizableStrings.GreetingLabel_caption.Value" Value="Вітаю, [#Current user.Recipient Name#]!" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_series_0.Value" Value="Заплановано вирішити" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_series_1.Value" Value="Фактично вирішено" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_title.Value" Value="План-факт вирішення звернень" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_xAxis.Value" Value="Дата" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_yAxis.Value" Value="Звернення" />
+		</Items>
+	</Group>
+</Resources>

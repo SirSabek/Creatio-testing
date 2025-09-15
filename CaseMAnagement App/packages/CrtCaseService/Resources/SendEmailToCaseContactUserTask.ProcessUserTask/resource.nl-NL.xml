@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Stuur e-mail naar case contact gebruikerstaak" />
+			<Item Name="Parameters.CaseId.Caption" Value="Case Id" />
+			<Item Name="Parameters.EmailTemplateId.Caption" Value="E-mail sjabloon Id" />
+		</Items>
+	</Group>
+</Resources>

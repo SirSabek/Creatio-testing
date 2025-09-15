@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.4d8b036f-31e4-732e-9a1a-6881e10760e4.Caption" Value="Service: Apply filter by case category" />
+			<Item Name="AddonConfig.Rules.535a2c34-ee72-ae82-a43b-4233833a4020.Caption" Value="ChildRule-4d8b036f-31e4-732e-9a1a-6881e10760e4-ClearValue" />
+			<Item Name="AddonConfig.Rules.e4d1cfee-10e7-802c-b254-8b318bb75974.Caption" Value="ChildRule-4d8b036f-31e4-732e-9a1a-6881e10760e4-PopulateValue" />
+			<Item Name="AddonConfig.Rules.fc0eacf0-d704-e41f-39fd-5164749c518d.Caption" Value="Service, SLA: Apply filter by status" />
+			<Item Name="Caption" Value="Case (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

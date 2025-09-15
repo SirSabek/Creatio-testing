@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page schema - &quot;Cases&quot; section" />
+			<Item Name="LocalizableStrings.AccountCaption.Value" Value="Account" />
+			<Item Name="LocalizableStrings.ActualDateGroupCaption.Value" Value="Processing time frame" />
+			<Item Name="LocalizableStrings.AssignToMeCaption.Value" Value="Assign to me" />
+			<Item Name="LocalizableStrings.CaseInformationTabCaption.Value" Value="Case information" />
+			<Item Name="LocalizableStrings.ClosureCodeCaption.Value" Value="Reason for closing" />
+			<Item Name="LocalizableStrings.ClosureDateCaption.Value" Value="Closed on" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.CreatedOnCaption.Value" Value="Created:" />
+			<Item Name="LocalizableStrings.CurrentStatusGroupCaption.Value" Value="Current status" />
+			<Item Name="LocalizableStrings.DaysCaptionSuffix.Value" Value="d" />
+			<Item Name="LocalizableStrings.DefaultHeader.Value" Value="Case #{0}" />
+			<Item Name="LocalizableStrings.DelayHeaderCaptionSuffix.Value" Value="Delay:" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FeedbackGroupCaption.Value" Value="Feedback" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Case information" />
+			<Item Name="LocalizableStrings.GroupCaption.Caption" Value="Group responsible" />
+			<Item Name="LocalizableStrings.GroupCaption.Value" Value="Assigned team" />
+			<Item Name="LocalizableStrings.HeaderTemplate.Value" Value="Case #{0}: {1}" />
+			<Item Name="LocalizableStrings.HoursCaptionSuffix.Value" Value="h" />
+			<Item Name="LocalizableStrings.IndicatorsGroupCaption.Value" Value="Indicators" />
+			<Item Name="LocalizableStrings.LeftHeaderCaptionSuffix.Value" Value="Remaining:" />
+			<Item Name="LocalizableStrings.MinutesCaptionSuffix.Value" Value="m" />
+			<Item Name="LocalizableStrings.NotesFilesTabCaption.Value" Value="Attachments" />
+			<Item Name="LocalizableStrings.NumberCaption.Value" Value="Number" />
+			<Item Name="LocalizableStrings.OriginCaption.Value" Value="Source" />
+			<Item Name="LocalizableStrings.OwnerCaption.Caption" Value="Owner" />
+			<Item Name="LocalizableStrings.OwnerCaption.Value" Value="Assignee" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Caption" Value="Caption parent case" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Value" Value="Parent case" />
+			<Item Name="LocalizableStrings.PriorityCaption.Value" Value="Priority" />
+			<Item Name="LocalizableStrings.RatingGroupCaption.Value" Value="Rating" />
+			<Item Name="LocalizableStrings.RegisteredOnCaption.Value" Value="Registration date" />
+			<Item Name="LocalizableStrings.RelationsTabCaption.Value" Value="Closure and feedback" />
+			<Item Name="LocalizableStrings.RequiredContactOrAccountMessage.Value" Value="Please, fill in either the &quot;Account&quot; or &quot;Contact&quot; field" />
+			<Item Name="LocalizableStrings.RespondedOnCaption.Value" Value="Actual response time" />
+			<Item Name="LocalizableStrings.ResponseDateCaption.Value" Value="Scheduled response time" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCaption.Value" Value="Rating" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentCaption.Value" Value="User comment" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Caption" Value="Tooltip for Satisfaction Level Comment" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Value" Value="In order to change feedback you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Caption" Value="Tooltip for Satisfaction Level" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Value" Value="In order to change satisfaction level you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SolutionCaption.Value" Value="Resolution" />
+			<Item Name="LocalizableStrings.SolutionDateCaption.Value" Value="Scheduled resolution time" />
+			<Item Name="LocalizableStrings.SolutionGroupCaption.Value" Value="Resolution" />
+			<Item Name="LocalizableStrings.SolutionProvidedOnCaption.Value" Value="Actual resolution time" />
+			<Item Name="LocalizableStrings.SolutionTabCaption.Value" Value="Closure and feedback" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Caption" Value="SolvedOnSupportLevelCaption" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="Resolved by" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Status" />
+			<Item Name="LocalizableStrings.SubjectCaption.Value" Value="Subject" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow the feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="You are now following feed: {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Caption" Value="SupportLevelCaption" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Support line" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="Description" />
+			<Item Name="LocalizableStrings.TermsControlGroupCaption.Value" Value="Terms" />
+			<Item Name="LocalizableStrings.TermsGroupCaption.Value" Value="Timeframe" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Caption" Value="TimeZoneSysSettingMessage" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Value" Value="&lt;p&gt;The following time zone is used for displaying dates:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The time zone specified in your &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;User profile.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;If the profile time zone is not set, the default time zone will be used (specified in the &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/12fef2c9-8baa-4b07-88e4-464169a44775&quot;&gt;&quot;Time zone by default&quot;&lt;/a&gt; system setting).&lt;/li&gt;&lt;/ol&gt;" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Caption" Value="TimeZoneUserProfileMessage" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Value" Value="&lt;p&gt;Time zones can be displayed in three different ways:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The time zone specified in your profile,&lt;/li&gt;&#xA;&lt;li&gt;System setting “Time zone by default”,&lt;/li&gt;&#xA;&lt;li&gt;Time zone “Time in UTC”.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;You can configure time zone inside your &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;User profile &quot;&lt;/a&gt;  or contact system administrator.&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Unfollow the feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="You have stopped following feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="דף הוספת מקרים חיצוניים" />
+			<Item Name="LocalizableStrings.addRecord_cjmt287_caption.Value" Value="הוסף כחדש" />
+			<Item Name="LocalizableStrings.addRecord_f0f5oox_caption.Value" Value="הוסף כחדש" />
+			<Item Name="LocalizableStrings.addRecord_vbmqmp8_caption.Value" Value="הוסף כחדש" />
+		</Items>
+	</Group>
+</Resources>

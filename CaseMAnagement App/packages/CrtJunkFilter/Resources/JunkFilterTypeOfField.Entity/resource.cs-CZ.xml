@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Typ hodnoty v poli &quot;E-mailová adresa nebo doména&quot;" />
+			<Item Name="Columns.Code.Caption" Value="Kód" />
+		</Items>
+	</Group>
+</Resources>

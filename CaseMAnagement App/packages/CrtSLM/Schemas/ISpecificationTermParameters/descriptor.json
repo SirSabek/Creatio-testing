@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7a9ce83e-fd98-4d67-b241-16d384aff5e3",
+    "Name": "ISpecificationTermParameters",
+    "ModifiedOnUtc": "\/Date(1460469346000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ISpecificationTermParameters",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Szolgáltatási szerződés űrlapoldala" />
+			<Item Name="LocalizableStrings.addRecord_hl6cv6y_caption.Value" Value="Új hozzáadása" />
+			<Item Name="LocalizableStrings.addRecord_otug0r6_caption.Value" Value="Új hozzáadása" />
+			<Item Name="LocalizableStrings.addRecord_pworq7r_caption.Value" Value="Új hozzáadása" />
+			<Item Name="LocalizableStrings.addRecord_vyprjkp_caption.Value" Value="Új hozzáadása" />
+			<Item Name="LocalizableStrings.addRecord_xprr53n_caption.Value" Value="Új hozzáadása" />
+			<Item Name="LocalizableStrings.ComboBox_09w87e2_label.Value" Value="Resolution time" />
+			<Item Name="LocalizableStrings.ComboBox_v10hb6a_label.Value" Value="Válaszidő" />
+			<Item Name="LocalizableStrings.NumberInput_fw0qi0g_label.Value" Value="Érték" />
+			<Item Name="LocalizableStrings.NumberInput_gfbs7wo_label.Value" Value="Érték" />
+			<Item Name="LocalizableStrings.ReactionTimeUnit_label.Value" Value="Válaszidő" />
+			<Item Name="LocalizableStrings.ReactionTimeValue_label.Value" Value="Érték" />
+			<Item Name="LocalizableStrings.ServiceItem_tooltip.Value" Value="A feltételek és az állapot automatikusan ki lesznek töltve a kiválasztott szolgáltatás adataival" />
+			<Item Name="LocalizableStrings.SolutionTimeUnit_label.Value" Value="Resolution time" />
+			<Item Name="LocalizableStrings.SolutionTimeValue_label.Value" Value="Érték" />
+		</Items>
+	</Group>
+</Resources>

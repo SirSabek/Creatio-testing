@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ReopenCaseAndNotifyAssignee" />
+			<Item Name="LocalizableStrings.NotifySubject.Value" Value="ได้รับอีเมลใหม่ที่เกี่ยวกับเคสหมายเลข {0}" />
+		</Items>
+	</Group>
+</Resources>

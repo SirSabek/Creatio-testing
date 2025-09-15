@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a52051c5-8c49-4dbd-ade2-111eba803475",
+    "Name": "ServiceTermCalculator",
+    "ModifiedOnUtc": "\/Date(1463156935000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ServiceTermCalculator",
+    "DependsOn": []
+  }
+}

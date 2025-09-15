@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="É um usuário externo" />
+			<Item Name="BaseElements.DefaultSequenceFlow1.Caption" Value="É um usuário geral" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Caption" Value="Ler a Identidade do Caso da mensagem social" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.AggregationColumnName.Caption" Value="Nome da coluna da função agregada" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.CanReadUncommitedData.Caption" Value="Ler os dados não confirmados" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.CanReadUncommitedData.DisplayValue" Value="verdadeiro" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ConsiderTimeInFilter.Caption" Value="Considerar hora nos filtros" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ConsiderTimeInFilter.DisplayValue" Value="verdadeiro" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.DataSourceFilters.Caption" Value="Fonte de dados dos filtros" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.EntityColumnMetaPathes.Caption" Value="Colunas a serem lidas" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.EntityColumnMetaPathes.DisplayValue" Value="b076a792-429d-47db-891d-6621341a0bde" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.FunctionType.Caption" Value="Tipo de função de agregação" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.IgnoreDisplayValues.Caption" Value="Não ler os valores exibidos das colunas da pesquisa" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.NumberOfRecords.Caption" Value="Número de registros a serem lidos" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.NumberOfRecords.DisplayValue" Value="50" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.OrderInfo.Caption" Value="Ordem das colunas" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.OrderInfo.DisplayValue" Value="Message:1:1" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ReadSomeTopRecords.Caption" Value="Ler o primeiro" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ReadSomeTopRecords.DisplayValue" Value="verdadeiro" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultCompositeObjectList.Caption" Value="Coleção de registros" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultCount.Caption" Value="Número de registros" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultDateTimeFunction.Caption" Value="Resultado da função" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultEntity.Caption" Value="Primeiro item da coleção resultante" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultEntityCollection.Caption" Value="Coleção resultante" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultFloatFunction.Caption" Value="Resultado da função" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultIntegerFunction.Caption" Value="Resultado da função" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultRowsCount.Caption" Value="Número de registros lidos" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultType.Caption" Value="Tipo de resultado" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Reabrir o caso e notificar o responsável" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Caption" Value="Enviar e-mail ao contato do caso" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Parameters.CaseId.Caption" Value="Identidade do caso" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Parameters.CaseId.DisplayValue" Value="[#SocialMessageCaseId#]" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Parameters.EmailTemplateId.Caption" Value="Identidade do modelo de e-mails" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Parameters.EmailTemplateId.DisplayValue" Value="[#Lookup.Message template.Case update: new message received.253cd392-267a-45bb-83b4-17630bcfa37b#]" />
+			<Item Name="BaseElements.SetIsExternalUser.Caption" Value="Definir ser um usuário externo" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Mensagem social adicionada" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Identificador único do registro" />
+			<Item Name="Caption" Value="Notificação de mensagem de feed externo e processo de reabertura de casos" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Faixa 1" />
+			<Item Name="NotificationCaption.Caption" Value="Legenda da instância do processo" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.IsExternalUser.Caption" Value="IsExternalUser" />
+			<Item Name="Parameters.SocialMessageCaseId.Caption" Value="SocialMessageCaseId" />
+			<Item Name="Parameters.SocialMessageCaseId.DisplayValue" Value="[#Read social message case Id.First item of resulting collection.Object instance#]" />
+		</Items>
+	</Group>
+</Resources>

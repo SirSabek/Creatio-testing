@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Schema detaliu- echipa service in sectiunea servicii" />
+			<Item Name="Images.12703106-728c-4173-ba38-8999330d571f.Caption" Value="Image 1" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Echipa service" />
+			<Item Name="LocalizableStrings.DeleteButtonTitle.Value" Value="Delete" />
+			<Item Name="LocalizableStrings.EngineerCaption.Value" Value="Member/team" />
+			<Item Name="LocalizableStrings.ErrorTemplate.Value" Value="Detaliu {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Linie suport" />
+			<Item Name="LocalizableStrings.ValidationErrorTemplate.Value" Value="Rugam completati campul &quot;{0}&quot;" />
+		</Items>
+	</Group>
+</Resources>

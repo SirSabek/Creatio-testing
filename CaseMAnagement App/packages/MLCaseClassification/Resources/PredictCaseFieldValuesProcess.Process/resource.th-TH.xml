@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ExecutePredictionScriptTask.Caption" Value="ดำเนินการทำนาย" />
+			<Item Name="BaseElements.ReadDataUserTask.Caption" Value="อ่านโมเดลของเคส" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.AggregationColumnName.Caption" Value="ชื่อของคอลัมน์ฟังชั่นรวม" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.CanReadUncommitedData.Caption" Value="อ่านข้อมูลที่ไม่มีข้อผูกมัด" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.CanReadUncommitedData.DisplayValue" Value="จริง" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ConsiderTimeInFilter.Caption" Value="พิจารณาเวลาที่ใช้ในการกรอง" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ConsiderTimeInFilter.DisplayValue" Value="ผิด" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.DataSourceFilters.Caption" Value="แหล่งข้อมูลของตัวกรอง" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.EntityColumnMetaPathes.Caption" Value="คอลัมน์ที่จะอ่าน" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.FunctionType.Caption" Value="ประเภทฟังชั่นราวม" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.IgnoreDisplayValues.Caption" Value="อย่าอ่านค่าที่แสดงของคอลัมน์การค้นหา" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.NumberOfRecords.Caption" Value="จำนวนของบันทึกที่จะอ่าน" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.OrderInfo.Caption" Value="ลำดับของคอลัมน์" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ReadSomeTopRecords.Caption" Value="อ่านก่อน" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCompositeObjectList.Caption" Value="การรวบรวมบันทึก" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="สร้างเมื่อ" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCompositeObjectList.Id.Caption" Value="ไอดี" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCount.Caption" Value="จำนวนของบันทึก" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultEntity.Caption" Value="รายการแรกของคอลเลคชั่นที่ส่งผล" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultEntityCollection.Caption" Value="คอลเลกชั่นที่ส่งผล" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultRowsCount.Caption" Value="จำนวนของบันทึกที่อ่านแล้ว" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultType.Caption" Value="ประเภทของผลลัพธ์" />
+			<Item Name="BaseElements.StartCaseCreatedSignal.Caption" Value="เคสที่สร้างโดยอีเมล" />
+			<Item Name="BaseElements.StartCaseCreatedSignal.Parameters.RecordId.Caption" Value="ไอดีของบันทึก" />
+			<Item Name="Caption" Value="ทำนายค่าของฟิลด์สำหรับเคส" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="ช่องทาง 1" />
+			<Item Name="NotificationCaption.Caption" Value="ชื่ออินสแตนซ์ของกระบวนการ" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseSchemaUId.Caption" Value="CaseSchemaUId" />
+			<Item Name="Parameters.CaseSchemaUId.DisplayValue" Value="new Guid(&quot;117d32f9-8275-4534-8411-1c66115ce9cd&quot;)" />
+			<Item Name="Parameters.FakeCollection.Caption" Value="FakeCollection" />
+			<Item Name="Parameters.FakeCollection.DisplayValue" Value="[#อ่านโมเดลเคส.คอลเลคชั่นของบันทึก#]" />
+			<Item Name="Parameters.FakeProcessSchemaParameter.Caption" Value="ปลอม" />
+			<Item Name="Parameters.FakeProcessSchemaParameter.DisplayValue" Value="[#เคสที่สร้างโดยอีเมล.ไอดีบันทึก#]" />
+			<Item Name="Parameters.GroupModelId.Caption" Value="GroupModelId" />
+			<Item Name="Parameters.GroupModelId.DisplayValue" Value="[#ค้นหา.โมเดล ML.การทำนายกลุ่มที่ได้รับมอบเคส#]" />
+			<Item Name="Parameters.PriorityModelId.Caption" Value="PriorityModelId" />
+			<Item Name="Parameters.PriorityModelId.DisplayValue" Value="[#ค้นหา.โมเดล ML.การทำนายลำดับความสำคัญของเคส#]" />
+			<Item Name="Parameters.ServiceItemModelId.Caption" Value="ServiceItemModelId" />
+			<Item Name="Parameters.ServiceItemModelId.DisplayValue" Value="[#ค้นหา.โมเดล ML.การทำนายบริการเคส#]" />
+		</Items>
+	</Group>
+</Resources>

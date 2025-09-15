@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4feba178-f782-42b3-8ba6-21b1e394bf58",
+    "Name": "ExternalCases_AddPageAppearanceSettings",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "External cases add page (AppearanceSettings)",
+    "DependsOn": []
+  }
+}

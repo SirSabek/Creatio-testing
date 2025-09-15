@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4fcd6c56-2c34-4f37-9c39-35dd78cc6c0a",
+    "Name": "ServiceStatus",
+    "ModifiedOnUtc": "\/Date(1756637879000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Service status",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "68ffb092-baa1-47a4-868e-862c4c2fed50",
+    "Name": "ContactCommLanguage",
+    "ModifiedOnUtc": "\/Date(1592200212000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ContactCommLanguage",
+    "DependsOn": []
+  }
+}

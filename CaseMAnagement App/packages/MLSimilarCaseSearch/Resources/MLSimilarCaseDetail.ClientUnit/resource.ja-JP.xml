@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="類似の案件の詳細" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="類似ケース" />
+			<Item Name="LocalizableStrings.RefreshSimilarCases.Value" Value="Refresh" />
+		</Items>
+	</Group>
+</Resources>

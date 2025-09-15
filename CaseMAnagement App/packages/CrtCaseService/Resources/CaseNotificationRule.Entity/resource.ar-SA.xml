@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="قاعدة اشعار الحالة" />
+			<Item Name="Columns.CaseCategory.Caption" Value="فئة الحالة" />
+			<Item Name="Columns.CaseStatus.Caption" Value="وضع الحالة" />
+			<Item Name="Columns.Delay.Caption" Value="تأخير الإرسال، دقائق" />
+			<Item Name="Columns.EmailTemplate.Caption" Value="قالب رسائل البريد الالكترونى" />
+			<Item Name="Columns.IsQuoteOriginalEmail.Caption" Value="ذكر البريد الإلكتروني الأصلي" />
+			<Item Name="Columns.RuleUsage.Caption" Value="قاعدة الاستخدام" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.Methods.LocalMessageExecuting.Caption" Value="LocalMessageExecuting" />
+		</Items>
+	</Group>
+</Resources>

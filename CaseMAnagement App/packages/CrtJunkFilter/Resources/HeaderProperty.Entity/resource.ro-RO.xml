@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Propietar antet" />
+			<Item Name="Columns.ExcludedEmailAdresses.Caption" Value="Adrese de e-mail excluse" />
+			<Item Name="Columns.ExcludedEmailAdresses.Description" Value="Adrese de e-mail la care regula nu va fi aplicată" />
+			<Item Name="Columns.Handler.Caption" Value="Manipulant" />
+			<Item Name="Columns.IsActive.Caption" Value="Este Activ" />
+			<Item Name="Columns.Name.Caption" Value="Nume" />
+		</Items>
+	</Group>
+</Resources>

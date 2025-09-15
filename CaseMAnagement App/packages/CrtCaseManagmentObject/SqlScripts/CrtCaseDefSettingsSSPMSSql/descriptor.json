@@ -1,0 +1,16 @@
+﻿{
+  "SqlScript": {
+    "UId": "a1fadfce-5dd6-c4c2-98ec-12d429bdfd12",
+    "Name": "CrtCaseDefSettingsSSPMSSql",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1686314329000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": [
+      {
+        "UId": "a1fadfce-5dd6-c4c2-98ec-12d429bdfd11",
+        "Name": "CrtCaseDefSettingsMSSql"
+      }
+    ]
+  }
+}

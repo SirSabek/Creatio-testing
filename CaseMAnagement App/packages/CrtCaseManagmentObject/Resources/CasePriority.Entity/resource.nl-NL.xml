@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Case prioriteit" />
+			<Item Name="Columns.Image.Caption" Value="Pictogram" />
+			<Item Name="Columns.Priority.Caption" Value="Prioriteit" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Reactietijd tijdseenheid" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Reactietijd tijdswaarde" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Resolutie tijdseenheid" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Resolutie tijdswaarde" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,18 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "291b7433-d6ca-43da-b194-2590d86369b2"
+        },
+        {
+          "SchemaColumnUId": "ca53e2c8-0767-4f2c-8a18-2ee5821f134e",
+          "ColumnName": "Name",
+          "Value": "Подтверждение закрытия обращения"
+        }
+      ]
+    }
+  ]
+}

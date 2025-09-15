@@ -1,0 +1,48 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b5873bc5-f42d-4f88-9b07-23f25f288b6a"
+        },
+        {
+          "SchemaColumnUId": "82b72e0d-42a3-4857-8445-0279b66e7e2c",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "9ba728be-e5cd-451d-a74a-c4a047c374b3",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All external users"
+        },
+        {
+          "SchemaColumnUId": "631177f9-f983-4787-a7aa-ced1b24ba918",
+          "Value": "4edc5c2f-7d95-477c-bf06-61e349ca00c5",
+          "DisplayValue": "DoNotRecalculateResponseDateIfAlreadyResponded"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9ace6542-1396-4f15-99f6-f8652dab389b"
+        },
+        {
+          "SchemaColumnUId": "82b72e0d-42a3-4857-8445-0279b66e7e2c",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "9ba728be-e5cd-451d-a74a-c4a047c374b3",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "631177f9-f983-4787-a7aa-ced1b24ba918",
+          "Value": "4edc5c2f-7d95-477c-bf06-61e349ca00c5",
+          "DisplayValue": "DoNotRecalculateResponseDateIfAlreadyResponded"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="État" />
+			<Item Name="Stages.Stage1.Caption" Value="Nouveau contrat" />
+			<Item Name="Stages.Stage2.Caption" Value="Annulé(e)" />
+			<Item Name="Stages.Stage3.Caption" Value="Clôturer" />
+			<Item Name="Stages.Stage4.Caption" Value="Résolu" />
+			<Item Name="Stages.Stage5.Caption" Value="En attente de réponse" />
+			<Item Name="Stages.Stage6.Caption" Value="En cours" />
+			<Item Name="Stages.Stage7.Caption" Value="Ouvert à nouveau" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="חוקי הודעות של מקרים" />
+			<Item Name="Columns.CaseCategory.Caption" Value="קטגוריית מקרה" />
+			<Item Name="Columns.CaseStatus.Caption" Value="סטטוס מקרה" />
+			<Item Name="Columns.Delay.Caption" Value="עיכוב שליחה, דקות" />
+			<Item Name="Columns.EmailTemplate.Caption" Value="הודעה מתבנית" />
+			<Item Name="Columns.IsQuoteOriginalEmail.Caption" Value="ציטוט דוא&quot;ל המקורי" />
+			<Item Name="Columns.RuleUsage.Caption" Value="כלל שימוש" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.Methods.LocalMessageExecuting.Caption" Value="LocalMessageExecuting" />
+		</Items>
+	</Group>
+</Resources>

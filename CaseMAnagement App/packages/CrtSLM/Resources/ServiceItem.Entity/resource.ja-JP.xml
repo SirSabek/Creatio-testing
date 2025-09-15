@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="サービス" />
+			<Item Name="Columns.Calendar.Caption" Value="カレンダー" />
+			<Item Name="Columns.CaseCategory.Caption" Value="案件カテゴリー" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.Owner.Caption" Value="担当者" />
+			<Item Name="Columns.ReactionTime.Caption" Value="返信時間" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="レスポンス時間の単位" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="レスポンス時間の値" />
+			<Item Name="Columns.SolutionTime.Caption" Value="期限" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="解決時間の単位" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="解決時間の値" />
+			<Item Name="Columns.Status.Caption" Value="ステータス" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Pool 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

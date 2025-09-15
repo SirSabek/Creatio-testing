@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="&quot;Lieta&quot; sadaļā &quot; Servisa pakti&quot; detaļa" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Lietas" />
+		</Items>
+	</Group>
+</Resources>

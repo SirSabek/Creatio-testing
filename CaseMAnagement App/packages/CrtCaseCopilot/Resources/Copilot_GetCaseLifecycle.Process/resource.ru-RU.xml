@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Читать записи жизненного цикла обращения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.EndDate.Caption" Value="Дата завершения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Owner.Caption" Value="Ответственный" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Priority.Caption" Value="Приоритет" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.StartDate.Caption" Value="Дата начала" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Status.Caption" Value="Состояние" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.SupportLevel.Caption" Value="Уровень поддержки" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции (Дата/Время)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Результат функции (Дробное число)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Результат функции (Целое)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="Caption" Value="Читать записи жизненного цикла обращения" />
+			<Item Name="Description" Value="Get Case Lifecycle" />
+			<Item Name="Parameters.CaseId.Caption" Value="Case Id" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="Case identifier" />
+			<Item Name="Parameters.CaseLifecycleData.Assignee.Caption" Value="Assignee" />
+			<Item Name="Parameters.CaseLifecycleData.Assignee.DisplayValue" Value="[#Читать записи жизненного цикла обращения.Коллекция записей:Ответственный#]" />
+			<Item Name="Parameters.CaseLifecycleData.Caption" Value="CaseLifecycleData" />
+			<Item Name="Parameters.CaseLifecycleData.DisplayValue" Value="[#Читать записи жизненного цикла обращения.Коллекция записей#]" />
+			<Item Name="Parameters.CaseLifecycleData.EndDate.Caption" Value="Date end" />
+			<Item Name="Parameters.CaseLifecycleData.EndDate.DisplayValue" Value="[#Читать записи жизненного цикла обращения.Коллекция записей:Дата завершения#]" />
+			<Item Name="Parameters.CaseLifecycleData.Priority.Caption" Value="Priority" />
+			<Item Name="Parameters.CaseLifecycleData.Priority.DisplayValue" Value="[#Читать записи жизненного цикла обращения.Коллекция записей:Приоритет#]" />
+			<Item Name="Parameters.CaseLifecycleData.StartDate.Caption" Value="Date begin" />
+			<Item Name="Parameters.CaseLifecycleData.StartDate.DisplayValue" Value="[#Читать записи жизненного цикла обращения.Коллекция записей:Дата начала#]" />
+			<Item Name="Parameters.CaseLifecycleData.Status.Caption" Value="Status" />
+			<Item Name="Parameters.CaseLifecycleData.Status.DisplayValue" Value="[#Читать записи жизненного цикла обращения.Коллекция записей:Состояние#]" />
+			<Item Name="Parameters.CaseLifecycleData.Sys_Description" Value="Case Lifecycle records" />
+		</Items>
+	</Group>
+</Resources>

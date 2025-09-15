@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Властивості заголовка" />
+			<Item Name="Columns.ExcludedEmailAdresses.Caption" Value="Виключені електронні адреси" />
+			<Item Name="Columns.ExcludedEmailAdresses.Description" Value="Адреси електронної пошти, до яких правило не буде застосовано" />
+			<Item Name="Columns.Handler.Caption" Value="Обробник" />
+			<Item Name="Columns.IsActive.Caption" Value="Активний" />
+			<Item Name="Columns.Name.Caption" Value="Назва" />
+		</Items>
+	</Group>
+</Resources>

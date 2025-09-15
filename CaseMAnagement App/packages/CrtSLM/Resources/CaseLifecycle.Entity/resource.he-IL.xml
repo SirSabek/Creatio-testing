@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="מחזור חיי המקרה" />
+			<Item Name="Columns.Case.Caption" Value="מקרה" />
+			<Item Name="Columns.CaseRecordId.Caption" Value="מזהה רשומת המקרה" />
+			<Item Name="Columns.EndDate.Caption" Value="תאריך סיום" />
+			<Item Name="Columns.Group.Caption" Value="קבוצת גורמים מטפלים" />
+			<Item Name="Columns.Owner.Caption" Value="גורם מטפל" />
+			<Item Name="Columns.Priority.Caption" Value="עדיפות" />
+			<Item Name="Columns.ResponseOverdue.Caption" Value="תגובה באיחור" />
+			<Item Name="Columns.ServiceItem.Caption" Value="פריט שירות" />
+			<Item Name="Columns.SolutionDate.Caption" Value="זמן פתרון" />
+			<Item Name="Columns.SolutionOverdue.Caption" Value="פתרון באיחור" />
+			<Item Name="Columns.SolutionProvidedOn.Caption" Value="זמן פתרון בפועל" />
+			<Item Name="Columns.StartDate.Caption" Value="תאריך התחלה" />
+			<Item Name="Columns.StateDurationInDays.Caption" Value="משך (ימים)" />
+			<Item Name="Columns.StateDurationInHours.Caption" Value="משך (שעות)" />
+			<Item Name="Columns.StateDurationInMinutes.Caption" Value="משך (דקות)" />
+			<Item Name="Columns.Status.Caption" Value="סטטוס" />
+		</Items>
+	</Group>
+</Resources>

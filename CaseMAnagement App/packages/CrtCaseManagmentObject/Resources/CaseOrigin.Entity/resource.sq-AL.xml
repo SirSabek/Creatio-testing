@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Origjina e çështjes" />
+			<Item Name="Columns.Image.Caption" Value="Ikona e origjinës" />
+		</Items>
+	</Group>
+</Resources>

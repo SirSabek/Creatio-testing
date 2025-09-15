@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Faqja e listës së rasteve" />
+			<Item Name="LocalizableStrings.ActionsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.Button_e04zrky_caption.Value" Value="Button" />
+			<Item Name="LocalizableStrings.ClosedCasesQuickFilter_config_caption.Value" Value="Shfaq çështjet e mbyllura" />
+			<Item Name="LocalizableStrings.MenuItem_8m672s8_caption.Value" Value="Eksporto në Exel" />
+			<Item Name="LocalizableStrings.MenuItem_ixsnk8a_caption.Value" Value="Importimi i të dhënave" />
+			<Item Name="LocalizableStrings.MenuItem_sy8z6b6_caption.Value" Value="Importimi i të dhënave" />
+			<Item Name="LocalizableStrings.QuickFilter_92htqsb_config_caption.Value" Value="Shfaq çështjet e mbyllura" />
+		</Items>
+	</Group>
+</Resources>

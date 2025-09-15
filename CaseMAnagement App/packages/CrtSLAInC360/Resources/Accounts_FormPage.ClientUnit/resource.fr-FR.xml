@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="Nouveau" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Cas" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="Importer les données" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Rechercher" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_776x8oo_caption.Value" Value="Nouveau" />
+			<Item Name="LocalizableStrings.ServiceAgreementsExpansionPanel_title.Value" Value="Contrat de service" />
+			<Item Name="LocalizableStrings.ServiceAgreementsExportDataButton_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.ServiceAgreementsImportDataButton_caption.Value" Value="Importer les données" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_1cf40713.Value" Value="Titre" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_41b15d43.Value" Value="Numéro" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_480040bd.Value" Value="Statut" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_df16588b.Value" Value="Responsable" />
+			<Item Name="LocalizableStrings.ServiceAgreementsListDS_ServicePact.Value" Value="Contrat de service" />
+			<Item Name="LocalizableStrings.ServiceAgreementsRefreshButton_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.ServiceAgreementsSearchFilter_placeholder.Value" Value="Recherche" />
+			<Item Name="LocalizableStrings.ServiceAgreementsSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="Service" />
+		</Items>
+	</Group>
+</Resources>

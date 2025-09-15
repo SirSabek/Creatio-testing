@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Tài sản tiêu đề" />
+			<Item Name="Columns.ExcludedEmailAdresses.Caption" Value="Excluded email addresses" />
+			<Item Name="Columns.ExcludedEmailAdresses.Description" Value="Email addresses to which the rule will not be applied" />
+			<Item Name="Columns.Handler.Caption" Value="Trình xử lý" />
+			<Item Name="Columns.IsActive.Caption" Value="Là Hoạt động" />
+			<Item Name="Columns.Name.Caption" Value="Tên" />
+		</Items>
+	</Group>
+</Resources>

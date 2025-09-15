@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="페이지 스키마 편집 - &quot;케이스&quot; 섹션" />
+			<Item Name="LocalizableStrings.AccountCaption.Value" Value="계좌" />
+			<Item Name="LocalizableStrings.ActualDateGroupCaption.Value" Value="Processing time frame" />
+			<Item Name="LocalizableStrings.AssignToMeCaption.Value" Value="나에게 할당" />
+			<Item Name="LocalizableStrings.CaseInformationTabCaption.Value" Value="케이스 정보" />
+			<Item Name="LocalizableStrings.ClosureCodeCaption.Value" Value="폐점사유" />
+			<Item Name="LocalizableStrings.ClosureDateCaption.Value" Value="()에 문을 닫았다" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="연락처" />
+			<Item Name="LocalizableStrings.CreatedOnCaption.Value" Value="생성된:" />
+			<Item Name="LocalizableStrings.CurrentStatusGroupCaption.Value" Value="현황" />
+			<Item Name="LocalizableStrings.DaysCaptionSuffix.Value" Value="d" />
+			<Item Name="LocalizableStrings.DefaultHeader.Value" Value="Case #{0}" />
+			<Item Name="LocalizableStrings.DelayHeaderCaptionSuffix.Value" Value="지연:" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="피드" />
+			<Item Name="LocalizableStrings.FeedbackGroupCaption.Value" Value="피드백" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="케이스 정보" />
+			<Item Name="LocalizableStrings.GroupCaption.Caption" Value="Group responsible" />
+			<Item Name="LocalizableStrings.GroupCaption.Value" Value="배정팀" />
+			<Item Name="LocalizableStrings.HeaderTemplate.Value" Value="Case #{0}: {1}" />
+			<Item Name="LocalizableStrings.HoursCaptionSuffix.Value" Value="h" />
+			<Item Name="LocalizableStrings.IndicatorsGroupCaption.Value" Value="지표" />
+			<Item Name="LocalizableStrings.LeftHeaderCaptionSuffix.Value" Value="Remaining:" />
+			<Item Name="LocalizableStrings.MinutesCaptionSuffix.Value" Value="m" />
+			<Item Name="LocalizableStrings.NotesFilesTabCaption.Value" Value="Attachments" />
+			<Item Name="LocalizableStrings.NumberCaption.Value" Value="숫자" />
+			<Item Name="LocalizableStrings.OriginCaption.Value" Value="원천" />
+			<Item Name="LocalizableStrings.OwnerCaption.Caption" Value="주인" />
+			<Item Name="LocalizableStrings.OwnerCaption.Value" Value="양수인" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Caption" Value="Caption parent case" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Value" Value="기본적 케이스" />
+			<Item Name="LocalizableStrings.PriorityCaption.Value" Value="Priority" />
+			<Item Name="LocalizableStrings.RatingGroupCaption.Value" Value="Rating" />
+			<Item Name="LocalizableStrings.RegisteredOnCaption.Value" Value="등록일자" />
+			<Item Name="LocalizableStrings.RelationsTabCaption.Value" Value="Closure and feedback" />
+			<Item Name="LocalizableStrings.RequiredContactOrAccountMessage.Value" Value="&quot;계정&quot; 또는 &quot;연락처&quot; 필드를 입력하십시오" />
+			<Item Name="LocalizableStrings.RespondedOnCaption.Value" Value="실제 응답 시간" />
+			<Item Name="LocalizableStrings.ResponseDateCaption.Value" Value="Scheduled response time" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCaption.Value" Value="Rating" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentCaption.Value" Value="사용자 설명" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Caption" Value="Tooltip for Satisfaction Level Comment" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Value" Value="In order to change feedback you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Caption" Value="Tooltip for Satisfaction Level" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Value" Value="In order to change satisfaction level you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SolutionCaption.Value" Value="Resolution" />
+			<Item Name="LocalizableStrings.SolutionDateCaption.Value" Value="Scheduled resolution time" />
+			<Item Name="LocalizableStrings.SolutionGroupCaption.Value" Value="Resolution" />
+			<Item Name="LocalizableStrings.SolutionProvidedOnCaption.Value" Value="실제 분해능 시간" />
+			<Item Name="LocalizableStrings.SolutionTabCaption.Value" Value="Closure and feedback" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Caption" Value="SolvedOnSupportLevelCaption" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="에 의해 해결됨" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Status" />
+			<Item Name="LocalizableStrings.SubjectCaption.Value" Value="Subject" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="피드를 따라" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="이제 피드를 따르고 있습니다. {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Caption" Value="SupportLevelCaption" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="지지선" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="Description" />
+			<Item Name="LocalizableStrings.TermsControlGroupCaption.Value" Value="Terms" />
+			<Item Name="LocalizableStrings.TermsGroupCaption.Value" Value="시간표" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Caption" Value="TimeZoneSysSettingMessage" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Value" Value="&lt;p&gt;다음 시간대는 날짜 표시에 사용됩니다:&lt;/p&gt;&lt;ol&gt;&lt;li&gt; &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;사용자 프로필에 지정된 시간대.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;프로파일 시간대가 설정되지 않은 경우 기본 시간대가 사용됩니다 (&lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/12fef2c9-8baa-4b07-88e4-464169a44775&quot;&gt;&quot;기본 시스템 설정으로 시간대에서 지정&#xA;&quot;&lt;/a&gt;).&lt;/li&gt;&lt;/ol&gt;" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Caption" Value="TimeZoneUserProfileMessage" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Value" Value="&lt;p&gt;시간대는 세 가지 방법으로 표시할 수 있습니다:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;프로필에 지정된 시간대,&lt;/li&gt;&#xA;&lt;li&gt;시스템 설정 &quot;기본 시간대&quot;,&lt;/li&gt;&#xA;&lt;li&gt;시간대 &quot;UTC 시간&quot;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;사용자 프로필 내부에&quot;&lt;/a&gt; 시간대를 구성하거나 시스템 관리자에게 문의할 수 있습니다.&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="피드 팔로우 해제" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="다음 피드를 중지했습니다. {0}" />
+		</Items>
+	</Group>
+</Resources>

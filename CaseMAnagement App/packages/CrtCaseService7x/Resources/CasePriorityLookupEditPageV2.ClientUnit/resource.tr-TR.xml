@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Priorities in the support level lookup page" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Varsayılan resim" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Lütfen yanıt süresi alanlarını doldurunuz" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Lütfen yanıt süresi alanlarını doldurunuz" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Please fill in the resolution time fields" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Please fill in the resolution time fields" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="Bu değer zaten var" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="Bu değer zaten var" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.CheckObjectExistence.Caption" Value="Перевірити існування таблиці Повідомлень Порталу" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="немає зовнішніх повідомлень стрічки" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="об'єкт існує" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Caption" Value="Підрахунок повідомлень зовнішньої стрічки" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.AggregationColumnName.Caption" Value="Ім'я колонки для агрегуючої функції" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.CanReadUncommitedData.Caption" Value="Читання непідтверджених даних" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.DataSourceFilters.Caption" Value="Джерело даних фільтрів" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Колонки для читання" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.FunctionType.Caption" Value="Тип агрегуючої функції" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.IgnoreDisplayValues.Caption" Value="Не читати значення колонок Довідників, що відображаються" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.NumberOfRecords.Caption" Value="Кількість записів, які необхідно зчитати" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.OrderInfo.Caption" Value="Порядок сортування колонок" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ReadSomeTopRecords.Caption" Value="Читати спочатку" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultCompositeObjectList.Caption" Value="Колекція записів" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultCount.Caption" Value="Кількість записів" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultDateTimeFunction.Caption" Value="Результат функції (Дата/Час)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultEntity.Caption" Value="Перший елемент результуючої колекції" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultEntityCollection.Caption" Value="Результуюча колекція" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultFloatFunction.Caption" Value="Результат функції (Дробове число)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultIntegerFunction.Caption" Value="Результат функції (Ціле)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultRowsCount.Caption" Value="Кількість прочитаних записів" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultType.Caption" Value="Тип результату" />
+			<Item Name="BaseElements.DefaultSequenceFlow3.Caption" Value="об'єкт не існує" />
+			<Item Name="BaseElements.ParallelGateway1.Caption" Value="Отримати повідомлення з зовнішніх каналів" />
+			<Item Name="BaseElements.ReadActivities.Caption" Value="Читати електронні листи" />
+			<Item Name="BaseElements.ReadActivities.Parameters.AggregationColumnName.Caption" Value="Ім'я колонки для агрегуючої функції" />
+			<Item Name="BaseElements.ReadActivities.Parameters.CanReadUncommitedData.Caption" Value="Читання непідтверджених даних" />
+			<Item Name="BaseElements.ReadActivities.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadActivities.Parameters.DataSourceFilters.Caption" Value="Джерело даних фільтрів" />
+			<Item Name="BaseElements.ReadActivities.Parameters.EntityColumnMetaPathes.Caption" Value="Перелік колонок для читання" />
+			<Item Name="BaseElements.ReadActivities.Parameters.EntityColumnMetaPathes.DisplayValue" Value="618e7503-83b1-452d-aa33-8f76792853b5;ae372cfa-a21f-47f0-8a64-17d137ebe966;070b689f-c9d8-46e3-bb52-bcb1f430f5cf;a12ca538-61b1-4907-9fdf-01969163d4dd" />
+			<Item Name="BaseElements.ReadActivities.Parameters.FunctionType.Caption" Value="Тип агрегуючої функції" />
+			<Item Name="BaseElements.ReadActivities.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadActivities.Parameters.IgnoreDisplayValues.Caption" Value="Не читати значення колонок Довідників, що відображаються" />
+			<Item Name="BaseElements.ReadActivities.Parameters.NumberOfRecords.Caption" Value="Кількість записів, які необхідно зчитати" />
+			<Item Name="BaseElements.ReadActivities.Parameters.NumberOfRecords.DisplayValue" Value="10" />
+			<Item Name="BaseElements.ReadActivities.Parameters.OrderInfo.Caption" Value="Порядок сортування колонок" />
+			<Item Name="BaseElements.ReadActivities.Parameters.OrderInfo.DisplayValue" Value="CreatedOn:2:1" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ReadSomeTopRecords.Caption" Value="Читати перші" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ReadSomeTopRecords.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Body.Caption" Value="Тіло" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Caption" Value="Колекція записів" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.DetailedResult.Caption" Value="Результат детально" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Result.Caption" Value="Результат" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.StartDate.Caption" Value="Старт" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCount.Caption" Value="Кількість записів" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultDateTimeFunction.Caption" Value="Результат функції (Дата/Час)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultEntity.Caption" Value="Перший елемент результуючої колекції" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultEntityCollection.Caption" Value="Результуюча колекція" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultFloatFunction.Caption" Value="Результат функції (Дробове число)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultIntegerFunction.Caption" Value="Результат функції (Ціле)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultRowsCount.Caption" Value="Кількість прочитаних записів" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultType.Caption" Value="Тип результату" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultType.DisplayValue" Value="2" />
+			<Item Name="BaseElements.ReadChatlMessages.Caption" Value="Читати повідомлення чату" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.AggregationColumnName.Caption" Value="Ім'я колонки для агрегуючої функції" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.CanReadUncommitedData.Caption" Value="Читання непідтверджених даних" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.DataSourceFilters.Caption" Value="Джерело даних фільтрів" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Колонки для читання" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.FunctionType.Caption" Value="Тип агрегуючої функції" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.IgnoreDisplayValues.Caption" Value="Не читати значення колонок Довідників, що відображаються" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.NumberOfRecords.Caption" Value="Кількість записів, які необхідно зчитати" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.OrderInfo.Caption" Value="Порядок сортування колонок" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ReadSomeTopRecords.Caption" Value="Читати перші" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.Caption" Value="Колекція записів" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Автор" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Дата створення" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Повідомлення" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCount.Caption" Value="Кількість записів" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultDateTimeFunction.Caption" Value="Результат функції (Дата/Час)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultEntity.Caption" Value="Перший елемент результуючої колекції" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultEntityCollection.Caption" Value="Результуюча колекція" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultFloatFunction.Caption" Value="Результат функції (Дробове число)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultIntegerFunction.Caption" Value="Результат функції (Ціле)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultRowsCount.Caption" Value="Кількість прочитаних записів" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultType.Caption" Value="Тип результату" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Caption" Value="Читати повідомлення зовнішньої стрічки" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.AggregationColumnName.Caption" Value="Ім'я колонки для агрегуючої функції" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.CanReadUncommitedData.Caption" Value="Читання непідтверджених даних" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.DataSourceFilters.Caption" Value="Джерело даних фільтрів" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Колонки для читання" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.FunctionType.Caption" Value="Тип агрегуючої функції" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.IgnoreDisplayValues.Caption" Value="Не читати значення колонок Довідників, що відображаються" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.NumberOfRecords.Caption" Value="Кількість записів для читання" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.OrderInfo.Caption" Value="Порядок сортування колонок" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ReadSomeTopRecords.Caption" Value="Читати спочатку" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCompositeObjectList.Caption" Value="Колекція записів" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Повідомлення/коментар" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCount.Caption" Value="Кількість записів" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultDateTimeFunction.Caption" Value="Результат функції (Дата/Час)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultEntity.Caption" Value="Перший елемент результуючої колекції" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultEntityCollection.Caption" Value="Результуюча колекція" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultFloatFunction.Caption" Value="Результат функції (Дробове число)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultIntegerFunction.Caption" Value="Результат функції (Ціле число)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultRowsCount.Caption" Value="Кількість прочитаних записів" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultType.Caption" Value="Тип результату" />
+			<Item Name="BaseElements.ReadPortalMessages.Caption" Value="Читати повідомлення порталу (застаріле)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.AggregationColumnName.Caption" Value="Ім'я колонки для агрегуючої функції" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.CanReadUncommitedData.Caption" Value="Читання непідтверджених даних" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.DataSourceFilters.Caption" Value="Джерело даних фільтрів" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Колонки для читання" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.EntityColumnMetaPathes.DisplayValue" Value="9438b617-43b8-48a2-9295-c63f9171ea31" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.FunctionType.Caption" Value="Тип агрегуючої функції" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.IgnoreDisplayValues.Caption" Value="Не читати значення колонок Довідників, що відображаються" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.NumberOfRecords.Caption" Value="Кількість записів, які необхідно зчитати" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.NumberOfRecords.DisplayValue" Value="50" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.OrderInfo.Caption" Value="Порядок сортування колонок" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ReadSomeTopRecords.Caption" Value="Читати перші" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ReadSomeTopRecords.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.Caption" Value="Колекція записів" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Контакт" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Дата створення" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Повідомлення" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCount.Caption" Value="Кількість записів" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultDateTimeFunction.Caption" Value="Результат функції (Дата/Час)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultEntity.Caption" Value="Перший елемент результуючої колекції" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultEntityCollection.Caption" Value="Результуюча колекція" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultFloatFunction.Caption" Value="Результат функції (Десятковий)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultIntegerFunction.Caption" Value="Результат функції (Ціле)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultRowsCount.Caption" Value="Кількість прочитаних записів" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultType.Caption" Value="Тип результату" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.RemoveChatHtmlScriptTask.Caption" Value="Видалити HTML-теги з чат-повідомлень" />
+			<Item Name="BaseElements.RemoveEmailHtmlScriptTask.Caption" Value="Видалити HTML-теги з електронних листів" />
+			<Item Name="BaseElements.RemoveFeedHtmlScriptTask.Caption" Value="Видалити HTML-теги з зовнішніх повідомлень" />
+			<Item Name="BaseElements.RemovePortalHtmlScriptTask.Caption" Value="Видалити HTML-теги з повідомлень порталу" />
+			<Item Name="BaseElements.SequenceFlow13.Caption" Value="Канал E-mail" />
+			<Item Name="BaseElements.SequenceFlow14.Caption" Value="Зовнішня стрічка" />
+			<Item Name="BaseElements.SequenceFlow15.Caption" Value="Омні-чати" />
+			<Item Name="Caption" Value="Отримати зовнішні повідомлення звернення" />
+			<Item Name="Description" Value="Отримання інформації про останні повідомлення звернення з клієнтом по ідентифікатору Звернення" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Доріжка 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок екземпляру процесу" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="Ідентифікатор звернення" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="Унікальний ідентифікатор звернення" />
+			<Item Name="Parameters.ChatMessages.Caption" Value="Повідомлення чату" />
+			<Item Name="Parameters.ChatMessages.ChatMessage.Caption" Value="Повідомлення чату" />
+			<Item Name="Parameters.ChatMessages.ChatMessage.Sys_Description" Value="Короткий текст повідомлення" />
+			<Item Name="Parameters.ChatMessages.Contact.Caption" Value="Контакт" />
+			<Item Name="Parameters.ChatMessages.Contact.Sys_Description" Value="Контакт" />
+			<Item Name="Parameters.ChatMessages.StartDate.Caption" Value="Дата початку" />
+			<Item Name="Parameters.ChatMessages.StartDate.Sys_Description" Value="Дата початку" />
+			<Item Name="Parameters.EmailMessages.Body.Caption" Value="Тіло" />
+			<Item Name="Parameters.EmailMessages.Body.Sys_Description" Value="Короткий текст повідомлення" />
+			<Item Name="Parameters.EmailMessages.Caption" Value="E-mail повідомлення" />
+			<Item Name="Parameters.EmailMessages.Result.Caption" Value="Результат" />
+			<Item Name="Parameters.EmailMessages.Result.Sys_Description" Value="Результат" />
+			<Item Name="Parameters.EmailMessages.ResultDetails.Caption" Value="Подробиці результату" />
+			<Item Name="Parameters.EmailMessages.ResultDetails.Sys_Description" Value="Деталі результату" />
+			<Item Name="Parameters.EmailMessages.Start.Caption" Value="Початок дії" />
+			<Item Name="Parameters.EmailMessages.Start.Sys_Description" Value="Початок дії" />
+			<Item Name="Parameters.EmailMessages.Sys_Description" Value="Останні 50 електронних повідомлень по зверненню" />
+			<Item Name="Parameters.ExternalFeedMessages.Body.Caption" Value="Тіло" />
+			<Item Name="Parameters.ExternalFeedMessages.Body.Sys_Description" Value="Короткий текст повідомлення" />
+			<Item Name="Parameters.ExternalFeedMessages.Caption" Value="Повідомлення зовнішньої стрічки" />
+			<Item Name="Parameters.ExternalFeedMessages.Contact.Caption" Value="Контакт" />
+			<Item Name="Parameters.ExternalFeedMessages.Contact.Sys_Description" Value="Контакт" />
+			<Item Name="Parameters.ExternalFeedMessages.StartTime.Caption" Value="Час початку" />
+			<Item Name="Parameters.ExternalFeedMessages.StartTime.Sys_Description" Value="Час початку" />
+			<Item Name="Parameters.ExternalFeedMessages.Sys_Description" Value="Останні 50 зовнішніх повідомлень по зверненню" />
+			<Item Name="Parameters.PortalMessageTableExists.Caption" Value="Portal MessageTable Exists" />
+			<Item Name="Parameters.PortalMessageTableExists.DisplayValue" Value="[#Boolean value.False#]" />
+		</Items>
+	</Group>
+</Resources>

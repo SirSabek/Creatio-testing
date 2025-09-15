@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service agreement" />
+			<Item Name="Columns.Calendar.Caption" Value="Calendar" />
+			<Item Name="Columns.EndDate.Caption" Value="End" />
+			<Item Name="Columns.Name.Caption" Value="Title" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.Number.Caption" Value="Number" />
+			<Item Name="Columns.Owner.Caption" Value="Owner" />
+			<Item Name="Columns.ServiceProvider.Caption" Value="Account" />
+			<Item Name="Columns.ServiceProviderContact.Caption" Value="Contact" />
+			<Item Name="Columns.StartDate.Caption" Value="Start" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Support level" />
+			<Item Name="Columns.Type.Caption" Value="Type" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalFlow1.Caption" Value="Is generating number required" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess1.Caption" Value="Run event sub-process 1" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumberUserTask.Caption" Value="Generate ordinal number" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask1.Caption" Value="Pass schema to generator" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask2.Caption" Value="Assign number" />
+			<Item Name="EventsProcessSchema.BaseElements.ServicePactSavingStartMessage.Caption" Value="ServicePactSaved" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Pool 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

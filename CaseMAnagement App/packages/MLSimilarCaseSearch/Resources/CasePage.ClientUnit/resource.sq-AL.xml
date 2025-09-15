@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Shtyje deri" />
+			<Item Name="LocalizableStrings.EmailTitleCaption.Caption" Value="Përgjigja e çështjes" />
+			<Item Name="LocalizableStrings.EmailTitleCaption.Value" Value="Përgjigja e çështjes {0} {1}" />
+			<Item Name="LocalizableStrings.EscalationTitle.Caption" Value="EscalationTitle" />
+			<Item Name="LocalizableStrings.EscalationTitle.Value" Value="Përshkallëzo" />
+			<Item Name="LocalizableStrings.FoundSimilarCaseTextTemplate.Value" Value="U gjetën çështje të ngjashme: {0}" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Detajet" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Caption" Value="Fshih mesazhet e sistemit" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Value" Value="Fshih mesazhet e sistemit" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Caption" Value="Historiku" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Value" Value="Historiku" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Më shumë se një element në radhë i lidhur me procesin. Id e procesit: {0}" />
+			<Item Name="LocalizableStrings.OpenServiceModelByServiceModuleCaption.Value" Value="Shfaq varësitë e shërbimeve" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Caption" Value="Profili i çështjes" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Value" Value="Profili i çështjes" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Ri-radhit" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Nuk është e mundur të ri-radhitet elementi. Mesazh gabim:{0}" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Caption" Value="Processing" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Value" Value="Processing" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Faqja nuk është e lidhur me elementin e radhës së desktopit të agjentit. Veprimi u anulua." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Nuk është e mundur të ri-radhitet elementi" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="U ri-radhit me sukses" />
+			<Item Name="LocalizableStrings.ReclassificationTitle.Value" Value="Reclassify" />
+			<Item Name="LocalizableStrings.SchemaLocalizableString1.Caption" Value="Mesazh për përdoruesin 1" />
+			<Item Name="LocalizableStrings.SearchForSimilarCasesButtonCaption.Caption" Value="Kërko për çështje të ngjashme" />
+			<Item Name="LocalizableStrings.SearchForSimilarCasesButtonCaption.Value" Value="Kërko për çështje të ngjashme" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Caption" Value="ServiceItemTipMessage" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Value" Value="&lt;p&gt;  Shërbimet përcaktojnë kategoritë e çështjes, si dhe përgjigjet e paracaktuara dhe afatet e zgjidhjes. Qëllimet e shërbimeve përcaktohet sipas marrëveshjes së nivelit të shërbimit të klientit (SLA). Përdor seksionet &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServiceItemSection/&quot;&gt;&quot;Shërbimet&quot;&lt;/a&gt;  dhe   &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServicePactSection/&quot;&gt;&quot;Marrëveshjet e shërbimit&quot;&lt;/a&gt; për të konfiguruar shërbimet në dispozicion&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.ServicePactTipMessage.Caption" Value="ServicePactTipMessage" />
+			<Item Name="LocalizableStrings.ServicePactTipMessage.Value" Value="&lt;p&gt;Marrëveshjet e nivelit të shërbimit (SLA) përcaktojnë qëllimet e shërbimeve të ofruara për llojet e ndryshme të klientëve, si dhe kushtet për sigurimin e shërbimeve të nën-kontraktuara dhe të brendshme. Përdor seksionin &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServicePactSection/&quot;&gt;&quot;Marrëveshjet e shërbimit&quot;&lt;/a&gt; për të krijuar dhe modifikuar marrëveshjet e shërbimeve &lt;/p&gt;" />
+			<Item Name="LocalizableStrings.SetCaseContactMessage.Value" Value="Specifiko {0} si kontaktin në çështje?" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Caption" Value="Shfaq mesazhet e sistemit" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Value" Value="Shfaq mesazhet e sistemit" />
+			<Item Name="LocalizableStrings.SolutionFieldPlaceholder.Value" Value="Përshkrimi i zgjidhjes" />
+		</Items>
+	</Group>
+</Resources>

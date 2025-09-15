@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Tjänstmottagare" />
+			<Item Name="Columns.Account.Caption" Value="Konto" />
+			<Item Name="Columns.Contact.Caption" Value="Kontakt" />
+			<Item Name="Columns.Department.Caption" Value="Avdelning" />
+			<Item Name="Columns.ServicePact.Caption" Value="Tjänstkontrakt" />
+			<Item Name="Columns.Type.Caption" Value="Typ" />
+		</Items>
+	</Group>
+</Resources>

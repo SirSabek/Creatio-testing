@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Oldalséma szerkesztése - &quot;Esetek&quot; szakasz" />
+			<Item Name="LocalizableStrings.AccountCaption.Value" Value="Account" />
+			<Item Name="LocalizableStrings.ActualDateGroupCaption.Value" Value="Feldolgozási időkeret" />
+			<Item Name="LocalizableStrings.AssignToMeCaption.Value" Value="Hozzárendelés magamhoz:" />
+			<Item Name="LocalizableStrings.CaseInformationTabCaption.Value" Value="Case information" />
+			<Item Name="LocalizableStrings.ClosureCodeCaption.Value" Value="A bezárás oka" />
+			<Item Name="LocalizableStrings.ClosureDateCaption.Value" Value="Closed on" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.CreatedOnCaption.Value" Value="Létrehozva:" />
+			<Item Name="LocalizableStrings.CurrentStatusGroupCaption.Value" Value="Jelenlegi állapot" />
+			<Item Name="LocalizableStrings.DaysCaptionSuffix.Value" Value="nap" />
+			<Item Name="LocalizableStrings.DefaultHeader.Value" Value="Eset #{0}" />
+			<Item Name="LocalizableStrings.DelayHeaderCaptionSuffix.Value" Value="Késleltetés:" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Hírfolyam" />
+			<Item Name="LocalizableStrings.FeedbackGroupCaption.Value" Value="Visszajelzés" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Case information" />
+			<Item Name="LocalizableStrings.GroupCaption.Caption" Value="Felelős csoport" />
+			<Item Name="LocalizableStrings.GroupCaption.Value" Value="Assigned team" />
+			<Item Name="LocalizableStrings.HeaderTemplate.Value" Value="Eset #{0}: {1}" />
+			<Item Name="LocalizableStrings.HoursCaptionSuffix.Value" Value="óra" />
+			<Item Name="LocalizableStrings.IndicatorsGroupCaption.Value" Value="Mutatók" />
+			<Item Name="LocalizableStrings.LeftHeaderCaptionSuffix.Value" Value="Fennmaradó:" />
+			<Item Name="LocalizableStrings.MinutesCaptionSuffix.Value" Value="m" />
+			<Item Name="LocalizableStrings.NotesFilesTabCaption.Value" Value="Csatolmányok" />
+			<Item Name="LocalizableStrings.NumberCaption.Value" Value="Szám" />
+			<Item Name="LocalizableStrings.OriginCaption.Value" Value="Forrás" />
+			<Item Name="LocalizableStrings.OwnerCaption.Caption" Value="Tulajdonos" />
+			<Item Name="LocalizableStrings.OwnerCaption.Value" Value="Assignee" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Caption" Value="Felirat szülőesete" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Value" Value="Parent case" />
+			<Item Name="LocalizableStrings.PriorityCaption.Value" Value="Priority" />
+			<Item Name="LocalizableStrings.RatingGroupCaption.Value" Value="Értékelés" />
+			<Item Name="LocalizableStrings.RegisteredOnCaption.Value" Value="Regisztráció dátuma" />
+			<Item Name="LocalizableStrings.RelationsTabCaption.Value" Value="Lezárás és visszajelzés" />
+			<Item Name="LocalizableStrings.RequiredContactOrAccountMessage.Value" Value="Please, fill in either the &quot;Account&quot; or &quot;Contact&quot; field" />
+			<Item Name="LocalizableStrings.RespondedOnCaption.Value" Value="Tényleges válaszidő" />
+			<Item Name="LocalizableStrings.ResponseDateCaption.Value" Value="Ütemezett válaszidő" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCaption.Value" Value="Értékelés" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentCaption.Value" Value="Felhasználói megjegyzés" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Caption" Value="Elemleírás az elégedettségi szint megjegyzéséhez" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Value" Value="A visszajelzések megváltoztatásához rendelkeznie kell a &quot;Képesség az eset elégedettségi szintjének megváltoztatására&quot; működésre vonatkozó jogokkal" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Caption" Value="Elemleírás az elégedettségi szinthez" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Value" Value="Az elégedettségi szint megváltoztatásához rendelkeznie kell a &quot;Képesség az eset elégedettségi szintjének megváltoztatására&quot; működési jogokkal" />
+			<Item Name="LocalizableStrings.SolutionCaption.Value" Value="Felbontás" />
+			<Item Name="LocalizableStrings.SolutionDateCaption.Value" Value="Scheduled resolution time" />
+			<Item Name="LocalizableStrings.SolutionGroupCaption.Value" Value="Felbontás" />
+			<Item Name="LocalizableStrings.SolutionProvidedOnCaption.Value" Value="Actual resolution time" />
+			<Item Name="LocalizableStrings.SolutionTabCaption.Value" Value="Lezárás és visszajelzés" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Caption" Value="SolvedOnSupportLevelCaption" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="Resolved by" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Állapot" />
+			<Item Name="LocalizableStrings.SubjectCaption.Value" Value="Tárgy" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow the feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="You are now following feed: {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Caption" Value="SupportLevelCaption" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Support line" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="Leírás" />
+			<Item Name="LocalizableStrings.TermsControlGroupCaption.Value" Value="Feltételek" />
+			<Item Name="LocalizableStrings.TermsGroupCaption.Value" Value="Időkeret" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Caption" Value="TimeZoneSysSettingMessage" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Value" Value="&lt;p&gt;A következő időzónát használja a dátumok megjelenítéséhez:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;A &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;felhasználói profilban megadott időzóna. &lt;/a&gt;&lt;/li&gt;&lt;li&gt;Ha a profil időzónája nincs beállítva, akkor az alapértelmezett időzóna lesz használva (a &lt;a href=&quot;../Nui/ViewModule. aspx#CardModuleV2/SysSettingPage/edit/12fef2c9-8baa-4b07-88e4-464169a44775&quot;&quot;&quot;Alapértelmezett időzóna&quot;&lt;/a&gt; rendszerbeállítás).&lt;/li&gt;&lt;/ol&gt;" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Caption" Value="TimeZoneUserProfileMessage" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Value" Value="&lt;p&gt;Az időzónák háromféleképpen jeleníthetők meg:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;A profilodban megadott időzóna,&lt;/li&gt;&#xA;&lt;li&gt;Rendszerbeállítás &quot;Alapértelmezés szerint időzóna&quot;,&lt;/li&gt;&#xA;&lt;li&gt;Időzóna &quot;Idő UTC-ben&quot;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Az időzónát a &lt;a href=&quot;.. /Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;Felhasználói profil &quot;&lt;/a&gt; vagy lépjen kapcsolatba a rendszergazdával.&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Unfollow the feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="You have stopped following feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

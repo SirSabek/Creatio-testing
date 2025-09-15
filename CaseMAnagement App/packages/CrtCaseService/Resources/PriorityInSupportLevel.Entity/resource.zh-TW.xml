@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="支助一级的优先级" />
+			<Item Name="Columns.CasePriority.Caption" Value="案例优先级" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Response time unit" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="响应时间值" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="解决时间" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="解决时间" />
+			<Item Name="Columns.SupportLevel.Caption" Value="支持级别" />
+		</Items>
+	</Group>
+</Resources>

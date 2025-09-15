@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CaseRatingFeedbackPage" />
+			<Item Name="Images.8d68610d-8477-4874-9c89-f01cf792fec0.Caption" Value="Achtergrond" />
+			<Item Name="LocalizableStrings.AddCommentCaption.Caption" Value="AddCommentCaption" />
+			<Item Name="LocalizableStrings.AddCommentCaption.Value" Value="Opmerking" />
+			<Item Name="LocalizableStrings.AddCommentHint.Caption" Value="AddCommentHint" />
+			<Item Name="LocalizableStrings.AddCommentHint.Value" Value="We zijn altijd bezig met het verbeteren van de kwaliteit van onze diensten, dus als je ons wat details zou kunnen geven en een reactie zou kunnen achterlaten, dat zou zeer gewaardeerd worden!" />
+			<Item Name="LocalizableStrings.CommentIsEmpty.Caption" Value="CommentIsEmpty" />
+			<Item Name="LocalizableStrings.CommentIsEmpty.Value" Value="Commentaartekst is leeg!" />
+			<Item Name="LocalizableStrings.PostButtonCaption.Caption" Value="PostButtonCaption" />
+			<Item Name="LocalizableStrings.PostButtonCaption.Value" Value="Plaats een reactie" />
+			<Item Name="LocalizableStrings.PostCommentFailed.Caption" Value="PostCommentFailed" />
+			<Item Name="LocalizableStrings.PostCommentFailed.Value" Value="Er is een fout opgetreden. Reactie is niet toegevoegd." />
+			<Item Name="LocalizableStrings.PostCommentSuccess.Caption" Value="PostCommentSuccess" />
+			<Item Name="LocalizableStrings.PostCommentSuccess.Value" Value="Reactie is succesvol toegevoegd" />
+			<Item Name="LocalizableStrings.ThanksMessage.Caption" Value="ThanksMessage" />
+			<Item Name="LocalizableStrings.ThanksMessage.Value" Value="Uw feedback is ontvangen. Dank u!" />
+		</Items>
+	</Group>
+</Resources>

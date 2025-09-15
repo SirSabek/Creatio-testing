@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="EstimateLinkGenerator" />
+			<Item Name="Description" Value=" Generator de legătură nivel de satisfacție" />
+			<Item Name="LocalizableStrings.SatisfactionLevelMessage.Value" Value="Estimare" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ヘッダープロパティ" />
+			<Item Name="Columns.ExcludedEmailAdresses.Caption" Value="除外されたメールアドレス" />
+			<Item Name="Columns.ExcludedEmailAdresses.Description" Value="ルールが適用されないメール アドレス" />
+			<Item Name="Columns.Handler.Caption" Value="ハンドラ" />
+			<Item Name="Columns.IsActive.Caption" Value="Is Active" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+		</Items>
+	</Group>
+</Resources>

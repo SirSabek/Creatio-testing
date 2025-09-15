@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Lược đồ chi tiết cho người nhận mục dịch vụ" />
+			<Item Name="LocalizableStrings.ActiveServices.Value" Value="Các dịch vụ đang hoạt động" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Services" />
+		</Items>
+	</Group>
+</Resources>

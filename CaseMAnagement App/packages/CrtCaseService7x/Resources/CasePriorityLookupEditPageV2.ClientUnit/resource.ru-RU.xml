@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Cтраница справочника Приоритеты в уровне поддержки" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Изображение по умолчанию" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Необходимо заполнить поля времени реакции " />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Необходимо заполнить поля времени реакции" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Необходимо заполнить поля времени разрешения" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Необходимо заполнить поля времени разрешения" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="Данное значение уже существует" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="Данное значение уже существует" />
+		</Items>
+	</Group>
+</Resources>

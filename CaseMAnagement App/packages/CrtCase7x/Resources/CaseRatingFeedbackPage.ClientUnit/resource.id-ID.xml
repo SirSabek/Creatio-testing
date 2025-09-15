@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CaseRatingFeedbackPage" />
+			<Item Name="Images.8d68610d-8477-4874-9c89-f01cf792fec0.Caption" Value="Latar Belakang" />
+			<Item Name="LocalizableStrings.AddCommentCaption.Caption" Value="AddCommentCaption" />
+			<Item Name="LocalizableStrings.AddCommentCaption.Value" Value="Komentar" />
+			<Item Name="LocalizableStrings.AddCommentHint.Caption" Value="AddCommentHint" />
+			<Item Name="LocalizableStrings.AddCommentHint.Value" Value="Kami selalu berusaha memperbaiki kualitas layanan kami, jadi jika anda dapat memberi tanggapan secara detail dan meninggalkan komentar akan sangat kami hargai!" />
+			<Item Name="LocalizableStrings.CommentIsEmpty.Caption" Value="CommentIsEmpty" />
+			<Item Name="LocalizableStrings.CommentIsEmpty.Value" Value="Teks komentar kosong!" />
+			<Item Name="LocalizableStrings.PostButtonCaption.Caption" Value="PostButtonCaption" />
+			<Item Name="LocalizableStrings.PostButtonCaption.Value" Value="Kirim comment" />
+			<Item Name="LocalizableStrings.PostCommentFailed.Caption" Value="PostCommentFailed" />
+			<Item Name="LocalizableStrings.PostCommentFailed.Value" Value="Terjadi kesalahan. Komentar tidak ditambahkan." />
+			<Item Name="LocalizableStrings.PostCommentSuccess.Caption" Value="PostCommentSuccess" />
+			<Item Name="LocalizableStrings.PostCommentSuccess.Value" Value="Komentar sukses ditambahkan" />
+			<Item Name="LocalizableStrings.ThanksMessage.Caption" Value="ThanksMessage" />
+			<Item Name="LocalizableStrings.ThanksMessage.Value" Value="Saran anda telah diterima. Terima kasih!" />
+		</Items>
+	</Group>
+</Resources>

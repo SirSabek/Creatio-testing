@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Holder.Caption" Value="Hållare" />
+			<Item Name="Columns.ServiceCategory.Caption" Value="Tjänstkategori" />
+			<Item Name="Columns.ServicePact.Caption" Value="SLA" />
+			<Item Name="Columns.SolvedOnSupportLevel.Caption" Value="Löst av" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Support" />
+		</Items>
+	</Group>
+</Resources>

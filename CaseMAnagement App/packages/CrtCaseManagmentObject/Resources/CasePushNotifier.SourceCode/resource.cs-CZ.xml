@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CasePushNotifier" />
+			<Item Name="LocalizableStrings.NewMessageNotificationTemplate.Value" Value="Obdrželi jste novou zprávu k vašemu případu" />
+			<Item Name="LocalizableStrings.NewStatusNotificationTemplate.Value" Value="Stav případu změněn na „{0}“" />
+			<Item Name="LocalizableStrings.PushTitleTemplate.Value" Value="Případ č. {0}" />
+		</Items>
+	</Group>
+</Resources>

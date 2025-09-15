@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Shërbimi në marrëveshjen e shërbimit" />
+			<Item Name="Columns.Calendar.Caption" Value="Kalendari" />
+			<Item Name="Columns.ConcatName.Caption" Value="ServiseAndServiseInServicePactName" />
+			<Item Name="Columns.ReactionTime.Caption" Value="Koha e përgjigjes" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Response time unit" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Response time value" />
+			<Item Name="Columns.ServiceItem.Caption" Value="Service" />
+			<Item Name="Columns.ServicePact.Caption" Value="Marrëveshja e shërbimit" />
+			<Item Name="Columns.SolutionTime.Caption" Value="Koha e zgjidhjes" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Njësia kohore e zgjidhjes" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Resolution time value" />
+			<Item Name="Columns.Status.Caption" Value="Statusi" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Grupi 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Linja 1" />
+			<Item Name="EventsProcessSchema.Methods.GetServiceItemName.Caption" Value="GetServiceItemName" />
+			<Item Name="EventsProcessSchema.Methods.GetServicePactName.Caption" Value="GetServicePactName" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.DeleteDataUserTask1.Caption" Value="Obriši prethodni rezultat" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Objekt mora ispunjavati sljedeće uvjete" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Caption" Value="Pronađi slične zahtjeve" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFFilterAlreadyInteractedItems.Caption" Value="Primite preporuke za stavku s kojom ste prethodno komunicirali" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFFilterAlreadyInteractedItems.DisplayValue" Value="točno" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFItemFilterData.Caption" Value="Preporučeni objekt" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFUserFilterData.Caption" Value="Preporučeni (tema)" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.IsBatchPrediction.Caption" Value="Koristiti skupno predviđanje?" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.MLModelId.Caption" Value="Model strojnog učenja" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.MLModelId.DisplayValue" Value="Similar case search" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.PredictionFilterData.Caption" Value="Na kojim zapisima izvršiti predviđanje?" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.RecordId.Caption" Value="Na kojem zapisu izvršiti predviđanje?" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.RecordId.DisplayValue" Value="[#Case identifier#]" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.TopN.Caption" Value="Broj predviđenih stavki" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.TopN.DisplayValue" Value="5" />
+			<Item Name="BaseElements.StartEvent1.Caption" Value="Pozvani proces" />
+			<Item Name="Caption" Value="Slična pretraga zahtjeva" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Traka 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="Identifikator zahtjeva" />
+		</Items>
+	</Group>
+</Resources>

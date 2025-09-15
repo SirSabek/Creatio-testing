@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "677dcaf1-4641-3a79-11f1-20f95c23205a",
+    "Name": "SysSettingsValue_CaseGroupDef_ExternalUsers_postgresql",
+    "DBEngineType": 2,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1715549036000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

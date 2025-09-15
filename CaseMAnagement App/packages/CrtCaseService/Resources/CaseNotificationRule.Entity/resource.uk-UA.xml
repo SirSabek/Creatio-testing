@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Правила повідомлень контакту за зверненням" />
+			<Item Name="Columns.CaseCategory.Caption" Value="Категорія звернення" />
+			<Item Name="Columns.CaseStatus.Caption" Value="Стани звернення" />
+			<Item Name="Columns.Delay.Caption" Value="Затримка відправлення, хвилин" />
+			<Item Name="Columns.EmailTemplate.Caption" Value="Шаблон email повідомлення" />
+			<Item Name="Columns.IsQuoteOriginalEmail.Caption" Value="Процитувати оригінальний емейл" />
+			<Item Name="Columns.RuleUsage.Caption" Value="Правило використання" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.Methods.LocalMessageExecuting.Caption" Value="LocalMessageExecuting" />
+		</Items>
+	</Group>
+</Resources>

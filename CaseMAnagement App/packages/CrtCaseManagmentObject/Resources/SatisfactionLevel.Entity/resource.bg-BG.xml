@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Ниво на удовлетвореност" />
+			<Item Name="Columns.Colour.Caption" Value="Цвят" />
+			<Item Name="Columns.Image.Caption" Value="Изображение" />
+			<Item Name="Columns.IsActive.Caption" Value="Се използва" />
+			<Item Name="Columns.Point.Caption" Value="Точка" />
+			<Item Name="Columns.Status.Caption" Value="Статус" />
+		</Items>
+	</Group>
+</Resources>

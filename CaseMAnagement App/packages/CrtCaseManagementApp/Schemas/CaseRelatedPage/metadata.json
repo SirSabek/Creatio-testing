@@ -1,0 +1,64 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "afb8d9d6-4ca0-4001-8419-440c4109ff35",
+      "A2": "CaseRelatedPage",
+      "A5": "3e82fc5e-66fd-4f9b-bace-8f889139b404",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "43d663d1-6ab9-4369-903c-f804cacc55e4",
+      "B8": "8.0.10.3162",
+      "AD1": "117d32f9-8275-4534-8411-1c66115ce9cd",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "919c549a-b4ae-d1b9-9e81-9e1dbfcc8bbb",
+      "PageSchemaUId": "c2a61a7d-9eba-49e8-a651-df65fc4d5359",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": null,
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    },
+    {
+      "UId": "d2847b32-b94d-da78-6bf5-8e46fc0a3d49",
+      "PageSchemaUId": "c2a61a7d-9eba-49e8-a651-df65fc4d5359",
+      "IsDefault": false,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": true
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    },
+    {
+      "UId": "7f4a808d-3981-e11b-9113-98d7270bd5bf",
+      "PageSchemaUId": "df429114-693d-4986-a3cf-3c50a0eef7ce",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": null,
+      "Role": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+      "TypeColumnValue": null
+    },
+    {
+      "UId": "47abaa50-f998-c271-51f0-a7792099e699",
+      "PageSchemaUId": "cb295b23-6067-43a0-b8e5-447305b334fc",
+      "IsDefault": false,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": true
+      },
+      "Role": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.CheckObjectExistence.Caption" Value="Check Portal Message table existance" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="no feed external messages" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="object exists" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Caption" Value="Count external feed messages" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.AggregationColumnName.Caption" Value="집계함수열의 이름" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.CanReadUncommitedData.Caption" Value="커밋되지 않은 데이터 읽기" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ConsiderTimeInFilter.Caption" Value="필터의 시간을 고려" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.EntityColumnMetaPathes.Caption" Value="읽을 열" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.FunctionType.Caption" Value="집계함수종류" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.IgnoreDisplayValues.Caption" Value="조회 열의 표시된 값을 읽지 않음" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.NumberOfRecords.Caption" Value="읽을 레코드 수" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.OrderInfo.Caption" Value="열 순서" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ReadSomeTopRecords.Caption" Value="먼저 읽기" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultCompositeObjectList.Caption" Value="기록 수집" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultCount.Caption" Value="레코드 수" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultEntity.Caption" Value="결과수집 첫 번째 항목" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultEntityCollection.Caption" Value="결과수집" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultRowsCount.Caption" Value="읽은 레코드 수" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultType.Caption" Value="결과 유형" />
+			<Item Name="BaseElements.DefaultSequenceFlow3.Caption" Value="object does not exist" />
+			<Item Name="BaseElements.ParallelGateway1.Caption" Value="Get messages from external channels" />
+			<Item Name="BaseElements.ReadActivities.Caption" Value="Read emails" />
+			<Item Name="BaseElements.ReadActivities.Parameters.AggregationColumnName.Caption" Value="집계함수열의 이름" />
+			<Item Name="BaseElements.ReadActivities.Parameters.CanReadUncommitedData.Caption" Value="커밋되지 않은 데이터 읽기" />
+			<Item Name="BaseElements.ReadActivities.Parameters.CanReadUncommitedData.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ConsiderTimeInFilter.Caption" Value="필터의 시간을 고려" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ConsiderTimeInFilter.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadActivities.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadActivities.Parameters.EntityColumnMetaPathes.Caption" Value="읽을 열" />
+			<Item Name="BaseElements.ReadActivities.Parameters.EntityColumnMetaPathes.DisplayValue" Value="618e7503-83b1-452d-aa33-8f76792853b5;ae372cfa-a21f-47f0-8a64-17d137ebe966;070b689f-c9d8-46e3-bb52-bcb1f430f5cf;a12ca538-61b1-4907-9fdf-01969163d4dd" />
+			<Item Name="BaseElements.ReadActivities.Parameters.FunctionType.Caption" Value="집계함수종류" />
+			<Item Name="BaseElements.ReadActivities.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadActivities.Parameters.IgnoreDisplayValues.Caption" Value="조회 열의 표시된 값을 읽지 않음" />
+			<Item Name="BaseElements.ReadActivities.Parameters.NumberOfRecords.Caption" Value="읽을 레코드 수" />
+			<Item Name="BaseElements.ReadActivities.Parameters.NumberOfRecords.DisplayValue" Value="10" />
+			<Item Name="BaseElements.ReadActivities.Parameters.OrderInfo.Caption" Value="열 순서" />
+			<Item Name="BaseElements.ReadActivities.Parameters.OrderInfo.DisplayValue" Value="CreatedOn:2:1" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ReadSomeTopRecords.Caption" Value="먼저 읽기" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ReadSomeTopRecords.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Body.Caption" Value="본문" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Caption" Value="기록 수집" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.DetailedResult.Caption" Value="Result details" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Result.Caption" Value="Result" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.StartDate.Caption" Value="시작" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCount.Caption" Value="레코드 수" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultEntity.Caption" Value="결과수집 첫 번째 항목" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultEntityCollection.Caption" Value="결과수집" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultRowsCount.Caption" Value="읽은 레코드 수" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultType.Caption" Value="결과 유형" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultType.DisplayValue" Value="2" />
+			<Item Name="BaseElements.ReadChatlMessages.Caption" Value="Read chat messages" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.AggregationColumnName.Caption" Value="집계함수열의 이름" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.CanReadUncommitedData.Caption" Value="커밋되지 않은 데이터 읽기" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ConsiderTimeInFilter.Caption" Value="필터의 시간을 고려" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.EntityColumnMetaPathes.Caption" Value="읽을 열" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.FunctionType.Caption" Value="집계함수종류" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.IgnoreDisplayValues.Caption" Value="조회 열의 표시된 값을 읽지 않음" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.NumberOfRecords.Caption" Value="읽을 레코드 수" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.OrderInfo.Caption" Value="열 순서" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ReadSomeTopRecords.Caption" Value="먼저 읽기" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.Caption" Value="기록 수집" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Created by" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Created on" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Message" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCount.Caption" Value="레코드 수" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultEntity.Caption" Value="결과수집 첫 번째 항목" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultEntityCollection.Caption" Value="결과수집" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultRowsCount.Caption" Value="읽은 레코드 수" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultType.Caption" Value="결과 유형" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Caption" Value="Read external feed messages" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.AggregationColumnName.Caption" Value="집계함수열의 이름" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.CanReadUncommitedData.Caption" Value="커밋되지 않은 데이터 읽기" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ConsiderTimeInFilter.Caption" Value="필터의 시간을 고려" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.EntityColumnMetaPathes.Caption" Value="읽을 열" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.FunctionType.Caption" Value="집계함수종류" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.IgnoreDisplayValues.Caption" Value="조회 열의 표시된 값을 읽지 않음" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.NumberOfRecords.Caption" Value="읽을 레코드 수" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.OrderInfo.Caption" Value="열 순서" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ReadSomeTopRecords.Caption" Value="먼저 읽기" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCompositeObjectList.Caption" Value="기록 수집" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Message/comment" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCount.Caption" Value="레코드 수" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultEntity.Caption" Value="결과수집 첫 번째 항목" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultEntityCollection.Caption" Value="결과수집" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultRowsCount.Caption" Value="읽은 레코드 수" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultType.Caption" Value="결과 유형" />
+			<Item Name="BaseElements.ReadPortalMessages.Caption" Value="Read portal messages (deprecated)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.AggregationColumnName.Caption" Value="집계함수열의 이름" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.CanReadUncommitedData.Caption" Value="커밋되지 않은 데이터 읽기" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ConsiderTimeInFilter.Caption" Value="필터의 시간을 고려" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.EntityColumnMetaPathes.Caption" Value="읽을 열" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.EntityColumnMetaPathes.DisplayValue" Value="9438b617-43b8-48a2-9295-c63f9171ea31" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.FunctionType.Caption" Value="집계함수종류" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.IgnoreDisplayValues.Caption" Value="조회 열의 표시된 값을 읽지 않음" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.NumberOfRecords.Caption" Value="읽을 레코드 수" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.NumberOfRecords.DisplayValue" Value="50" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.OrderInfo.Caption" Value="열 순서" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ReadSomeTopRecords.Caption" Value="먼저 읽기" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ReadSomeTopRecords.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.Caption" Value="기록 수집" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="연락처" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Created on" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Message" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCount.Caption" Value="레코드 수" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultEntity.Caption" Value="결과수집 첫 번째 항목" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultEntityCollection.Caption" Value="결과수집" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultRowsCount.Caption" Value="읽은 레코드 수" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultType.Caption" Value="결과 유형" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.RemoveChatHtmlScriptTask.Caption" Value="Remove HTML tags from chat messages" />
+			<Item Name="BaseElements.RemoveEmailHtmlScriptTask.Caption" Value="Remove HTML tags from emails" />
+			<Item Name="BaseElements.RemoveFeedHtmlScriptTask.Caption" Value="Remove HTML tags from external feed messages" />
+			<Item Name="BaseElements.RemovePortalHtmlScriptTask.Caption" Value="Remove HTML tags from portal messages" />
+			<Item Name="BaseElements.SequenceFlow13.Caption" Value="이메일 채널" />
+			<Item Name="BaseElements.SequenceFlow14.Caption" Value="External feed" />
+			<Item Name="BaseElements.SequenceFlow15.Caption" Value="Omni chats" />
+			<Item Name="Caption" Value="Get Case External Messages" />
+			<Item Name="Description" Value="Getting information about the last case messages with a customer by Case Id" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="차선1" />
+			<Item Name="NotificationCaption.Caption" Value="프로세스 인스턴스 캡션" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="케이스 Id" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="Unique identifier of case" />
+			<Item Name="Parameters.ChatMessages.Caption" Value="채팅 메시지" />
+			<Item Name="Parameters.ChatMessages.ChatMessage.Caption" Value="Chat Message" />
+			<Item Name="Parameters.ChatMessages.ChatMessage.Sys_Description" Value="Message body" />
+			<Item Name="Parameters.ChatMessages.Contact.Caption" Value="연락처" />
+			<Item Name="Parameters.ChatMessages.Contact.Sys_Description" Value="연락처" />
+			<Item Name="Parameters.ChatMessages.StartDate.Caption" Value="시작일자" />
+			<Item Name="Parameters.ChatMessages.StartDate.Sys_Description" Value="시작일자" />
+			<Item Name="Parameters.EmailMessages.Body.Caption" Value="본문" />
+			<Item Name="Parameters.EmailMessages.Body.Sys_Description" Value="Message body" />
+			<Item Name="Parameters.EmailMessages.Caption" Value="Email Messages" />
+			<Item Name="Parameters.EmailMessages.Result.Caption" Value="Result" />
+			<Item Name="Parameters.EmailMessages.Result.Sys_Description" Value="Result" />
+			<Item Name="Parameters.EmailMessages.ResultDetails.Caption" Value="Result Details" />
+			<Item Name="Parameters.EmailMessages.ResultDetails.Sys_Description" Value="Details of result" />
+			<Item Name="Parameters.EmailMessages.Start.Caption" Value="시작일자" />
+			<Item Name="Parameters.EmailMessages.Start.Sys_Description" Value="시작일자" />
+			<Item Name="Parameters.EmailMessages.Sys_Description" Value="Last 50 email messages by case" />
+			<Item Name="Parameters.ExternalFeedMessages.Body.Caption" Value="본문" />
+			<Item Name="Parameters.ExternalFeedMessages.Body.Sys_Description" Value="Message body" />
+			<Item Name="Parameters.ExternalFeedMessages.Caption" Value="External Feed Messages" />
+			<Item Name="Parameters.ExternalFeedMessages.Contact.Caption" Value="연락처" />
+			<Item Name="Parameters.ExternalFeedMessages.Contact.Sys_Description" Value="연락처" />
+			<Item Name="Parameters.ExternalFeedMessages.StartTime.Caption" Value="Start time" />
+			<Item Name="Parameters.ExternalFeedMessages.StartTime.Sys_Description" Value="Start time" />
+			<Item Name="Parameters.ExternalFeedMessages.Sys_Description" Value="Last 50 external feed messages by case" />
+			<Item Name="Parameters.PortalMessageTableExists.Caption" Value="Portal MessageTable Exists" />
+			<Item Name="Parameters.PortalMessageTableExists.DisplayValue" Value="[#Boolean value.False#]" />
+		</Items>
+	</Group>
+</Resources>

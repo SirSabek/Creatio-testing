@@ -1,0 +1,316 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b0b994c7-eb95-4002-a6d9-19fbcaa0319e"
+        },
+        {
+          "SchemaColumnUId": "c59af29a-aa17-4c70-bf89-545b80c954de",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "388723d0-246c-41de-a78e-9fb562da862b",
+          "Value": "aafda194-dbd6-4337-923a-b19a456eeea9"
+        },
+        {
+          "SchemaColumnUId": "6a613ade-2bb3-4592-bf0c-898357e3da9d",
+          "Value": "Solution"
+        },
+        {
+          "SchemaColumnUId": "a2117463-9526-cb4d-90c9-88202e5c6eee",
+          "Value": "12263ebe-0694-4ecd-8362-36244733d00a",
+          "DisplayValue": "Prediction"
+        },
+        {
+          "SchemaColumnUId": "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1607961203052+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "dcca97db-652a-4afb-840e-08623a93f005",
+          "Value": "6f8c5159-e07b-485d-bfa2-37dbf4f0a2d3",
+          "DisplayValue": "Similar case search"
+        },
+        {
+          "SchemaColumnUId": "3015559e-cbc6-406a-88af-07f7930be832",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1607961203052+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "271f9f4a-8199-4727-939b-736399e8fc1a",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4181bf17-c0c6-4396-8f4a-4b7d817f9dbf"
+        },
+        {
+          "SchemaColumnUId": "c59af29a-aa17-4c70-bf89-545b80c954de",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "388723d0-246c-41de-a78e-9fb562da862b",
+          "Value": "6f9b3e63-5998-4c16-b1b0-cd712516ad18"
+        },
+        {
+          "SchemaColumnUId": "6a613ade-2bb3-4592-bf0c-898357e3da9d",
+          "Value": "Symptoms"
+        },
+        {
+          "SchemaColumnUId": "a2117463-9526-cb4d-90c9-88202e5c6eee",
+          "Value": "4009205d-d3a6-4dfc-8cf4-449fcb91b930",
+          "DisplayValue": "Training"
+        },
+        {
+          "SchemaColumnUId": "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1607961203118+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "dcca97db-652a-4afb-840e-08623a93f005",
+          "Value": "6f8c5159-e07b-485d-bfa2-37dbf4f0a2d3",
+          "DisplayValue": "Similar case search"
+        },
+        {
+          "SchemaColumnUId": "3015559e-cbc6-406a-88af-07f7930be832",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1607961203118+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "271f9f4a-8199-4727-939b-736399e8fc1a",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4bde5ed9-c836-4aa6-875a-5770705c0ce7"
+        },
+        {
+          "SchemaColumnUId": "c59af29a-aa17-4c70-bf89-545b80c954de",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "388723d0-246c-41de-a78e-9fb562da862b",
+          "Value": "6f9b3e63-5998-4c16-b1b0-cd712516ad18"
+        },
+        {
+          "SchemaColumnUId": "6a613ade-2bb3-4592-bf0c-898357e3da9d",
+          "Value": "Symptoms"
+        },
+        {
+          "SchemaColumnUId": "a2117463-9526-cb4d-90c9-88202e5c6eee",
+          "Value": "12263ebe-0694-4ecd-8362-36244733d00a",
+          "DisplayValue": "Prediction"
+        },
+        {
+          "SchemaColumnUId": "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1607961203020+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "dcca97db-652a-4afb-840e-08623a93f005",
+          "Value": "6f8c5159-e07b-485d-bfa2-37dbf4f0a2d3",
+          "DisplayValue": "Similar case search"
+        },
+        {
+          "SchemaColumnUId": "3015559e-cbc6-406a-88af-07f7930be832",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1607961203020+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "271f9f4a-8199-4727-939b-736399e8fc1a",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "aa1bd529-4eb1-4a98-bec7-8be5b52103ba"
+        },
+        {
+          "SchemaColumnUId": "c59af29a-aa17-4c70-bf89-545b80c954de",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "388723d0-246c-41de-a78e-9fb562da862b",
+          "Value": "ffe8526d-044f-4222-a1ef-fca83a0772d8"
+        },
+        {
+          "SchemaColumnUId": "6a613ade-2bb3-4592-bf0c-898357e3da9d",
+          "Value": "Subject"
+        },
+        {
+          "SchemaColumnUId": "a2117463-9526-cb4d-90c9-88202e5c6eee",
+          "Value": "4009205d-d3a6-4dfc-8cf4-449fcb91b930",
+          "DisplayValue": "Training"
+        },
+        {
+          "SchemaColumnUId": "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1607961203104+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "dcca97db-652a-4afb-840e-08623a93f005",
+          "Value": "6f8c5159-e07b-485d-bfa2-37dbf4f0a2d3",
+          "DisplayValue": "Similar case search"
+        },
+        {
+          "SchemaColumnUId": "3015559e-cbc6-406a-88af-07f7930be832",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1607961203104+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "271f9f4a-8199-4727-939b-736399e8fc1a",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1dd500b2-d2e8-4fc8-9212-a696e2516352"
+        },
+        {
+          "SchemaColumnUId": "c59af29a-aa17-4c70-bf89-545b80c954de",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "388723d0-246c-41de-a78e-9fb562da862b",
+          "Value": "ffe8526d-044f-4222-a1ef-fca83a0772d8"
+        },
+        {
+          "SchemaColumnUId": "6a613ade-2bb3-4592-bf0c-898357e3da9d",
+          "Value": "Subject"
+        },
+        {
+          "SchemaColumnUId": "a2117463-9526-cb4d-90c9-88202e5c6eee",
+          "Value": "12263ebe-0694-4ecd-8362-36244733d00a",
+          "DisplayValue": "Prediction"
+        },
+        {
+          "SchemaColumnUId": "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1607961202837+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "dcca97db-652a-4afb-840e-08623a93f005",
+          "Value": "6f8c5159-e07b-485d-bfa2-37dbf4f0a2d3",
+          "DisplayValue": "Similar case search"
+        },
+        {
+          "SchemaColumnUId": "3015559e-cbc6-406a-88af-07f7930be832",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1607961202837+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "271f9f4a-8199-4727-939b-736399e8fc1a",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2b164bc3-34a3-4efb-af43-dd6f17c39182"
+        },
+        {
+          "SchemaColumnUId": "c59af29a-aa17-4c70-bf89-545b80c954de",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "388723d0-246c-41de-a78e-9fb562da862b",
+          "Value": "aafda194-dbd6-4337-923a-b19a456eeea9"
+        },
+        {
+          "SchemaColumnUId": "6a613ade-2bb3-4592-bf0c-898357e3da9d",
+          "Value": "Solution"
+        },
+        {
+          "SchemaColumnUId": "a2117463-9526-cb4d-90c9-88202e5c6eee",
+          "Value": "4009205d-d3a6-4dfc-8cf4-449fcb91b930",
+          "DisplayValue": "Training"
+        },
+        {
+          "SchemaColumnUId": "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1607961203130+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "dcca97db-652a-4afb-840e-08623a93f005",
+          "Value": "6f8c5159-e07b-485d-bfa2-37dbf4f0a2d3",
+          "DisplayValue": "Similar case search"
+        },
+        {
+          "SchemaColumnUId": "3015559e-cbc6-406a-88af-07f7930be832",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1607961203130+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "271f9f4a-8199-4727-939b-736399e8fc1a",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

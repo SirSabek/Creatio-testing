@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ReopenCaseAndNotifyAssignee" />
+			<Item Name="LocalizableStrings.NotifySubject.Value" Value="案件番号 {0} に関する新しいメールを受信しました" />
+		</Items>
+	</Group>
+</Resources>

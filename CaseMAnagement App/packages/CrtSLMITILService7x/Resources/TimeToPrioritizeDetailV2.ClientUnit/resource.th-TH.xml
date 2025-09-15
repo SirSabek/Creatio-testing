@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="เวลาในการจัดลำดับความสำคัญรายละเอียด" />
+			<Item Name="LocalizableStrings.Caption.Caption" Value="Time to prioritize" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Time to prioritize" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Caption" Value="สถานะปัจจุบันมีอยู่แล้ว" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Value" Value="สถานะปัจจุบันมีอยู่แล้ว" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Caption" Value="The &quot;Case priority&quot; can not be empty" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Value" Value="The &quot;Case priority&quot; can not be empty" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Caption" Value="โปรดกรอกเวลาตอบสนองหรือเวลาแก้ปัญหา" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Value" Value="โปรดกรอกเวลาตอบสนองหรือเวลาแก้ปัญหา" />
+		</Items>
+	</Group>
+</Resources>

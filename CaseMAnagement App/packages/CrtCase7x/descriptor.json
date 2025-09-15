@@ -1,0 +1,37 @@
+﻿{
+  "Descriptor": {
+    "UId": "0daea9e4-b08a-abb1-687e-7dc834448743",
+    "PackageVersion": "7.8.0",
+    "Name": "CrtCase7x",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1732030532000)\/",
+    "Maintainer": "Creatio",
+    "ProjectPath": "Files/CrtCase7x.csproj",
+    "DependsOn": [
+      {
+        "UId": "3a71e376-9ac3-3049-c62b-9c43b9abe054",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCoreBase",
+        "Type": 1
+      },
+      {
+        "UId": "f4ba33cf-5a6c-ccc0-f401-cb6bb16c1039",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIPlatform7x",
+        "Type": 1
+      }
+    ],
+    "InstallScripts": {
+      "AfterInstall": [
+        {
+          "Position": 1,
+          "SchemaUId": "cf407eb4-d31b-4e76-9126-1088ad064a42"
+        },
+        {
+          "Position": 2,
+          "SchemaUId": "0171a101-5f1a-4c8a-a3c2-71151cabb291"
+        }
+      ]
+    }
+  }
+}

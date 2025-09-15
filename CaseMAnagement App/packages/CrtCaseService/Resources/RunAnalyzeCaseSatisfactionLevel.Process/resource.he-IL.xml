@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.RunProcess.Caption" Value="הרץ תהליך ניתוח רמת שביעות רצון של מקרה " />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="קבל רמת שביעות רצון במקרה" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="מזהה רשומה" />
+			<Item Name="Caption" Value="הרץ תהליך: ניתוח רמת שביעות רצון במקרה" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="נתיב 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="נתיב 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.CaseRecordId.Caption" Value="מזהה רישום המקרה" />
+			<Item Name="Parameters.CaseRecordId.DisplayValue" Value="[#קבל רמת שביעות רצון במקרה. מזהה רשומה#]" />
+		</Items>
+	</Group>
+</Resources>

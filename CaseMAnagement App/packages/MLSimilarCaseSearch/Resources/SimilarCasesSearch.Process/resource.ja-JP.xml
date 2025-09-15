@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.DeleteDataUserTask1.Caption" Value="前の結果をクリア" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.EntitySchemaId.Caption" Value="オブジェクト" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Object must meet the following conditions" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Caption" Value="類似の案件を探す" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFFilterAlreadyInteractedItems.Caption" Value="以前にやり取りしたアイテムのおすすめを受け取る" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFFilterAlreadyInteractedItems.DisplayValue" Value="true" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFItemFilterData.Caption" Value="推奨オブジェクト" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFUserFilterData.Caption" Value="(対象者) へのおすすめ" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.IsBatchPrediction.Caption" Value="バッチ予測を使用しますか？" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.MLModelId.Caption" Value="機械学習モデル" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.MLModelId.DisplayValue" Value="Similar case search" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.PredictionFilterData.Caption" Value="予測を実行するレコードを指定してください" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.RecordId.Caption" Value="予測を実行するレコードを指定してください" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.RecordId.DisplayValue" Value="[#Case identifier#]" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.TopN.Caption" Value="予測アイテム数" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.TopN.DisplayValue" Value="5" />
+			<Item Name="BaseElements.StartEvent1.Caption" Value="Process called" />
+			<Item Name="Caption" Value="類似ケース検索" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="プロセスインスタンスのキャプション" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="案件識別子" />
+		</Items>
+	</Group>
+</Resources>

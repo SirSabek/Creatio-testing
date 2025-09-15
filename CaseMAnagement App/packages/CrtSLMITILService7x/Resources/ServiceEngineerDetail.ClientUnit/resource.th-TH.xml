@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="โครงสร้างข้อมูลรายละเอียด - ทีมบริการในส่วนงานการบริการ" />
+			<Item Name="Images.12703106-728c-4173-ba38-8999330d571f.Caption" Value="รูปภาพ 1" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="ทีมบริการ" />
+			<Item Name="LocalizableStrings.DeleteButtonTitle.Value" Value="ลบ" />
+			<Item Name="LocalizableStrings.EngineerCaption.Value" Value="สมาชิก/ทีมงาน" />
+			<Item Name="LocalizableStrings.ErrorTemplate.Value" Value="รายละเอียด {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="สายสนับสนุน" />
+			<Item Name="LocalizableStrings.ValidationErrorTemplate.Value" Value="Please, fill in the &quot;{0}&quot; field" />
+		</Items>
+	</Group>
+</Resources>

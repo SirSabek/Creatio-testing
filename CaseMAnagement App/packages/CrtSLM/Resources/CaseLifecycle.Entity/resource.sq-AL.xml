@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Cikli i jetës së çështjes" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.CaseRecordId.Caption" Value="Identifikuesi i të dhënave të çështjes" />
+			<Item Name="Columns.EndDate.Caption" Value="Date end" />
+			<Item Name="Columns.Group.Caption" Value="Grupi i personave të caktuar" />
+			<Item Name="Columns.Owner.Caption" Value="Assignee" />
+			<Item Name="Columns.Priority.Caption" Value="Priority" />
+			<Item Name="Columns.ResponseOverdue.Caption" Value="Përgjigje e vonuar" />
+			<Item Name="Columns.ServiceItem.Caption" Value="Elementi i shërbimit" />
+			<Item Name="Columns.SolutionDate.Caption" Value="Koha e zgjidhjes" />
+			<Item Name="Columns.SolutionOverdue.Caption" Value="Zgjidhje e vonuar" />
+			<Item Name="Columns.SolutionProvidedOn.Caption" Value="Koha aktuale e zgjidhjes" />
+			<Item Name="Columns.StartDate.Caption" Value="Date begin" />
+			<Item Name="Columns.StateDurationInDays.Caption" Value="Kohëzgjatja (ditët)" />
+			<Item Name="Columns.StateDurationInHours.Caption" Value="Kohëzgjatja (orët)" />
+			<Item Name="Columns.StateDurationInMinutes.Caption" Value="Duration (minutes)" />
+			<Item Name="Columns.Status.Caption" Value="Statusi" />
+		</Items>
+	</Group>
+</Resources>

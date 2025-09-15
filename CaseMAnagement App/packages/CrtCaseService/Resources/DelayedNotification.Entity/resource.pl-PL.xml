@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Opóźnione powiadomienie" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Rzeczywista data wysłania" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Nazwa wykwalifikowanego menedżera" />
+			<Item Name="Columns.Case.Caption" Value="Zgłoszenie" />
+			<Item Name="Columns.Delay.Caption" Value="Opóźnienie" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="Szablon wiadomości email" />
+			<Item Name="Columns.Error.Caption" Value="Błąd" />
+			<Item Name="Columns.SendDate.Caption" Value="Kiedy wysyła" />
+		</Items>
+	</Group>
+</Resources>

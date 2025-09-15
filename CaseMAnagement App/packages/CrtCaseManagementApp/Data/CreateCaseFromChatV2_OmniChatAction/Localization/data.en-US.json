@@ -1,0 +1,18 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "bd9cd2b5-8538-4b35-3d93-7b2c7a51dc0e"
+        },
+        {
+          "SchemaColumnUId": "78e2b210-da08-49b6-87fe-83ea82f0feba",
+          "ColumnName": "Caption",
+          "Value": "Create case"
+        }
+      ]
+    }
+  ]
+}

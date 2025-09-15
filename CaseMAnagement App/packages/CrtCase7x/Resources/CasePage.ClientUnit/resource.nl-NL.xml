@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Wijzig pagina schema - &quot;Cases&quot; sectie" />
+			<Item Name="LocalizableStrings.AccountCaption.Value" Value="Bedrijf" />
+			<Item Name="LocalizableStrings.ActualDateGroupCaption.Value" Value="Verwerkingstijdsbestek" />
+			<Item Name="LocalizableStrings.AssignToMeCaption.Value" Value="Wijs aan mij toe" />
+			<Item Name="LocalizableStrings.CaseInformationTabCaption.Value" Value="Case informatie" />
+			<Item Name="LocalizableStrings.ClosureCodeCaption.Value" Value="Reden afsluiting" />
+			<Item Name="LocalizableStrings.ClosureDateCaption.Value" Value="Gesloten op" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.CreatedOnCaption.Value" Value="Aangemaakt:" />
+			<Item Name="LocalizableStrings.CurrentStatusGroupCaption.Value" Value="Huidige status" />
+			<Item Name="LocalizableStrings.DaysCaptionSuffix.Value" Value="d" />
+			<Item Name="LocalizableStrings.DefaultHeader.Value" Value="Case #{0}" />
+			<Item Name="LocalizableStrings.DelayHeaderCaptionSuffix.Value" Value="Vertraging:" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FeedbackGroupCaption.Value" Value="Feedback" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Case informatie" />
+			<Item Name="LocalizableStrings.GroupCaption.Caption" Value="Группа ответсвенных" />
+			<Item Name="LocalizableStrings.GroupCaption.Value" Value="Toegewezen team" />
+			<Item Name="LocalizableStrings.HeaderTemplate.Value" Value="Case #{0}: {1}" />
+			<Item Name="LocalizableStrings.HoursCaptionSuffix.Value" Value="u" />
+			<Item Name="LocalizableStrings.IndicatorsGroupCaption.Value" Value="Indicatoren" />
+			<Item Name="LocalizableStrings.LeftHeaderCaptionSuffix.Value" Value="Resterend:" />
+			<Item Name="LocalizableStrings.MinutesCaptionSuffix.Value" Value="m" />
+			<Item Name="LocalizableStrings.NotesFilesTabCaption.Value" Value="Bijlagen" />
+			<Item Name="LocalizableStrings.NumberCaption.Value" Value="Nummer" />
+			<Item Name="LocalizableStrings.OriginCaption.Value" Value="Bron" />
+			<Item Name="LocalizableStrings.OwnerCaption.Caption" Value="Eigenaar" />
+			<Item Name="LocalizableStrings.OwnerCaption.Value" Value="Toegewezen aan" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Caption" Value="Заголовок родительского обращения" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Value" Value="Bovenliggende case" />
+			<Item Name="LocalizableStrings.PriorityCaption.Value" Value="Prioriteit" />
+			<Item Name="LocalizableStrings.RatingGroupCaption.Value" Value="Beoordeling" />
+			<Item Name="LocalizableStrings.RegisteredOnCaption.Value" Value="Registratiedatum" />
+			<Item Name="LocalizableStrings.RelationsTabCaption.Value" Value="Sluiting en feedback" />
+			<Item Name="LocalizableStrings.RequiredContactOrAccountMessage.Value" Value="Gelieve in te vullen ofwel de &quot;Account&quot; of &quot;Contact&quot; veld" />
+			<Item Name="LocalizableStrings.RespondedOnCaption.Value" Value="Werkelijke responstijd" />
+			<Item Name="LocalizableStrings.ResponseDateCaption.Value" Value="Geplande responstijd" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCaption.Value" Value="Beoordeling" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentCaption.Value" Value="Gebruikersreactie" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Caption" Value="Tooltip voor commentaar op tevredenheidsniveau" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Value" Value="In order to change feedback you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Caption" Value="Tooltip voor tevredenheidsniveau" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Value" Value="In order to change satisfaction level you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SolutionCaption.Value" Value="Oplossing" />
+			<Item Name="LocalizableStrings.SolutionDateCaption.Value" Value="Geplande oplostijs" />
+			<Item Name="LocalizableStrings.SolutionGroupCaption.Value" Value="Oplossing" />
+			<Item Name="LocalizableStrings.SolutionProvidedOnCaption.Value" Value="Werkelijke oplostijd" />
+			<Item Name="LocalizableStrings.SolutionTabCaption.Value" Value="Sluiting en feedback" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Caption" Value="SolvedOnSupportLevelCaption" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="Opgelost door" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Status" />
+			<Item Name="LocalizableStrings.SubjectCaption.Value" Value="Onderwerp" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Volg de feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="U volgt nu feed: {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Caption" Value="SupportLevelCaption" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Support line" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="Omschrijving" />
+			<Item Name="LocalizableStrings.TermsControlGroupCaption.Value" Value="Voorwaarden" />
+			<Item Name="LocalizableStrings.TermsGroupCaption.Value" Value="Tijdsspanne" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Caption" Value="TimeZoneSysSettingMessage" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Value" Value="&lt;p&gt;Time zones can be displayed in three different ways: 1. The time zone specified in your profile,  2. System setting “Time zone by default”, 3. Time zone “Time in UTC”. To configure time zone, go to your  &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;profile &quot;&lt;/a&gt;  or to the &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/12fef2c9-8baa-4b07-88e4-464169a44775&quot;&gt;&quot;Time zone by default&quot;&lt;/a&gt;&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Caption" Value="TimeZoneUserProfileMessage" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Value" Value="&lt;p&gt;Time zones can be displayed in three different ways: 1. The time zone specified in your profile,  2. System setting “Time zone by default”, 3. Time zone “Time in UTC”. To configure time zone, go to your   &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;profile &quot;&lt;/a&gt;  or contact system administrator.&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Feed niet meer volgen" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="U bent gestopt met het volgen van de feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

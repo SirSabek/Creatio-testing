@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e35504fa-9012-44f9-9e19-7c75d64d97eb",
+    "Name": "KnowledgeBaseInCaseBusinessRule",
+    "ModifiedOnUtc": "\/Date(1756637869000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Knowledge base article in case (Business rules)",
+    "DependsOn": []
+  }
+}

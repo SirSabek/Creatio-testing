@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Melding van vertraging" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Werkelijke verzenddatum" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Naam van de geassembleerde gekwalificeerde manager" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Delay.Caption" Value="Vertraging" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="e-mail template" />
+			<Item Name="Columns.Error.Caption" Value="Fout" />
+			<Item Name="Columns.SendDate.Caption" Value="Wanneer verzenden" />
+		</Items>
+	</Group>
+</Resources>

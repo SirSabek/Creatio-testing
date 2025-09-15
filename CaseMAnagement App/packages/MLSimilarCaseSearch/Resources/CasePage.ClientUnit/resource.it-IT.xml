@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Rinvia fino a" />
+			<Item Name="LocalizableStrings.EmailTitleCaption.Caption" Value="Risposta al caso" />
+			<Item Name="LocalizableStrings.EmailTitleCaption.Value" Value="Risposta al caso {0} {1}" />
+			<Item Name="LocalizableStrings.EscalationTitle.Caption" Value="EscalationTitle" />
+			<Item Name="LocalizableStrings.EscalationTitle.Value" Value="Escalate" />
+			<Item Name="LocalizableStrings.FoundSimilarCaseTextTemplate.Value" Value="Casi simili trovati: {0}" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Dettagli" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Caption" Value="Nascondi messaggi di sistema" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Value" Value="Nascondi messaggi di sistema" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Caption" Value="Storia" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Value" Value="Storia" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Più di un elemento della coda è collegato al processo. Id processo: {0}" />
+			<Item Name="LocalizableStrings.OpenServiceModelByServiceModuleCaption.Value" Value="Mostra dipendenze del servizio" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Caption" Value="Profilo caso" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Value" Value="Profilo caso" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Riaccoda" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Impossibile riaccodare l'elemento. Messaggio d'errore: {0}" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Caption" Value="In elaborazione" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Value" Value="In elaborazione" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="La pagina non è collegata all'elemento della coda del desktop agente. Azione annullata." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Impossibile riaccodare l'elemento" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Riaccodato con successo" />
+			<Item Name="LocalizableStrings.ReclassificationTitle.Value" Value="Riclassifica" />
+			<Item Name="LocalizableStrings.SchemaLocalizableString1.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.SearchForSimilarCasesButtonCaption.Caption" Value="Cerca casi simili" />
+			<Item Name="LocalizableStrings.SearchForSimilarCasesButtonCaption.Value" Value="Cerca casi simili" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Caption" Value="ServiceItemTipMessage" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Value" Value="I servizi &lt;p&gt;  determinano le categorie di casi e le scadenze di risposta e risoluzione predefinite. La portata dei servizi è determinata dall’accordo sul livello di servizio del cliente (SLA). Usa le sezioni  &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServiceItemSection/&quot;&gt;&quot;Services&quot;&lt;/a&gt;  e   &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServicePactSection/&quot;&gt;&quot;Service agreements&quot;&lt;/a&gt; per configurare i servizi disponibili&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.ServicePactTipMessage.Caption" Value="ServicePactTipMessage" />
+			<Item Name="LocalizableStrings.ServicePactTipMessage.Value" Value="&lt;p&gt;Accordi a livello di servizio (SLA) determinano la portata dei servizi forniti a diversi tipi di clienti, nonché le condizioni per la prestazione di servizi subappaltati e interni. Utilizzare la sezione  &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServicePactSection/&quot;&gt;&quot;Service agreements&quot;&lt;/a&gt; per creare e modificare i contratti di servizio &lt;/p&gt;" />
+			<Item Name="LocalizableStrings.SetCaseContactMessage.Value" Value="Specificare {0} come contatto per il caso?" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Caption" Value="Mostra messaggi di sistema" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Value" Value="Mostra messaggi di sistema" />
+			<Item Name="LocalizableStrings.SolutionFieldPlaceholder.Value" Value="Descrizione della risoluzione" />
+		</Items>
+	</Group>
+</Resources>

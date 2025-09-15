@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Caso base" />
+			<Item Name="Columns.Account.Caption" Value="Cuenta" />
+			<Item Name="Columns.Category.Caption" Value="Categoría" />
+			<Item Name="Columns.ClosureCode.Caption" Value="Razón de cierre" />
+			<Item Name="Columns.ClosureDate.Caption" Value="Cerrado el" />
+			<Item Name="Columns.Contact.Caption" Value="Contacto" />
+			<Item Name="Columns.FirstSolutionProvidedOn.Caption" Value="Primera resolución" />
+			<Item Name="Columns.Group.Caption" Value="Colección" />
+			<Item Name="Columns.Notes.Caption" Value="Notas" />
+			<Item Name="Columns.Number.Caption" Value="Número" />
+			<Item Name="Columns.Origin.Caption" Value="Origen" />
+			<Item Name="Columns.Owner.Caption" Value="Propietario" />
+			<Item Name="Columns.Priority.Caption" Value="Prioridad" />
+			<Item Name="Columns.RegisteredOn.Caption" Value="Fecha de Registro" />
+			<Item Name="Columns.RespondedOn.Caption" Value="Tiempo real de respuesta" />
+			<Item Name="Columns.ResponseDate.Caption" Value="Tiempo de respuesta" />
+			<Item Name="Columns.ResponseOverdue.Caption" Value="Respuesta retrasada" />
+			<Item Name="Columns.SatisfactionLevel.Caption" Value="Nivel de satisfacción" />
+			<Item Name="Columns.SatisfactionLevelComment.Caption" Value="Notas de feedback" />
+			<Item Name="Columns.Solution.Caption" Value="Resolución" />
+			<Item Name="Columns.SolutionDate.Caption" Value="Tiempo de resolución" />
+			<Item Name="Columns.SolutionOverdue.Caption" Value="Resolución retrasada" />
+			<Item Name="Columns.SolutionProvidedOn.Caption" Value="Tiempo actual de resolución" />
+			<Item Name="Columns.SolutionRemains.Caption" Value="Falta para la resolución" />
+			<Item Name="Columns.Status.Caption" Value="Estado" />
+			<Item Name="Columns.Subject.Caption" Value="Asunto" />
+			<Item Name="Columns.Symptoms.Caption" Value="Descripción" />
+		</Items>
+	</Group>
+</Resources>

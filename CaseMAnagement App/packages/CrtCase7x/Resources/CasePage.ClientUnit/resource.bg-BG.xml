@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Редактирай схема на страница - секция &quot;Случаи&quot;" />
+			<Item Name="LocalizableStrings.AccountCaption.Value" Value="Account" />
+			<Item Name="LocalizableStrings.ActualDateGroupCaption.Value" Value="Времева рамка за обработка" />
+			<Item Name="LocalizableStrings.AssignToMeCaption.Value" Value="Възложи на мен" />
+			<Item Name="LocalizableStrings.CaseInformationTabCaption.Value" Value="Информация за случая" />
+			<Item Name="LocalizableStrings.ClosureCodeCaption.Value" Value="Reason for closing" />
+			<Item Name="LocalizableStrings.ClosureDateCaption.Value" Value="Closed on" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Контакт" />
+			<Item Name="LocalizableStrings.CreatedOnCaption.Value" Value="Created:" />
+			<Item Name="LocalizableStrings.CurrentStatusGroupCaption.Value" Value="Current status" />
+			<Item Name="LocalizableStrings.DaysCaptionSuffix.Value" Value="d" />
+			<Item Name="LocalizableStrings.DefaultHeader.Value" Value="Случай #{0}" />
+			<Item Name="LocalizableStrings.DelayHeaderCaptionSuffix.Value" Value="Забавяне:" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FeedbackGroupCaption.Value" Value="Обратна връзка" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Информация за случая" />
+			<Item Name="LocalizableStrings.GroupCaption.Caption" Value="Групова отговорност" />
+			<Item Name="LocalizableStrings.GroupCaption.Value" Value="Назначен екип" />
+			<Item Name="LocalizableStrings.HeaderTemplate.Value" Value="Случай #{0}: {1}" />
+			<Item Name="LocalizableStrings.HoursCaptionSuffix.Value" Value="h" />
+			<Item Name="LocalizableStrings.IndicatorsGroupCaption.Value" Value="Показатели" />
+			<Item Name="LocalizableStrings.LeftHeaderCaptionSuffix.Value" Value="Оставащи:" />
+			<Item Name="LocalizableStrings.MinutesCaptionSuffix.Value" Value="м" />
+			<Item Name="LocalizableStrings.NotesFilesTabCaption.Value" Value="Прикачени файлове" />
+			<Item Name="LocalizableStrings.NumberCaption.Value" Value="Number" />
+			<Item Name="LocalizableStrings.OriginCaption.Value" Value="Източник" />
+			<Item Name="LocalizableStrings.OwnerCaption.Caption" Value="Собственик" />
+			<Item Name="LocalizableStrings.OwnerCaption.Value" Value="Assignee" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Caption" Value="Надпис родителски случай" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Value" Value="Родителски случай" />
+			<Item Name="LocalizableStrings.PriorityCaption.Value" Value="Приоритет" />
+			<Item Name="LocalizableStrings.RatingGroupCaption.Value" Value="Оценка" />
+			<Item Name="LocalizableStrings.RegisteredOnCaption.Value" Value="Registration date" />
+			<Item Name="LocalizableStrings.RelationsTabCaption.Value" Value="Планирано време за реакция" />
+			<Item Name="LocalizableStrings.RequiredContactOrAccountMessage.Value" Value="Моля попълни или поле &quot;Юридическо Лице&quot; или поле &quot;Контакт&quot;" />
+			<Item Name="LocalizableStrings.RespondedOnCaption.Value" Value="Действително време за отговор" />
+			<Item Name="LocalizableStrings.ResponseDateCaption.Value" Value="Планирано време за реакция" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCaption.Value" Value="Оценка" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentCaption.Value" Value="Коментар на потребител" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Caption" Value="Подсказка за Коментар на Нивото на Удовлетвореност" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Value" Value="За да промениш обратната връзка, трябва да имаш права на работа „Възможност за промяна на нивото на удовлетвореност от случая“" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Caption" Value="Tooltip for Satisfaction Level" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Value" Value="За да промениш нивото на удовлетвореност, трябва да имаш права върху операцията „Възможност за промяна на нивото на удовлетвореност на случая“" />
+			<Item Name="LocalizableStrings.SolutionCaption.Value" Value="Resolution" />
+			<Item Name="LocalizableStrings.SolutionDateCaption.Value" Value="Планирано време за разрешаване на проблема" />
+			<Item Name="LocalizableStrings.SolutionGroupCaption.Value" Value="Resolution" />
+			<Item Name="LocalizableStrings.SolutionProvidedOnCaption.Value" Value="Actual resolution time" />
+			<Item Name="LocalizableStrings.SolutionTabCaption.Value" Value="Планирано време за реакция" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Caption" Value="SolvedOnSupportLevelCaption" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="Resolved by" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Статус" />
+			<Item Name="LocalizableStrings.SubjectCaption.Value" Value="Тема" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Следвай публикацията" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Сега следваш публикация: {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Caption" Value="SupportLevelCaption" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Support line" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="Description" />
+			<Item Name="LocalizableStrings.TermsControlGroupCaption.Value" Value="Условия" />
+			<Item Name="LocalizableStrings.TermsGroupCaption.Value" Value="Времева рамка" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Caption" Value="TimeZoneSysSettingMessage" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Value" Value="&lt;p&gt;За показване се използва следната часова зона&#xA;дати:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Часовата зона, посочена в твоя &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;Потребителски профил.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Ако часовата зона на профила не е зададена, ще се използва часовата зона по подразбиране (посочена в &lt;a href=&quot;../Nui/ViewModule.aspx #CardModuleV2/SysSettingPage/edit/12fef2c9-8baa-4b07-88e4-464169a44775&quot;&gt;&quot;Часова зона по подразбиране&quot;&lt;/a&gt; системна настройка).&lt;/li&gt;&lt;/ol&gt;" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Caption" Value="TimeZoneUserProfileMessage" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Value" Value="&lt;p&gt;Часовите зони могат да се показват по три различни начина:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Часовата зона, посочена в твоя профил,&lt;/li&gt;&#xA;&lt;li&gt;Системна настройка „Часова зона по подразбиране“,&lt;/li&gt;&#xA;&lt;li&gt;Часова зона „Време в UTC“.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Може да конфигурираш часова зона в твоя &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;Потребителски профил &quot;&lt;/a&gt; или се свържи със системния администратор.&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отследвай публикацията" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Спря да следваш публикация: {0}" />
+		</Items>
+	</Group>
+</Resources>

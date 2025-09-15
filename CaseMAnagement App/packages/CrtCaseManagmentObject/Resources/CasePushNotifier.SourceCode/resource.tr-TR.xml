@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CasePushNotifier" />
+			<Item Name="LocalizableStrings.NewMessageNotificationTemplate.Value" Value="Davanız için yeni bir mesaj aldınız" />
+			<Item Name="LocalizableStrings.NewStatusNotificationTemplate.Value" Value="Vaka durumu &quot;{0}&quot; olarak değiştirildi." />
+			<Item Name="LocalizableStrings.PushTitleTemplate.Value" Value="Olgu #{0}" />
+		</Items>
+	</Group>
+</Resources>

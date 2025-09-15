@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Membru al echipei de serviciu" />
+			<Item Name="Columns.Engineer.Caption" Value="Member/team" />
+			<Item Name="Columns.ServiceItem.Caption" Value="Serviciu" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Linie suport" />
+		</Items>
+	</Group>
+</Resources>

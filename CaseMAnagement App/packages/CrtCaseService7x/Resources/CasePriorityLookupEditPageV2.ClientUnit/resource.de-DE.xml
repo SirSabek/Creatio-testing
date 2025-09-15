@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Priorities in the support level lookup page" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Standardbild" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Antwortzeitfelder füllen" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Antwortzeitfelder füllen" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Lösungszeitfelder füllen" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Lösungszeitfelder füllen" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="Aktueller Wert existiert bereits" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="Aktueller Wert existiert bereits" />
+		</Items>
+	</Group>
+</Resources>

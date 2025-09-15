@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сервис установки уровня удовлетворенности" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Value" Value="Комментарий к оценке был изменен" />
+			<Item Name="LocalizableStrings.SatisfactionLevelMessage.Value" Value="Оценка была изменена на {0}" />
+		</Items>
+	</Group>
+</Resources>

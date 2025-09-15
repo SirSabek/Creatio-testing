@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CaseRatingFeedbackPage" />
+			<Item Name="Images.8d68610d-8477-4874-9c89-f01cf792fec0.Caption" Value="Background" />
+			<Item Name="LocalizableStrings.AddCommentCaption.Caption" Value="AddCommentCaption" />
+			<Item Name="LocalizableStrings.AddCommentCaption.Value" Value="评论" />
+			<Item Name="LocalizableStrings.AddCommentHint.Caption" Value="AddCommentHint" />
+			<Item Name="LocalizableStrings.AddCommentHint.Value" Value="我们一直在考虑提高我们服务的质量。 如果你可以向我们提供一些细节并留下一个评论，这会非常受欢迎！" />
+			<Item Name="LocalizableStrings.CommentIsEmpty.Caption" Value="CommentIsEmpty" />
+			<Item Name="LocalizableStrings.CommentIsEmpty.Value" Value="评论文本为空！" />
+			<Item Name="LocalizableStrings.PostButtonCaption.Caption" Value="PostButtonCaption" />
+			<Item Name="LocalizableStrings.PostButtonCaption.Value" Value="发布评论" />
+			<Item Name="LocalizableStrings.PostCommentFailed.Caption" Value="PostCommentFailed" />
+			<Item Name="LocalizableStrings.PostCommentFailed.Value" Value="发生错误。评论没有添加。" />
+			<Item Name="LocalizableStrings.PostCommentSuccess.Caption" Value="PostCommentSuccess" />
+			<Item Name="LocalizableStrings.PostCommentSuccess.Value" Value="元素已成功移除" />
+			<Item Name="LocalizableStrings.ThanksMessage.Caption" Value="ThanksMessage" />
+			<Item Name="LocalizableStrings.ThanksMessage.Value" Value="您的反馈已经收到。谢谢！" />
+		</Items>
+	</Group>
+</Resources>

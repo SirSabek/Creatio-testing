@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Case samenvatten" />
+			<Item Name="Description" Value="Genereer een samenvatting van support case" />
+		</Items>
+	</Group>
+</Resources>

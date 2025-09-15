@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "8fd63b29-af67-4930-9e77-83bed903d220",
+    "Name": "InsertPortalUserCanReadRightsMSSql",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1492078406000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

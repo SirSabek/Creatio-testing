@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Impostazione del livello di soddisfazione" />
+			<Item Name="Columns.Case.Caption" Value="Caso" />
+			<Item Name="Columns.Comment.Caption" Value="Commento" />
+			<Item Name="Columns.Point.Caption" Value="Valutazione" />
+		</Items>
+	</Group>
+</Resources>

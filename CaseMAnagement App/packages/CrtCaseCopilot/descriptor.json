@@ -1,0 +1,28 @@
+﻿{
+  "Descriptor": {
+    "UId": "7f44885b-2fe5-7785-469d-4606220c1f6a",
+    "PackageVersion": "7.8.0",
+    "Name": "CrtCaseCopilot",
+    "ModifiedOnUtc": "\/Date(1732030533000)\/",
+    "Maintainer": "Creatio",
+    "DependsOn": [
+      {
+        "UId": "5ef9db41-8594-97d1-ab9d-8ca7106e5e53",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseManagement",
+        "Type": 1
+      },
+      {
+        "UId": "bda2916d-1b8a-1fa2-ab37-43798c48146f",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSLMITILService",
+        "Type": 1
+      },
+      {
+        "UId": "f9a361ad-8965-4c55-922a-d13d1bac8c39",
+        "PackageVersion": "7.8.0",
+        "Name": "OmnichannelMessaging"
+      }
+    ]
+  }
+}

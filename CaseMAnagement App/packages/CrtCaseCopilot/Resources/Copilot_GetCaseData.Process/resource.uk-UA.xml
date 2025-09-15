@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SetCaseScriptTask.Caption" Value="Завантажити та встановити звернення" />
+			<Item Name="Caption" Value="Отримати дані звернення" />
+			<Item Name="Description" Value="Отримує інформацію про звернення за номером" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.Case.Caption" Value="Дані звернення" />
+			<Item Name="Parameters.Case.Sys_Description" Value="Значення колонок звернення" />
+			<Item Name="Parameters.CaseNumber.Caption" Value="CaseNumber" />
+			<Item Name="Parameters.CaseNumber.Sys_Description" Value="Номер Звернення" />
+			<Item Name="Parameters.IsCaseFound.Caption" Value="Чи знайдено звернення" />
+			<Item Name="Parameters.IsCaseFound.Sys_Description" Value="Вказує на те, що Звернення було знайдено за вказаним номером" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,179 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessSchemaManager",
+      "UId": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+      "A2": "SatisfactionUpdateProcess",
+      "A5": "9141d462-7675-4656-8ea8-25b81010cd22",
+      "B1": [],
+      "B2": [],
+      "B3": [
+        {
+          "UId": "ca2c725f-edc8-445a-a394-c112481e1f94",
+          "A2": "System.Linq",
+          "A3": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A4": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A5": "9141d462-7675-4656-8ea8-25b81010cd22",
+          "GF1": "null"
+        },
+        {
+          "UId": "2c267f4e-2dc4-4414-8725-4fc3c492c5aa",
+          "A2": "Terrasoft.Configuration",
+          "A3": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A4": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A5": "9141d462-7675-4656-8ea8-25b81010cd22",
+          "GF1": "null"
+        }
+      ],
+      "B6": "83b1062a-d944-eba7-a72b-5400034c6223",
+      "B8": "0.0.0.0",
+      "FJ1": [],
+      "IJ3": false,
+      "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+        "A4": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "BK1": "FFFFFFFF",
+      "BK2": "FFBBBBBB",
+      "BK3": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+          "UId": "8f1a79b9-e0b9-4065-bb4c-6773b9d9a52f",
+          "A2": "LaneSet1",
+          "A3": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A4": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A5": "9141d462-7675-4656-8ea8-25b81010cd22",
+          "BL3": "5;5",
+          "BL5": 1,
+          "BL6": "LaneSet",
+          "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+          "BL8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "BM1": 0,
+          "BM4": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+              "UId": "28ed4bf2-6990-4640-a02d-25e42219854d",
+              "A2": "Lane1",
+              "A3": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+              "A4": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+              "A5": "9141d462-7675-4656-8ea8-25b81010cd22",
+              "IL2": "8f1a79b9-e0b9-4065-bb4c-6773b9d9a52f",
+              "BL3": "29;0",
+              "BL5": 1,
+              "BL6": "Lane",
+              "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+              "CD1": [],
+              "CD2": [],
+              "CD4": "8f1a79b9-e0b9-4065-bb4c-6773b9d9a52f",
+              "CD7": []
+            }
+          ]
+        }
+      ],
+      "BK5": [],
+      "BK4": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartEvent",
+          "UId": "03ed6b2a-7daa-4d2e-acc8-3c5231eb7a36",
+          "A2": "Start1",
+          "A3": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A4": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A5": "9141d462-7675-4656-8ea8-25b81010cd22",
+          "IL2": "28ed4bf2-6990-4640-a02d-25e42219854d",
+          "BL3": "50;184",
+          "BL6": "Event",
+          "BL7": "53818048-7868-48f6-ada0-0ebaa65af628",
+          "BL8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "BN2": "27;27",
+          "BO3": true,
+          "FC1": [],
+          "ED1": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
+          "UId": "bf5a4500-60e8-49a7-b936-cab4fc19a130",
+          "A2": "Terminate1",
+          "A3": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A4": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A5": "9141d462-7675-4656-8ea8-25b81010cd22",
+          "IL2": "28ed4bf2-6990-4640-a02d-25e42219854d",
+          "BL3": "309;184",
+          "BL6": "Event",
+          "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "BN2": "27;27",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaScriptTask",
+          "UId": "d1cfdcbf-8b95-4b1f-96a9-755138c91dd2",
+          "A2": "SetSatisfactionLevelScriptTask",
+          "A3": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A4": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A5": "9141d462-7675-4656-8ea8-25b81010cd22",
+          "IL2": "28ed4bf2-6990-4640-a02d-25e42219854d",
+          "BL3": "155;170",
+          "BL6": "Task",
+          "BL7": "0e490dda-e140-4441-b600-6f5c64d024df",
+          "BL8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "BN2": "69;55",
+          "BO3": true,
+          "BP2": [],
+          "CL2": "FFFFFFFF",
+          "CH1": "\tvar esq = new EntitySchemaQuery(UserConnection.EntitySchemaManager, \"SatisfactionUpdate\");\r\n\tesq.PrimaryQueryColumn.IsAlwaysSelect = true;\r\n\tstring createdOnColumnName = esq.AddColumn(\"CreatedOn\").OrderByDesc().Name;\r\n\tstring caseIdColumnName = esq.AddColumn(\"Case.Id\").Name;\r\n\tstring pointColumnName = esq.AddColumn(\"Point\").Name;\r\n\tstring commentColumnName = esq.AddColumn(\"Comment\").Name;\t\t\t\t\t\t\t\r\n\tEntityCollection updates = esq.GetEntityCollection(UserConnection);\r\n\tif (!updates.Any()) {\r\n\t\treturn true;\r\n\t}\r\n\tvar points = new Dictionary<Guid, SatisfactionLevelPoint>();\r\n\tforeach (Entity entity in updates) {\r\n\t\tvar id = entity.GetTypedColumnValue<Guid>(caseIdColumnName);\r\n\t\tif (points.ContainsKey(id)) {\r\n\t\t\tvar point = points[id];\r\n\t\t\tpoint.Comment = string.IsNullOrEmpty(point.Comment) ? entity.GetTypedColumnValue<string>(commentColumnName) : point.Comment;\r\n\t\t\tpoint.Point = point.Point == 0 ? entity.GetTypedColumnValue<int>(pointColumnName) : point.Point;\r\n\t\t} else {\r\n\t\t\tpoints.Add(id, new SatisfactionLevelPoint { Point = entity.GetTypedColumnValue<int>(pointColumnName),\r\n\t\t\t\tComment = entity.GetTypedColumnValue<string>(commentColumnName)\r\n\t\t\t});\r\n\t\t}\r\n\t}\r\n\tvar deleteKeys = new List<Guid>();\r\n\tDictionary<int, Guid> satisfactionLevels = GetDictionarySatisfactionLevel();\r\n\tEntitySchema caseEntitySchema = UserConnection.EntitySchemaManager.FindInstanceByName(\"Case\");\r\n\tEntity caseEntity = caseEntitySchema.CreateEntity(UserConnection);\r\n\tcaseEntity.UseAdminRights = false;\r\n\tforeach (var point in points) {\r\n\t\tif (caseEntity.FetchFromDB(point.Key)) {\r\n\t\t\tvar estimate = point.Value.Point;\r\n\t\t\tif (satisfactionLevels.ContainsKey(estimate)) {\r\n\t\t\t\tcaseEntity.SetColumnValue(\"SatisfactionLevelId\", satisfactionLevels[estimate]);\r\n\t\t\t}\r\n\t\t\tif (!string.IsNullOrWhiteSpace(point.Value.Comment)) {\r\n\t\t\t\tcaseEntity.SetColumnValue(\"SatisfactionLevelComment\", point.Value.Comment);\r\n\t\t\t}\r\n\t\t\tcaseEntity.Save(false);\r\n\t\t\t}\r\n\t\t}\r\n\t\tdeleteKeys.AddRange(updates.Select(u => u.PrimaryColumnValue));\r\n\t\tif (deleteKeys.Any()) {\r\n\t\t\tvar deleteQuery = new Delete(UserConnection)\r\n\t\t\t\t.From(\"SatisfactionUpdate\")\r\n\t\t\t\t.Where(\"Id\").In(Column.Parameters(deleteKeys)) as Delete;\r\n\t\t\tdeleteQuery.Execute();\r\n\t\t\t}\r\n\treturn true;"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "c35981e6-30bd-4881-a05d-ea9eb86708a0",
+          "A2": "SequenceFlow1",
+          "A3": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A4": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A5": "9141d462-7675-4656-8ea8-25b81010cd22",
+          "BL6": "SequenceFlow",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "CI1": "03ed6b2a-7daa-4d2e-acc8-3c5231eb7a36",
+          "CI2": "d1cfdcbf-8b95-4b1f-96a9-755138c91dd2",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI9": "373;203"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "01d452f2-ee08-430e-a761-667ecdf437b2",
+          "A2": "SequenceFlow2",
+          "A3": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A4": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+          "A5": "9141d462-7675-4656-8ea8-25b81010cd22",
+          "BL6": "SequenceFlow",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "CI1": "d1cfdcbf-8b95-4b1f-96a9-755138c91dd2",
+          "CI2": "bf5a4500-60e8-49a7-b936-cab4fc19a130",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI9": "373;203"
+        }
+      ],
+      "BK9": [],
+      "BK29": true,
+      "BK33": "\r\npublic virtual Dictionary<int, Guid> GetDictionarySatisfactionLevel() {\r\n\tvar ESQ = new EntitySchemaQuery(UserConnection.EntitySchemaManager, \"SatisfactionLevel\");\r\nESQ.AddAllSchemaColumns();\r\nvar satisfactionLevels = ESQ.GetEntityCollection(UserConnection);\r\nvar retDictionary = new Dictionary<int, Guid>();\r\nforeach(var satisfactionLevel in satisfactionLevels) {\r\n\tvar point = satisfactionLevel.GetTypedColumnValue<int>(\"Point\");\r\n\tif(!retDictionary.ContainsKey(point)) {\r\n\t\tretDictionary.Add(point, satisfactionLevel.PrimaryColumnValue);\r\n\t}\r\n}\r\nreturn retDictionary;\r\n}\r\n\r\n",
+      "BK34": "en-US",
+      "Labels": [],
+      "BK24": []
+    }
+  }
+}

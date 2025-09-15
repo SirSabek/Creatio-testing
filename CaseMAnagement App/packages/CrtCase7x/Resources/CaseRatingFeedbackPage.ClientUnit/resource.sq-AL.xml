@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CaseRatingFeedbackPage" />
+			<Item Name="Images.8d68610d-8477-4874-9c89-f01cf792fec0.Caption" Value="Sfondi" />
+			<Item Name="LocalizableStrings.AddCommentCaption.Caption" Value="AddCommentCaption" />
+			<Item Name="LocalizableStrings.AddCommentCaption.Value" Value="Comment" />
+			<Item Name="LocalizableStrings.AddCommentHint.Caption" Value="AddCommentHint" />
+			<Item Name="LocalizableStrings.AddCommentHint.Value" Value="Ne bëjmë përpjekje të vazhdueshme për të përmirësuar cilësinë e shërbimeve tona, ndaj do ta vlerësonim shumë nëse do të ndash disa detaje dhe të lësh një koment!" />
+			<Item Name="LocalizableStrings.CommentIsEmpty.Caption" Value="CommentIsEmpty" />
+			<Item Name="LocalizableStrings.CommentIsEmpty.Value" Value="Teksti i komentit është bosh!" />
+			<Item Name="LocalizableStrings.PostButtonCaption.Caption" Value="PostButtonCaption" />
+			<Item Name="LocalizableStrings.PostButtonCaption.Value" Value="Posto komentin" />
+			<Item Name="LocalizableStrings.PostCommentFailed.Caption" Value="PostCommentFailed" />
+			<Item Name="LocalizableStrings.PostCommentFailed.Value" Value="Ndodhi gabim. Komenti nuk u shtua." />
+			<Item Name="LocalizableStrings.PostCommentSuccess.Caption" Value="PostCommentSuccess" />
+			<Item Name="LocalizableStrings.PostCommentSuccess.Value" Value="Komenti u shtua me sukses" />
+			<Item Name="LocalizableStrings.ThanksMessage.Caption" Value="ThanksMessage" />
+			<Item Name="LocalizableStrings.ThanksMessage.Value" Value="Reagimi yt u mor. Faleminderit!" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Stranica s popisom zahtjeva" />
+			<Item Name="LocalizableStrings.ActionsButton_caption.Value" Value="Akcije" />
+			<Item Name="LocalizableStrings.Button_e04zrky_caption.Value" Value="Gumb" />
+			<Item Name="LocalizableStrings.ClosedCasesQuickFilter_config_caption.Value" Value="Prikaži zatvorene zahtjeve" />
+			<Item Name="LocalizableStrings.MenuItem_8m672s8_caption.Value" Value="Izvoz u Excel" />
+			<Item Name="LocalizableStrings.MenuItem_ixsnk8a_caption.Value" Value="Uvoz podataka" />
+			<Item Name="LocalizableStrings.MenuItem_sy8z6b6_caption.Value" Value="Uvoz podataka" />
+			<Item Name="LocalizableStrings.QuickFilter_92htqsb_config_caption.Value" Value="Prikaži zatvorene zahtjeve" />
+		</Items>
+	</Group>
+</Resources>

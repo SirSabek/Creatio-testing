@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f9f6082f-e4c2-4b11-b02e-75f27d626477",
+    "Name": "ICategoryFromSupportMailBox",
+    "ModifiedOnUtc": "\/Date(1493910438000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ICategoryFromSupportMailBox",
+    "DependsOn": []
+  }
+}

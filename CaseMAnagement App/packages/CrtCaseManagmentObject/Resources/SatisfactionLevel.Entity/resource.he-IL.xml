@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="רמת שביעות רצון" />
+			<Item Name="Columns.Colour.Caption" Value="צבע" />
+			<Item Name="Columns.Image.Caption" Value="תמונה" />
+			<Item Name="Columns.IsActive.Caption" Value="שימושי" />
+			<Item Name="Columns.Point.Caption" Value="נקודה" />
+			<Item Name="Columns.Status.Caption" Value="סטטוס" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="القائمة السوداء لعناوين البريد الإلكتروني ونطاقات تسجيل الحالة" />
+			<Item Name="Columns.Name.Caption" Value="البريد الإلكتروني أو النطاق" />
+			<Item Name="Columns.TypeOfField.Caption" Value="نوع الحقل" />
+		</Items>
+	</Group>
+</Resources>

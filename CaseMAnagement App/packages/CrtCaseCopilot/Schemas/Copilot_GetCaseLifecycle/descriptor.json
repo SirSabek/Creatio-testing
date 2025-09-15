@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3c436329-3f23-4543-8456-74c4dc250b62",
+    "Name": "Copilot_GetCaseLifecycle",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Get Case Lifecycle",
+    "DependsOn": []
+  }
+}

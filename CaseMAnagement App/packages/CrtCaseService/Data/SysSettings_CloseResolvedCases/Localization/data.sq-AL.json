@@ -1,0 +1,23 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "34904d3c-5764-40f3-9b48-1e4db4833582"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Mbyll automatikisht çështjet e zgjidhura"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": "Përcakto kutizën e kontrollit për të mbyllur automatikisht çështjet e zgjidhura pas një numri të përcaktuar ditësh te konfigurimet e sistemit \"Numri i ditëve të pritjes për të rivlerësuar çështjen e zgjidhur\" dhe \"Numrin e ditë të pritjes pas një rikujtese të dytë për çështjen e zgjidhur\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "3355c61f-b8cc-fc2a-d02f-80b7ea4024ad",
+    "Name": "CrtTRServiceItemIUMSSql",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1666262817000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

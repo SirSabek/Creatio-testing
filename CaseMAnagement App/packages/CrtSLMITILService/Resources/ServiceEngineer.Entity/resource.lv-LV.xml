@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Servisa komandas dalībnieks" />
+			<Item Name="Columns.Engineer.Caption" Value="Dalībnieks/komanda" />
+			<Item Name="Columns.ServiceItem.Caption" Value="Service" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Atbalsta līnija" />
+		</Items>
+	</Group>
+</Resources>

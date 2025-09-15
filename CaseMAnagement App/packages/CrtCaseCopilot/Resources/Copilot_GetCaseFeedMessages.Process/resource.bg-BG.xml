@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadFeeds.Caption" Value="Прочети съобщенията в публикацията" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.AggregationColumnName.Caption" Value="Име на колоната с агрегатна функция" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.CanReadUncommitedData.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ConsiderTimeInFilter.Caption" Value="Помисли за времето във филтъра" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ConsiderTimeInFilter.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.DataSourceFilters.Caption" Value="Филтри за източници на данни" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.EntityColumnMetaPathes.Caption" Value="Колони за четене" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.EntityColumnMetaPathes.DisplayValue" Value="ebf6bb93-8aa6-4a01-900d-c6ea67affe21;e80190a5-03b2-4095-90f7-a193a960adee;fb47c81f-a125-488b-b2fb-05415b8da84c" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.FunctionType.Caption" Value="Тип агрегатна функция" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.IgnoreDisplayValues.Caption" Value="Не чети показаните стойности на търсещите колони" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.NumberOfRecords.DisplayValue" Value="30" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.OrderInfo.Caption" Value="Ред на колоните" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.OrderInfo.DisplayValue" Value="CreatedOn:2:1" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ReadSomeTopRecords.Caption" Value="Прочети първо" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ReadSomeTopRecords.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Контакт" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Created on" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.Message.Caption" Value="Съобщение/коментар" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCount.Caption" Value="Брой записи" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultDateTimeFunction.Caption" Value="Резултат от функцията (Дата/Час)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultEntity.Caption" Value="Първи елемент от получената колекция" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultEntityCollection.Caption" Value="Получена колекция" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultFloatFunction.Caption" Value="Резултат от функцията (Десетично число)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultIntegerFunction.Caption" Value="Резултат от функцията (Цяло число)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultType.Caption" Value="Тип резултат" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultType.DisplayValue" Value="2" />
+			<Item Name="BaseElements.RemoveHtmlScriptTask.Caption" Value="Премахни HTML таговете" />
+			<Item Name="Caption" Value="Получавай Съобщения за Публикацията на Случай" />
+			<Item Name="Description" Value="Получаване на последните 30 съобщения от случай въз основа на идентификатор на случай" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Пътека 1" />
+			<Item Name="NotificationCaption.Caption" Value="Надпис на инстанцията на процеса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="Идентификатор на случай" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="Уникален идентификатор на случая" />
+			<Item Name="Parameters.FeedMessages.Caption" Value="Съобщения от публикация" />
+			<Item Name="Parameters.FeedMessages.CreatedBy.Caption" Value="CreatedBy" />
+			<Item Name="Parameters.FeedMessages.CreatedBy.Sys_Description" Value="Автор на съобщението" />
+			<Item Name="Parameters.FeedMessages.CreatedOn.Caption" Value="Created on" />
+			<Item Name="Parameters.FeedMessages.CreatedOn.Sys_Description" Value="Дата на създаване" />
+			<Item Name="Parameters.FeedMessages.Message.Caption" Value="Message" />
+			<Item Name="Parameters.FeedMessages.Message.Sys_Description" Value="Основен текст на съобщението" />
+			<Item Name="Parameters.FeedMessages.Sys_Description" Value="Последните 10 съобщения в публикация по случай" />
+		</Items>
+	</Group>
+</Resources>

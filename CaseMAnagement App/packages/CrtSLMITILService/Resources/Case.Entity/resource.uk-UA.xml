@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Holder.Caption" Value="Власник" />
+			<Item Name="Columns.ServiceCategory.Caption" Value="Категорія сервису" />
+			<Item Name="Columns.ServicePact.Caption" Value="SLA" />
+			<Item Name="Columns.SolvedOnSupportLevel.Caption" Value="Вирішено на рівні" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Рівень підтримки" />
+		</Items>
+	</Group>
+</Resources>

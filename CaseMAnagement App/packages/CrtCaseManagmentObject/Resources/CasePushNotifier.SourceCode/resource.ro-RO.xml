@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CasePushNotifier" />
+			<Item Name="LocalizableStrings.NewMessageNotificationTemplate.Value" Value="Ați primit un mesaj nou pentru cazul dvs." />
+			<Item Name="LocalizableStrings.NewStatusNotificationTemplate.Value" Value="Starea cazului a fost schimbată în &quot;{0}&quot;" />
+			<Item Name="LocalizableStrings.PushTitleTemplate.Value" Value="Caz #{0}" />
+		</Items>
+	</Group>
+</Resources>

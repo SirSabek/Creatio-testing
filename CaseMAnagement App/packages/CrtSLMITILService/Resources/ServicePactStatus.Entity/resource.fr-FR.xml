@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Statut du contrat de service" />
+			<Item Name="Columns.Color.Caption" Value="Couleur" />
+			<Item Name="Columns.IsActive.Caption" Value="Est en cours" />
+		</Items>
+	</Group>
+</Resources>

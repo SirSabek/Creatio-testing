@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f17547d2-226b-4661-872c-1dadafb69117",
+    "Name": "CaseStatusStore",
+    "ModifiedOnUtc": "\/Date(1511521697000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CaseStatusStore",
+    "DependsOn": []
+  }
+}

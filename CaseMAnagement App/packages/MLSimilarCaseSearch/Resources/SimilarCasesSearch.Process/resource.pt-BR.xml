@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.DeleteDataUserTask1.Caption" Value="Limpar os resultados anteriores" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Filtros da fonte de dados" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Objeto" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.IsMatchConditions.Caption" Value="O objeto deve atender às seguintes condições" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Caption" Value="Pesquisar por casos semelhantes" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFFilterAlreadyInteractedItems.Caption" Value="Receber recomendações para um item que interagiu anteriormente" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFFilterAlreadyInteractedItems.DisplayValue" Value="verdadeiro" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFItemFilterData.Caption" Value="Objeto recomendado" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFUserFilterData.Caption" Value="Recomendado para (Assunto)" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.IsBatchPrediction.Caption" Value="Usar predição em lote?" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.MLModelId.Caption" Value="Modelo de Machine Learning" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.MLModelId.DisplayValue" Value="Similar case search" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.PredictionFilterData.Caption" Value="Em quais registros realizar a predição?" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.RecordId.Caption" Value="Em qual registro realizar a predição?" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.RecordId.DisplayValue" Value="[#Case identifier#]" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.TopN.Caption" Value="Número de itens preditos" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.TopN.DisplayValue" Value="5" />
+			<Item Name="BaseElements.StartEvent1.Caption" Value="Processo acionado" />
+			<Item Name="Caption" Value="Pesquisa de casos similares" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Faixa 1" />
+			<Item Name="NotificationCaption.Caption" Value="Legenda da instância do processo" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="Identificador do caso" />
+		</Items>
+	</Group>
+</Resources>

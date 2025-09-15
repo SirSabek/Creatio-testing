@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service team member" />
+			<Item Name="Columns.Engineer.Caption" Value="구성원/팀" />
+			<Item Name="Columns.ServiceItem.Caption" Value="서비스" />
+			<Item Name="Columns.SupportLevel.Caption" Value="지지선" />
+		</Items>
+	</Group>
+</Resources>

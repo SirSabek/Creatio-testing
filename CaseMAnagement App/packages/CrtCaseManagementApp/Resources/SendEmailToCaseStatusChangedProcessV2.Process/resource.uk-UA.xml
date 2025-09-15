@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Очистити власника після повторного відкриття звернення" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Фільтри джерела даних" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Об'єкт" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Якщо об'єкт відповідає умовам" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Значення полів" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Працюйте з кейсом та відправте email" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Звернення додано" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Унікальний ідентифікатор запису" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Звернення змінено" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Унікальний ідентифікатор запису" />
+			<Item Name="Caption" Value="Відправка email повідомлення контакту при зміні стану звернення" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Доріжка 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок екземпляру процесу" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

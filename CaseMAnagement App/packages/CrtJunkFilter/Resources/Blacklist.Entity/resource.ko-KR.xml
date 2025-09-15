@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="사례 등록을 위한 전자 메일 주소 및 도메인 블랙리스트" />
+			<Item Name="Columns.Name.Caption" Value="Email address or Domain" />
+			<Item Name="Columns.TypeOfField.Caption" Value="필드 유형" />
+		</Items>
+	</Group>
+</Resources>

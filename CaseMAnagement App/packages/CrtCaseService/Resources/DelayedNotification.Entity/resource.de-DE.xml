@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Verzögerte Benachrichtigung" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Aktuelles Sendedatum" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Assembly Qualified Manager Name" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Delay.Caption" Value="Verzögerung" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="E-Mailnachrichtentemplate" />
+			<Item Name="Columns.Error.Caption" Value="Fehler" />
+			<Item Name="Columns.SendDate.Caption" Value="Wenn gesendet" />
+		</Items>
+	</Group>
+</Resources>

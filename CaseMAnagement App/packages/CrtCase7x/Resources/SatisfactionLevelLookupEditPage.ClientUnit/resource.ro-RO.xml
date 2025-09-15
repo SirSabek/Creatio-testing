@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SatisfactionLevelLookupEditPage" />
+			<Item Name="Images.e40ee1e7-e961-42e2-b040-d270601ef686.Caption" Value="DefaultImage" />
+			<Item Name="LocalizableStrings.PointTipMessage.Caption" Value="PointTipMessage" />
+			<Item Name="LocalizableStrings.PointTipMessage.Value" Value="Introduceți un număr întreg (1, 2, 3...). Nivelul de satisfacție nu poate fi zero." />
+			<Item Name="LocalizableStrings.ShouldBeMoreThanZeroValidationMessage.Caption" Value="ShouldBeMoreThanZeroValidationMessage" />
+			<Item Name="LocalizableStrings.ShouldBeMoreThanZeroValidationMessage.Value" Value="Ar trebui să fie mai mare decât zero" />
+		</Items>
+	</Group>
+</Resources>

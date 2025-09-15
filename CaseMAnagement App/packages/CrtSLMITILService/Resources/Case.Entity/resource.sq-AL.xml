@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Holder.Caption" Value="Mbajtës" />
+			<Item Name="Columns.ServiceCategory.Caption" Value="Kategoria e shërbimit" />
+			<Item Name="Columns.ServicePact.Caption" Value="SLA" />
+			<Item Name="Columns.SolvedOnSupportLevel.Caption" Value="E zgjidhur nga" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Support line" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,40 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8a0abea7-52c7-456c-b340-ddc40ac58e4e"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "557d87b6-912d-493d-b7c6-0d41fe263c42",
+          "DisplayValue": "Junk Filter"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "7d972d1e-8f25-4c26-a407-8f959de8027a",
+          "DisplayValue": "Create Cases From Junk Emails"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e2f0270b-930f-4119-bd2d-4a6fbad37a29"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "557d87b6-912d-493d-b7c6-0d41fe263c42",
+          "DisplayValue": "Junk Filter"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "85668a90-3e17-4ad7-843a-10ec65a21521",
+          "DisplayValue": "Junk Case Default Status"
+        }
+      ]
+    }
+  ]
+}

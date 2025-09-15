@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "51b40818-bf00-40ad-8e8b-e9c961274620",
+    "Name": "IncidentRegistrationFromEmailProcess",
+    "ModifiedOnUtc": "\/Date(1756637879000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Incoming email registration process",
+    "DependsOn": []
+  }
+}

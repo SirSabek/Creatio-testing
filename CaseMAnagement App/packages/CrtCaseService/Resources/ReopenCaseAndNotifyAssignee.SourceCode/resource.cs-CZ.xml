@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ReopenCaseAndNotifyAssignee" />
+			<Item Name="LocalizableStrings.NotifySubject.Value" Value="Byl přijat nový e-mail dle požadavku č. {0}" />
+		</Items>
+	</Group>
+</Resources>

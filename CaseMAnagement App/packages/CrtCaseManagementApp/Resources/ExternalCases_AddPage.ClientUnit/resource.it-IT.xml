@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Aggiungi pagina ai casi esterni" />
+			<Item Name="LocalizableStrings.addRecord_cjmt287_caption.Value" Value="Aggiungi nuovo" />
+			<Item Name="LocalizableStrings.addRecord_f0f5oox_caption.Value" Value="Aggiungi nuovo" />
+			<Item Name="LocalizableStrings.addRecord_vbmqmp8_caption.Value" Value="Aggiungi nuovo" />
+		</Items>
+	</Group>
+</Resources>

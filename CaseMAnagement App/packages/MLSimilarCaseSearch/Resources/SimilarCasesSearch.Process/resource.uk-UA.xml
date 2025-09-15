@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.DeleteDataUserTask1.Caption" Value="Очищення попередніх результатів" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Фільтри джерела даних" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Об'єкт" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Об'єкт повинен відповідати умовам" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Caption" Value="Знайти схожі звернення" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFFilterAlreadyInteractedItems.Caption" Value="Рекомендувати об'єкт, з яким раніше була взаємодія" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFFilterAlreadyInteractedItems.DisplayValue" Value="true" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFItemFilterData.Caption" Value="Що рекомендувати (Предмет)" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.CFUserFilterData.Caption" Value="Кому рекомендувати (Суб'єкт)" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.IsBatchPrediction.Caption" Value="Використовувати пакетний режим прогнозування?" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.MLModelId.Caption" Value="Модель машинного навчання" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.MLModelId.DisplayValue" Value="Similar case search" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.PredictionFilterData.Caption" Value="За якими записами виконати прогнозування?" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.RecordId.Caption" Value="За яким записом виконати прогнозування?" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.RecordId.DisplayValue" Value="[#Case identifier#]" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.TopN.Caption" Value="Кількість рекомендованих елементів" />
+			<Item Name="BaseElements.MLDataPredictionUserTask1.Parameters.TopN.DisplayValue" Value="5" />
+			<Item Name="BaseElements.StartEvent1.Caption" Value="Процес викликано" />
+			<Item Name="Caption" Value="Пошук схожих звернень" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Доріжка 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок екземпляру процесу" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="Ідентифікатор звернення" />
+		</Items>
+	</Group>
+</Resources>

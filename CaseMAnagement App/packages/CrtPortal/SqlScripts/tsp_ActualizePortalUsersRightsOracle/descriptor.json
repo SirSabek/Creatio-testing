@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "fe5919f9-c6ae-439d-bb08-d591595b6332",
+    "Name": "tsp_ActualizePortalUsersRightsOracle",
+    "DBEngineType": 1,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1502968132000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

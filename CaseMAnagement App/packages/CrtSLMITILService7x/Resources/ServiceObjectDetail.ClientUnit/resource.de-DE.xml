@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Detailschema - Objekte" />
+			<Item Name="LocalizableStrings.AddAccountMenuCaption.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AddContactMenuCaption.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Serviceempfänger" />
+			<Item Name="LocalizableStrings.CreateDepartmentsMenuCaption.Value" Value="Abteilung auswählen" />
+		</Items>
+	</Group>
+</Resources>

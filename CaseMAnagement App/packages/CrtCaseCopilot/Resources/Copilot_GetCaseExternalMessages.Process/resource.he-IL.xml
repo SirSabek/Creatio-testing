@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.CheckObjectExistence.Caption" Value="בדוק אם קיימת טבלת הודעות בפורטל" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="אין הודעות חיצוניות בספקים" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="הפריט קיים" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Caption" Value="ספור הודעות חיצוניות בספקים" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.AggregationColumnName.Caption" Value="שם עמודת פונקציית האגרגציה" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.CanReadUncommitedData.Caption" Value="קרא נתונים לא מאושרים" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ConsiderTimeInFilter.Caption" Value="שקול זמן במסנן" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.DataSourceFilters.Caption" Value="מקור נתונים של פילטרים" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.EntityColumnMetaPathes.Caption" Value="עמודות לקרוא" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.FunctionType.Caption" Value="סוג פונקציה מצטברת" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.IgnoreDisplayValues.Caption" Value="אל תקרא ערכים המוצגים של עמודות חיפוש" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.NumberOfRecords.Caption" Value="מספר רשומות לקריאה" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.OrderInfo.Caption" Value="סדר עמודות" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ReadSomeTopRecords.Caption" Value="קרא ראשון" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultCompositeObjectList.Caption" Value="אוסף רשומות" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultCount.Caption" Value="מספר רשומות" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultEntity.Caption" Value="הפריט הראשון באוסף התוצאה" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultEntityCollection.Caption" Value="אוסף תוצאות" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultRowsCount.Caption" Value="מספר הרשומות שנקראו" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultType.Caption" Value="Result type" />
+			<Item Name="BaseElements.DefaultSequenceFlow3.Caption" Value="הפריט אינו קיים" />
+			<Item Name="BaseElements.ParallelGateway1.Caption" Value="קבל הודעות מערוצים חיצוניים" />
+			<Item Name="BaseElements.ReadActivities.Caption" Value="קרא מיילים" />
+			<Item Name="BaseElements.ReadActivities.Parameters.AggregationColumnName.Caption" Value="שם עמודת פונקציית האגרגציה" />
+			<Item Name="BaseElements.ReadActivities.Parameters.CanReadUncommitedData.Caption" Value="קרא נתונים לא מאושרים" />
+			<Item Name="BaseElements.ReadActivities.Parameters.CanReadUncommitedData.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ConsiderTimeInFilter.Caption" Value="שקול זמן במסנן" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ConsiderTimeInFilter.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ReadActivities.Parameters.DataSourceFilters.Caption" Value="מקור נתונים של פילטרים" />
+			<Item Name="BaseElements.ReadActivities.Parameters.EntityColumnMetaPathes.Caption" Value="עמודות לקרוא" />
+			<Item Name="BaseElements.ReadActivities.Parameters.EntityColumnMetaPathes.DisplayValue" Value="618e7503-83b1-452d-aa33-8f76792853b5;ae372cfa-a21f-47f0-8a64-17d137ebe966;070b689f-c9d8-46e3-bb52-bcb1f430f5cf;a12ca538-61b1-4907-9fdf-01969163d4dd" />
+			<Item Name="BaseElements.ReadActivities.Parameters.FunctionType.Caption" Value="סוג פונקציה מצטברת" />
+			<Item Name="BaseElements.ReadActivities.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadActivities.Parameters.IgnoreDisplayValues.Caption" Value="אל תקרא ערכים המוצגים של עמודות חיפוש" />
+			<Item Name="BaseElements.ReadActivities.Parameters.NumberOfRecords.Caption" Value="מספר רשומות לקריאה" />
+			<Item Name="BaseElements.ReadActivities.Parameters.NumberOfRecords.DisplayValue" Value="10" />
+			<Item Name="BaseElements.ReadActivities.Parameters.OrderInfo.Caption" Value="סדר עמודות" />
+			<Item Name="BaseElements.ReadActivities.Parameters.OrderInfo.DisplayValue" Value="CreatedOn:2:1" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ReadSomeTopRecords.Caption" Value="קרא ראשון" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ReadSomeTopRecords.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Body.Caption" Value="גוף ההודעה" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Caption" Value="אוסף רשומות" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.DetailedResult.Caption" Value="פרטי תוצאה" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Result.Caption" Value="תוצאה" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.StartDate.Caption" Value="התחלה" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCount.Caption" Value="מספר רשומות" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultEntity.Caption" Value="הפריט הראשון באוסף התוצאה" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultEntityCollection.Caption" Value="אוסף תוצאות" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultRowsCount.Caption" Value="מספר הרשומות שנקראו" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultType.Caption" Value="Result type" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultType.DisplayValue" Value="2" />
+			<Item Name="BaseElements.ReadChatlMessages.Caption" Value="קרא הודעות צ'אט" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.AggregationColumnName.Caption" Value="שם עמודת פונקציית האגרגציה" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.CanReadUncommitedData.Caption" Value="קרא נתונים לא מאושרים" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ConsiderTimeInFilter.Caption" Value="שקול זמן במסנן" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.DataSourceFilters.Caption" Value="מקור נתונים של פילטרים" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.EntityColumnMetaPathes.Caption" Value="עמודות לקרוא" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.FunctionType.Caption" Value="סוג פונקציה מצטברת" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.IgnoreDisplayValues.Caption" Value="אל תקרא ערכים המוצגים של עמודות חיפוש" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.NumberOfRecords.Caption" Value="מספר רשומות לקריאה" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.OrderInfo.Caption" Value="סדר עמודות" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ReadSomeTopRecords.Caption" Value="קרא ראשון" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.Caption" Value="אוסף רשומות" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="נוצר על ידי" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="נוצר בתאריך" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="הודעה" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCount.Caption" Value="מספר רשומות" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultEntity.Caption" Value="הפריט הראשון באוסף התוצאה" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultEntityCollection.Caption" Value="אוסף תוצאות" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultRowsCount.Caption" Value="מספר הרשומות שנקראו" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultType.Caption" Value="Result type" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Caption" Value="קרא הודעות מאספקת חוץ" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.AggregationColumnName.Caption" Value="שם עמודת פונקציית האגרגציה" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.CanReadUncommitedData.Caption" Value="קרא נתונים לא מאושרים" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ConsiderTimeInFilter.Caption" Value="שקול זמן במסנן" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.DataSourceFilters.Caption" Value="מקור נתונים של פילטרים" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.EntityColumnMetaPathes.Caption" Value="עמודות לקרוא" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.FunctionType.Caption" Value="סוג פונקציה מצטברת" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.IgnoreDisplayValues.Caption" Value="אל תקרא ערכים המוצגים של עמודות חיפוש" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.NumberOfRecords.Caption" Value="מספר רשומות לקריאה" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.OrderInfo.Caption" Value="סדר עמודות" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ReadSomeTopRecords.Caption" Value="קרא ראשון" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCompositeObjectList.Caption" Value="אוסף רשומות" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="הודעה/הערה" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCount.Caption" Value="מספר רשומות" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultEntity.Caption" Value="הפריט הראשון באוסף התוצאה" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultEntityCollection.Caption" Value="אוסף תוצאות" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultRowsCount.Caption" Value="מספר הרשומות שנקראו" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultType.Caption" Value="Result type" />
+			<Item Name="BaseElements.ReadPortalMessages.Caption" Value="קרא הודעות פורטל (מוזנח)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.AggregationColumnName.Caption" Value="שם עמודת פונקציית האגרגציה" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.CanReadUncommitedData.Caption" Value="קרא נתונים לא מאושרים" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ConsiderTimeInFilter.Caption" Value="שקול זמן במסנן" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.DataSourceFilters.Caption" Value="מקור נתונים של פילטרים" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.EntityColumnMetaPathes.Caption" Value="עמודות לקרוא" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.EntityColumnMetaPathes.DisplayValue" Value="9438b617-43b8-48a2-9295-c63f9171ea31" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.FunctionType.Caption" Value="סוג פונקציה מצטברת" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.IgnoreDisplayValues.Caption" Value="אל תקרא ערכים המוצגים של עמודות חיפוש" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.NumberOfRecords.Caption" Value="מספר רשומות לקריאה" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.NumberOfRecords.DisplayValue" Value="50" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.OrderInfo.Caption" Value="סדר עמודות" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ReadSomeTopRecords.Caption" Value="קרא ראשון" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ReadSomeTopRecords.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.Caption" Value="אוסף רשומות" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="איש קשר" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="נוצר בתאריך" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="הודעה" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCount.Caption" Value="מספר רשומות" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultEntity.Caption" Value="הפריט הראשון באוסף התוצאה" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultEntityCollection.Caption" Value="אוסף תוצאות" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultRowsCount.Caption" Value="מספר הרשומות שנקראו" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultType.Caption" Value="Result type" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.RemoveChatHtmlScriptTask.Caption" Value="הסר תגי HTML מתוך הודעות הצ'אט" />
+			<Item Name="BaseElements.RemoveEmailHtmlScriptTask.Caption" Value="הסר תגי HTML מדוא&quot;ל" />
+			<Item Name="BaseElements.RemoveFeedHtmlScriptTask.Caption" Value="הסר תגי HTML מהודעות חיצוניות" />
+			<Item Name="BaseElements.RemovePortalHtmlScriptTask.Caption" Value="הסר תגי HTML מהודעות פורטל" />
+			<Item Name="BaseElements.SequenceFlow13.Caption" Value="ערוץ דוא&quot;ל" />
+			<Item Name="BaseElements.SequenceFlow14.Caption" Value="זרם חיצוני" />
+			<Item Name="BaseElements.SequenceFlow15.Caption" Value="ריבוי ערוצי צ'אט" />
+			<Item Name="Caption" Value="קבל הודעות חיצוניות של המקרה" />
+			<Item Name="Description" Value="קבלת מידע על ההודעות האחרונות של המקרה עם לקוח לפי מזהה המקרה" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="קבוצת מסלול 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="נתיב 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance title" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#שם תהליך#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="מזהה המקרה" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="מזהה ייחודי של מקרה" />
+			<Item Name="Parameters.ChatMessages.Caption" Value="הודעות צ'אט" />
+			<Item Name="Parameters.ChatMessages.ChatMessage.Caption" Value="הודעת צ'אט" />
+			<Item Name="Parameters.ChatMessages.ChatMessage.Sys_Description" Value="גוף ההודעה" />
+			<Item Name="Parameters.ChatMessages.Contact.Caption" Value="איש קשר" />
+			<Item Name="Parameters.ChatMessages.Contact.Sys_Description" Value="איש קשר" />
+			<Item Name="Parameters.ChatMessages.StartDate.Caption" Value="תאריך התחלה" />
+			<Item Name="Parameters.ChatMessages.StartDate.Sys_Description" Value="תאריך התחלה" />
+			<Item Name="Parameters.EmailMessages.Body.Caption" Value="גוף ההודעה" />
+			<Item Name="Parameters.EmailMessages.Body.Sys_Description" Value="גוף ההודעה" />
+			<Item Name="Parameters.EmailMessages.Caption" Value="הודעות דוא&quot;ל" />
+			<Item Name="Parameters.EmailMessages.Result.Caption" Value="תוצאה" />
+			<Item Name="Parameters.EmailMessages.Result.Sys_Description" Value="תוצאה" />
+			<Item Name="Parameters.EmailMessages.ResultDetails.Caption" Value="פרטי תוצאה" />
+			<Item Name="Parameters.EmailMessages.ResultDetails.Sys_Description" Value="פרטי תוצאה" />
+			<Item Name="Parameters.EmailMessages.Start.Caption" Value="תאריך התחלה" />
+			<Item Name="Parameters.EmailMessages.Start.Sys_Description" Value="תאריך התחלה" />
+			<Item Name="Parameters.EmailMessages.Sys_Description" Value="50 הודעות אימייל אחרונות לפי מקרה" />
+			<Item Name="Parameters.ExternalFeedMessages.Body.Caption" Value="גוף ההודעה" />
+			<Item Name="Parameters.ExternalFeedMessages.Body.Sys_Description" Value="גוף ההודעה" />
+			<Item Name="Parameters.ExternalFeedMessages.Caption" Value="הודעות זרם חיצוני" />
+			<Item Name="Parameters.ExternalFeedMessages.Contact.Caption" Value="איש קשר" />
+			<Item Name="Parameters.ExternalFeedMessages.Contact.Sys_Description" Value="איש קשר" />
+			<Item Name="Parameters.ExternalFeedMessages.StartTime.Caption" Value="זמן התחלה" />
+			<Item Name="Parameters.ExternalFeedMessages.StartTime.Sys_Description" Value="זמן התחלה" />
+			<Item Name="Parameters.ExternalFeedMessages.Sys_Description" Value="50 ההודעות האחרונות מאספקות חיצוניות לפי מקרה" />
+			<Item Name="Parameters.PortalMessageTableExists.Caption" Value="האם טבלת הודעות הפורטל קיימת" />
+			<Item Name="Parameters.PortalMessageTableExists.DisplayValue" Value="[#ערך בוליאני. שקר#]" />
+		</Items>
+	</Group>
+</Resources>

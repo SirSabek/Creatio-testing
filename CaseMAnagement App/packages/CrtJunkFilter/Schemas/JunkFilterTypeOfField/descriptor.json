@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ba7ed54f-f565-4b27-a99d-99fe6a130b3e",
+    "Name": "JunkFilterTypeOfField",
+    "ModifiedOnUtc": "\/Date(1756637877000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Type of field value \"Email address or Domain\"",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Karta - Požadavek" />
+			<Item Name="LocalizableStrings.AccountCaption.Value" Value="Account" />
+			<Item Name="LocalizableStrings.ActualDateGroupCaption.Value" Value="Časový rámec zpracování" />
+			<Item Name="LocalizableStrings.AssignToMeCaption.Value" Value="Přidělit mi" />
+			<Item Name="LocalizableStrings.CaseInformationTabCaption.Value" Value="Informace k případu" />
+			<Item Name="LocalizableStrings.ClosureCodeCaption.Value" Value="Reason for closing" />
+			<Item Name="LocalizableStrings.ClosureDateCaption.Value" Value="Ukončeno" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Kontakt" />
+			<Item Name="LocalizableStrings.CreatedOnCaption.Value" Value="Vytvořeno:" />
+			<Item Name="LocalizableStrings.CurrentStatusGroupCaption.Value" Value="Aktuální stav" />
+			<Item Name="LocalizableStrings.DaysCaptionSuffix.Value" Value="d" />
+			<Item Name="LocalizableStrings.DefaultHeader.Value" Value="Případ č. {0}" />
+			<Item Name="LocalizableStrings.DelayHeaderCaptionSuffix.Value" Value="Zpoždění:" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FeedbackGroupCaption.Value" Value="Zpětná vazba" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Informace k případu" />
+			<Item Name="LocalizableStrings.GroupCaption.Caption" Value="Odpovědný tým" />
+			<Item Name="LocalizableStrings.GroupCaption.Value" Value="Přidělený tým" />
+			<Item Name="LocalizableStrings.HeaderTemplate.Value" Value="Požadavek #{0}: {1}" />
+			<Item Name="LocalizableStrings.HoursCaptionSuffix.Value" Value="h" />
+			<Item Name="LocalizableStrings.IndicatorsGroupCaption.Value" Value="Ukazatele" />
+			<Item Name="LocalizableStrings.LeftHeaderCaptionSuffix.Value" Value="Zbývající:" />
+			<Item Name="LocalizableStrings.MinutesCaptionSuffix.Value" Value="m" />
+			<Item Name="LocalizableStrings.NotesFilesTabCaption.Value" Value="Přílohy" />
+			<Item Name="LocalizableStrings.NumberCaption.Value" Value="Číslo" />
+			<Item Name="LocalizableStrings.OriginCaption.Value" Value="Zdroj" />
+			<Item Name="LocalizableStrings.OwnerCaption.Caption" Value="Owner" />
+			<Item Name="LocalizableStrings.OwnerCaption.Value" Value="Vlastník" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Caption" Value="Popisek rodičovský požadavek" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Value" Value="Parent case" />
+			<Item Name="LocalizableStrings.PriorityCaption.Value" Value="Priorita" />
+			<Item Name="LocalizableStrings.RatingGroupCaption.Value" Value="Hodnocení" />
+			<Item Name="LocalizableStrings.RegisteredOnCaption.Value" Value="Datum registrace" />
+			<Item Name="LocalizableStrings.RelationsTabCaption.Value" Value="Uzavření a zpětná vazba" />
+			<Item Name="LocalizableStrings.RequiredContactOrAccountMessage.Value" Value="Vyplňte prosím buď pole &quot;Kontakt&quot; nebo pole &quot;Firma&quot;" />
+			<Item Name="LocalizableStrings.RespondedOnCaption.Value" Value="Odpovězeno" />
+			<Item Name="LocalizableStrings.ResponseDateCaption.Value" Value="Plánovaný čas odpovědi" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCaption.Value" Value="Hodnocení" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentCaption.Value" Value="Komentář uživatele" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Caption" Value="Tooltip ke komentáři k miře spokojenosti" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Value" Value="In order to change feedback you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Caption" Value="Tooltip k miře spokojenosti" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Value" Value="In order to change satisfaction level you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SolutionCaption.Value" Value="Rozlišení" />
+			<Item Name="LocalizableStrings.SolutionDateCaption.Value" Value="Plánovaný čas vyřešení" />
+			<Item Name="LocalizableStrings.SolutionGroupCaption.Value" Value="Rozlišení" />
+			<Item Name="LocalizableStrings.SolutionProvidedOnCaption.Value" Value="Vyřešeno" />
+			<Item Name="LocalizableStrings.SolutionTabCaption.Value" Value="Uzavření a zpětná vazba" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Caption" Value="SolvedOnSupportLevelCaption" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="Vyřešil" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Stav" />
+			<Item Name="LocalizableStrings.SubjectCaption.Value" Value="Předmět" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Sledovat kanál" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Nyní sledujete kanál: {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Caption" Value="SupportLevelCaption" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Linie podpory" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="Description" />
+			<Item Name="LocalizableStrings.TermsControlGroupCaption.Value" Value="Termíny" />
+			<Item Name="LocalizableStrings.TermsGroupCaption.Value" Value="Časový úsek" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Caption" Value="TimeZoneSysSettingMessage" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Value" Value="&lt;p&gt;Následující časové pásmo bylo použito pro zobrazování hodnot:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Časové pásmo v &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;profilu.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Nebude-li nastaveno časové pásmo v profilu, bude použito výchozí časové pásmo (hodnota nastavení &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/12fef2c9-8baa-4b07-88e4-464169a44775&quot;&gt;&quot;Výchozí časové pásmo&quot;&lt;/a&gt;).&lt;/li&gt;&lt;/ol&gt;" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Caption" Value="TimeZoneUserProfileMessage" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Value" Value="&lt;p&gt;Časové pásmo lze zobrazit třemi způsoby:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Časové pásmo uvedené v profilu,&lt;/li&gt;&#xA;&lt;li&gt;Systémové nastavení &quot;Výchozí časové pásmo&quot;,&lt;/li&gt;&#xA;&lt;li&gt;Časové pásmo &quot;Čas v UTC&quot;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Můžete nastavit časové pásmo ve vlastním &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;Profilu&quot;&lt;/a&gt; nebo se obraťte na správce.&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Unfollow the feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="You have stopped following feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

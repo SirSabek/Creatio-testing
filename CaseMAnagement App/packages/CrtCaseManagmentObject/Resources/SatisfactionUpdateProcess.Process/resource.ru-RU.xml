@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SetSatisfactionLevelScriptTask.Caption" Value="SetSatisfactionLevelScriptTask" />
+			<Item Name="Caption" Value="Проставление уровня удовлетворенности" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="Pool 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+		</Items>
+	</Group>
+</Resources>

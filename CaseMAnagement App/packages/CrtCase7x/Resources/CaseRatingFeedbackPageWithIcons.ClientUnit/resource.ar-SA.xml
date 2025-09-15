@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CaseRatingFeedbackPageWithIcons" />
+			<Item Name="LocalizableStrings.HowMuchDid.Value" Value="الرجاء تحديد جودة الخدمات التي نقدّمها" />
+			<Item Name="LocalizableStrings.PostSuccess.Value" Value="تم إرسال ملاحظاتك بنجاح" />
+		</Items>
+	</Group>
+</Resources>

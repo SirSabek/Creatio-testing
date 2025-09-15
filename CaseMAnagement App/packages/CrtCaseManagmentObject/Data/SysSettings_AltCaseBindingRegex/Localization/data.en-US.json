@@ -1,0 +1,23 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "b48e7a26-046c-49c6-b514-bb666c1de068"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Regular expression for mail binding"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": "You can use regular expressions with a replacement part. For example, the expression \"(SR)\\<span\\>(\\d{8})/\\1\\2\" finds in the text \"SR<span>12345678\" string and converts it to the \"SR12345678\" case number."
+        }
+      ]
+    }
+  ]
+}

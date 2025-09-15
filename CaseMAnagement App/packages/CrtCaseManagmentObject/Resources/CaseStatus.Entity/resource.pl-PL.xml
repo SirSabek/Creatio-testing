@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Status zgłoszenia" />
+			<Item Name="Columns.ButtonCaption.Caption" Value="Podpis przycisku" />
+			<Item Name="Columns.ClosureCode.Caption" Value="Powód zamknięcia" />
+			<Item Name="Columns.Color.Caption" Value="Kolor" />
+			<Item Name="Columns.Image.Caption" Value="Obraz" />
+			<Item Name="Columns.IsCloseOnSave.Caption" Value="Zamknij po zapisaniu" />
+			<Item Name="Columns.IsDisplayed.Caption" Value="IsDisplayed" />
+			<Item Name="Columns.IsFinal.Caption" Value="Status końcowy" />
+			<Item Name="Columns.IsPaused.Caption" Value="Status wstrzymany" />
+			<Item Name="Columns.IsResolved.Caption" Value="Status rozwiązany" />
+			<Item Name="Columns.StageNumber.Caption" Value="StageNumber" />
+			<Item Name="Columns.StatusColor.Caption" Value="Kolor statusu" />
+		</Items>
+	</Group>
+</Resources>

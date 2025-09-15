@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.CheckObjectExistence.Caption" Value="Проверката за съществуването на таблицата с Портални Съобщения" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="няма публикации от външни съобщения" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="обектът съществува" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Caption" Value="Брой публикации от външни съобщения" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.AggregationColumnName.Caption" Value="Име на колоната с агрегатна функция" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Помисли за времето във филтъра" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.DataSourceFilters.Caption" Value="Филтри за източници на данни" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Колони за четене" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.FunctionType.Caption" Value="Тип агрегатна функция" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.IgnoreDisplayValues.Caption" Value="Не чети показаните стойности на търсещите колони" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.OrderInfo.Caption" Value="Ред на колоните" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ReadSomeTopRecords.Caption" Value="Прочети първо" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultCount.Caption" Value="Брой записи" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultDateTimeFunction.Caption" Value="Резултат от функцията (Дата/Час)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultEntity.Caption" Value="Първи елемент от получената колекция" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultEntityCollection.Caption" Value="Получена колекция" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultFloatFunction.Caption" Value="Резултат от функцията (Десетично число)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultIntegerFunction.Caption" Value="Резултат от функцията (Цяло число)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultType.Caption" Value="Тип резултат" />
+			<Item Name="BaseElements.DefaultSequenceFlow3.Caption" Value="обектът не съществува" />
+			<Item Name="BaseElements.ParallelGateway1.Caption" Value="Получавай съобщения от външни канали" />
+			<Item Name="BaseElements.ReadActivities.Caption" Value="Прочети имейлите" />
+			<Item Name="BaseElements.ReadActivities.Parameters.AggregationColumnName.Caption" Value="Име на колоната с агрегатна функция" />
+			<Item Name="BaseElements.ReadActivities.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadActivities.Parameters.CanReadUncommitedData.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ConsiderTimeInFilter.Caption" Value="Помисли за времето във филтъра" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ConsiderTimeInFilter.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.ReadActivities.Parameters.DataSourceFilters.Caption" Value="Филтри за източници на данни" />
+			<Item Name="BaseElements.ReadActivities.Parameters.EntityColumnMetaPathes.Caption" Value="Колони за четене" />
+			<Item Name="BaseElements.ReadActivities.Parameters.EntityColumnMetaPathes.DisplayValue" Value="618e7503-83b1-452d-aa33-8f76792853b5;ae372cfa-a21f-47f0-8a64-17d137ebe966;070b689f-c9d8-46e3-bb52-bcb1f430f5cf;a12ca538-61b1-4907-9fdf-01969163d4dd" />
+			<Item Name="BaseElements.ReadActivities.Parameters.FunctionType.Caption" Value="Тип агрегатна функция" />
+			<Item Name="BaseElements.ReadActivities.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadActivities.Parameters.IgnoreDisplayValues.Caption" Value="Не чети показаните стойности на търсещите колони" />
+			<Item Name="BaseElements.ReadActivities.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadActivities.Parameters.NumberOfRecords.DisplayValue" Value="10" />
+			<Item Name="BaseElements.ReadActivities.Parameters.OrderInfo.Caption" Value="Ред на колоните" />
+			<Item Name="BaseElements.ReadActivities.Parameters.OrderInfo.DisplayValue" Value="CreatedOn:2:1" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ReadSomeTopRecords.Caption" Value="Прочети първо" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ReadSomeTopRecords.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Body.Caption" Value="Тяло" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.DetailedResult.Caption" Value="Детайли за резултатите" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Result.Caption" Value="Резултат" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.StartDate.Caption" Value="Start" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCount.Caption" Value="Брой записи" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultDateTimeFunction.Caption" Value="Резултат от функцията (Дата/Час)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultEntity.Caption" Value="Първи елемент от получената колекция" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultEntityCollection.Caption" Value="Получена колекция" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultFloatFunction.Caption" Value="Резултат от функцията (Десетично число)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultIntegerFunction.Caption" Value="Резултат от функцията (Цяло число)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultType.Caption" Value="Тип резултат" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultType.DisplayValue" Value="2" />
+			<Item Name="BaseElements.ReadChatlMessages.Caption" Value="Прочети съобщенията в чата" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.AggregationColumnName.Caption" Value="Име на колоната с агрегатна функция" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Помисли за времето във филтъра" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.DataSourceFilters.Caption" Value="Филтри за източници на данни" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Колони за четене" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.FunctionType.Caption" Value="Тип агрегатна функция" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.IgnoreDisplayValues.Caption" Value="Не чети показаните стойности на търсещите колони" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.OrderInfo.Caption" Value="Ред на колоните" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ReadSomeTopRecords.Caption" Value="Прочети първо" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Създадено от" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Created on" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Message" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCount.Caption" Value="Брой записи" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultDateTimeFunction.Caption" Value="Резултат от функцията (Дата/Час)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultEntity.Caption" Value="Първи елемент от получената колекция" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultEntityCollection.Caption" Value="Получена колекция" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultFloatFunction.Caption" Value="Резултат от функцията (Десетично число)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultIntegerFunction.Caption" Value="Резултат от функцията (Цяло число)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultType.Caption" Value="Тип резултат" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Caption" Value="Прочети съобщенията в публикацията" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.AggregationColumnName.Caption" Value="Име на колоната с агрегатна функция" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Помисли за времето във филтъра" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.DataSourceFilters.Caption" Value="Филтри за източници на данни" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Колони за четене" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.FunctionType.Caption" Value="Тип агрегатна функция" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.IgnoreDisplayValues.Caption" Value="Не чети показаните стойности на търсещите колони" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.OrderInfo.Caption" Value="Ред на колоните" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ReadSomeTopRecords.Caption" Value="Прочети първо" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Съобщение/коментар" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCount.Caption" Value="Брой записи" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultDateTimeFunction.Caption" Value="Резултат от функцията (Дата/Час)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultEntity.Caption" Value="Първи елемент от получената колекция" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultEntityCollection.Caption" Value="Получена колекция" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultFloatFunction.Caption" Value="Резултат от функцията (Десетично число)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultIntegerFunction.Caption" Value="Резултат от функцията (Цяло число)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultType.Caption" Value="Тип резултат" />
+			<Item Name="BaseElements.ReadPortalMessages.Caption" Value="Прочети портални съобщения (отпаднало)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.AggregationColumnName.Caption" Value="Име на колоната с агрегатна функция" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Помисли за времето във филтъра" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.DataSourceFilters.Caption" Value="Филтри за източници на данни" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Колони за четене" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.EntityColumnMetaPathes.DisplayValue" Value="9438b617-43b8-48a2-9295-c63f9171ea31" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.FunctionType.Caption" Value="Тип агрегатна функция" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.IgnoreDisplayValues.Caption" Value="Не чети показаните стойности на търсещите колони" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.NumberOfRecords.DisplayValue" Value="50" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.OrderInfo.Caption" Value="Ред на колоните" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ReadSomeTopRecords.Caption" Value="Прочети първо" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ReadSomeTopRecords.DisplayValue" Value="вярно" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Контакт" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Created on" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Message" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCount.Caption" Value="Брой записи" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultDateTimeFunction.Caption" Value="Резултат от функцията (Дата/Час)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultEntity.Caption" Value="Първи елемент от получената колекция" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultEntityCollection.Caption" Value="Получена колекция" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultFloatFunction.Caption" Value="Резултат от функцията (Десетично число)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultIntegerFunction.Caption" Value="Резултат от функцията (Цяло число)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultType.Caption" Value="Тип резултат" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.RemoveChatHtmlScriptTask.Caption" Value="Премахнете HTML етикетите от съобщенията в чата" />
+			<Item Name="BaseElements.RemoveEmailHtmlScriptTask.Caption" Value="Премахнете HTML етикетите от имейлите" />
+			<Item Name="BaseElements.RemoveFeedHtmlScriptTask.Caption" Value="Премахнете HTML етикетите от съобщенията в чата" />
+			<Item Name="BaseElements.RemovePortalHtmlScriptTask.Caption" Value="Премахнете HTML етикетите от портални съобщения" />
+			<Item Name="BaseElements.SequenceFlow13.Caption" Value="Канал за имейли" />
+			<Item Name="BaseElements.SequenceFlow14.Caption" Value="Външна информация" />
+			<Item Name="BaseElements.SequenceFlow15.Caption" Value="Omni чатове" />
+			<Item Name="Caption" Value="Получаване на външни съобщения за случая" />
+			<Item Name="Description" Value="Получаване на информация за последните съобщения за случай с клиент по идентификатор на Случай" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Пътека 1" />
+			<Item Name="NotificationCaption.Caption" Value="Надпис на инстанцията на процеса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="Case Id" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="Уникален идентификатор на случая" />
+			<Item Name="Parameters.ChatMessages.Caption" Value="Чат съобщения" />
+			<Item Name="Parameters.ChatMessages.ChatMessage.Caption" Value="Чат съобщение" />
+			<Item Name="Parameters.ChatMessages.ChatMessage.Sys_Description" Value="Основен текст на съобщението" />
+			<Item Name="Parameters.ChatMessages.Contact.Caption" Value="Контакт" />
+			<Item Name="Parameters.ChatMessages.Contact.Sys_Description" Value="Контакт" />
+			<Item Name="Parameters.ChatMessages.StartDate.Caption" Value="Начална дата" />
+			<Item Name="Parameters.ChatMessages.StartDate.Sys_Description" Value="Начална дата" />
+			<Item Name="Parameters.EmailMessages.Body.Caption" Value="Тяло" />
+			<Item Name="Parameters.EmailMessages.Body.Sys_Description" Value="Основен текст на съобщението" />
+			<Item Name="Parameters.EmailMessages.Caption" Value="Съобщение по имейл" />
+			<Item Name="Parameters.EmailMessages.Result.Caption" Value="Резултат" />
+			<Item Name="Parameters.EmailMessages.Result.Sys_Description" Value="Резултат" />
+			<Item Name="Parameters.EmailMessages.ResultDetails.Caption" Value="Детайли за резултата" />
+			<Item Name="Parameters.EmailMessages.ResultDetails.Sys_Description" Value="Детайли на резултата" />
+			<Item Name="Parameters.EmailMessages.Start.Caption" Value="Начална дата" />
+			<Item Name="Parameters.EmailMessages.Start.Sys_Description" Value="Начална дата" />
+			<Item Name="Parameters.EmailMessages.Sys_Description" Value="Последните 50 имейл съобщения по случай" />
+			<Item Name="Parameters.ExternalFeedMessages.Body.Caption" Value="Тяло" />
+			<Item Name="Parameters.ExternalFeedMessages.Body.Sys_Description" Value="Основен текст на съобщението" />
+			<Item Name="Parameters.ExternalFeedMessages.Caption" Value="Съобщения от външни публикации" />
+			<Item Name="Parameters.ExternalFeedMessages.Contact.Caption" Value="Контакт" />
+			<Item Name="Parameters.ExternalFeedMessages.Contact.Sys_Description" Value="Контакт" />
+			<Item Name="Parameters.ExternalFeedMessages.StartTime.Caption" Value="Начало на времето" />
+			<Item Name="Parameters.ExternalFeedMessages.StartTime.Sys_Description" Value="Начало на времето" />
+			<Item Name="Parameters.ExternalFeedMessages.Sys_Description" Value="Последните 50 външни съобщения публикации по случай" />
+			<Item Name="Parameters.PortalMessageTableExists.Caption" Value="Съществува Таблица със Съобщения от Портала" />
+			<Item Name="Parameters.PortalMessageTableExists.DisplayValue" Value="[#Boolean value.False#]" />
+		</Items>
+	</Group>
+</Resources>

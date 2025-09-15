@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="基本案件" />
+			<Item Name="Columns.Account.Caption" Value="Account" />
+			<Item Name="Columns.Category.Caption" Value="Category" />
+			<Item Name="Columns.ClosureCode.Caption" Value="关闭原因" />
+			<Item Name="Columns.ClosureDate.Caption" Value="Closed on" />
+			<Item Name="Columns.Contact.Caption" Value="Contact" />
+			<Item Name="Columns.FirstSolutionProvidedOn.Caption" Value="实际分辨率时间" />
+			<Item Name="Columns.Group.Caption" Value="Group" />
+			<Item Name="Columns.Notes.Caption" Value="注释" />
+			<Item Name="Columns.Number.Caption" Value="Number" />
+			<Item Name="Columns.Origin.Caption" Value="Source" />
+			<Item Name="Columns.Owner.Caption" Value="Owner" />
+			<Item Name="Columns.Priority.Caption" Value="Priority" />
+			<Item Name="Columns.RegisteredOn.Caption" Value="注册数据" />
+			<Item Name="Columns.RespondedOn.Caption" Value="Actual response time" />
+			<Item Name="Columns.ResponseDate.Caption" Value="Response time" />
+			<Item Name="Columns.ResponseOverdue.Caption" Value="Overdue response" />
+			<Item Name="Columns.SatisfactionLevel.Caption" Value="满意度" />
+			<Item Name="Columns.SatisfactionLevelComment.Caption" Value="反馈笔记" />
+			<Item Name="Columns.Solution.Caption" Value="决 议" />
+			<Item Name="Columns.SolutionDate.Caption" Value="解决时间" />
+			<Item Name="Columns.SolutionOverdue.Caption" Value="过期分辨率" />
+			<Item Name="Columns.SolutionProvidedOn.Caption" Value="实际分辨率时间" />
+			<Item Name="Columns.SolutionRemains.Caption" Value="剩余直到解决时间" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="Columns.Subject.Caption" Value="Subject" />
+			<Item Name="Columns.Symptoms.Caption" Value="Description" />
+		</Items>
+	</Group>
+</Resources>

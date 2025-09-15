@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.RunProcess.Caption" Value="Démarrer le processus d'analyse du niveau de satisfaction sur les cas " />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Obtenir le niveau de satisfaction sur le cas" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Id de l'enregistrement" />
+			<Item Name="Caption" Value="Analyse du niveau de satisfaction sur les cas" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Ligne 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.CaseRecordId.Caption" Value="Id du cas" />
+			<Item Name="Parameters.CaseRecordId.DisplayValue" Value="[#Get case satisfation level.Record Id#]" />
+		</Items>
+	</Group>
+</Resources>

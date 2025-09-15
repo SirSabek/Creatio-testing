@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "3f4b5a7e-3599-46f8-b426-2ef29e7fe38f",
+    "Name": "KnowledgeBase",
+    "ModifiedOnUtc": "\/Date(1756637878000)\/",
+    "Parent": {
+      "UId": "0326868c-ce5e-4934-8f1f-178801bfe6c3",
+      "Name": "KnowledgeBase"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Knowledge base article",
+    "DependsOn": []
+  }
+}

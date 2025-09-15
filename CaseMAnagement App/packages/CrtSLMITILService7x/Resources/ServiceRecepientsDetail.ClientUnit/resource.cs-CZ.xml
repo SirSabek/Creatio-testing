@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Příjemci servisní jednotky, detail" />
+			<Item Name="LocalizableStrings.ActiveServices.Value" Value="Aktivní služby" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Služby" />
+		</Items>
+	</Group>
+</Resources>

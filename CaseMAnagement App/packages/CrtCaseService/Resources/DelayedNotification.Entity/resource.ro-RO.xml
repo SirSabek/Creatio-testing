@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Notificare întârziată" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Data actuală de trimitere" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Denumire manager pentru Qualified Assembly" />
+			<Item Name="Columns.Case.Caption" Value="Caz" />
+			<Item Name="Columns.Delay.Caption" Value="Intarziere" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="Sablon pentru mesajul email-ului" />
+			<Item Name="Columns.Error.Caption" Value="Eroare" />
+			<Item Name="Columns.SendDate.Caption" Value="Când este trimis" />
+		</Items>
+	</Group>
+</Resources>

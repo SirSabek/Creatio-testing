@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationLookupSection" />
+			<Item Name="LocalizableStrings.HeaderCaption.Value" Value="Traženja" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Prati feed" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Prestani pratiti feed" />
+		</Items>
+	</Group>
+</Resources>

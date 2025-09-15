@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SetServiceRequestOverdues.Caption" Value="Configurer les indicateur de dépassement des cas" />
+			<Item Name="Caption" Value="Définir des valeurs de dépassement dans les cas" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+		</Items>
+	</Group>
+</Resources>

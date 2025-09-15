@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SetCaseScriptTask.Caption" Value="Załaduj i ustaw Zgłoszenie" />
+			<Item Name="Caption" Value="Pobierz dane zgłoszenia" />
+			<Item Name="Description" Value="Uzyskuje informacje o zgłoszeniu według jego numeru" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.Case.Caption" Value="Dane zgłoszenia" />
+			<Item Name="Parameters.Case.Sys_Description" Value="Wartości kolumny zgłoszenia" />
+			<Item Name="Parameters.CaseNumber.Caption" Value="CaseNumber" />
+			<Item Name="Parameters.CaseNumber.Sys_Description" Value="Numer Zgłoszenia" />
+			<Item Name="Parameters.IsCaseFound.Caption" Value="Znaleziono zgłoszenie" />
+			<Item Name="Parameters.IsCaseFound.Sys_Description" Value="Wskazuje, że Zgłoszenie zostało znalezione przez podany Numer" />
+		</Items>
+	</Group>
+</Resources>

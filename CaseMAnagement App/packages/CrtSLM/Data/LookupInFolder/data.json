@@ -1,0 +1,40 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c7b52a8e-7d65-449b-abed-07e5bd4fc1d8"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "e00dae9f-41ea-4259-b4cc-58d49bdfaef6",
+          "DisplayValue": "Service categories"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "148c2ec6-a36a-4439-bb6e-6a842299f915",
+          "DisplayValue": "Services"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fd1da5fb-0bd5-4fef-aed6-cc47d3d678c8"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "40b1c98e-9b53-40bc-b5ae-b4deb2fc904a",
+          "DisplayValue": "Service statuses"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "148c2ec6-a36a-4439-bb6e-6a842299f915",
+          "DisplayValue": "Services"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Svojstva zahtjeva" />
+			<Item Name="Description" Value="Generirajte izvješće analize izvedbe zahtjeva podrške" />
+		</Items>
+	</Group>
+</Resources>

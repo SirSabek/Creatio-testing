@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "bf14023c-5dd2-42fc-a1c9-2ee0dcd85fa4",
+    "Name": "ITermCalculator",
+    "ModifiedOnUtc": "\/Date(1460469379000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ITermCalculator",
+    "DependsOn": []
+  }
+}

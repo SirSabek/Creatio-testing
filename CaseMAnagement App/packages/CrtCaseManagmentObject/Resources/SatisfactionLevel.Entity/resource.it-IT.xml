@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Livello di soddisfazione" />
+			<Item Name="Columns.Colour.Caption" Value="Colore" />
+			<Item Name="Columns.Image.Caption" Value="Immagine" />
+			<Item Name="Columns.IsActive.Caption" Value="E' usato" />
+			<Item Name="Columns.Point.Caption" Value="Punto" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

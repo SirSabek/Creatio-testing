@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "0abc9e35-794e-4a7b-96f8-f0d49605e101",
+    "Name": "Chats_FormPage",
+    "ModifiedOnUtc": "\/Date(1756637877000)\/",
+    "Parent": {
+      "UId": "34b975f7-1fd3-46e4-a812-ee6c20500fb7",
+      "Name": "Chats_FormPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Chats form page",
+    "DependsOn": []
+  }
+}

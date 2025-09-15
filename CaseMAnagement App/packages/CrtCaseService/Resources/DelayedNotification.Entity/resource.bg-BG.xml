@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Забавено известие" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Действителна дата на изпращане" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Име на Квалифициран Ръководител на Монтажа" />
+			<Item Name="Columns.Case.Caption" Value="Случай" />
+			<Item Name="Columns.Delay.Caption" Value="Забавяне" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="Шаблон за имейл съобщение" />
+			<Item Name="Columns.Error.Caption" Value="Грешка" />
+			<Item Name="Columns.SendDate.Caption" Value="Когато изпраща" />
+		</Items>
+	</Group>
+</Resources>

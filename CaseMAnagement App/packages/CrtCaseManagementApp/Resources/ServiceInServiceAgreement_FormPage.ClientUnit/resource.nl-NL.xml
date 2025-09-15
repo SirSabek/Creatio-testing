@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service in de formulierpagina van de serviceovereenkomst" />
+			<Item Name="LocalizableStrings.addRecord_hl6cv6y_caption.Value" Value="Nieuwe toevoegen" />
+			<Item Name="LocalizableStrings.addRecord_otug0r6_caption.Value" Value="Nieuwe toevoegen" />
+			<Item Name="LocalizableStrings.addRecord_pworq7r_caption.Value" Value="Nieuwe toevoegen" />
+			<Item Name="LocalizableStrings.addRecord_vyprjkp_caption.Value" Value="Nieuwe toevoegen" />
+			<Item Name="LocalizableStrings.addRecord_xprr53n_caption.Value" Value="Nieuwe toevoegen" />
+			<Item Name="LocalizableStrings.ComboBox_09w87e2_label.Value" Value="Oplostijd" />
+			<Item Name="LocalizableStrings.ComboBox_v10hb6a_label.Value" Value="Responstijd" />
+			<Item Name="LocalizableStrings.NumberInput_fw0qi0g_label.Value" Value="Waarde" />
+			<Item Name="LocalizableStrings.NumberInput_gfbs7wo_label.Value" Value="Waarde" />
+			<Item Name="LocalizableStrings.ReactionTimeUnit_label.Value" Value="Responstijd" />
+			<Item Name="LocalizableStrings.ReactionTimeValue_label.Value" Value="Waarde" />
+			<Item Name="LocalizableStrings.ServiceItem_tooltip.Value" Value="De termen en status worden automatisch ingevuld met gegevens van de geselecteerde service" />
+			<Item Name="LocalizableStrings.SolutionTimeUnit_label.Value" Value="Oplostijd" />
+			<Item Name="LocalizableStrings.SolutionTimeValue_label.Value" Value="Waarde" />
+		</Items>
+	</Group>
+</Resources>

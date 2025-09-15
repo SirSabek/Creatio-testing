@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SetServiceRequestOverdues.Caption" Value="ตั้งค่าตัวบ่งชี้เคสเลยกำหนด" />
+			<Item Name="Caption" Value="ตั้งค่าการเลยกำหนดในเคส" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+		</Items>
+	</Group>
+</Resources>

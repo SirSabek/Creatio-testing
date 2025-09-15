@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Detaļu rediģēšanas lapas shēma - Serviss servisa līgumā" />
+			<Item Name="LocalizableStrings.CalendarCaption.Value" Value="Kalendārs" />
+			<Item Name="LocalizableStrings.ReactionTimeDayTypeCaption.Value" Value="Atbildes laika dienas veids" />
+			<Item Name="LocalizableStrings.ReactionTimeUnitCaption.Value" Value="Atbildes laika vienība" />
+			<Item Name="LocalizableStrings.ReactionTimeValueCaption.Value" Value="Atbildes laiks" />
+			<Item Name="LocalizableStrings.ServiceItemCaption.Value" Value="Service" />
+			<Item Name="LocalizableStrings.ServicePactCaption.Value" Value="Servisa līgums" />
+			<Item Name="LocalizableStrings.SolutionTimeDayTypeCaption.Value" Value="Risinājuma laika dienas veids" />
+			<Item Name="LocalizableStrings.SolutionTimeUnitCaption.Value" Value="Atrisināšanas laika vienība" />
+			<Item Name="LocalizableStrings.SolutionTimeValueCaption.Value" Value="Atrisināšanas laiks" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Statuss" />
+		</Items>
+	</Group>
+</Resources>

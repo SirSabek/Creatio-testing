@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SetCaseScriptTask.Caption" Value="Laad en stel de Case in" />
+			<Item Name="Caption" Value="Case gegevens ophalen" />
+			<Item Name="Description" Value="Haalt informatie op over de Case op het nummer" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.Case.Caption" Value="Case gegevens" />
+			<Item Name="Parameters.Case.Sys_Description" Value="Case kolomwaarden" />
+			<Item Name="Parameters.CaseNumber.Caption" Value="CaseNumber" />
+			<Item Name="Parameters.CaseNumber.Sys_Description" Value="Het nummer van de Case" />
+			<Item Name="Parameters.IsCaseFound.Caption" Value="Is Case gevonden" />
+			<Item Name="Parameters.IsCaseFound.Sys_Description" Value="Geeft aan dat de Case is gevonden door het opgegeven nummer" />
+		</Items>
+	</Group>
+</Resources>

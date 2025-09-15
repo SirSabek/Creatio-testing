@@ -1,0 +1,42 @@
+﻿{
+  "Descriptor": {
+    "UId": "21159bfd-a26e-4ee2-9371-d830ea4c8c84",
+    "Name": "JunkFilter_HeaderProperties",
+    "ModifiedOnUtc": "\/Date(1476779752000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "eabaec62-08cb-41b9-8466-4e93dbaa27ab",
+      "Name": "HeaderProperty"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "be0380b3-8214-4a8c-ab26-deea32aec690",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "bce02a0c-905a-45bd-99dd-c347de4a28b7",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Handler",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "59da2781-0bcf-42da-a7ef-535b038212dd",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "IsActive",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      }
+    ]
+  }
+}

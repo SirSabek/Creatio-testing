@@ -1,0 +1,36 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "96d684fc-5ee8-4741-9938-ccbb0b35bd8c"
+        },
+        {
+          "SchemaColumnUId": "1e236958-f206-4fde-8a0e-6783fc223424",
+          "Value": "PHN2ZyB3aWR0aD0iMzMiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMyAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04LjQ5OTY4IDZIMjQuNDk5N0MyNS45NzI0IDYgMjcuMTY2MyA3LjE5NDQzIDI3LjE2NjMgOC42Njc4M1YxOS4wMDc5QzI3LjE2NjMgMjAuNDgxMyAyNS45NzI0IDIxLjY3NTggMjQuNDk5NyAyMS42NzU4SDE4LjExMjhMMTIuMjkzOSAyNS44MzI5QzExLjcwNTYgMjYuMjUzMiAxMC44ODg0IDI1LjgzMjQgMTAuODg4NCAyNS4xMDkyVjIxLjY3NThIOC40OTk2OEM3LjAyNjkyIDIxLjY3NTggNS44MzMwMSAyMC40ODEzIDUuODMzMDEgMTkuMDA3OVY4LjY2NzgzQzUuODMzMDEgNy4xOTQ0MyA3LjAyNjkyIDYgOC40OTk2OCA2Wk0xNC45OTcxIDkuODczOTRDMTQuOTk3MSA5LjA0Mzg0IDE1LjY3IDguMzcwOTEgMTYuNTAwMSA4LjM3MDkxQzE3LjMzMDIgOC4zNzA5MSAxOC4wMDMxIDkuMDQzODQgMTguMDAzMSA5Ljg3Mzk0VjEyLjg0MDZDMTguMDAzMSAxMy42NzA3IDE3LjMzMDIgMTQuMzQzNiAxNi41MDAxIDE0LjM0MzZDMTUuNjcgMTQuMzQzNiAxNC45OTcxIDEzLjY3MDcgMTQuOTk3MSAxMi44NDA2VjkuODczOTRaTTE0Ljk5NzEgMTcuOTAyQzE0Ljk5NzEgMTcuMDcxOSAxNS42NyAxNi4zOTkgMTYuNTAwMSAxNi4zOTlDMTcuMzMwMSAxNi4zOTkgMTguMDAzMSAxNy4wNzE5IDE4LjAwMzEgMTcuOTAyQzE4LjAwMzEgMTguNzMyIDE3LjMzMDEgMTkuNDA0OSAxNi41MDAxIDE5LjQwNDlDMTUuNjcgMTkuNDA0OSAxNC45OTcxIDE4LjczMiAxNC45OTcxIDE3LjkwMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo="
+        },
+        {
+          "SchemaColumnUId": "90801d7c-a189-4afe-9c3a-a202fbf242d8",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "aebb8105-4a48-883c-e068-74ad2ab797a7",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b3cd8485-7bd8-4b70-b2dd-bc41e45e9992",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "be95e737-14e9-4253-b0c4-e280da05434d",
+          "Value": "image/svg+xml"
+        },
+        {
+          "SchemaColumnUId": "d245dcaf-23bd-4b73-8718-26fdf38b443b",
+          "Value": "SectionIcon_Case.svg"
+        }
+      ]
+    }
+  ]
+}

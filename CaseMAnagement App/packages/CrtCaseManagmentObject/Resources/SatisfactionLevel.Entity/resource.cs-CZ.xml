@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Míra spokojenosti" />
+			<Item Name="Columns.Colour.Caption" Value="Barva" />
+			<Item Name="Columns.Image.Caption" Value="Obrázek" />
+			<Item Name="Columns.IsActive.Caption" Value="Aktivní" />
+			<Item Name="Columns.Point.Caption" Value="Bod" />
+			<Item Name="Columns.Status.Caption" Value="Stav" />
+		</Items>
+	</Group>
+</Resources>

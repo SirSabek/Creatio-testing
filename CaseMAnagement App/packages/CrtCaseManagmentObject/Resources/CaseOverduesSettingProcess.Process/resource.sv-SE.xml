@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SetServiceRequestOverdues.Caption" Value="Ställ in förÄrendena Ärendeindiktatorer" />
+			<Item Name="Caption" Value="Ställ in förÄrendena värden i Ärende" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+		</Items>
+	</Group>
+</Resources>

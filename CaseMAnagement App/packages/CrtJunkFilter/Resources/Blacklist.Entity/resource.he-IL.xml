@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="רשימה שחורה של כתובות דוא&quot;ל ודומיינים לרישום מקרה" />
+			<Item Name="Columns.Name.Caption" Value="כתובת דוא&quot;ל או דומיין" />
+			<Item Name="Columns.TypeOfField.Caption" Value="סוג שדה" />
+		</Items>
+	</Group>
+</Resources>

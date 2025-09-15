@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="שולחן עבודה חיצוני" />
+			<Item Name="LocalizableStrings.ChartWidget_kdjq9cg_series_0.Value" Value="מקרה" />
+			<Item Name="LocalizableStrings.ChartWidget_kdjq9cg_title.Value" Value="המקרים שלי לפי שירות" />
+			<Item Name="LocalizableStrings.ExpansionPanel_vjn8kpu_title.Value" Value="רשימה מורחבת" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_suss5f3_caption.Value" Value="חדש" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_yx7f2m2_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_x34crvj_caption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_7wquxz9_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_dlpmv86_placeholder.Value" Value="חפש" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_f0d10cw_caption.Value" Value="פעולות" />
+			<Item Name="LocalizableStrings.IndicatorWidget_de5e411_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_de5e411_title.Value" Value="מקרים נפתרים" />
+			<Item Name="LocalizableStrings.IndicatorWidget_svjoy5p_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_svjoy5p_title.Value" Value="מקרים חדשים" />
+			<Item Name="LocalizableStrings.IndicatorWidget_wxt16l2_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_wxt16l2_title.Value" Value="ממתין לתגובה שלי" />
+			<Item Name="LocalizableStrings.Label_lj7p336_caption.Value" Value="מקרים אחרונים" />
+			<Item Name="LocalizableStrings.Label_w4zh47g_caption.Value" Value="שלום, [#שם המקבל הנוכחי#]!" />
+			<Item Name="LocalizableStrings.MyCasesByServiceChartWidget_series_0.Value" Value="מקרה" />
+			<Item Name="LocalizableStrings.MyCasesByServiceChartWidget_title.Value" Value="המקרים שלי לפי שירות" />
+			<Item Name="LocalizableStrings.NewCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.NewCasesIndicatorWidget_title.Value" Value="מקרים חדשים" />
+			<Item Name="LocalizableStrings.RecentCasesLabel_caption.Value" Value="מקרים אחרונים" />
+			<Item Name="LocalizableStrings.ResolvedCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.ResolvedCasesIndicatorWidget_title.Value" Value="מקרים נפתרים" />
+			<Item Name="LocalizableStrings.WaitingForResponseCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.WaitingForResponseCasesIndicatorWidget_title.Value" Value="ממתין לתגובה שלי" />
+			<Item Name="LocalizableStrings.WaitingForResponseIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.WaitingForResponseIndicatorWidget_title.Value" Value="ממתין לתגובה" />
+		</Items>
+	</Group>
+</Resources>

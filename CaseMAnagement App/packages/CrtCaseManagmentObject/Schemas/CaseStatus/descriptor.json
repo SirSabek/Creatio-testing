@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "99f35013-6b7a-47d6-b440-e3f1a0ba991c",
+    "Name": "CaseStatus",
+    "ModifiedOnUtc": "\/Date(1756637869000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Case status",
+    "DependsOn": []
+  }
+}

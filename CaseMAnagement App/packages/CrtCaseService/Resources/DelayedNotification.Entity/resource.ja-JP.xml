@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="遅延通知" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="実際の送信日" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Assembly Qualified Manager Name" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Delay.Caption" Value="遅延" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="メールのメッセージテンプレート" />
+			<Item Name="Columns.Error.Caption" Value="エラー" />
+			<Item Name="Columns.SendDate.Caption" Value="送信時" />
+		</Items>
+	</Group>
+</Resources>

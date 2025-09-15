@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SetServiceRequestOverdues.Caption" Value="קבע מחוונים למקרה חורג מזמן סיום" />
+			<Item Name="Caption" Value="קבע ערכי איחור למקרה" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+		</Items>
+	</Group>
+</Resources>

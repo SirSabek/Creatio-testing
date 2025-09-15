@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Pochodzenie zgłoszenia" />
+			<Item Name="Columns.Image.Caption" Value="Ikona pochodzenia" />
+		</Items>
+	</Group>
+</Resources>

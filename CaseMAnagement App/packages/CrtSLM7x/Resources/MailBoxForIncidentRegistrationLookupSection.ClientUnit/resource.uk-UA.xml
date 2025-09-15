@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationLookupSection" />
+			<Item Name="LocalizableStrings.HeaderCaption.Value" Value="Довідники" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Підписатися на оновлення стрічки" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Відписатися від оновлень стрічки" />
+		</Items>
+	</Group>
+</Resources>

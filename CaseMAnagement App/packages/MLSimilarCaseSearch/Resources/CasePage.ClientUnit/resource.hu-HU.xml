@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Halasztasd addig" />
+			<Item Name="LocalizableStrings.EmailTitleCaption.Caption" Value="Case response" />
+			<Item Name="LocalizableStrings.EmailTitleCaption.Value" Value="Case response {0} {1}" />
+			<Item Name="LocalizableStrings.EscalationTitle.Caption" Value="EscalationTitle" />
+			<Item Name="LocalizableStrings.EscalationTitle.Value" Value="Escalate" />
+			<Item Name="LocalizableStrings.FoundSimilarCaseTextTemplate.Value" Value="Hasonló eseteket találtunk: {0}" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Részletek" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Caption" Value="Rendszerüzenetek elrejtése" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Value" Value="Rendszerüzenetek elrejtése" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Caption" Value="Előzmények" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Value" Value="Előzmények" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Egynél több sorelem csatlakozik a folyamathoz. Folyamatazonosító: {0}" />
+			<Item Name="LocalizableStrings.OpenServiceModelByServiceModuleCaption.Value" Value="Szolgáltatásfüggőségek megjelenítése" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Caption" Value="Case profile" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Value" Value="Case profile" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Újra sor" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Az elem nem helyezhető újra a sorba. Hibaüzenet: {0}" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Caption" Value="Folyamatban" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Value" Value="Folyamatban" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Az oldal nem kapcsolódik az ügynök asztali soreleméhez. Akció megszakítva." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Az elem nem helyezhető újra a sorba" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Sikeresen újra sorba állítás" />
+			<Item Name="LocalizableStrings.ReclassificationTitle.Value" Value="Reclassify" />
+			<Item Name="LocalizableStrings.SchemaLocalizableString1.Caption" Value="Üzenet az 1. felhasználónak" />
+			<Item Name="LocalizableStrings.SearchForSimilarCasesButtonCaption.Caption" Value="Keress hasonló eseteket" />
+			<Item Name="LocalizableStrings.SearchForSimilarCasesButtonCaption.Value" Value="Keress hasonló eseteket" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Caption" Value="ServiceItemTipMessage" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Value" Value="&lt;p&gt; A szolgáltatások meghatározzák az esetkategóriákat, valamint az alapértelmezett válaszadási és megoldási határidőket. A szolgáltatások körét az ügyfél szolgáltatási szint megállapodása (SLA) határozza meg. Használja az &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServiceItemSection/&quot;&gt;&quot;Services&quot;&lt;/a&gt; és &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServicePactSection/&quot;&gt;&quot;Szolgáltatási szerződések&quot;&lt;/a&gt; szakaszok az elérhető szolgáltatások konfigurálásához&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.ServicePactTipMessage.Caption" Value="ServicePactTipMessage" />
+			<Item Name="LocalizableStrings.ServicePactTipMessage.Value" Value="&lt;p&gt;A szolgáltatási szintű megállapodások (SLA) meghatározzák a különböző típusú ügyfelek számára nyújtott szolgáltatások körét, valamint az alvállalkozói és belső szolgáltatások nyújtásának feltételeit. Használja az &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServicePactSection/&quot;&gt;&quot;Szolgáltatási szerződéseket&quot;&lt;/a&gt; szakaszt a szolgáltatási szerződések létrehozásához és módosításához &lt;/p&gt;" />
+			<Item Name="LocalizableStrings.SetCaseContactMessage.Value" Value="Specify {0} as contact in case?" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Caption" Value="Rendszerüzenetek megjelenítése" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Value" Value="Rendszerüzenetek megjelenítése" />
+			<Item Name="LocalizableStrings.SolutionFieldPlaceholder.Value" Value="Felbontás leírása" />
+		</Items>
+	</Group>
+</Resources>

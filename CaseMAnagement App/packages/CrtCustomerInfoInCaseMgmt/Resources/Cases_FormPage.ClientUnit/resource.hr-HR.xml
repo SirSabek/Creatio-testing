@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AccountInfoLabel_caption.Value" Value="Informacije o korisniku" />
+			<Item Name="LocalizableStrings.addRecord_juptj26_caption.Value" Value="Dodaj novi" />
+			<Item Name="LocalizableStrings.addRecord_myjkaqn_caption.Value" Value="Dodaj novi" />
+			<Item Name="LocalizableStrings.addRecord_tv82bbh_caption.Value" Value="Dodaj novi" />
+			<Item Name="LocalizableStrings.CustomerProfileTabContainer_caption.Value" Value="Profil kupca" />
+			<Item Name="LocalizableStrings.CustomerProfileTabContainerHeaderLabel_caption.Value" Value="Profil kupca" />
+			<Item Name="LocalizableStrings.Label_59nue7x_caption.Value" Value="Informacije o korisniku" />
+		</Items>
+	</Group>
+</Resources>

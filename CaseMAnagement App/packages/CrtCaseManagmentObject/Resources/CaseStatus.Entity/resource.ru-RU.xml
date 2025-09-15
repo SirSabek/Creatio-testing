@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Состояние обращения" />
+			<Item Name="Columns.ButtonCaption.Caption" Value="Заголовок кнопки" />
+			<Item Name="Columns.ClosureCode.Caption" Value="Причина закрытия" />
+			<Item Name="Columns.Color.Caption" Value="Цвет" />
+			<Item Name="Columns.Image.Caption" Value="Изображение" />
+			<Item Name="Columns.IsCloseOnSave.Caption" Value="Закрывать при сохранении" />
+			<Item Name="Columns.IsDisplayed.Caption" Value="Отображать" />
+			<Item Name="Columns.IsFinal.Caption" Value="Конечное состояние" />
+			<Item Name="Columns.IsPaused.Caption" Value="Состояние паузы" />
+			<Item Name="Columns.IsResolved.Caption" Value="Состояние разрешения" />
+			<Item Name="Columns.StageNumber.Caption" Value="Номер" />
+			<Item Name="Columns.StatusColor.Caption" Value="Цвет состояния" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Lista negra de endereços de e-mails e domínios para cadastro de casos" />
+			<Item Name="Columns.Name.Caption" Value="Endereço de E-mail ou Domínio" />
+			<Item Name="Columns.TypeOfField.Caption" Value="Tipo de campo" />
+		</Items>
+	</Group>
+</Resources>

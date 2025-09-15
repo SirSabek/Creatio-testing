@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Обзор эффективности агента" />
+			<Item Name="LocalizableStrings.AverageResolutionTimePerChannelChartWidget_series_0.Value" Value="Обращений" />
+			<Item Name="LocalizableStrings.AverageResolutionTimePerChannelChartWidget_title.Value" Value="Среднее время разрешения по каналу, часов" />
+			<Item Name="LocalizableStrings.AverageSatisfactionScoreByChannelChartWidget_series_0.Value" Value="Обращение" />
+			<Item Name="LocalizableStrings.AverageSatisfactionScoreByChannelChartWidget_title.Value" Value="Средняя оценка по каналу коммуникации" />
+			<Item Name="LocalizableStrings.CasesInProgressIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CasesInProgressIndicatorWidget_title.Value" Value="В работе" />
+			<Item Name="LocalizableStrings.MyActiveCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.MyActiveCasesIndicatorWidget_title.Value" Value="Мои активные обращения" />
+			<Item Name="LocalizableStrings.MyAverageSatisfactionScoreIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.MyAverageSatisfactionScoreIndicatorWidget_title.Value" Value="Моя средняя оценка (1-5)" />
+			<Item Name="LocalizableStrings.MyCasesByChannelChartWidget_label.Value" Value="Обращение" />
+			<Item Name="LocalizableStrings.MyCasesByChannelChartWidget_series_0.Value" Value="Обращение" />
+			<Item Name="LocalizableStrings.MyCasesByChannelChartWidget_title.Value" Value="Мои обращения по каналу коммуникации" />
+			<Item Name="LocalizableStrings.MyCasesByPriorityChartWidget_series_0.Value" Value="Обращение" />
+			<Item Name="LocalizableStrings.MyCasesByPriorityChartWidget_title.Value" Value="Мои обращения по приоритету" />
+			<Item Name="LocalizableStrings.MyCasesBySatisfactionScoreChartWidget_label.Value" Value="Обращение" />
+			<Item Name="LocalizableStrings.MyCasesBySatisfactionScoreChartWidget_series_0.Value" Value="Обращение" />
+			<Item Name="LocalizableStrings.MyCasesBySatisfactionScoreChartWidget_title.Value" Value="Оценки по моим обращениям" />
+			<Item Name="LocalizableStrings.MyCasesByStatusChartWidget_series_0.Value" Value="Обращение" />
+			<Item Name="LocalizableStrings.MyCasesByStatusChartWidget_title.Value" Value="Мои обращения по состоянию" />
+			<Item Name="LocalizableStrings.MyOverdueResolutionCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.MyOverdueResolutionCasesIndicatorWidget_title.Value" Value="Просрочено по разрешению" />
+			<Item Name="LocalizableStrings.MyOverdueResponseCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.MyOverdueResponseCasesIndicatorWidget_title.Value" Value="Просрочено по реакции" />
+			<Item Name="LocalizableStrings.MySatisfactionScoreByChannelChartWidget_label.Value" Value="Обращения" />
+			<Item Name="LocalizableStrings.MySatisfactionScoreByMonthChartWidget_label.Value" Value="Обращений" />
+			<Item Name="LocalizableStrings.MySatisfactionScoreByMonthChartWidget_series_0.Value" Value="Обращений" />
+			<Item Name="LocalizableStrings.MySatisfactionScoreByMonthChartWidget_title.Value" Value="Мои оценки по месяцам" />
+			<Item Name="LocalizableStrings.ResovledVsOverdueCasesChartWidget_series_0.Value" Value="Всего решено обращений" />
+			<Item Name="LocalizableStrings.ResovledVsOverdueCasesChartWidget_series_1.Value" Value="Просрочено обращений" />
+			<Item Name="LocalizableStrings.ResovledVsOverdueCasesChartWidget_title.Value" Value="Решенные и просроченные обращения" />
+			<Item Name="LocalizableStrings.WaitingForResponseCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.WaitingForResponseCasesIndicatorWidget_title.Value" Value="Ожидают ответа пользователя" />
+		</Items>
+	</Group>
+</Resources>

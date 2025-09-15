@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Stranica za uređivanje servisnog inženjera" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Prati feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Sada pratite feed: {0}" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Prestani pratiti feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="You have stopped following feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

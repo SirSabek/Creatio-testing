@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CasePushNotifier" />
+			<Item Name="LocalizableStrings.NewMessageNotificationTemplate.Value" Value="Anda telah menerima pesan baru untuk kasus Anda" />
+			<Item Name="LocalizableStrings.NewStatusNotificationTemplate.Value" Value="Status kasus telah diubah menjadi &quot;{0}&quot;" />
+			<Item Name="LocalizableStrings.PushTitleTemplate.Value" Value="Kasus #{0}" />
+		</Items>
+	</Group>
+</Resources>

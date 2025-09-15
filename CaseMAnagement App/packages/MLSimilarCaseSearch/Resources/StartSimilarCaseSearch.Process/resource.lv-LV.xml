@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Lieta izveidota" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Unikāls ieraksta identifikators" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Lietas apraksts atjaunināts" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Unikāls ieraksta identifikators" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Līdzīgu lietu meklēšana" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.Caption" Value="Lietas identifikators" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.DisplayValue" Value="[#Case created.Unique identifier of record#] == Guid.Empty ? [#Case description updated.Unique identifier of record#] : [#Case created.Unique identifier of record#]" />
+			<Item Name="Caption" Value="Sākt līdzīgu lietu meklēšanu" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Schema del dettaglio - Team di servizio nella sezione servizi" />
+			<Item Name="Images.12703106-728c-4173-ba38-8999330d571f.Caption" Value="Immagine 1" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Team di servizio" />
+			<Item Name="LocalizableStrings.DeleteButtonTitle.Value" Value="Elimina" />
+			<Item Name="LocalizableStrings.EngineerCaption.Value" Value="Membro/team" />
+			<Item Name="LocalizableStrings.ErrorTemplate.Value" Value="Dettagliol {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Linea di supporto" />
+			<Item Name="LocalizableStrings.ValidationErrorTemplate.Value" Value="Compilare il campo &quot;{0}&quot;" />
+		</Items>
+	</Group>
+</Resources>

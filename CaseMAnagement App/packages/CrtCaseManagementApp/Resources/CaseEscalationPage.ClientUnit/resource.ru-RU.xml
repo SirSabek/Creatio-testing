@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница эскалации Обращения" />
+			<Item Name="LocalizableStrings.Label_9myf4hy_caption.Value" Value="Эскалация обращения" />
+			<Item Name="LocalizableStrings.Label_incl2k4_caption.Value" Value="Укажите линию поддержки, чтобы эскалировать обращение" />
+			<Item Name="LocalizableStrings.PageSubtitle_caption.Value" Value="Укажите уровень поддержки, чтобы эскалировать обращение" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Эскалация обращения" />
+		</Items>
+	</Group>
+</Resources>

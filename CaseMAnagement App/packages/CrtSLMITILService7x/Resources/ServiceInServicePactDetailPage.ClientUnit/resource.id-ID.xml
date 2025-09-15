@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Skema halaman edit detail - Layanan dalam kontrak layanan" />
+			<Item Name="LocalizableStrings.CalendarCaption.Value" Value="Kalender" />
+			<Item Name="LocalizableStrings.ReactionTimeDayTypeCaption.Value" Value="Tipe hari waktu respons" />
+			<Item Name="LocalizableStrings.ReactionTimeUnitCaption.Value" Value="Response time unit" />
+			<Item Name="LocalizableStrings.ReactionTimeValueCaption.Value" Value="Waktu respon" />
+			<Item Name="LocalizableStrings.ServiceItemCaption.Value" Value="Layanan" />
+			<Item Name="LocalizableStrings.ServicePactCaption.Value" Value="Kontrak layanan" />
+			<Item Name="LocalizableStrings.SolutionTimeDayTypeCaption.Value" Value="Tipe hari waktu resolusi" />
+			<Item Name="LocalizableStrings.SolutionTimeUnitCaption.Value" Value="Resolution time unit" />
+			<Item Name="LocalizableStrings.SolutionTimeValueCaption.Value" Value="Waktu resolusi" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

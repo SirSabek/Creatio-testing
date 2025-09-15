@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Tarefa de usuário para o envio de um e-mail ao contato do caso" />
+			<Item Name="Parameters.CaseId.Caption" Value="Identidade do caso" />
+			<Item Name="Parameters.EmailTemplateId.Caption" Value="Identidade do modelo de e-mails" />
+		</Items>
+	</Group>
+</Resources>

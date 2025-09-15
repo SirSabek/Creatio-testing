@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Lược đồ trang chỉnh sửa chi tiết - Dịch vụ trong hợp đồng dịch vụ" />
+			<Item Name="LocalizableStrings.CalendarCaption.Value" Value="Lịch" />
+			<Item Name="LocalizableStrings.ReactionTimeDayTypeCaption.Value" Value="Loại ngày thời gian phản hồi" />
+			<Item Name="LocalizableStrings.ReactionTimeUnitCaption.Value" Value="Response time unit" />
+			<Item Name="LocalizableStrings.ReactionTimeValueCaption.Value" Value="Thời gian phản hồi" />
+			<Item Name="LocalizableStrings.ServiceItemCaption.Value" Value="Service" />
+			<Item Name="LocalizableStrings.ServicePactCaption.Value" Value="Hợp đồng dịch vụ" />
+			<Item Name="LocalizableStrings.SolutionTimeDayTypeCaption.Value" Value="Loại ngày thời gian giải quyết" />
+			<Item Name="LocalizableStrings.SolutionTimeUnitCaption.Value" Value="Resolution time unit" />
+			<Item Name="LocalizableStrings.SolutionTimeValueCaption.Value" Value="Thời gian giải quyết" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Trạng thái" />
+		</Items>
+	</Group>
+</Resources>

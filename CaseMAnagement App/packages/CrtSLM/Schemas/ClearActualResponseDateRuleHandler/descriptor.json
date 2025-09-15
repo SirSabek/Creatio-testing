@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "49896338-f1b3-42b4-a897-a58e4a82829a",
+    "Name": "ClearActualResponseDateRuleHandler",
+    "ModifiedOnUtc": "\/Date(1756637879000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "The rule for calculating the actual response time.",
+    "DependsOn": []
+  }
+}

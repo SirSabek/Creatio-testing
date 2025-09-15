@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.65cd387c-e99f-ac09-610d-d849cb609559.Caption" Value="Conteneur de profil de contact : Masquer l'élément" />
+			<Item Name="AddonConfig.Rules.8fc0661b-2181-5ae4-5e29-49d374410795.Caption" Value="Conteneur de profil du Compte : Masquer l'élément" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сервіс встановлення рівня задоволеності" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Caption" Value="SatisfactionCommentMessage" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Value" Value="Коментар до оцінки було змінено" />
+			<Item Name="LocalizableStrings.SatisfactionLevelMessage.Value" Value="Оцінка була змінена на {0}" />
+		</Items>
+	</Group>
+</Resources>

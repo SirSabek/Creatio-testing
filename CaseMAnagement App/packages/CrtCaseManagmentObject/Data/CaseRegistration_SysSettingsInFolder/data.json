@@ -1,0 +1,40 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3b7e6bcf-2d92-4ff7-af39-69eb2e1ace07"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "9125bebc-e3a5-440c-95b1-233aefa0840d",
+          "DisplayValue": "Automatically create new contacts for unknown email addresses"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "83b4eed8-8b76-489b-8159-550cb9f939d6",
+          "DisplayValue": "Case registration"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "53bd2f87-d0a2-491c-a816-84dfac860bf7"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "917b614a-4a40-4e87-b569-a38ab9e2e7e7",
+          "DisplayValue": "Connect emails to cases by case number in the email body"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "83b4eed8-8b76-489b-8159-550cb9f939d6",
+          "DisplayValue": "Case registration"
+        }
+      ]
+    }
+  ]
+}

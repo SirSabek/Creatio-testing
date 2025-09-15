@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Lloji i vlerës së fushës &quot;Adresa e emailit ose domeni&quot;" />
+			<Item Name="Columns.Code.Caption" Value="Kodi" />
+		</Items>
+	</Group>
+</Resources>

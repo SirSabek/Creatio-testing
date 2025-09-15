@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationEditPage" />
+			<Item Name="LocalizableStrings.AliasTip.Value" Value="Якщо ви отримуєте повідомлення на скриньку пересилання назва якої відрізняється від початкової назви поштової скриньки, вкажіть назву скриньки пересилання в даному полі" />
+			<Item Name="LocalizableStrings.MessageLanguageTip.Value" Value="Мова повідомлень визначається за такими пріоритетами:&#xA;1. Мова спілкування контакту, який є одержувачем листи.&#xA;2. Мова повідомлень, яка зазначена для поштової скриньки в довіднику &quot;Список поштових скриньок для реєстрації звернень&quot;.&#xA;3. Значення системної настройки &quot;Мова повідомлень за замовчуванням&quot; (&quot;код DefaultMessageLanguage&quot;).&#xA;Дізнайтеся більше про цю функціональність в {0} Академії {1}" />
+		</Items>
+	</Group>
+</Resources>

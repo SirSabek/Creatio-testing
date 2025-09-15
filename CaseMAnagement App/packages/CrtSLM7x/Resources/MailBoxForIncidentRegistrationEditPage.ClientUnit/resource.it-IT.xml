@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationEditPage" />
+			<Item Name="LocalizableStrings.AliasTip.Value" Value="Se si usa un alias della cassetta postale per ricevere messaggi di supporto, si prega di specificarlo" />
+			<Item Name="LocalizableStrings.MessageLanguageTip.Value" Value="La lingua del messaggio è determinata dai seguenti valori, dalla priorità più alta alla più bassa: &#xA;1. La lingua preferita del contatto con il destinatario. &#xA;2. La lingua della cassetta postale nella lookup “Elenco delle cassette postali per la registrazione di casi”. &#xA;3. Il valore dell'impostazione di sistema della “Lingua predefinita per i messaggi” (“DefaultMessageLanguage”) &#xA;Scopri di più su questa funzione nell' {0}Academy{1}" />
+		</Items>
+	</Group>
+</Resources>

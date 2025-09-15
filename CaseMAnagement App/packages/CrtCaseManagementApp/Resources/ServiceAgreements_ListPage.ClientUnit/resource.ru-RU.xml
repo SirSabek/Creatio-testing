@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница с реестром раздела &quot;Сервисные договоры&quot;" />
+			<Item Name="LocalizableStrings.MenuItem_ImportToExcel_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Обновить" />
+		</Items>
+	</Group>
+</Resources>

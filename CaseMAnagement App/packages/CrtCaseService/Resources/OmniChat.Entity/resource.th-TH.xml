@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Case.Caption" Value="เคส" />
+			<Item Name="Columns.Case.Description" Value="Case connected to chat" />
+		</Items>
+	</Group>
+</Resources>

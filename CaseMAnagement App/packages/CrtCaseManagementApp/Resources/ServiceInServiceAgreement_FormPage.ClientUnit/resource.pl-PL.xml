@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Strona formularza umowy o świadczenie usług" />
+			<Item Name="LocalizableStrings.addRecord_hl6cv6y_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_otug0r6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_pworq7r_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_vyprjkp_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_xprr53n_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.ComboBox_09w87e2_label.Value" Value="Czas rozwiązania" />
+			<Item Name="LocalizableStrings.ComboBox_v10hb6a_label.Value" Value="Czas odpowiedzi" />
+			<Item Name="LocalizableStrings.NumberInput_fw0qi0g_label.Value" Value="Wartość" />
+			<Item Name="LocalizableStrings.NumberInput_gfbs7wo_label.Value" Value="Wartość" />
+			<Item Name="LocalizableStrings.ReactionTimeUnit_label.Value" Value="Czas odpowiedzi" />
+			<Item Name="LocalizableStrings.ReactionTimeValue_label.Value" Value="Wartość" />
+			<Item Name="LocalizableStrings.ServiceItem_tooltip.Value" Value="Terminy i status będą automatycznie wypełniane danymi z wybranej usługi" />
+			<Item Name="LocalizableStrings.SolutionTimeUnit_label.Value" Value="Czas rozwiązania" />
+			<Item Name="LocalizableStrings.SolutionTimeValue_label.Value" Value="Wartość" />
+		</Items>
+	</Group>
+</Resources>

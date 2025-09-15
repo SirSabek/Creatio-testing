@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Atbalsta līmeņa meklēšanas lapas prioritātes" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Noklusējuma attēls" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Lūdzu, aizpildiet atbildes laika laukus" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Lūdzu, aizpildiet atbildes laika laukus" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Lūdzu, aizpildiet atrisināšanas laika laukus" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Lūdzu, aizpildiet atrisināšanas laika laukus" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="Pašreizējā vērtība jau pastāv" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="Pašreizējā vērtība jau pastāv" />
+		</Items>
+	</Group>
+</Resources>

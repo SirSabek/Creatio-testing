@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "af1dc70c-6bce-8c16-0374-9fdc47b14a4b",
+    "Name": "SummarizeCase",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "CopilotIntentSchemaManager",
+    "Caption": "Summarize case",
+    "DependsOn": []
+  }
+}

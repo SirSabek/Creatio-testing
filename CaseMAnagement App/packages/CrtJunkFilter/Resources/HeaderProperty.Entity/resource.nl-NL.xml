@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Header eigenschappen" />
+			<Item Name="Columns.ExcludedEmailAdresses.Caption" Value="Uitgesloten e-mailadressen" />
+			<Item Name="Columns.ExcludedEmailAdresses.Description" Value="E-mailadressen waaraan de regel niet zal worden toegepast" />
+			<Item Name="Columns.Handler.Caption" Value="Handler" />
+			<Item Name="Columns.IsActive.Caption" Value="Is Actief" />
+			<Item Name="Columns.Name.Caption" Value="Naam" />
+		</Items>
+	</Group>
+</Resources>

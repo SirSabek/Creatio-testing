@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Базове звернення" />
+			<Item Name="Columns.Account.Caption" Value="Контрагент" />
+			<Item Name="Columns.Category.Caption" Value="Категорія" />
+			<Item Name="Columns.ClosureCode.Caption" Value="Причина закриття" />
+			<Item Name="Columns.ClosureDate.Caption" Value="Дата закриття" />
+			<Item Name="Columns.Contact.Caption" Value="Контакт" />
+			<Item Name="Columns.FirstSolutionProvidedOn.Caption" Value="Перше рішення" />
+			<Item Name="Columns.Group.Caption" Value="Група відповідальних" />
+			<Item Name="Columns.Notes.Caption" Value="Примітки" />
+			<Item Name="Columns.Number.Caption" Value="Номер" />
+			<Item Name="Columns.Origin.Caption" Value="Походження" />
+			<Item Name="Columns.Owner.Caption" Value="Відповідальний" />
+			<Item Name="Columns.Priority.Caption" Value="Пріоритет" />
+			<Item Name="Columns.RegisteredOn.Caption" Value="Дата реєстрації" />
+			<Item Name="Columns.RespondedOn.Caption" Value="Фактична реакція" />
+			<Item Name="Columns.ResponseDate.Caption" Value="Час реакції" />
+			<Item Name="Columns.ResponseOverdue.Caption" Value="Прострочений за реакцією" />
+			<Item Name="Columns.SatisfactionLevel.Caption" Value="Рівень задоволеності" />
+			<Item Name="Columns.SatisfactionLevelComment.Caption" Value="Коментар до оцінки" />
+			<Item Name="Columns.Solution.Caption" Value="Рішення" />
+			<Item Name="Columns.SolutionDate.Caption" Value="Час розв'язання" />
+			<Item Name="Columns.SolutionOverdue.Caption" Value="Прострочений за розв'язанням" />
+			<Item Name="Columns.SolutionProvidedOn.Caption" Value="Фактичне вирішення" />
+			<Item Name="Columns.SolutionRemains.Caption" Value="Залишилося по вирішенню" />
+			<Item Name="Columns.Status.Caption" Value="Стан" />
+			<Item Name="Columns.Subject.Caption" Value="Тема" />
+			<Item Name="Columns.Symptoms.Caption" Value="Опис" />
+		</Items>
+	</Group>
+</Resources>

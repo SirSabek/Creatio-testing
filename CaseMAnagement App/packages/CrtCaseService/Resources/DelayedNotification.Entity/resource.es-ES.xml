@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Notificación retrasada" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Fecha de envío real" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Nombre del gerente calificado de ensamblaje" />
+			<Item Name="Columns.Case.Caption" Value="Caso" />
+			<Item Name="Columns.Delay.Caption" Value="Retraso" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="Plantilla de mensaje de correo electrónico" />
+			<Item Name="Columns.Error.Caption" Value="Ejecutado con error" />
+			<Item Name="Columns.SendDate.Caption" Value="Cuando envía" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="חדש" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="מקרים" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="חפש" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="פעולות" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="שרות" />
+		</Items>
+	</Group>
+</Resources>

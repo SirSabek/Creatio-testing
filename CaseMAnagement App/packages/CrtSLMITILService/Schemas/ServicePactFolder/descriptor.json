@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8982e0bf-ad49-450a-8cb6-90ec9e1fc155",
+    "Name": "ServicePactFolder",
+    "ModifiedOnUtc": "\/Date(1756637882000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Folder in \"Service contracts\" section",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="EstimateLinkGenerator" />
+			<Item Name="Description" Value=" גנרטור קישור לרמת שביעות רצון " />
+			<Item Name="LocalizableStrings.SatisfactionLevelMessage.Value" Value="הערכה" />
+		</Items>
+	</Group>
+</Resources>

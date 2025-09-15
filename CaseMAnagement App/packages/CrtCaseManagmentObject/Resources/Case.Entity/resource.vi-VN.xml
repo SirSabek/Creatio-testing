@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Trường hợp" />
+			<Item Name="Columns.Group.Caption" Value="Nhóm người được phân công" />
+			<Item Name="Columns.Owner.Caption" Value="Người được phân công" />
+			<Item Name="Columns.ParentActivity.Caption" Value="Hoạt động cha" />
+			<Item Name="Columns.ParentCase.Caption" Value="Trường hợp cha" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Pool 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.NewOwnerCaption.Value" Value="Thông báo về nhiệm vụ" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.NewOwnerMessage.Value" Value="Trường hợp Số{0} “{1}” đã được ủy nhiệm cho bạn" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OldOwnerCaption.Value" Value="Thông báo thay đổi người được ủy  nhiệm" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OldOwnerMessage.Value" Value="Trường hợp Số{0} “{1} không còn được ủy nhiệm cho bạn nữa" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.ServiceRequestName.Value" Value="Trường hợp {0}" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SubjectByString.Value" Value="bởi" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SubjectForString.Value" Value="bởi" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.IsNeedSendRemind.Caption" Value="IsNeedSendRemind" />
+			<Item Name="EventsProcessSchema.Parameters.NewOwnerId.Caption" Value="NewOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.OldOwnerId.Caption" Value="OldOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+			<Item Name="EventsProcessSchema.Parameters.SendToNewOwner.Caption" Value="SendToNewOwner" />
+			<Item Name="EventsProcessSchema.Parameters.SendToOldOwner.Caption" Value="SendToOldOwner" />
+		</Items>
+	</Group>
+</Resources>

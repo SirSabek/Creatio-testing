@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Detaliu cazuri similare" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Cazuri similare" />
+			<Item Name="LocalizableStrings.RefreshSimilarCases.Value" Value="Refresh" />
+		</Items>
+	</Group>
+</Resources>

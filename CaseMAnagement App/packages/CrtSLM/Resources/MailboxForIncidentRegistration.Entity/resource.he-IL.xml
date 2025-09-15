@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="תיבת דואר לרישום אירועים" />
+			<Item Name="Columns.AliasAddress.Caption" Value="כינוי תיבת דואר" />
+			<Item Name="Columns.Category.Caption" Value="קטגוריית מקרה" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="תיבת דואר" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="שפת הודעה" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="תמיד להשתמש בשפה של תיבת הדואר" />
+		</Items>
+	</Group>
+</Resources>

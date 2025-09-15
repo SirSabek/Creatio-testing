@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Stav služby" />
+			<Item Name="Columns.Active.Caption" Value="Je aktivní" />
+			<Item Name="Columns.Color.Caption" Value="Barva" />
+		</Items>
+	</Group>
+</Resources>

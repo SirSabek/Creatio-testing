@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Arama - vaka önceliği" />
+			<Item Name="Columns.Image.Caption" Value="Simge" />
+			<Item Name="Columns.Priority.Caption" Value="Öncelik" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Yanıt zaman birimi" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Response time value" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Resolution time unit" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Resolution time value" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service agreement" />
+			<Item Name="Columns.Calendar.Caption" Value="ปฏิทิน" />
+			<Item Name="Columns.EndDate.Caption" Value="สิ้นสุด" />
+			<Item Name="Columns.Name.Caption" Value="ชื่อเรื่อง" />
+			<Item Name="Columns.Notes.Caption" Value="บันทึกย่อ" />
+			<Item Name="Columns.Number.Caption" Value="หมายเลข" />
+			<Item Name="Columns.Owner.Caption" Value="เจ้าของ" />
+			<Item Name="Columns.ServiceProvider.Caption" Value="ลูกค้า (บริษัท)" />
+			<Item Name="Columns.ServiceProviderContact.Caption" Value="ผู้ติดต่อ" />
+			<Item Name="Columns.StartDate.Caption" Value="เริ่มต้น" />
+			<Item Name="Columns.Status.Caption" Value="สถานะ" />
+			<Item Name="Columns.SupportLevel.Caption" Value="ระดับการสนับสนุน" />
+			<Item Name="Columns.Type.Caption" Value="ประเภท" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalFlow1.Caption" Value="Is generating number required" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess1.Caption" Value="เรียกใช้กระบวนการย่อยของอีเว้นท์ 1" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumberUserTask.Caption" Value="สร้างหมายเลขลำดับ" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask1.Caption" Value="Pass schema to generator" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask2.Caption" Value="Assign number" />
+			<Item Name="EventsProcessSchema.BaseElements.ServicePactSavingStartMessage.Caption" Value="ServicePactSaved" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="กองกลาง 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="ช่องทาง 1" />
+		</Items>
+	</Group>
+</Resources>

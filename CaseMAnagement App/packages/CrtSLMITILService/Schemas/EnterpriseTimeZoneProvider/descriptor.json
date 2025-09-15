@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d00e229e-51ae-4e8c-9971-06abdff29301",
+    "Name": "EnterpriseTimeZoneProvider",
+    "ModifiedOnUtc": "\/Date(1499176971000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "EnterpriseTimeZoneProvider",
+    "DependsOn": []
+  }
+}

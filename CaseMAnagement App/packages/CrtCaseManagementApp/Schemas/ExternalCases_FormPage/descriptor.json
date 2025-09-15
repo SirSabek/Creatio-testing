@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "df429114-693d-4986-a3cf-3c50a0eef7ce",
+    "Name": "ExternalCases_FormPage",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "External cases form page",
+    "DependsOn": []
+  }
+}

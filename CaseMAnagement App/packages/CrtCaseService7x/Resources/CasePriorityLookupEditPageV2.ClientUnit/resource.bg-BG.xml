@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Приоритети в страницата за търсене на ниво на поддръжка" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Изображение по подразбиране" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Моля попълни полетата за време за отговор" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Моля попълни полетата за време за отговор" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Моля попълни полетата за време за разрешаване" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Моля попълни полетата за време за разрешаване" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="Текущата стойност вече съществува" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="Текущата стойност вече съществува" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Odgoditi do" />
+			<Item Name="LocalizableStrings.EmailTitleCaption.Caption" Value="Odgovor zahtjeva" />
+			<Item Name="LocalizableStrings.EmailTitleCaption.Value" Value="Odgovor zahtjeva {0} {1}" />
+			<Item Name="LocalizableStrings.EscalationTitle.Caption" Value="EscalationTitle" />
+			<Item Name="LocalizableStrings.EscalationTitle.Value" Value="Escalate" />
+			<Item Name="LocalizableStrings.FoundSimilarCaseTextTemplate.Value" Value="Pronađeno sličnih zahtjeva: {0}" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Detalji" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Caption" Value="Sakrij poruke sustava" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Value" Value="Sakrij poruke sustava" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Caption" Value="Povijest" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Value" Value="Povijest" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="More than one queue element connected to the process. Process Id: {0}" />
+			<Item Name="LocalizableStrings.OpenServiceModelByServiceModuleCaption.Value" Value="Prikaži ovisnosti o uslugama" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Caption" Value="Profil zahtjeva" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Value" Value="Profil zahtjeva" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Re-queue" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Nije moguće ponovno staviti stavku u red čekanja. Poruka o pogrešci: {0}" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Caption" Value="Obrađivanje" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Value" Value="Obrađivanje" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Stranica nije povezana s elementom reda čekanja radne površine agenta. Akcija je otkazana." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Nije moguće ponovno staviti stavku u red čekanja" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Successfully re-queued" />
+			<Item Name="LocalizableStrings.ReclassificationTitle.Value" Value="Preklasificiraj" />
+			<Item Name="LocalizableStrings.SchemaLocalizableString1.Caption" Value="Poruka korisniku 1" />
+			<Item Name="LocalizableStrings.SearchForSimilarCasesButtonCaption.Caption" Value="Pretraži slične zahtjeve" />
+			<Item Name="LocalizableStrings.SearchForSimilarCasesButtonCaption.Value" Value="Pretraži slične zahtjeve" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Caption" Value="ServiceItemTipMessage" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Value" Value="&lt;p&gt; Usluge određuju kategorije zahtjeva kao i zadane rokove za odgovor i rješavanje. Opseg usluga određen je kupčevim ugovorom o razini usluge (SLA). Koristite &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServiceItemSection/&quot;&gt;&quot;Services&quot;&lt;/a&gt; i &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServicePactSection/&quot;&gt;&quot;Ugovori o uslugama&quot;&lt;/a&gt; odjeljke za konfiguriranje dostupnih usluga&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.ServicePactTipMessage.Caption" Value="ServicePactTipMessage" />
+			<Item Name="LocalizableStrings.ServicePactTipMessage.Value" Value="&lt;p&gt;Sporazumi o razini usluge (SLA) određuju opseg usluga koje se pružaju različitim vrstama korisnika, kao i uvjete za pružanje podugovorenih i internih usluga. Koristite &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServicePactSection/&quot;&gt;&quot;Ugovore o uslugama&quot;&lt;/a&gt; odjeljak za stvaranje i izmjenu ugovora o uslugama &lt;/p&gt;" />
+			<Item Name="LocalizableStrings.SetCaseContactMessage.Value" Value="Navedite {0} kao kontakt u zahtjevu?" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Caption" Value="Prikaži poruke sustava" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Value" Value="Prikaži poruke sustava" />
+			<Item Name="LocalizableStrings.SolutionFieldPlaceholder.Value" Value="Resolution description" />
+		</Items>
+	</Group>
+</Resources>

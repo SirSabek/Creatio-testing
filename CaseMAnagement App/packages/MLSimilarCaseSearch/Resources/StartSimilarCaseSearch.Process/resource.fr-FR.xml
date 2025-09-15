@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Le Cas a été créé" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Identifiant unique de l'enregistrement" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Mise à jour de la description du cas" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Identifiant unique de l'enregistrement" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Recherche de cas similaires" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.Caption" Value="Identifiant des cas" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.DisplayValue" Value="[#Case created.Unique identifier of record#] == Guid.Empty ? [#Case description updated.Unique identifier of record#] : [#Case created.Unique identifier of record#]" />
+			<Item Name="Caption" Value="Déclencher la recherche de cas similaires" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Ligne 1" />
+			<Item Name="NotificationCaption.Caption" Value="Légende de l'instance du processus" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Nom du processus#]" />
+		</Items>
+	</Group>
+</Resources>

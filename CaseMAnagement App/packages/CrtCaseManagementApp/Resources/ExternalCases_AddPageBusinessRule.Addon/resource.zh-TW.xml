@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.1387e847-b823-d9c3-4201-8f699f518bb7.Caption" Value="類別、描述：設定欄位為必填" />
+			<Item Name="AddonConfig.Rules.1f7e084f-f362-d755-f47b-7269427712e9.Caption" Value="來源：設定值" />
+			<Item Name="Caption" Value="外部個案新增頁面（業務規則）" />
+		</Items>
+	</Group>
+</Resources>

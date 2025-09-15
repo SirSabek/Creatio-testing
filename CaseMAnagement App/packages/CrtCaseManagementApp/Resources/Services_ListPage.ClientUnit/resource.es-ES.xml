@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Página de lista de Servicios" />
+			<Item Name="LocalizableStrings.MenuItem_ddifcrw_caption.Value" Value="Importar desde Excel" />
+			<Item Name="LocalizableStrings.MenuItem_ImportToExcel_caption.Value" Value="Importar datos" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Actualizar" />
+		</Items>
+	</Group>
+</Resources>

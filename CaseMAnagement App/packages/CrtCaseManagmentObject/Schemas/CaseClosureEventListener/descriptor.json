@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5259f282-9948-4bf7-808a-cd4c02ad1966",
+    "Name": "CaseClosureEventListener",
+    "ModifiedOnUtc": "\/Date(1647493844000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CaseClosureEventListener",
+    "DependsOn": []
+  }
+}

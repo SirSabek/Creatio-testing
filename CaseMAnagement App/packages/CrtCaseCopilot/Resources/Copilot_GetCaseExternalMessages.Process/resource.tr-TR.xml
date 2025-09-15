@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.CheckObjectExistence.Caption" Value="Taşınabilir masaj masası varlığını kontrol edin" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Besleme harici mesaj yok" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="Nesne var" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Caption" Value="Harici besleme mesajlarını sayın" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.AggregationColumnName.Caption" Value="Toplam işlev sütununun adı" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.CanReadUncommitedData.Caption" Value="Taahhüt edilmemiş verileri oku" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Filtredeki zamanı göz önünde bulundurun" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.DataSourceFilters.Caption" Value="Veri kaynaklarının filtreleri" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Okunacak sütun sayısı" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.FunctionType.Caption" Value="Toplu işlev türü" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.IgnoreDisplayValues.Caption" Value="Arama sütunlarının görüntülenen değerlerini okumayın" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.NumberOfRecords.Caption" Value="Okunacak kayıt sayısı" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ReadSomeTopRecords.Caption" Value="Önce oku" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultCompositeObjectList.Caption" Value="Kayıtların koleksiyonu" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultDateTimeFunction.Caption" Value="Fonksiyon sonucu(Tarih/Zaman)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultEntity.Caption" Value="Ortaya çıkan koleksiyonun ilk öğesi" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultEntityCollection.Caption" Value="Sonuçlanan koleksiyon" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultFloatFunction.Caption" Value="Fonksiyon sonucu(Ondalık)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultIntegerFunction.Caption" Value="Fonksiyon sonucu(tamsayı)" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.CountFeedExternalMessages.Parameters.ResultType.Caption" Value="Sonuç tipi" />
+			<Item Name="BaseElements.DefaultSequenceFlow3.Caption" Value="Nesne yok" />
+			<Item Name="BaseElements.ParallelGateway1.Caption" Value="Harici kanallardan mesaj alın" />
+			<Item Name="BaseElements.ReadActivities.Caption" Value="E -postaları okuyun" />
+			<Item Name="BaseElements.ReadActivities.Parameters.AggregationColumnName.Caption" Value="Toplam işlev sütununun adı" />
+			<Item Name="BaseElements.ReadActivities.Parameters.CanReadUncommitedData.Caption" Value="Taahhüt edilmemiş verileri oku" />
+			<Item Name="BaseElements.ReadActivities.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ConsiderTimeInFilter.Caption" Value="Filtredeki zamanı göz önünde bulundurun" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadActivities.Parameters.DataSourceFilters.Caption" Value="Veri kaynaklarının filtreleri" />
+			<Item Name="BaseElements.ReadActivities.Parameters.EntityColumnMetaPathes.Caption" Value="Okunacak sütun sayısı" />
+			<Item Name="BaseElements.ReadActivities.Parameters.EntityColumnMetaPathes.DisplayValue" Value="618e7503-83b1-452d-aa33-8f76792853b5;ae372cfa-a21f-47f0-8a64-17d137ebe966;070b689f-c9d8-46e3-bb52-bcb1f430f5cf;a12ca538-61b1-4907-9fdf-01969163d4dd" />
+			<Item Name="BaseElements.ReadActivities.Parameters.FunctionType.Caption" Value="Toplu işlev türü" />
+			<Item Name="BaseElements.ReadActivities.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadActivities.Parameters.IgnoreDisplayValues.Caption" Value="Arama sütunlarının görüntülenen değerlerini okumayın" />
+			<Item Name="BaseElements.ReadActivities.Parameters.NumberOfRecords.Caption" Value="Okunacak kayıt sayısı" />
+			<Item Name="BaseElements.ReadActivities.Parameters.NumberOfRecords.DisplayValue" Value="10" />
+			<Item Name="BaseElements.ReadActivities.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadActivities.Parameters.OrderInfo.DisplayValue" Value="CreatedOn:2:1" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ReadSomeTopRecords.Caption" Value="Önce oku" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ReadSomeTopRecords.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Body.Caption" Value="lBaşlık" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Caption" Value="Kayıtların koleksiyonu" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.DetailedResult.Caption" Value="Sonuç ayrıntıları" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.Result.Caption" Value="Sonuç" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCompositeObjectList.StartDate.Caption" Value="Start" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultDateTimeFunction.Caption" Value="Fonksiyon sonucu(Tarih/Zaman)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultEntity.Caption" Value="Ortaya çıkan koleksiyonun ilk öğesi" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultEntityCollection.Caption" Value="Sonuçlanan koleksiyon" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultFloatFunction.Caption" Value="Fonksiyon sonucu(Ondalık)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultIntegerFunction.Caption" Value="Fonksiyon sonucu(tamsayı)" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultType.Caption" Value="Sonuç tipi" />
+			<Item Name="BaseElements.ReadActivities.Parameters.ResultType.DisplayValue" Value="2" />
+			<Item Name="BaseElements.ReadChatlMessages.Caption" Value="Sohbet mesajlarını okuyun" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.AggregationColumnName.Caption" Value="Toplam işlev sütununun adı" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.CanReadUncommitedData.Caption" Value="Taahhüt edilmemiş verileri oku" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Filtredeki zamanı göz önünde bulundurun" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.DataSourceFilters.Caption" Value="Veri kaynaklarının filtreleri" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Okunacak sütun sayısı" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.FunctionType.Caption" Value="Toplu işlev türü" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.IgnoreDisplayValues.Caption" Value="Arama sütunlarının görüntülenen değerlerini okumayın" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.NumberOfRecords.Caption" Value="Okunacak kayıt sayısı" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ReadSomeTopRecords.Caption" Value="Önce oku" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.Caption" Value="Kayıtların koleksiyonu" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Tarafından yaratıldı" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Created on" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Message" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultDateTimeFunction.Caption" Value="Fonksiyon sonucu(Tarih/Zaman)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultEntity.Caption" Value="Ortaya çıkan koleksiyonun ilk öğesi" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultEntityCollection.Caption" Value="Sonuçlanan koleksiyon" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultFloatFunction.Caption" Value="Fonksiyon sonucu(Ondalık)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultIntegerFunction.Caption" Value="Fonksiyon sonucu(tamsayı)" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadChatlMessages.Parameters.ResultType.Caption" Value="Sonuç tipi" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Caption" Value="Harici besleme mesajlarını okuyun" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.AggregationColumnName.Caption" Value="Toplam işlev sütununun adı" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.CanReadUncommitedData.Caption" Value="Taahhüt edilmemiş verileri oku" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Filtredeki zamanı göz önünde bulundurun" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.DataSourceFilters.Caption" Value="Veri kaynaklarının filtreleri" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Okunacak sütun sayısı" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.FunctionType.Caption" Value="Toplu işlev türü" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.IgnoreDisplayValues.Caption" Value="Arama sütunlarının görüntülenen değerlerini okumayın" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.NumberOfRecords.Caption" Value="Okunacak kayıt sayısı" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ReadSomeTopRecords.Caption" Value="Önce oku" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCompositeObjectList.Caption" Value="Kayıtların koleksiyonu" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Message/comment" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultDateTimeFunction.Caption" Value="Fonksiyon sonucu(Tarih/Zaman)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultEntity.Caption" Value="Ortaya çıkan koleksiyonun ilk öğesi" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultEntityCollection.Caption" Value="Sonuçlanan koleksiyon" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultFloatFunction.Caption" Value="Fonksiyon sonucu(Ondalık)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultIntegerFunction.Caption" Value="Fonksiyon sonucu(tamsayı)" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadExternalFeedMessages.Parameters.ResultType.Caption" Value="Sonuç tipi" />
+			<Item Name="BaseElements.ReadPortalMessages.Caption" Value="Portal Mesajları Oku (kullanımdan kaldırıldı)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.AggregationColumnName.Caption" Value="Toplam işlev sütununun adı" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.CanReadUncommitedData.Caption" Value="Taahhüt edilmemiş verileri oku" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ConsiderTimeInFilter.Caption" Value="Filtredeki zamanı göz önünde bulundurun" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.DataSourceFilters.Caption" Value="Veri kaynaklarının filtreleri" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.EntityColumnMetaPathes.Caption" Value="Okunacak sütun sayısı" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.EntityColumnMetaPathes.DisplayValue" Value="9438b617-43b8-48a2-9295-c63f9171ea31" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.FunctionType.Caption" Value="Toplu işlev türü" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.IgnoreDisplayValues.Caption" Value="Arama sütunlarının görüntülenen değerlerini okumayın" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.NumberOfRecords.Caption" Value="Okunacak kayıt sayısı" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.NumberOfRecords.DisplayValue" Value="50" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ReadSomeTopRecords.Caption" Value="Önce oku" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ReadSomeTopRecords.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.Caption" Value="Kayıtların koleksiyonu" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Kişi" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Created on" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCompositeObjectList.Message.Caption" Value="Message" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultDateTimeFunction.Caption" Value="Fonksiyon sonucu(Tarih/Zaman)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultEntity.Caption" Value="Ortaya çıkan koleksiyonun ilk öğesi" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultEntityCollection.Caption" Value="Sonuçlanan koleksiyon" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultFloatFunction.Caption" Value="Fonksiyon sonucu(Ondalık)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultIntegerFunction.Caption" Value="Fonksiyon sonucu(tamsayı)" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultType.Caption" Value="Sonuç tipi" />
+			<Item Name="BaseElements.ReadPortalMessages.Parameters.ResultType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.RemoveChatHtmlScriptTask.Caption" Value="HTML etiketlerini sohbet mesajlarından kaldırın" />
+			<Item Name="BaseElements.RemoveEmailHtmlScriptTask.Caption" Value="HTML etiketlerini e -postalardan kaldırın" />
+			<Item Name="BaseElements.RemoveFeedHtmlScriptTask.Caption" Value="Harici besleme mesajlarından HTML etiketlerini kaldırın" />
+			<Item Name="BaseElements.RemovePortalHtmlScriptTask.Caption" Value="HTML etiketlerini portal mesajlarından kaldırın" />
+			<Item Name="BaseElements.SequenceFlow13.Caption" Value="E-posta kanalı" />
+			<Item Name="BaseElements.SequenceFlow14.Caption" Value="Dış besleme" />
+			<Item Name="BaseElements.SequenceFlow15.Caption" Value="Omni sohbetler" />
+			<Item Name="Caption" Value="Dava harici mesajlar alın" />
+			<Item Name="Description" Value="Case ID'ye göre bir müşteri ile son vaka mesajları hakkında bilgi almak" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Şerit 1" />
+			<Item Name="NotificationCaption.Caption" Value="İşlem örneği başlığı" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="Case Id" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="Case'in benzersiz tanımlayıcısı" />
+			<Item Name="Parameters.ChatMessages.Caption" Value="Sohbet mesajları" />
+			<Item Name="Parameters.ChatMessages.ChatMessage.Caption" Value="Sohbet mesajı" />
+			<Item Name="Parameters.ChatMessages.ChatMessage.Sys_Description" Value="Message body" />
+			<Item Name="Parameters.ChatMessages.Contact.Caption" Value="Kişi" />
+			<Item Name="Parameters.ChatMessages.Contact.Sys_Description" Value="Kişi" />
+			<Item Name="Parameters.ChatMessages.StartDate.Caption" Value="Başlangıç tarihi" />
+			<Item Name="Parameters.ChatMessages.StartDate.Sys_Description" Value="Başlangıç tarihi" />
+			<Item Name="Parameters.EmailMessages.Body.Caption" Value="lBaşlık" />
+			<Item Name="Parameters.EmailMessages.Body.Sys_Description" Value="Message body" />
+			<Item Name="Parameters.EmailMessages.Caption" Value="E -posta mesajları" />
+			<Item Name="Parameters.EmailMessages.Result.Caption" Value="Sonuç" />
+			<Item Name="Parameters.EmailMessages.Result.Sys_Description" Value="Sonuç" />
+			<Item Name="Parameters.EmailMessages.ResultDetails.Caption" Value="Sonuç detayları" />
+			<Item Name="Parameters.EmailMessages.ResultDetails.Sys_Description" Value="Sonuç ayrıntıları" />
+			<Item Name="Parameters.EmailMessages.Start.Caption" Value="Başlangıç tarihi" />
+			<Item Name="Parameters.EmailMessages.Start.Sys_Description" Value="Başlangıç tarihi" />
+			<Item Name="Parameters.EmailMessages.Sys_Description" Value="Vaka ile son 50 e -posta mesajı" />
+			<Item Name="Parameters.ExternalFeedMessages.Body.Caption" Value="lBaşlık" />
+			<Item Name="Parameters.ExternalFeedMessages.Body.Sys_Description" Value="Message body" />
+			<Item Name="Parameters.ExternalFeedMessages.Caption" Value="Harici besleme mesajları" />
+			<Item Name="Parameters.ExternalFeedMessages.Contact.Caption" Value="Kişi" />
+			<Item Name="Parameters.ExternalFeedMessages.Contact.Sys_Description" Value="Kişi" />
+			<Item Name="Parameters.ExternalFeedMessages.StartTime.Caption" Value="Başlangıç ​​Zamanı" />
+			<Item Name="Parameters.ExternalFeedMessages.StartTime.Sys_Description" Value="Başlangıç ​​Zamanı" />
+			<Item Name="Parameters.ExternalFeedMessages.Sys_Description" Value="Duruma göre son 50 harici besleme mesajı" />
+			<Item Name="Parameters.PortalMessageTableExists.Caption" Value="Portal Mesajetable var" />
+			<Item Name="Parameters.PortalMessageTableExists.DisplayValue" Value="[#Boolean value.False#]" />
+		</Items>
+	</Group>
+</Resources>

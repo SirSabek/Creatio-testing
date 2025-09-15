@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Similar cases detail" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Vergelijkbare cases" />
+			<Item Name="LocalizableStrings.RefreshSimilarCases.Value" Value="Verversen" />
+		</Items>
+	</Group>
+</Resources>

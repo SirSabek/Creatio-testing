@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "dfc65833-1668-4c67-86ea-5c349a4361df",
+    "Name": "SendEmailToCaseStatusChangedProcessV2",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Send email to contact on case status change",
+    "DependsOn": []
+  }
+}

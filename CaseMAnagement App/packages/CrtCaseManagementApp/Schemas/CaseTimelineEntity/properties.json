@@ -1,0 +1,8 @@
+﻿{
+  "Properties": {
+    "AddonName": "TimelineEntity",
+    "CreatedInVersion": "0.0.0.0",
+    "TargetSchemaManagerName": "EntitySchemaManager",
+    "TargetSchemaUId": "117d32f9-8275-4534-8411-1c66115ce9cd"
+  }
+}

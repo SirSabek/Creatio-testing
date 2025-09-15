@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ExecutePredictionScriptTask.Caption" Value="בצע חיזוי" />
+			<Item Name="BaseElements.ReadDataUserTask.Caption" Value="קרא מודלים של מקרים" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.AggregationColumnName.Caption" Value="שם עמודת פונקציה אגרגטיבית" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.CanReadUncommitedData.Caption" Value="קרא נתונים לא מאושרים" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.CanReadUncommitedData.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ConsiderTimeInFilter.Caption" Value="שקול זמן במסנן" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ConsiderTimeInFilter.DisplayValue" Value="שגוי" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.DataSourceFilters.Caption" Value="מקור נתונים של פילטרים" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.EntityColumnMetaPathes.Caption" Value="עמודות לקרוא" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.FunctionType.Caption" Value="סוג פונקציה מצטברת" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.IgnoreDisplayValues.Caption" Value="אל תקרא ערכים המוצגים של עמודות חיפוש" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.NumberOfRecords.Caption" Value="מספר רשומות לקריאה" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.OrderInfo.Caption" Value="סדר עמודות" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ReadSomeTopRecords.Caption" Value="קרא ראשון" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCompositeObjectList.Caption" Value="אוסף רשומות" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="נוצר בתאריך" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCompositeObjectList.Id.Caption" Value="מזהה" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCount.Caption" Value="מספר רשומות" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultDateTimeFunction.Caption" Value="תוצאת פונקציה" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultEntity.Caption" Value="פריט הראשון של האוסף התוצאה" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultEntityCollection.Caption" Value="אוסף תוצאות" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultFloatFunction.Caption" Value="תוצאת פונקציה" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultIntegerFunction.Caption" Value="תוצאת פונקציה" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultRowsCount.Caption" Value="מספר הרשומות שנקראו" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultType.Caption" Value="Result type" />
+			<Item Name="BaseElements.StartCaseCreatedSignal.Caption" Value="מקרה שנוצר בדואר אלקטרוני" />
+			<Item Name="BaseElements.StartCaseCreatedSignal.Parameters.RecordId.Caption" Value="מזהה רשומה" />
+			<Item Name="Caption" Value="חיזוי ערכי שדה למקרה" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="נתיב 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="נתיב 1" />
+			<Item Name="NotificationCaption.Caption" Value="כותרת מופע תהליך" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#שם תהליך#]" />
+			<Item Name="Parameters.CaseSchemaUId.Caption" Value="CaseSchemaUId" />
+			<Item Name="Parameters.CaseSchemaUId.DisplayValue" Value="new Guid(&quot;117d32f9-8275-4534-8411-1c66115ce9cd&quot;)" />
+			<Item Name="Parameters.FakeCollection.Caption" Value="FakeCollection" />
+			<Item Name="Parameters.FakeCollection.DisplayValue" Value="[#קרא מודלים של מקרים.אוסף רשומות#]" />
+			<Item Name="Parameters.FakeProcessSchemaParameter.Caption" Value="מזוייף" />
+			<Item Name="Parameters.FakeProcessSchemaParameter.DisplayValue" Value="[#מקרה שנוצר בדואר אלקטרוני.מספר זיהוי רשומה#]" />
+			<Item Name="Parameters.GroupModelId.Caption" Value="GroupModelId" />
+			<Item Name="Parameters.GroupModelId.DisplayValue" Value="[#Lookup.ML model.Case assigned group prediction#]" />
+			<Item Name="Parameters.PriorityModelId.Caption" Value="PriorityModelId" />
+			<Item Name="Parameters.PriorityModelId.DisplayValue" Value="[#Lookup.ML model.Case priority prediction#]" />
+			<Item Name="Parameters.ServiceItemModelId.Caption" Value="ServiceItemModelId" />
+			<Item Name="Parameters.ServiceItemModelId.DisplayValue" Value="[#Lookup.ML model.Case service prediction#]" />
+		</Items>
+	</Group>
+</Resources>

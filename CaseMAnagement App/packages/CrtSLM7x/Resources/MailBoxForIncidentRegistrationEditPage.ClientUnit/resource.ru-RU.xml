@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationEditPage" />
+			<Item Name="LocalizableStrings.AliasTip.Value" Value="Если вы получаете сообщения на ящик пересылки название которого отличается от исходного названия почтового ящика, укажите название ящика пересылки в данном поле" />
+			<Item Name="LocalizableStrings.MessageLanguageTip.Value" Value="Язык сообщений определяется по следующим приоритетам:&#xA;1. Язык общения контакта, который является получателем письма.&#xA;2. Язык сообщений, который указан для почтового ящика в справочнике “Список почтовых ящиков для регистрации обращений”.&#xA;3. Значение системной настройки “Язык сообщений по умолчанию” (“код DefaultMessageLanguage”).&#xA;Узнайте больше об этой функциональности в {0}Академии{1}" />
+		</Items>
+	</Group>
+</Resources>

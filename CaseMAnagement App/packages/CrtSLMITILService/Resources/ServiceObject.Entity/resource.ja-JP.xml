@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="サービス受信者" />
+			<Item Name="Columns.Account.Caption" Value="Account" />
+			<Item Name="Columns.Contact.Caption" Value="連絡先" />
+			<Item Name="Columns.Department.Caption" Value="Department" />
+			<Item Name="Columns.ServicePact.Caption" Value="サービス契約" />
+			<Item Name="Columns.Type.Caption" Value="タイプ" />
+		</Items>
+	</Group>
+</Resources>

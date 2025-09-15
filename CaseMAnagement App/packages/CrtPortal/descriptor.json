@@ -1,0 +1,31 @@
+﻿{
+  "Descriptor": {
+    "UId": "9fa04b54-93d6-cb1c-5c0c-4121c5f72c91",
+    "PackageVersion": "7.8.0",
+    "Name": "CrtPortal",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1732030535000)\/",
+    "Maintainer": "Creatio",
+    "ProjectPath": "Files/CrtPortal.csproj",
+    "DependsOn": [
+      {
+        "UId": "335c46ac-da94-33b1-a9b5-03a3f3644fe8",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseService",
+        "Type": 1
+      },
+      {
+        "UId": "3a71e376-9ac3-3049-c62b-9c43b9abe054",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCoreBase",
+        "Type": 1
+      },
+      {
+        "UId": "83b1062a-d944-eba7-a72b-5400034c6223",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseManagmentObject",
+        "Type": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "f54f0b12-d12d-faa0-bc69-c9ca2c4755f7",
+    "Name": "CrtCaseDefSettingsPostgreSql",
+    "DBEngineType": 2,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1686314594000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

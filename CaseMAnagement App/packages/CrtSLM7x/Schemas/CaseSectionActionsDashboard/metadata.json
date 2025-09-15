@@ -1,0 +1,14 @@
+= MetaData.Schema.UId "444afcc6-b5d3-4116-b09b-8cace50730ff"
+= MetaData.Schema.A2 "CaseSectionActionsDashboard"
+= MetaData.Schema.A5 "133895ca-4146-4d9e-8882-c020a2cf3a4a"
+= MetaData.Schema.B6 "f0fa2639-5fd1-6e6b-12ee-665460964056"
+= MetaData.Schema.B8 "7.8.0.0"
++ MetaData.Schema.HD8 {
+  "UId": "6962d16f-d54a-4072-8156-813f1723097d",
+  "A2": "PortalMessageTabImage",
+  "A3": "444afcc6-b5d3-4116-b09b-8cace50730ff",
+  "A4": "444afcc6-b5d3-4116-b09b-8cace50730ff"
+}
+~ MetaData.Schema.HD8 ["213c72b7-1419-4898-ac95-dbc5299c1568","d433f9c9-3807-41ac-b658-8dd36cd071e7","c9007d38-a06e-43cf-b64c-3d441a4b4c74","5b2d93b0-2649-4c51-97d8-2c64afbcac72","2a8cdb68-5be6-49e0-815a-642d50e9115d","9f28b901-9f14-4a63-a1c0-35ad9a48ab9a","ba5c8940-49f4-4366-ab14-e0d102529c36","6dff4616-e7ab-4dae-92aa-86d927443b46","6962d16f-d54a-4072-8156-813f1723097d"]
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

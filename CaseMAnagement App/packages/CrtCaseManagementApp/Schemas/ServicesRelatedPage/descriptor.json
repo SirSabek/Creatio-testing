@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b4fd8541-dc9e-43be-a739-bd67036e4ae3",
+    "Name": "ServicesRelatedPage",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Services (Page settings)",
+    "DependsOn": []
+  }
+}

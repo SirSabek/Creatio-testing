@@ -1,0 +1,103 @@
+= MetaData.Schema.UId "27347e94-29a6-4853-a0d4-73b525ba9a9c"
+= MetaData.Schema.A2 "MailboxForIncidentRegistration"
+= MetaData.Schema.A5 "b11d550e-0087-4f53-ae17-fb00d41102cf"
+= MetaData.Schema.B6 "ff2cadfe-f4c2-06cd-930f-1401ae848c21"
+= MetaData.Schema.B8 "7.6.0.0"
+= MetaData.Schema.EG1.UId "65a4c23a-ee35-454e-8ca8-430f6808b7c7"
+= MetaData.Schema.EG1.A2 "MailboxForIncidentRegistrationEventsProcess"
+= MetaData.Schema.EG1.A5 "b11d550e-0087-4f53-ae17-fb00d41102cf"
++ MetaData.Schema.EG1.BK8 "e20c0489-122a-4242-999c-169e8e866fc1"
+= MetaData.Schema.EG1.BK37.A3 "65a4c23a-ee35-454e-8ca8-430f6808b7c7"
+= MetaData.Schema.EG1.BK37.A4 "65a4c23a-ee35-454e-8ca8-430f6808b7c7"
++ MetaData.Schema.EG1.BK3.["9cd4075e-513a-484b-bfb4-ddcddddf7c6d"].BM4.["c5e99e67-4d96-4930-951e-64963b3c98d8"].IL2 "9cd4075e-513a-484b-bfb4-ddcddddf7c6d"
+- MetaData.Schema.EG1.BK3.["9cd4075e-513a-484b-bfb4-ddcddddf7c6d"].BM4.["c5e99e67-4d96-4930-951e-64963b3c98d8"].BL4
++ MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].IL2 "079c1a2b-96d1-4935-9764-180b73ed11ac"
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].BL4
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].BL9
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BL9
++ MetaData.Schema.EG1.BK4.["e57d317f-6f21-48a8-9999-5ecf05719145"].IL2 "c5e99e67-4d96-4930-951e-64963b3c98d8"
++ MetaData.Schema.EG1.BK4.["e57d317f-6f21-48a8-9999-5ecf05719145"].CK2.["9f186c66-1b04-4f3f-a712-2aadefc904c7"].IL2 "e57d317f-6f21-48a8-9999-5ecf05719145"
+- MetaData.Schema.EG1.BK4.["e57d317f-6f21-48a8-9999-5ecf05719145"].CK2.["9f186c66-1b04-4f3f-a712-2aadefc904c7"].BL4
++ MetaData.Schema.EG1.BK4.["e57d317f-6f21-48a8-9999-5ecf05719145"].CK2.["48ed15e5-1285-49c5-8946-0344c7a15bbe"].IL2 "e57d317f-6f21-48a8-9999-5ecf05719145"
+- MetaData.Schema.EG1.BK4.["e57d317f-6f21-48a8-9999-5ecf05719145"].CK2.["48ed15e5-1285-49c5-8946-0344c7a15bbe"].BL4
++ MetaData.Schema.EG1.BK4.["e57d317f-6f21-48a8-9999-5ecf05719145"].CK2.["e0bb263d-5a8e-4ea3-a9e2-c824eb9ec5aa"].IL2 "e57d317f-6f21-48a8-9999-5ecf05719145"
+- MetaData.Schema.EG1.BK4.["e57d317f-6f21-48a8-9999-5ecf05719145"].CK2.["e0bb263d-5a8e-4ea3-a9e2-c824eb9ec5aa"].BL4
+- MetaData.Schema.EG1.BK4.["e57d317f-6f21-48a8-9999-5ecf05719145"].BL4
++ MetaData.Schema.EG1.BK4.["bdca0c6b-eb97-4d14-83df-aa53b214c463"].IL2 "c5e99e67-4d96-4930-951e-64963b3c98d8"
+- MetaData.Schema.EG1.BK4.["bdca0c6b-eb97-4d14-83df-aa53b214c463"].BL4
+~ MetaData.Schema.EG1.BK4 ["90027ac8-c9c3-4d21-a4f9-da1cde752cd1","08594d74-60b0-45ce-bf17-bac1a8b127f7","5f3bfbbe-1820-44ca-92f1-6f993169b2dd","dbf48103-dcf6-4f53-a052-d727a95ea0b4","e57d317f-6f21-48a8-9999-5ecf05719145","bdca0c6b-eb97-4d14-83df-aa53b214c463","f0646c74-f291-474f-9a10-143ee868f1c9","8140d7e7-fb91-4999-8347-543345440efb","db2f2393-5d29-47cf-a756-8e26392d342f","60ca0a5b-c2b5-4ee3-acd8-f25e9e91ec44","7feb971a-3b75-486d-bb0b-92352f82a420","2f317c63-b9de-4594-befc-1e8413c1ddfe","453da06c-6118-43bb-88cf-7a8f547090e7","17b638b4-f653-4bd5-9af3-e81689b5f42d","4dd835fd-20a9-40e3-9aa0-899ae48ad9d9","8a5a0739-a2a3-4581-9476-2909c2e98c39","a53d2c03-849b-47b6-9032-066c63d26056","76ca325d-c9c6-4992-b7d6-11b890506ae3"]
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "11ab4bcb-9b23-4b6d-9c86-520fae925d75"
++ MetaData.Schema.D31 "SysMailboxForIncidentRegisLcz"
+- MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16
+- MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16
+- MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16
+- MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16
+- MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16
+- MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16
++ MetaData.Schema.D2 {
+  "UId": "c5b6b4ae-6d42-4706-9469-06bdcb40d713",
+  "A2": "MailboxSyncSettings",
+  "A3": "27347e94-29a6-4853-a0d4-73b525ba9a9c",
+  "A4": "27347e94-29a6-4853-a0d4-73b525ba9a9c",
+  "A5": "b11d550e-0087-4f53-ae17-fb00d41102cf",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "5e487721-02e2-48ee-b755-dfa5160f5315",
+  "E2": 1,
+  "E6": true,
+  "E17": "MailboxSyncSettingsId",
+  "E18": "MailboxSyncSettingsUserName"
+}
++ MetaData.Schema.D2 {
+  "UId": "4d4d5f2a-2960-4e84-9b17-46554f3a08d0",
+  "A2": "Category",
+  "A3": "27347e94-29a6-4853-a0d4-73b525ba9a9c",
+  "A4": "27347e94-29a6-4853-a0d4-73b525ba9a9c",
+  "A5": "b11d550e-0087-4f53-ae17-fb00d41102cf",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "63fec14d-0309-43b0-99c5-b085abf0c314",
+  "E6": true,
+  "E17": "CategoryId",
+  "E18": "CategoryName"
+}
++ MetaData.Schema.D2 {
+  "UId": "2191c656-ec42-4e2d-b708-712664c59819",
+  "A2": "AliasAddress",
+  "A3": "27347e94-29a6-4853-a0d4-73b525ba9a9c",
+  "A4": "27347e94-29a6-4853-a0d4-73b525ba9a9c",
+  "A5": "b11d550e-0087-4f53-ae17-fb00d41102cf",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
++ MetaData.Schema.D2 {
+  "UId": "75bda3d6-12e0-ae44-e912-cb7e6dca9045",
+  "A2": "UseMailboxLanguage",
+  "A3": "27347e94-29a6-4853-a0d4-73b525ba9a9c",
+  "A4": "27347e94-29a6-4853-a0d4-73b525ba9a9c",
+  "A5": "5c519463-1fa4-4c1e-acaf-02bcff203125",
+  "S2": "90b65bf8-0ffc-4141-8779-2420877af907"
+}
++ MetaData.Schema.D2 {
+  "UId": "4471d3c9-07bf-771f-dd91-c23d76734c5f",
+  "A2": "MessageLanguage",
+  "A3": "27347e94-29a6-4853-a0d4-73b525ba9a9c",
+  "A4": "27347e94-29a6-4853-a0d4-73b525ba9a9c",
+  "A5": "5c519463-1fa4-4c1e-acaf-02bcff203125",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "2f96cb61-7e14-41e5-980a-bcb856edab51",
+  "E6": true,
+  "E17": "MessageLanguageId",
+  "E18": "MessageLanguageName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","736c30a7-c0ec-4fa9-b034-2552b319b633","9e53fd7c-dde4-4502-a64c-b9e34148108b","3fabd836-6a53-4d8d-9069-6df88d9dae1e","c5b6b4ae-6d42-4706-9469-06bdcb40d713","4d4d5f2a-2960-4e84-9b17-46554f3a08d0","2191c656-ec42-4e2d-b708-712664c59819","75bda3d6-12e0-ae44-e912-cb7e6dca9045","4471d3c9-07bf-771f-dd91-c23d76734c5f"]
+= MetaData.Schema.D20.A2 "MailboxForIncidentRegistrationEvents"
+- MetaData.Schema.D1
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["736c30a7-c0ec-4fa9-b034-2552b319b633"].E16 false
++ MetaData.Schema.D2.["9e53fd7c-dde4-4502-a64c-b9e34148108b"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

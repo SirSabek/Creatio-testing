@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f2ff0679-815f-4ee9-9e1f-054f65a14aeb",
+    "Name": "CaseTermCalculateEntryPoint",
+    "ModifiedOnUtc": "\/Date(1480169652000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CaseTermCalculateEntryPoint",
+    "DependsOn": []
+  }
+}

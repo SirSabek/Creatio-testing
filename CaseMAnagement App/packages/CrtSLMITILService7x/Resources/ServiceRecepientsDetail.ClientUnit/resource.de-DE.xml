@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service-Item Empfängerdetailschema" />
+			<Item Name="LocalizableStrings.ActiveServices.Value" Value="Aktive Services" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Services" />
+		</Items>
+	</Group>
+</Resources>

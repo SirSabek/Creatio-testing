@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Mức hài lòng" />
+			<Item Name="Columns.Colour.Caption" Value="Màu sắc" />
+			<Item Name="Columns.Image.Caption" Value="Image" />
+			<Item Name="Columns.IsActive.Caption" Value="Là đang hoạt động" />
+			<Item Name="Columns.Point.Caption" Value="Điểm" />
+			<Item Name="Columns.Status.Caption" Value="Trạng thái" />
+		</Items>
+	</Group>
+</Resources>

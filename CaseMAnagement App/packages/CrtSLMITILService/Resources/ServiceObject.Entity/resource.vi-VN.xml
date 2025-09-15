@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Người nhận dịch vụ" />
+			<Item Name="Columns.Account.Caption" Value="Tổ chức" />
+			<Item Name="Columns.Contact.Caption" Value="Liên hệ" />
+			<Item Name="Columns.Department.Caption" Value="Bộ phận" />
+			<Item Name="Columns.ServicePact.Caption" Value="Hợp đồng dịch vụ" />
+			<Item Name="Columns.Type.Caption" Value="Loại" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="サービス - 満足度の設定" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Caption" Value="SatisfactionCommentMessage" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Value" Value="満足度コメントが変更されました" />
+			<Item Name="LocalizableStrings.SatisfactionLevelMessage.Value" Value="満足度が{0} に変更されました" />
+		</Items>
+	</Group>
+</Resources>

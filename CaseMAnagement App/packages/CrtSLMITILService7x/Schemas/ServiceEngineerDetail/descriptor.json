@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "35295ca8-9bee-423d-a79b-7a98afdf9ccd",
+    "Name": "ServiceEngineerDetail",
+    "ModifiedOnUtc": "\/Date(1756637885000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema - Service team in services section",
+    "DependsOn": []
+  }
+}

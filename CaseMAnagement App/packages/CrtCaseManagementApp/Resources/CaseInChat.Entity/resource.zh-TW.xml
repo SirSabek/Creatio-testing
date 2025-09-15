@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="聊天中的案件" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Chat.Caption" Value="聊天" />
+		</Items>
+	</Group>
+</Resources>

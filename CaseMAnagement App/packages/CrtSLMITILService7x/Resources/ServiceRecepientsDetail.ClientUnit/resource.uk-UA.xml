@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема деталі користувачів сервісів" />
+			<Item Name="LocalizableStrings.ActiveServices.Value" Value="Діючі сервіси" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Сервіси" />
+		</Items>
+	</Group>
+</Resources>

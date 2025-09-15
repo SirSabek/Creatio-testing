@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="Nouveau" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Cas" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="Importer les données" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Recherche" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ExpansionPanel_5etntax_title.Value" Value="Liste étendue" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_cwv991v_caption.Value" Value="Nouveau" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_nn4e4tv_caption.Value" Value="Nouveau" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_d9kp62y_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_714xipa_caption.Value" Value="Importer les données" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ajk754f_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_sj49lgw_placeholder.Value" Value="Recherche" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_63wr3ah_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ServiceAgreementsExpansionPanel_title.Value" Value="Contrat de service" />
+			<Item Name="LocalizableStrings.ServiceAgreementsExportDataButton_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.ServiceAgreementsImportDataButton_caption.Value" Value="Importer les données" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_4f106e3b.Value" Value="Titre" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_5f9c7ad3.Value" Value="Numéro" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_623c7fb3.Value" Value="Responsable" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_86478300.Value" Value="Statut" />
+			<Item Name="LocalizableStrings.ServiceAgreementsListDS_ServicePact.Value" Value="Contrat de service" />
+			<Item Name="LocalizableStrings.ServiceAgreementsRefreshButton_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.ServiceAgreementsSearchFilter_placeholder.Value" Value="Recherche" />
+			<Item Name="LocalizableStrings.ServiceAgreementsSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="Service" />
+			<Item Name="LocalizableStrings.TabContainer_mv41ha8_caption.Value" Value="Service" />
+		</Items>
+	</Group>
+</Resources>

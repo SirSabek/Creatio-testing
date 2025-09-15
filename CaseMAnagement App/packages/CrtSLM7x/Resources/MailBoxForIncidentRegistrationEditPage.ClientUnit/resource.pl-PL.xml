@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationEditPage" />
+			<Item Name="LocalizableStrings.AliasTip.Value" Value="Jeśli używasz aliasu skrzynki pocztowej do odbierania wiadomości wsparcia, określ adres aliasu" />
+			<Item Name="LocalizableStrings.MessageLanguageTip.Value" Value="Język wiadomości jest określany przez następujące wartości, od najwyższej do najniższej priorytetu: &#xA;1. Preferowany język kontaktu odbiorcy. &#xA;2. Język skrzynki pocztowej w „Liście skrzynek pocztowych do rejestracji spraw”. &#xA;3. Wartość ustawienia systemowego „Domyślny język wiadomości” („DefaultMessageLanguage”). &#xA;Dowiedz się więcej o tej funkcji w {0}Akademii{1}" />
+		</Items>
+	</Group>
+</Resources>

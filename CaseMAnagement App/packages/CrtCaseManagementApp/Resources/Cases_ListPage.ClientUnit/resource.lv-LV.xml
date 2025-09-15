@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Lietu saraksta lapa" />
+			<Item Name="LocalizableStrings.ActionsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.Button_e04zrky_caption.Value" Value="Poga" />
+			<Item Name="LocalizableStrings.ClosedCasesQuickFilter_config_caption.Value" Value="Rādīt slēgtās lietas" />
+			<Item Name="LocalizableStrings.MenuItem_8m672s8_caption.Value" Value="Eksportēt uz Excel" />
+			<Item Name="LocalizableStrings.MenuItem_ixsnk8a_caption.Value" Value="Datu imports" />
+			<Item Name="LocalizableStrings.MenuItem_sy8z6b6_caption.Value" Value="Datu imports" />
+			<Item Name="LocalizableStrings.QuickFilter_92htqsb_config_caption.Value" Value="Rādīt slēgtās lietas" />
+		</Items>
+	</Group>
+</Resources>

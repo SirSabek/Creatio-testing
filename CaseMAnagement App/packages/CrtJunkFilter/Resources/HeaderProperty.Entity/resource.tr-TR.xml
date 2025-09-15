@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Başlık Özellikleri" />
+			<Item Name="Columns.ExcludedEmailAdresses.Caption" Value="Hariç tutulan e -posta adresleri" />
+			<Item Name="Columns.ExcludedEmailAdresses.Description" Value="Kuralın uygulanmayacağı e -posta adresleri" />
+			<Item Name="Columns.Handler.Caption" Value="İşleyici" />
+			<Item Name="Columns.IsActive.Caption" Value="Aktif" />
+			<Item Name="Columns.Name.Caption" Value="Satılan birimlerin sayısı" />
+		</Items>
+	</Group>
+</Resources>

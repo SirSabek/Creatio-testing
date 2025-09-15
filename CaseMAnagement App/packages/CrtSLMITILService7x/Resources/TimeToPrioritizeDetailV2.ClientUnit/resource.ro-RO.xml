@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Timpul pentru prioritizare" />
+			<Item Name="LocalizableStrings.Caption.Caption" Value="Timpul pentru prioritizare" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Timpul pentru prioritizare" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Caption" Value="Valoare curenta exista deja" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Value" Value="Valoare curenta exista deja" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Caption" Value="&quot;Prioritate caz&quot; nu poate fi gol" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Value" Value="&quot;Prioritate caz&quot; nu poate fi gol" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Caption" Value="Rugam completati timp raspuns si rezolutie" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Value" Value="Rugam completati timp raspuns si rezolutie" />
+		</Items>
+	</Group>
+</Resources>

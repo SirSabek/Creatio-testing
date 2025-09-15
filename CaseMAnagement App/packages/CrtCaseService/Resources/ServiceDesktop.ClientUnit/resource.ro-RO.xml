@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Desktop service" />
+			<Item Name="LocalizableStrings.AverageResolutionTimeIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.AverageResolutionTimeIndicatorWidget_title.Value" Value="Timp mediu de rezoluție, ore" />
+			<Item Name="LocalizableStrings.CustomerSatisfactionIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CustomerSatisfactionIndicatorWidget_title.Value" Value="Satisfacţia clientului" />
+			<Item Name="LocalizableStrings.FirstContactResolutionIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.FirstContactResolutionIndicatorWidget_title.Value" Value="Rezoluția primului contact" />
+			<Item Name="LocalizableStrings.GreetingLabel_caption.Value" Value="Hello, [#Current user.Recipient Name#]!" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_series_0.Value" Value="Planned to resolve" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_series_1.Value" Value="Rezolvat efectiv" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_title.Value" Value="Planned vs Actual resolved cases" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_xAxis.Value" Value="Date" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_yAxis.Value" Value="Cazuri" />
+		</Items>
+	</Group>
+</Resources>

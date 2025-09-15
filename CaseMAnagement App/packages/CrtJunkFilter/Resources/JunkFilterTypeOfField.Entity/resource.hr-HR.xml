@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Vrsta vrijednosti polja &quot;Adresa e-pošte ili domena&quot;" />
+			<Item Name="Columns.Code.Caption" Value="Kod" />
+		</Items>
+	</Group>
+</Resources>

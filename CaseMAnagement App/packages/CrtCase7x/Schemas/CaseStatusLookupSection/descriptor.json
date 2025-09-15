@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e231aa20-bc42-4ec3-a54b-77ee6df3c2cc",
+    "Name": "CaseStatusLookupSection",
+    "ModifiedOnUtc": "\/Date(1756637863000)\/",
+    "Parent": {
+      "UId": "c8c39e3b-de05-4d01-814a-45c7981e139f",
+      "Name": "BaseLookupConfigurationSection"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Lookup section page schema - Case status",
+    "DependsOn": []
+  }
+}

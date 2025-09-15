@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Nosūtīt e-pastu uz lietas kontakta lietotāja uzdevumu" />
+			<Item Name="Parameters.CaseId.Caption" Value="Case Id" />
+			<Item Name="Parameters.EmailTemplateId.Caption" Value="E-pasta veidnes Id" />
+		</Items>
+	</Group>
+</Resources>

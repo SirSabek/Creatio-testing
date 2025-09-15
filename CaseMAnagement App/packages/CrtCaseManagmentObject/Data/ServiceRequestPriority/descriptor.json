@@ -1,0 +1,49 @@
+﻿{
+  "Descriptor": {
+    "UId": "900fd7d9-c9c6-4b33-871a-e7684dc2debb",
+    "Name": "ServiceRequestPriority",
+    "ModifiedOnUtc": "\/Date(1749098388000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "e662865c-728f-40db-b3dd-15dcf46d47df",
+      "Name": "CasePriority"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "469c1088-a13d-49cc-90ff-f663e094b1ad",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Image",
+        "DataTypeValueUId": "b039feb0-ee7c-4884-8aa6-d6d45d84316f"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "49e05c9f-1241-4bc7-aafd-cd48592c8d6a",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Priority",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      }
+    ]
+  }
+}

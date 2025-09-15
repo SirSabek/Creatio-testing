@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5d0a968b-8809-40b1-b8a6-cff1a57942f5",
+    "Name": "DelayedNotification",
+    "ModifiedOnUtc": "\/Date(1756637873000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Delayed notification",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bcc32cb6-68a0-4730-b290-2b04e96d92bc",
+    "Name": "ServicePactType",
+    "ModifiedOnUtc": "\/Date(1756637882000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Service contract type",
+    "DependsOn": []
+  }
+}

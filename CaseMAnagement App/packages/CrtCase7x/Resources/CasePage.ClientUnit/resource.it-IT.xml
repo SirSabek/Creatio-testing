@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Schema della pagina di modifica - Sezione &quot;Casi&quot;" />
+			<Item Name="LocalizableStrings.AccountCaption.Value" Value="Account" />
+			<Item Name="LocalizableStrings.ActualDateGroupCaption.Value" Value="Tempo di elaborazione" />
+			<Item Name="LocalizableStrings.AssignToMeCaption.Value" Value="Assegna a me stesso" />
+			<Item Name="LocalizableStrings.CaseInformationTabCaption.Value" Value="Informazioni caso" />
+			<Item Name="LocalizableStrings.ClosureCodeCaption.Value" Value="Motivo per chiudere" />
+			<Item Name="LocalizableStrings.ClosureDateCaption.Value" Value="Chiuso il" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Contatto" />
+			<Item Name="LocalizableStrings.CreatedOnCaption.Value" Value="Creato:" />
+			<Item Name="LocalizableStrings.CurrentStatusGroupCaption.Value" Value="Stato attuale" />
+			<Item Name="LocalizableStrings.DaysCaptionSuffix.Value" Value="gg" />
+			<Item Name="LocalizableStrings.DefaultHeader.Value" Value="Caso #{0}" />
+			<Item Name="LocalizableStrings.DelayHeaderCaptionSuffix.Value" Value="Ritardo:" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FeedbackGroupCaption.Value" Value="Feedback" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Informazioni caso" />
+			<Item Name="LocalizableStrings.GroupCaption.Caption" Value="Группа ответсвенных" />
+			<Item Name="LocalizableStrings.GroupCaption.Value" Value="Team assegnato" />
+			<Item Name="LocalizableStrings.HeaderTemplate.Value" Value="Caso #{0}: {1}" />
+			<Item Name="LocalizableStrings.HoursCaptionSuffix.Value" Value="ore" />
+			<Item Name="LocalizableStrings.IndicatorsGroupCaption.Value" Value="Indicatori" />
+			<Item Name="LocalizableStrings.LeftHeaderCaptionSuffix.Value" Value="Rimanente:" />
+			<Item Name="LocalizableStrings.MinutesCaptionSuffix.Value" Value="m" />
+			<Item Name="LocalizableStrings.NotesFilesTabCaption.Value" Value="Allegati" />
+			<Item Name="LocalizableStrings.NumberCaption.Value" Value="Numero" />
+			<Item Name="LocalizableStrings.OriginCaption.Value" Value="Origine" />
+			<Item Name="LocalizableStrings.OwnerCaption.Caption" Value="Responsabile" />
+			<Item Name="LocalizableStrings.OwnerCaption.Value" Value="Assegnatario" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Caption" Value="Заголовок родительского обращения" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Value" Value="Caso padre" />
+			<Item Name="LocalizableStrings.PriorityCaption.Value" Value="Priorità" />
+			<Item Name="LocalizableStrings.RatingGroupCaption.Value" Value="Valutazione" />
+			<Item Name="LocalizableStrings.RegisteredOnCaption.Value" Value="Data di registrazione" />
+			<Item Name="LocalizableStrings.RelationsTabCaption.Value" Value="Chiusura e feedback" />
+			<Item Name="LocalizableStrings.RequiredContactOrAccountMessage.Value" Value="Compilare o il campo &quot;Azienda&quot; o il campo &quot;Contatto&quot;" />
+			<Item Name="LocalizableStrings.RespondedOnCaption.Value" Value="Tempo effettivo di risposta" />
+			<Item Name="LocalizableStrings.ResponseDateCaption.Value" Value="Tempo di risposta programmato" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCaption.Value" Value="Valutazione" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentCaption.Value" Value="Commento utente" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Caption" Value="Tooltip per il commento del Livello di Soddisfazione" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Value" Value="In order to change feedback you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Caption" Value="Tooltip per il Livello di Soddisfazione" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Value" Value="In order to change satisfaction level you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SolutionCaption.Value" Value="Risoluzione" />
+			<Item Name="LocalizableStrings.SolutionDateCaption.Value" Value="Tempo di risoluzione programmato" />
+			<Item Name="LocalizableStrings.SolutionGroupCaption.Value" Value="Risoluzione" />
+			<Item Name="LocalizableStrings.SolutionProvidedOnCaption.Value" Value="Tempo effettivo di risoluzione" />
+			<Item Name="LocalizableStrings.SolutionTabCaption.Value" Value="Chiusura e feedback" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Caption" Value="SolvedOnSupportLevelCaption" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="Risolto da" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Status" />
+			<Item Name="LocalizableStrings.SubjectCaption.Value" Value="Oggetto" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Segui il feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Ora stai seguendo il feed: {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Caption" Value="SupportLevelCaption" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Linea di supporto" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="Descrizione" />
+			<Item Name="LocalizableStrings.TermsControlGroupCaption.Value" Value="Terms" />
+			<Item Name="LocalizableStrings.TermsGroupCaption.Value" Value="Periodo di tempo" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Caption" Value="TimeZoneSysSettingMessage" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Value" Value="&lt;p&gt;I fusi orari possono essere mostrati in 3 modi diversi: 1. Il fuso orario specificato nel tuo profilo,  2. Impostazione di sistema “Fuso orario predefinito”, 3. Fuso orario “Tempo in UTC”. Per configurare il fuso orario vai sul tuo   &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;profilo &quot;&lt;/a&gt;  o sul &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/12fef2c9-8baa-4b07-88e4-464169a44775&quot;&gt;&quot;Fuso orario predefinito&quot;&lt;/a&gt;&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Caption" Value="TimeZoneUserProfileMessage" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Value" Value="&lt;p&gt;I fusi orari possono essere mostrati in 3 modi diversi: 1. Il fuso orario specificato nel tuo profilo,  2. Impostazione di sistema “Fuso orario predefinito”, 3. Fuso orario “Tempo in UTC”. Per configurare il fuso orario vai sul tuo   &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;profilo &quot;&lt;/a&gt;  o contatta l'amministratore di sistema.&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Smetti di seguire il feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Hai smesso di seguire il feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

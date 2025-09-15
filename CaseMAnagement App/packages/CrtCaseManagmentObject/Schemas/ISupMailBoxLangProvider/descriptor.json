@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "15f7828f-b2b8-4927-9695-3e8e4374d7a6",
+    "Name": "ISupMailBoxLangProvider",
+    "ModifiedOnUtc": "\/Date(1519120839000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ISupMailBoxLangProvider",
+    "DependsOn": []
+  }
+}

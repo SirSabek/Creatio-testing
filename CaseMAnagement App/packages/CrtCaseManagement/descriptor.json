@@ -1,0 +1,19 @@
+﻿{
+  "Descriptor": {
+    "UId": "5ef9db41-8594-97d1-ab9d-8ca7106e5e53",
+    "PackageVersion": "7.8.0",
+    "Name": "CrtCaseManagement",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1732030532000)\/",
+    "Maintainer": "Creatio",
+    "ProjectPath": "Files/CrtCaseManagement.csproj",
+    "DependsOn": [
+      {
+        "UId": "83b1062a-d944-eba7-a72b-5400034c6223",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseManagmentObject",
+        "Type": 1
+      }
+    ]
+  }
+}

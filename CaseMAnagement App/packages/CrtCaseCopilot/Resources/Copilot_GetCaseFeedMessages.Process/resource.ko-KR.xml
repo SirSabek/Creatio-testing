@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadFeeds.Caption" Value="Read feed messages" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.AggregationColumnName.Caption" Value="집계함수열의 이름" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.CanReadUncommitedData.Caption" Value="커밋되지 않은 데이터 읽기" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.CanReadUncommitedData.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ConsiderTimeInFilter.Caption" Value="필터의 시간을 고려" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ConsiderTimeInFilter.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.EntityColumnMetaPathes.Caption" Value="읽을 열" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.EntityColumnMetaPathes.DisplayValue" Value="ebf6bb93-8aa6-4a01-900d-c6ea67affe21;e80190a5-03b2-4095-90f7-a193a960adee;fb47c81f-a125-488b-b2fb-05415b8da84c" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.FunctionType.Caption" Value="집계함수종류" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.IgnoreDisplayValues.Caption" Value="조회 열의 표시된 값을 읽지 않음" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.NumberOfRecords.Caption" Value="읽을 레코드 수" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.NumberOfRecords.DisplayValue" Value="30" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.OrderInfo.Caption" Value="열 순서" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.OrderInfo.DisplayValue" Value="CreatedOn:2:1" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ReadSomeTopRecords.Caption" Value="먼저 읽기" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ReadSomeTopRecords.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.Caption" Value="기록 수집" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="연락처" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Created on" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.Message.Caption" Value="Message/comment" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCount.Caption" Value="레코드 수" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultEntity.Caption" Value="결과수집 첫 번째 항목" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultEntityCollection.Caption" Value="결과수집" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultRowsCount.Caption" Value="읽은 레코드 수" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultType.Caption" Value="결과 유형" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultType.DisplayValue" Value="2" />
+			<Item Name="BaseElements.RemoveHtmlScriptTask.Caption" Value="Remove HTML tags" />
+			<Item Name="Caption" Value="Get Case Feed Messages" />
+			<Item Name="Description" Value="Getting last 30 messages from case based on Case Id" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="차선1" />
+			<Item Name="NotificationCaption.Caption" Value="프로세스 인스턴스 캡션" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="Case id" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="Unique identifier of case" />
+			<Item Name="Parameters.FeedMessages.Caption" Value="Feed messages" />
+			<Item Name="Parameters.FeedMessages.CreatedBy.Caption" Value="CreatedBy" />
+			<Item Name="Parameters.FeedMessages.CreatedBy.Sys_Description" Value="Author of message" />
+			<Item Name="Parameters.FeedMessages.CreatedOn.Caption" Value="Created on" />
+			<Item Name="Parameters.FeedMessages.CreatedOn.Sys_Description" Value="Date of creating" />
+			<Item Name="Parameters.FeedMessages.Message.Caption" Value="Message" />
+			<Item Name="Parameters.FeedMessages.Message.Sys_Description" Value="Message body" />
+			<Item Name="Parameters.FeedMessages.Sys_Description" Value="The last 10 messages in the feed by case" />
+		</Items>
+	</Group>
+</Resources>

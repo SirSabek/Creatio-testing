@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Statusi i kontratës së shërbimit" />
+			<Item Name="Columns.Color.Caption" Value="Ngjyra" />
+			<Item Name="Columns.IsActive.Caption" Value="Është aktiv" />
+		</Items>
+	</Group>
+</Resources>

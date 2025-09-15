@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Layanan Desktop" />
+			<Item Name="LocalizableStrings.AverageResolutionTimeIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.AverageResolutionTimeIndicatorWidget_title.Value" Value="Resolusi rata-rata waktu, jam" />
+			<Item Name="LocalizableStrings.CustomerSatisfactionIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CustomerSatisfactionIndicatorWidget_title.Value" Value="Kepuasan pelanggan" />
+			<Item Name="LocalizableStrings.FirstContactResolutionIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.FirstContactResolutionIndicatorWidget_title.Value" Value="Resolusi kontak pertama" />
+			<Item Name="LocalizableStrings.GreetingLabel_caption.Value" Value="Halo, [#Current user.Recipient Name#]!" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_series_0.Value" Value="Direncanakan untuk diselesaikan" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_series_1.Value" Value="Sebenarnya terselesaikan" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_title.Value" Value="Planned vs Actual resolved cases" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_xAxis.Value" Value="Date" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_yAxis.Value" Value="Case" />
+		</Items>
+	</Group>
+</Resources>

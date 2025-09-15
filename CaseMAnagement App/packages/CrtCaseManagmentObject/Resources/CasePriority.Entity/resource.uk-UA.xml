@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Довідник - Пріоритет звернення" />
+			<Item Name="Columns.Image.Caption" Value="Іконка" />
+			<Item Name="Columns.Priority.Caption" Value="Пріоритет" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Одиниця часу реакції" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Значення часу реакції" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Одиниця часу вирішення" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Значення часу розв'язання" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Serviciu" />
+			<Item Name="Columns.Calendar.Caption" Value="Calendar" />
+			<Item Name="Columns.CaseCategory.Caption" Value="Categorie caz" />
+			<Item Name="Columns.Name.Caption" Value="Nume" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.Owner.Caption" Value="Owner" />
+			<Item Name="Columns.ReactionTime.Caption" Value="Timp reactie" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Unitate de timp de reactie" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Response time value" />
+			<Item Name="Columns.SolutionTime.Caption" Value="Timp rezolutie" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Unitate de timp de rezolutie" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Resolution time value" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Pool 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Linia 1" />
+		</Items>
+	</Group>
+</Resources>

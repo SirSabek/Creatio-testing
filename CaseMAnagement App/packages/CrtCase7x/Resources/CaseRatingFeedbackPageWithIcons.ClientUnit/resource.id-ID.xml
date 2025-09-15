@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CaseRatingFeedbackPageWithIcons" />
+			<Item Name="LocalizableStrings.HowMuchDid.Value" Value="Silakan pilih kualitas layanan kami" />
+			<Item Name="LocalizableStrings.PostSuccess.Value" Value="Masukkan Anda telah berhasil dikirim" />
+		</Items>
+	</Group>
+</Resources>

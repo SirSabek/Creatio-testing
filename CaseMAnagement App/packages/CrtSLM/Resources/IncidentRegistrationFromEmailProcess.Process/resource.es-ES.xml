@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.RegisterIncidentScriptTask.Caption" Value="Registrar incidente" />
+			<Item Name="Caption" Value="Proceso de registro de correo electrónico entrante" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.RecordId.Caption" Value="Id de registro" />
+			<Item Name="Parameters.RecordId.DisplayValue" Value="[#StartSignalFinishedSyncSession.RecordId#]" />
+		</Items>
+	</Group>
+</Resources>

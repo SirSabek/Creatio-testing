@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Slični zahtjevi" />
+			<Item Name="Columns.MLModel.Caption" Value="ML model" />
+			<Item Name="Columns.ParentCase.Caption" Value="Zahtjev roditelj" />
+			<Item Name="Columns.PredictionDate.Caption" Value="Datum predviđanja" />
+			<Item Name="Columns.PredictionQuality.Caption" Value="Kvaliteta predviđanja" />
+			<Item Name="Columns.Score.Caption" Value="Rezultat" />
+			<Item Name="Columns.SimilarCase.Caption" Value="Slični zahtjevi" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "baefe686-9b45-4773-b93f-20c5705b3242",
+    "Name": "CaseServiceUtility",
+    "ModifiedOnUtc": "\/Date(1756637882000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Case Service Utility",
+    "DependsOn": []
+  }
+}

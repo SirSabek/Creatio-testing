@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7c0cb4a9-4690-376e-c414-e7eaedd89a5f",
+    "Name": "SkillCheckOpenCases",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "CopilotIntentSchemaManager",
+    "Caption": "Check open cases",
+    "DependsOn": []
+  }
+}

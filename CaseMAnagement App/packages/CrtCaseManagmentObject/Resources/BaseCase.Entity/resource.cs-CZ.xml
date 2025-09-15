@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Základní požadavek" />
+			<Item Name="Columns.Account.Caption" Value="Account" />
+			<Item Name="Columns.Category.Caption" Value="Kategorie" />
+			<Item Name="Columns.ClosureCode.Caption" Value="Reason for closing" />
+			<Item Name="Columns.ClosureDate.Caption" Value="Ukončeno" />
+			<Item Name="Columns.Contact.Caption" Value="Kontakt" />
+			<Item Name="Columns.FirstSolutionProvidedOn.Caption" Value="Vyřešeno prvně" />
+			<Item Name="Columns.Group.Caption" Value="Skupina" />
+			<Item Name="Columns.Notes.Caption" Value="Poznámky" />
+			<Item Name="Columns.Number.Caption" Value="Číslo" />
+			<Item Name="Columns.Origin.Caption" Value="Zdroj" />
+			<Item Name="Columns.Owner.Caption" Value="Owner" />
+			<Item Name="Columns.Priority.Caption" Value="Priorita" />
+			<Item Name="Columns.RegisteredOn.Caption" Value="Datum registrace" />
+			<Item Name="Columns.RespondedOn.Caption" Value="Odpovězeno" />
+			<Item Name="Columns.ResponseDate.Caption" Value="Lhůta odpovědi" />
+			<Item Name="Columns.ResponseOverdue.Caption" Value="Opožděná odpověď" />
+			<Item Name="Columns.SatisfactionLevel.Caption" Value="Míra spokojenosti" />
+			<Item Name="Columns.SatisfactionLevelComment.Caption" Value="Poznámky ke zpětné vazbě" />
+			<Item Name="Columns.Solution.Caption" Value="Rozlišení" />
+			<Item Name="Columns.SolutionDate.Caption" Value="Lhůta vyřešení" />
+			<Item Name="Columns.SolutionOverdue.Caption" Value="Opožděné vyřešení" />
+			<Item Name="Columns.SolutionProvidedOn.Caption" Value="Vyřešeno" />
+			<Item Name="Columns.SolutionRemains.Caption" Value="Čas zbývající do vyřešení" />
+			<Item Name="Columns.Status.Caption" Value="Stav" />
+			<Item Name="Columns.Subject.Caption" Value="Předmět" />
+			<Item Name="Columns.Symptoms.Caption" Value="Description" />
+		</Items>
+	</Group>
+</Resources>

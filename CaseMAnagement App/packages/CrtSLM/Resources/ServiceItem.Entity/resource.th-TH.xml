@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="บริการ" />
+			<Item Name="Columns.Calendar.Caption" Value="ปฏิทิน" />
+			<Item Name="Columns.CaseCategory.Caption" Value="หมวดหมู่ของเคส" />
+			<Item Name="Columns.Name.Caption" Value="ชื่อ" />
+			<Item Name="Columns.Notes.Caption" Value="บันทึกย่อ" />
+			<Item Name="Columns.Owner.Caption" Value="เจ้าของ" />
+			<Item Name="Columns.ReactionTime.Caption" Value="เวลาตอบสนอง" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Response time unit" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Response time value" />
+			<Item Name="Columns.SolutionTime.Caption" Value="เวลาแก้ปัญหา" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Resolution time unit" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Resolution time value" />
+			<Item Name="Columns.Status.Caption" Value="สถานะ" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="กองกลาง 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="ช่องทาง 1" />
+		</Items>
+	</Group>
+</Resources>

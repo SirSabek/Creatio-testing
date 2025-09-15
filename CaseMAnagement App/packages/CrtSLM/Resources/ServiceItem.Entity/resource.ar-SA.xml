@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="خدمة" />
+			<Item Name="Columns.Calendar.Caption" Value="Calendar" />
+			<Item Name="Columns.CaseCategory.Caption" Value="فئة الحالة" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.Owner.Caption" Value="Owner" />
+			<Item Name="Columns.ReactionTime.Caption" Value="وقت الاستجابة" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Response time unit" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Response time value" />
+			<Item Name="Columns.SolutionTime.Caption" Value="وقت القرار" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Resolution time unit" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Resolution time value" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="التجمع 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

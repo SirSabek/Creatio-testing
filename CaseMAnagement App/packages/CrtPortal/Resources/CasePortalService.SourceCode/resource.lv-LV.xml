@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CasePortalService" />
+			<Item Name="LocalizableStrings.CancelCaseError.Value" Value="Jūs nevarat pabeigt šo darbību: lietas statuss ir mainīts" />
+		</Items>
+	</Group>
+</Resources>

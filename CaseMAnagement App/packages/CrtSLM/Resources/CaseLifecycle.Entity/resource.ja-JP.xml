@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ケースライフサイクル" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.CaseRecordId.Caption" Value="案件レコード識別子" />
+			<Item Name="Columns.EndDate.Caption" Value="終了日" />
+			<Item Name="Columns.Group.Caption" Value="担当グループ" />
+			<Item Name="Columns.Owner.Caption" Value="担当者" />
+			<Item Name="Columns.Priority.Caption" Value="優先度" />
+			<Item Name="Columns.ResponseOverdue.Caption" Value="期限切れの応答" />
+			<Item Name="Columns.ServiceItem.Caption" Value="サービス項目" />
+			<Item Name="Columns.SolutionDate.Caption" Value="期限" />
+			<Item Name="Columns.SolutionOverdue.Caption" Value="期限切れの解決" />
+			<Item Name="Columns.SolutionProvidedOn.Caption" Value="実際の解決時間" />
+			<Item Name="Columns.StartDate.Caption" Value="開始日" />
+			<Item Name="Columns.StateDurationInDays.Caption" Value="期間 (日)" />
+			<Item Name="Columns.StateDurationInHours.Caption" Value="期間 (時間)" />
+			<Item Name="Columns.StateDurationInMinutes.Caption" Value="所要時間（分）" />
+			<Item Name="Columns.Status.Caption" Value="ステータス" />
+		</Items>
+	</Group>
+</Resources>

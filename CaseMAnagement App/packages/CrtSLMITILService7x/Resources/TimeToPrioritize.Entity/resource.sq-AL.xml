@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Koha për të vendosur prioritetet" />
+			<Item Name="Columns.CasePriority.Caption" Value="Case priority" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Response time unit" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Response time value" />
+			<Item Name="Columns.ServiceInServicePact.Caption" Value="Shërbimi në paktin e shërbimit" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Njësia kohore e zgjidhjes" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Resolution time value" />
+		</Items>
+	</Group>
+</Resources>

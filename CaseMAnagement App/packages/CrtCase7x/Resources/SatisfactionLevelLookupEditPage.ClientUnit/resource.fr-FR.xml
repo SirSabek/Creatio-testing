@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SatisfactionLevelLookupEditPage" />
+			<Item Name="Images.e40ee1e7-e961-42e2-b040-d270601ef686.Caption" Value="DefaultImage" />
+			<Item Name="LocalizableStrings.PointTipMessage.Caption" Value="PointTipMessage" />
+			<Item Name="LocalizableStrings.PointTipMessage.Value" Value="Saisissez un nombre entier (1, 2, 3 ...). Le niveau de satisfaction ne peut pas être à zéro." />
+			<Item Name="LocalizableStrings.ShouldBeMoreThanZeroValidationMessage.Caption" Value="ShouldBeMoreThanZeroValidationMessage" />
+			<Item Name="LocalizableStrings.ShouldBeMoreThanZeroValidationMessage.Value" Value="Devrait être supérieur à zéro" />
+		</Items>
+	</Group>
+</Resources>

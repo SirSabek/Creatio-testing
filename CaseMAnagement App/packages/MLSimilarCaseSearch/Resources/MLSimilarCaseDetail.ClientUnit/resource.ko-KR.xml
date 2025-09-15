@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="유사사례명세부" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="유사 케이스" />
+			<Item Name="LocalizableStrings.RefreshSimilarCases.Value" Value="새로 고침" />
+		</Items>
+	</Group>
+</Resources>

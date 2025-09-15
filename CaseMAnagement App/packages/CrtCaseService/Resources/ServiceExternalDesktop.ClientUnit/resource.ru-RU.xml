@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Рабочий стол для внешних пользователей" />
+			<Item Name="LocalizableStrings.Label_w4zh47g_caption.Value" Value="Приветствую, [#Current user.Recipient Name#]!" />
+			<Item Name="LocalizableStrings.MyCasesByServiceChartWidget_series_0.Value" Value="Case" />
+			<Item Name="LocalizableStrings.MyCasesByServiceChartWidget_title.Value" Value="Мои обращения по сервисам" />
+			<Item Name="LocalizableStrings.NewCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.NewCasesIndicatorWidget_title.Value" Value="Новые обращения" />
+			<Item Name="LocalizableStrings.ResolvedCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.ResolvedCasesIndicatorWidget_title.Value" Value="Решенные обращения" />
+			<Item Name="LocalizableStrings.WaitingForResponseCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.WaitingForResponseCasesIndicatorWidget_title.Value" Value="Ожидают моего ответа" />
+		</Items>
+	</Group>
+</Resources>

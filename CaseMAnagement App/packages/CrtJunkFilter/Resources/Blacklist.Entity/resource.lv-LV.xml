@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Melnais saraksts e-pasta adresēm un domēniem lietu reģistrācijai" />
+			<Item Name="Columns.Name.Caption" Value="E-pasta adrese vai Domēns" />
+			<Item Name="Columns.TypeOfField.Caption" Value="Lauka veids" />
+		</Items>
+	</Group>
+</Resources>

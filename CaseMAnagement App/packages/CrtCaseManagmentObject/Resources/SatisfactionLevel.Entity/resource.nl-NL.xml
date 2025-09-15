@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Tevredenheidsniveau" />
+			<Item Name="Columns.Colour.Caption" Value="Kleur" />
+			<Item Name="Columns.Image.Caption" Value="Afbeelding" />
+			<Item Name="Columns.IsActive.Caption" Value="Is gebruikt" />
+			<Item Name="Columns.Point.Caption" Value="Punt" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

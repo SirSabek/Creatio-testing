@@ -1,0 +1,127 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": "Case categories"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "23c7bb46-18f7-491a-9b92-c5a0edca930f",
+          "Value": "dd4c6f34-0aff-4222-a62a-3f78fcdeae10",
+          "DisplayValue": "Cases"
+        },
+        {
+          "SchemaColumnUId": "f3217323-afc6-447c-804a-15fa195d05d2",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "4bf49c30-d507-421a-b144-3fba3208b580",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "ce28b9f4-8f90-43cc-8c04-ddfe968c59b2",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "9ca3a204-8d60-45a6-b16e-9384872071c3",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "cb2be0a9-94bf-4cde-8efb-eb6862e3b6e0",
+          "Value": "63fec14d-0309-43b0-99c5-b085abf0c314"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "20fb68f3-9ed0-48f7-b5df-f56353b17431"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": "Case closure codes"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "23c7bb46-18f7-491a-9b92-c5a0edca930f",
+          "Value": "dd4c6f34-0aff-4222-a62a-3f78fcdeae10",
+          "DisplayValue": "Cases"
+        },
+        {
+          "SchemaColumnUId": "f3217323-afc6-447c-804a-15fa195d05d2",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "4bf49c30-d507-421a-b144-3fba3208b580",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "ce28b9f4-8f90-43cc-8c04-ddfe968c59b2",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "9ca3a204-8d60-45a6-b16e-9384872071c3",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "cb2be0a9-94bf-4cde-8efb-eb6862e3b6e0",
+          "Value": "66827e0a-27d4-4616-b69a-ac6321b7be52"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "64517785-448b-4220-a6d8-a9e542e27bef"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": "Case sources"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "23c7bb46-18f7-491a-9b92-c5a0edca930f",
+          "Value": "dd4c6f34-0aff-4222-a62a-3f78fcdeae10",
+          "DisplayValue": "Cases"
+        },
+        {
+          "SchemaColumnUId": "f3217323-afc6-447c-804a-15fa195d05d2",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "4bf49c30-d507-421a-b144-3fba3208b580",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "ce28b9f4-8f90-43cc-8c04-ddfe968c59b2",
+          "Value": "9297fc98-2051-4cb4-b0b5-567ce182d8a6"
+        },
+        {
+          "SchemaColumnUId": "9ca3a204-8d60-45a6-b16e-9384872071c3",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "cb2be0a9-94bf-4cde-8efb-eb6862e3b6e0",
+          "Value": "b17869fe-43f9-487a-af82-b7626f1fc810"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e5ce1fa7-d717-44da-94c2-771a6db620bb"
+        }
+      ]
+    }
+  ]
+}

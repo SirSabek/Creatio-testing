@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CaseRatingFeedbackPageWithIcons" />
+			<Item Name="LocalizableStrings.HowMuchDid.Value" Value="Kérjük, válassza ki szolgáltatásunk minőségét" />
+			<Item Name="LocalizableStrings.PostSuccess.Value" Value="Visszajelzését sikeresen elküldtük" />
+		</Items>
+	</Group>
+</Resources>

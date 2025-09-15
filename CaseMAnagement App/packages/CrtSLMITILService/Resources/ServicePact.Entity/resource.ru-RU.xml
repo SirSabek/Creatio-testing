@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сервисный договор" />
+			<Item Name="Columns.Calendar.Caption" Value="Календарь" />
+			<Item Name="Columns.EndDate.Caption" Value="Дата окончания" />
+			<Item Name="Columns.Name.Caption" Value="Заголовок" />
+			<Item Name="Columns.Notes.Caption" Value="Примечания" />
+			<Item Name="Columns.Number.Caption" Value="Номер" />
+			<Item Name="Columns.Owner.Caption" Value="Создатель" />
+			<Item Name="Columns.ServiceProvider.Caption" Value="Контрагент" />
+			<Item Name="Columns.ServiceProviderContact.Caption" Value="Контакт" />
+			<Item Name="Columns.StartDate.Caption" Value="Дата начала" />
+			<Item Name="Columns.Status.Caption" Value="Статус" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Уровень поддержки" />
+			<Item Name="Columns.Type.Caption" Value="Тип" />
+		</Items>
+	</Group>
+</Resources>

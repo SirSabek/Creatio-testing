@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Marrëveshja e shërbimit" />
+			<Item Name="Columns.Calendar.Caption" Value="Kalendari" />
+			<Item Name="Columns.EndDate.Caption" Value="End" />
+			<Item Name="Columns.Name.Caption" Value="Titulli" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.Number.Caption" Value="Numri" />
+			<Item Name="Columns.Owner.Caption" Value="Owner" />
+			<Item Name="Columns.ServiceProvider.Caption" Value="Subjekti" />
+			<Item Name="Columns.ServiceProviderContact.Caption" Value="Contact" />
+			<Item Name="Columns.StartDate.Caption" Value="Fillo" />
+			<Item Name="Columns.Status.Caption" Value="Statusi" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Niveli i mbështetjes" />
+			<Item Name="Columns.Type.Caption" Value="Type" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalFlow1.Caption" Value="Is generating number required" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess1.Caption" Value="Zbato nënprocesin 1 të ngjarjes" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumberUserTask.Caption" Value="Gjenero numër rendor" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask1.Caption" Value="Pass schema to generator" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask2.Caption" Value="Assign number" />
+			<Item Name="EventsProcessSchema.BaseElements.ServicePactSavingStartMessage.Caption" Value="ServicePactSaved" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Grupi 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Linja 1" />
+		</Items>
+	</Group>
+</Resources>

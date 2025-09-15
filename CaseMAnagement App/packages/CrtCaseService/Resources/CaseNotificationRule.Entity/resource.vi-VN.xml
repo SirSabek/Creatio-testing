@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Quy luật về thông báo trường hợp" />
+			<Item Name="Columns.CaseCategory.Caption" Value="Hạng mục trường hợp" />
+			<Item Name="Columns.CaseStatus.Caption" Value="Trạng thái trước" />
+			<Item Name="Columns.Delay.Caption" Value="Trì hoãn gửi, phút" />
+			<Item Name="Columns.EmailTemplate.Caption" Value="Email message template" />
+			<Item Name="Columns.IsQuoteOriginalEmail.Caption" Value="Trích dẫn email gốc" />
+			<Item Name="Columns.RuleUsage.Caption" Value="Quy luật cách dùng" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.Methods.LocalMessageExecuting.Caption" Value="LocalMessageExecuting" />
+		</Items>
+	</Group>
+</Resources>

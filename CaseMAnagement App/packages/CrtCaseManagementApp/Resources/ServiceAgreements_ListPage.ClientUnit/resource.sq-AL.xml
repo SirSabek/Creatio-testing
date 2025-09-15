@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Faqja me listën e marrëveshjeve për shërbim" />
+			<Item Name="LocalizableStrings.MenuItem_ImportToExcel_caption.Value" Value="Importimi i të dhënave" />
+			<Item Name="LocalizableStrings.MenuItem_yr278uf_caption.Value" Value="Importo nga Excel" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Rifresko" />
+		</Items>
+	</Group>
+</Resources>

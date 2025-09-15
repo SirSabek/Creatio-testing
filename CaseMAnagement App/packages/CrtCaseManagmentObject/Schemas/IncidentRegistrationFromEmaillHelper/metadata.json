@@ -1,0 +1,30 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "SourceCodeSchemaManager",
+      "UId": "b71b5962-3320-40fb-83d2-34b80b685827",
+      "A2": "IncidentRegistrationFromEmaillHelper",
+      "A5": "3148fb3e-f2dd-48f6-9b89-0b40779627d9",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "e2333bfd-1c31-4dff-8d70-a9288a413a5c",
+          "A2": "NewContactNameLocalizableString",
+          "A3": "b71b5962-3320-40fb-83d2-34b80b685827",
+          "A4": "b71b5962-3320-40fb-83d2-34b80b685827",
+          "A5": "c2657f9d-1b86-4f69-b0c1-b23085f13744"
+        },
+        {
+          "UId": "508fcc8a-3ea1-4803-8d4f-7d5717f894f5",
+          "A2": "UnableToGetClosureCodeErrorMsg",
+          "A3": "b71b5962-3320-40fb-83d2-34b80b685827",
+          "A4": "b71b5962-3320-40fb-83d2-34b80b685827",
+          "A5": "c3c90037-274c-4793-841e-197eb228d3cd"
+        }
+      ],
+      "B3": [],
+      "B6": "83b1062a-d944-eba7-a72b-5400034c6223",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3"
+    }
+  }
+}

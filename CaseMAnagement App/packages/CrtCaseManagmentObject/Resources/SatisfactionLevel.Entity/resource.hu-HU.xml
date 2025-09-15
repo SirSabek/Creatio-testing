@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Elégedettségi szint" />
+			<Item Name="Columns.Colour.Caption" Value="Szín" />
+			<Item Name="Columns.Image.Caption" Value="Kép" />
+			<Item Name="Columns.IsActive.Caption" Value="Is used" />
+			<Item Name="Columns.Point.Caption" Value="Pont" />
+			<Item Name="Columns.Status.Caption" Value="Állapot" />
+		</Items>
+	</Group>
+</Resources>

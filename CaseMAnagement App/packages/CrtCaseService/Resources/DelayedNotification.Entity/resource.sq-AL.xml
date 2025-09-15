@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Njoftim i vonuar" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Data aktuale e dërgimit" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Emri i Menaxherit të Kualifikuar të Asamblesë" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Delay.Caption" Value="Vonesa" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="Model mesazhi emaili" />
+			<Item Name="Columns.Error.Caption" Value="Gabim" />
+			<Item Name="Columns.SendDate.Caption" Value="Kur dërgohet" />
+		</Items>
+	</Group>
+</Resources>

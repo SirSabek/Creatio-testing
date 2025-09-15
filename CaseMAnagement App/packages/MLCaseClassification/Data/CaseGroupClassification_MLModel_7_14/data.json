@@ -1,0 +1,54 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a59a3f1e-8e56-4b5a-b90d-a1bd8b03cf23"
+        },
+        {
+          "SchemaColumnUId": "aa12d9d8-4268-4b2b-8bc0-02e5b0479ea2",
+          "Value": 0.50
+        },
+        {
+          "SchemaColumnUId": "f9b286c5-f7e4-4903-946e-3ff5e9f0d126",
+          "Value": "878ebe11-b0f3-43ae-88a5-e28c4f1dc4e3",
+          "DisplayValue": "Lookup prediction"
+        },
+        {
+          "SchemaColumnUId": "5f778292-a679-4ef2-829a-1d2730b81ec2",
+          "Value": "9147230c-ab53-4eb4-b0b4-ac78be6f8326"
+        },
+        {
+          "SchemaColumnUId": "604e5349-5cac-4321-ae4e-0e2c051b40bd",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "4052a73f-aa84-4af8-88e1-33cfaf7dec09",
+          "Value": "117d32f9-8275-4534-8411-1c66115ce9cd"
+        },
+        {
+          "SchemaColumnUId": "3489b79b-de7a-4a1c-b6ee-c1202ce67226",
+          "Value": "a241f7fd-00dc-4c4e-a461-f86c5663d630",
+          "DisplayValue": "Not started"
+        },
+        {
+          "SchemaColumnUId": "db5a1dd8-8e54-4367-bd56-984f22db12fc",
+          "Value": "9147230c-ab53-4eb4-b0b4-ac78be6f8326"
+        },
+        {
+          "SchemaColumnUId": "564a0aee-87ac-4689-9164-615feb8c6aa7",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "0349a6eb-617b-476a-a594-6d587aa871b6",
+          "Value": "eyJjbGFzc05hbWUiOiJUZXJyYXNvZnQuRmlsdGVyR3JvdXAiLCJpdGVtcyI6eyI3NTA5NTU0My1kZDVlLTQ5M2MtYmMzNS0xMTc0YzVmMzg3ODYiOnsiY2xhc3NOYW1lIjoiVGVycmFzb2Z0LklzTnVsbEZpbHRlciIsImZpbHRlclR5cGUiOjIsImNvbXBhcmlzb25UeXBlIjoyLCJpc0VuYWJsZWQiOnRydWUsInRyaW1EYXRlVGltZVBhcmFtZXRlclRvRGF0ZSI6ZmFsc2UsImxlZnRFeHByZXNzaW9uIjp7ImNsYXNzTmFtZSI6IlRlcnJhc29mdC5Db2x1bW5FeHByZXNzaW9uIiwiZXhwcmVzc2lvblR5cGUiOjAsImNvbHVtblBhdGgiOiJHcm91cCJ9LCJpc0FnZ3JlZ2F0aXZlIjpmYWxzZSwia2V5IjoiNzUwOTU1NDMtZGQ1ZS00OTNjLWJjMzUtMTE3NGM1ZjM4Nzg2IiwiZGF0YVZhbHVlVHlwZSI6MTAsImxlZnRFeHByZXNzaW9uQ2FwdGlvbiI6IkFzc2lnbmVlcyBncm91cCIsInJlZmVyZW5jZVNjaGVtYU5hbWUiOiJTeXNBZG1pblVuaXQiLCJpc051bGwiOmZhbHNlfX0sImxvZ2ljYWxPcGVyYXRpb24iOjAsImlzRW5hYmxlZCI6dHJ1ZSwiZmlsdGVyVHlwZSI6Niwicm9vdFNjaGVtYU5hbWUiOiJDYXNlIiwia2V5IjoiIn0="
+        },
+        {
+          "SchemaColumnUId": "99275f57-7f37-4fd5-8b7c-424fdb8c3c5d",
+          "Value": 0
+        }
+      ]
+    }
+  ]
+}

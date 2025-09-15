@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.RunProcess.Caption" Value="Aktivizo procesin e analizës së nivelit të kënaqshmërisë së çështjes " />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Merr nivelin e kënaqësisë së çështjes" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="Caption" Value="Aktivizo procesin: Niveli i kënaqshmërisë së analizës së çështjes" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Linja 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.CaseRecordId.Caption" Value="Id e të dhënave të çështjes" />
+			<Item Name="Parameters.CaseRecordId.DisplayValue" Value="[#Get case satisfation level.Record Id#]" />
+		</Items>
+	</Group>
+</Resources>

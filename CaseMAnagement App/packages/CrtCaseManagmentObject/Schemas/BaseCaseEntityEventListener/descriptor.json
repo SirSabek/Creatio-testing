@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "340f9ea9-6303-4440-9e7d-04b2cce5b1f6",
+    "Name": "BaseCaseEntityEventListener",
+    "ModifiedOnUtc": "\/Date(1673534227000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "BaseCaseEntityEventListener",
+    "DependsOn": []
+  }
+}

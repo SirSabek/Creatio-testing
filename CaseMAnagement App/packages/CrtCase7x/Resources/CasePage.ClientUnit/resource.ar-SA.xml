@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="مخطط صفحة التحرير - قطاع &quot;حالات&quot;" />
+			<Item Name="LocalizableStrings.AccountCaption.Value" Value="Account" />
+			<Item Name="LocalizableStrings.ActualDateGroupCaption.Value" Value="الإطار الزمني للمعالجة" />
+			<Item Name="LocalizableStrings.AssignToMeCaption.Value" Value="تعيين لي" />
+			<Item Name="LocalizableStrings.CaseInformationTabCaption.Value" Value="معلومات الحالة" />
+			<Item Name="LocalizableStrings.ClosureCodeCaption.Value" Value="Reason for closing" />
+			<Item Name="LocalizableStrings.ClosureDateCaption.Value" Value="Closed on" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.CreatedOnCaption.Value" Value="تم الإنشاء:" />
+			<Item Name="LocalizableStrings.CurrentStatusGroupCaption.Value" Value="الضع الحالي" />
+			<Item Name="LocalizableStrings.DaysCaptionSuffix.Value" Value="d" />
+			<Item Name="LocalizableStrings.DefaultHeader.Value" Value="حالة #{0}" />
+			<Item Name="LocalizableStrings.DelayHeaderCaptionSuffix.Value" Value="التأخير:" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="تغذية" />
+			<Item Name="LocalizableStrings.FeedbackGroupCaption.Value" Value="التغذية المرتدة" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="معلومات الحالة" />
+			<Item Name="LocalizableStrings.GroupCaption.Caption" Value="الفريق المسؤول" />
+			<Item Name="LocalizableStrings.GroupCaption.Value" Value="فريق معين" />
+			<Item Name="LocalizableStrings.HeaderTemplate.Value" Value="حالة #{0}: {1}" />
+			<Item Name="LocalizableStrings.HoursCaptionSuffix.Value" Value="ح" />
+			<Item Name="LocalizableStrings.IndicatorsGroupCaption.Value" Value="مؤشرات" />
+			<Item Name="LocalizableStrings.LeftHeaderCaptionSuffix.Value" Value="المتبقي:" />
+			<Item Name="LocalizableStrings.MinutesCaptionSuffix.Value" Value="د" />
+			<Item Name="LocalizableStrings.NotesFilesTabCaption.Value" Value="مرفقات" />
+			<Item Name="LocalizableStrings.NumberCaption.Value" Value="Number" />
+			<Item Name="LocalizableStrings.OriginCaption.Value" Value="Source" />
+			<Item Name="LocalizableStrings.OwnerCaption.Caption" Value="Owner" />
+			<Item Name="LocalizableStrings.OwnerCaption.Value" Value="المعين للعمل" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Caption" Value="الحالة الرئيسية للشرح التوضيحي" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Value" Value="حالة الأصل" />
+			<Item Name="LocalizableStrings.PriorityCaption.Value" Value="Priority" />
+			<Item Name="LocalizableStrings.RatingGroupCaption.Value" Value="تقييم" />
+			<Item Name="LocalizableStrings.RegisteredOnCaption.Value" Value="تاريخ التسجيل" />
+			<Item Name="LocalizableStrings.RelationsTabCaption.Value" Value="إغلاق وردود الفعل" />
+			<Item Name="LocalizableStrings.RequiredContactOrAccountMessage.Value" Value="يرجى ملء ايا من الحقلين &quot;حساب&quot; أو &quot;جهة اتصال&quot;" />
+			<Item Name="LocalizableStrings.RespondedOnCaption.Value" Value="زمن الاستجابة الفعلية" />
+			<Item Name="LocalizableStrings.ResponseDateCaption.Value" Value="زمن استجابة مجدولة" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCaption.Value" Value="تقييم" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentCaption.Value" Value="تعليق المستخدم" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Caption" Value="Tooltip for Satisfaction Level Comment" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Value" Value="In order to change feedback you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Caption" Value="تلميح حول مستوى الرضا" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Value" Value="In order to change satisfaction level you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SolutionCaption.Value" Value="قرار" />
+			<Item Name="LocalizableStrings.SolutionDateCaption.Value" Value="زمن القرار المجدول" />
+			<Item Name="LocalizableStrings.SolutionGroupCaption.Value" Value="قرار" />
+			<Item Name="LocalizableStrings.SolutionProvidedOnCaption.Value" Value="تاريخ القرار الفعلي" />
+			<Item Name="LocalizableStrings.SolutionTabCaption.Value" Value="إغلاق وردود الفعل" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Caption" Value="SolvedOnSupportLevelCaption" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="تم حلها من طرف" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Status" />
+			<Item Name="LocalizableStrings.SubjectCaption.Value" Value="Subject" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="متابعة التغذية" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="أنت الآن متابع للتغذية: {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Caption" Value="SupportLevelCaption" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="خط الدعم" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="Description" />
+			<Item Name="LocalizableStrings.TermsControlGroupCaption.Value" Value="شروط" />
+			<Item Name="LocalizableStrings.TermsGroupCaption.Value" Value="الجدول الزمني" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Caption" Value="TimeZoneSysSettingMessage" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Value" Value="&lt;p&gt;يتم استخدام المنطقة الزمنية التالية لعرض التواريخ:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;المنطقة الزمنية المحددة في ملف تعريف المستخدم &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;الخاص بك.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;إذا لم يتم تعيين المنطقة الزمنية للملف الشخصي، سيتم استخدام المنطقة الزمنية الافتراضية (المحددة في &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/12fef2c9-8baa-4b07-88e4-464169a44775&quot;&gt;&quot;المنطقة الزمنية بشكل افتراضي&quot;&lt;/a&gt; إعدادات النظام).&lt;/li&gt;&lt;/ol&gt;" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Caption" Value="TimeZoneUserProfileMessage" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Value" Value="&lt;p&gt;Time zones can be displayed in three different ways:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The time zone specified in your profile,&lt;/li&gt;&#xA;&lt;li&gt;System setting “Time zone by default”,&lt;/li&gt;&#xA;&lt;li&gt;Time zone “Time in UTC”.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;You can configure time zone inside your &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;User profile &quot;&lt;/a&gt;  or contact system administrator.&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="إلغاء متابعة التغذية" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="لقد قمت بايقاف التغذية التالية: {0}" />
+		</Items>
+	</Group>
+</Resources>

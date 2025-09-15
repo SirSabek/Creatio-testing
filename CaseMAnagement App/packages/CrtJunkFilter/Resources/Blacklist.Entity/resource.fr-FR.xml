@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Liste des adresses mail et nom de domaines rejetés pour enregistrement du cas" />
+			<Item Name="Columns.Name.Caption" Value="Adresse email ou de domaine" />
+			<Item Name="Columns.TypeOfField.Caption" Value="Type de champ" />
+		</Items>
+	</Group>
+</Resources>

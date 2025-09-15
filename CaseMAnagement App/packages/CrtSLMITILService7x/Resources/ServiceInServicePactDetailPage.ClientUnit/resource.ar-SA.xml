@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="تفاصيل تحرير مخطط الصفحة - الخدمة في عقد الخدمة" />
+			<Item Name="LocalizableStrings.CalendarCaption.Value" Value="Calendar" />
+			<Item Name="LocalizableStrings.ReactionTimeDayTypeCaption.Value" Value="نوع يوم وقت الاستجابة" />
+			<Item Name="LocalizableStrings.ReactionTimeUnitCaption.Value" Value="Response time unit" />
+			<Item Name="LocalizableStrings.ReactionTimeValueCaption.Value" Value="وقت الاستجابة" />
+			<Item Name="LocalizableStrings.ServiceItemCaption.Value" Value="خدمة" />
+			<Item Name="LocalizableStrings.ServicePactCaption.Value" Value="عقد الخدمة" />
+			<Item Name="LocalizableStrings.SolutionTimeDayTypeCaption.Value" Value="نوع يوم وقت القرار" />
+			<Item Name="LocalizableStrings.SolutionTimeUnitCaption.Value" Value="Resolution time unit" />
+			<Item Name="LocalizableStrings.SolutionTimeValueCaption.Value" Value="وقت القرار" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

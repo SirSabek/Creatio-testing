@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Përparësitë në faqen e kërkimit të nivelit të mbështetjes" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Imazh i paracaktuar" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Të lutem plotëso fushat e kohës së përgjigjes" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Të lutem plotëso fushat e kohës së përgjigjes" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Të lutem plotëso fushat e kohës së zgjidhjes" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Të lutem plotëso fushat e kohës së zgjidhjes" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="Vlera aktuale ekziston tashmë" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="Vlera aktuale ekziston tashmë" />
+		</Items>
+	</Group>
+</Resources>

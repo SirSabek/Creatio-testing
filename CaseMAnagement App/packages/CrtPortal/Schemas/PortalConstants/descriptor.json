@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0d4ff333-6c25-49dc-97f3-5f38c4c7f52d",
+    "Name": "PortalConstants",
+    "ModifiedOnUtc": "\/Date(1430052538000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "PortalConstants",
+    "DependsOn": []
+  }
+}

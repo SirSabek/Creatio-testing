@@ -1,0 +1,55 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "CopilotIntentSchemaManager",
+      "UId": "c4a64438-1c42-7a35-b46c-a0594fcb5c07",
+      "A2": "CasePerformance",
+      "A5": "7e04a647-909d-48f6-b90f-5716cbcf98db",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "7f44885b-2fe5-7785-469d-4606220c1f6a",
+      "B8": "8.1.4.2824",
+      "CIS1": "Based on the following case data, generate a concise performance analysis report for support group supervisors and heads of support. The report should focus on key aspects of performance, avoiding detailed technical steps and minute interaction details. \n\nUse the current user's context to retrieve the main information about the Case. If you don’t know which case you need to use ask user Number of that case and use [GetCaseData] for getting information about the case.\n2. Retrieve information about all EMAIL messages exchanged within the case using the function [GetCaseActivity].\n3. Retrieve information about all internal messages exchanged within the case using the function [GetCaseFeedMessages].\n4. Retrieve information about internal changes in the case using the function [GetCaseLifecycle].\n\nCase Data to use:\n- Generic Details: Reporter person and company, calculated SLAs timings, all conversation items with customer and internal communication, timing when case was updated to each status, changelog of key fields. \n- Performance Metrics: Data on time to resolution, number of interactions, and customer satisfaction scores.\n- Escalation Patterns: Insights into why cases were escalated, helping identify training or process improvement needs.\n- Summary of Agent Notes: A high-level overview of agent contributions.\n\nReport Requirements:\n1. Performance Metrics Overview: Summarize key metrics such as average time to resolution, total number of interactions, and customer satisfaction scores.\n2. Escalation Patterns: Provide insights into the reasons for case escalations and suggest areas for training or process improvement.\n3. Agent Contributions Summary: Offer a high-level overview of the most significant contributions made by agents, highlighting effective problem-solving or noteworthy efforts.\n4. Key Trends and Insights: Identify any significant trends or patterns observed in the case data that could impact overall performance.\n5. Actionable Recommendations: Based on the analysis, suggest actionable recommendations for improving support performance and efficiency.\n\nMake the report 70-90 words total, structure the result by these separate sections (not as a list), focus on the most valuable data for the roles specified and omit detailed technical steps and minor interaction details.",
+      "CIS5": "Generate performance analysis report of support case",
+      "CIS4": 1,
+      "CIS3": [
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "1e647029-1c95-43b1-9668-19a2669a88b1",
+          "A2": "GetCaseFeedMessages",
+          "A3": "c4a64438-1c42-7a35-b46c-a0594fcb5c07",
+          "A4": "c4a64438-1c42-7a35-b46c-a0594fcb5c07",
+          "ProcessSchemaUId": "fe82a4fb-ebfc-4ffa-8a8e-e76a6462a95f"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "21860cc2-33e4-4431-87ef-f06879d23961",
+          "A2": "GetCaseLifecycle",
+          "A3": "c4a64438-1c42-7a35-b46c-a0594fcb5c07",
+          "A4": "c4a64438-1c42-7a35-b46c-a0594fcb5c07",
+          "ProcessSchemaUId": "3c436329-3f23-4543-8456-74c4dc250b62"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "3f4882be-e079-419c-91e3-a50133a328cf",
+          "A2": "GetCaseActivity",
+          "A3": "c4a64438-1c42-7a35-b46c-a0594fcb5c07",
+          "A4": "c4a64438-1c42-7a35-b46c-a0594fcb5c07",
+          "ProcessSchemaUId": "e93a314e-7a84-445a-b683-882ec6347c16"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "42e161c5-6cc1-4d0f-ac27-99e8f81f0df2",
+          "A2": "GetCaseData",
+          "A3": "c4a64438-1c42-7a35-b46c-a0594fcb5c07",
+          "A4": "c4a64438-1c42-7a35-b46c-a0594fcb5c07",
+          "ProcessSchemaUId": "e6641a21-c8e6-464e-a6e9-b7c15006cb0e"
+        }
+      ],
+      "CIS6": [],
+      "CIS7": [],
+      "CIS8": {}
+    }
+  }
+}

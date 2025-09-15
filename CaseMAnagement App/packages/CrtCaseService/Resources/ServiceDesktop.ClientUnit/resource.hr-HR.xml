@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Radna površina za usluge" />
+			<Item Name="LocalizableStrings.AverageResolutionTimeIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.AverageResolutionTimeIndicatorWidget_title.Value" Value="Prosječno vrijeme rješavanja" />
+			<Item Name="LocalizableStrings.CustomerSatisfactionIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CustomerSatisfactionIndicatorWidget_title.Value" Value="Zadovoljstvo korisnika" />
+			<Item Name="LocalizableStrings.FirstContactResolutionIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.FirstContactResolutionIndicatorWidget_title.Value" Value="Rješenje pri prvom kontaktu" />
+			<Item Name="LocalizableStrings.GreetingLabel_caption.Value" Value="Pozdrav, [#Current user.Recipient Name#]!" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_series_0.Value" Value="Planirano riješiti" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_series_1.Value" Value="Stvarno riješeni" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_title.Value" Value="Planirano u odnosu na stvarno riješene zahtjeve" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_xAxis.Value" Value="Datum" />
+			<Item Name="LocalizableStrings.PlannedVsActualResolvedCasesChartWidget_yAxis.Value" Value="Zahtjevi" />
+		</Items>
+	</Group>
+</Resources>

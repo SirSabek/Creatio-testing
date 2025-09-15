@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Zahtjev" />
+			<Item Name="Columns.Group.Caption" Value="Grupa dodijeljenih" />
+			<Item Name="Columns.Owner.Caption" Value="Assignee" />
+			<Item Name="Columns.ParentActivity.Caption" Value="Parent activity" />
+			<Item Name="Columns.ParentCase.Caption" Value="Zahtjev roditelj" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Bazen 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Traka 1" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.NewOwnerCaption.Value" Value="Obavijest o dodjeljivanju" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.NewOwnerMessage.Value" Value="Zahtjev br. {0} “{1}” vam je dodijeljen" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OldOwnerCaption.Value" Value="Obavijest o promjeni dodijeljenog korisnika" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OldOwnerMessage.Value" Value="Case No{0} “{1} is no longer assigned to you" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.ServiceRequestName.Value" Value="Zahtjev {0}" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SubjectByString.Value" Value="prema" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SubjectForString.Value" Value="prema" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.IsNeedSendRemind.Caption" Value="IsNeedSendRemind" />
+			<Item Name="EventsProcessSchema.Parameters.NewOwnerId.Caption" Value="NewOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.OldOwnerId.Caption" Value="OldOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+			<Item Name="EventsProcessSchema.Parameters.SendToNewOwner.Caption" Value="SendToNewOwner" />
+			<Item Name="EventsProcessSchema.Parameters.SendToOldOwner.Caption" Value="SendToOldOwner" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Thông báo được hoãn" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Ngày gửi thực tế" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Tên người quản lý hội đủ điều kiện" />
+			<Item Name="Columns.Case.Caption" Value="Trường hợp" />
+			<Item Name="Columns.Delay.Caption" Value="Hoãn" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="Email message template" />
+			<Item Name="Columns.Error.Caption" Value="Lỗi" />
+			<Item Name="Columns.SendDate.Caption" Value="Khi gửi" />
+		</Items>
+	</Group>
+</Resources>

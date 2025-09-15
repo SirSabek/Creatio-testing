@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SetCaseScriptTask.Caption" Value="Ielādēt un iestatīt lietu" />
+			<Item Name="Caption" Value="Saņemt lietas datus" />
+			<Item Name="Description" Value="Iegūst informāciju par lietu pēc tās numura" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.Case.Caption" Value="Lietas dati" />
+			<Item Name="Parameters.Case.Sys_Description" Value="Lietas kolonnas vērtības" />
+			<Item Name="Parameters.CaseNumber.Caption" Value="CaseNumber" />
+			<Item Name="Parameters.CaseNumber.Sys_Description" Value="Lietas numurs" />
+			<Item Name="Parameters.IsCaseFound.Caption" Value="Vai lieta ir atrasta" />
+			<Item Name="Parameters.IsCaseFound.Sys_Description" Value="Norāda, ka lieta tika atrasta pēc dotā numura" />
+		</Items>
+	</Group>
+</Resources>

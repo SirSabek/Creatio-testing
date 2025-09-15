@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CaseRatingFeedbackPageWithIcons" />
+			<Item Name="LocalizableStrings.HowMuchDid.Value" Value="Selecteer alstublieft de kwaliteit van onze service" />
+			<Item Name="LocalizableStrings.PostSuccess.Value" Value="Uw feedback is succesvol verzonden" />
+		</Items>
+	</Group>
+</Resources>

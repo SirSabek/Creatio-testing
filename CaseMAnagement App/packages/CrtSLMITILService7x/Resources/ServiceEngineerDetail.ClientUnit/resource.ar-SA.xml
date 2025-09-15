@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="مخطط التفصيل - فريق الخدمة في قسم الخدمات" />
+			<Item Name="Images.12703106-728c-4173-ba38-8999330d571f.Caption" Value="الصورة1" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="فريق الخدمة" />
+			<Item Name="LocalizableStrings.DeleteButtonTitle.Value" Value="Delete" />
+			<Item Name="LocalizableStrings.EngineerCaption.Value" Value="العضو/الفريق" />
+			<Item Name="LocalizableStrings.ErrorTemplate.Value" Value="التفاصيل {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="خط الدعم" />
+			<Item Name="LocalizableStrings.ValidationErrorTemplate.Value" Value="يرجى ملء الحقل &quot;{0}&quot;" />
+		</Items>
+	</Group>
+</Resources>

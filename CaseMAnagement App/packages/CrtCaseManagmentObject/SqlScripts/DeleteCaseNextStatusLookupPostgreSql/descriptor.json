@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "0f400634-44c2-65a0-2062-da73ed162c4e",
+    "Name": "DeleteCaseNextStatusLookupPostgreSql",
+    "DBEngineType": 2,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1671271833000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

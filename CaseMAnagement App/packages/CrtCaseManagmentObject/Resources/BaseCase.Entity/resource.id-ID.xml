@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Kasus dasar" />
+			<Item Name="Columns.Account.Caption" Value="Account" />
+			<Item Name="Columns.Category.Caption" Value="Category" />
+			<Item Name="Columns.ClosureCode.Caption" Value="Reason for closing" />
+			<Item Name="Columns.ClosureDate.Caption" Value="Closed on" />
+			<Item Name="Columns.Contact.Caption" Value="Contact" />
+			<Item Name="Columns.FirstSolutionProvidedOn.Caption" Value="Waktu resolusi pertama" />
+			<Item Name="Columns.Group.Caption" Value="Grup" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.Number.Caption" Value="Number" />
+			<Item Name="Columns.Origin.Caption" Value="Source" />
+			<Item Name="Columns.Owner.Caption" Value="Owner" />
+			<Item Name="Columns.Priority.Caption" Value="Priority" />
+			<Item Name="Columns.RegisteredOn.Caption" Value="Tanggal registrasi" />
+			<Item Name="Columns.RespondedOn.Caption" Value="Waktu respon sebenarnya" />
+			<Item Name="Columns.ResponseDate.Caption" Value="Waktu respon" />
+			<Item Name="Columns.ResponseOverdue.Caption" Value="Keterlambatan respon" />
+			<Item Name="Columns.SatisfactionLevel.Caption" Value="Level kepuasan" />
+			<Item Name="Columns.SatisfactionLevelComment.Caption" Value="Catatan saran" />
+			<Item Name="Columns.Solution.Caption" Value="Resolusi" />
+			<Item Name="Columns.SolutionDate.Caption" Value="Waktu resolusi" />
+			<Item Name="Columns.SolutionOverdue.Caption" Value="Keterlambatan resolusi" />
+			<Item Name="Columns.SolutionProvidedOn.Caption" Value="Waktu resolusi sebenarnya" />
+			<Item Name="Columns.SolutionRemains.Caption" Value="Waktu yang tersisa hingga waktu resolusi" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="Columns.Subject.Caption" Value="Subject" />
+			<Item Name="Columns.Symptoms.Caption" Value="Description" />
+		</Items>
+	</Group>
+</Resources>

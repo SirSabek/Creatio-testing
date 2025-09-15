@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Servisa līgumu saraksta lapa" />
+			<Item Name="LocalizableStrings.MenuItem_ImportToExcel_caption.Value" Value="Datu imports" />
+			<Item Name="LocalizableStrings.MenuItem_yr278uf_caption.Value" Value="Importēt no Excel" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Atjaunot" />
+		</Items>
+	</Group>
+</Resources>

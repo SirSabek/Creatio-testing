@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схоже звернення" />
+			<Item Name="Columns.MLModel.Caption" Value="Модель машинного навчання" />
+			<Item Name="Columns.ParentCase.Caption" Value="Батьківське звернення" />
+			<Item Name="Columns.PredictionDate.Caption" Value="Дата прогнозу" />
+			<Item Name="Columns.PredictionQuality.Caption" Value="Якість прогнозу" />
+			<Item Name="Columns.Score.Caption" Value="Оцінка схожості" />
+			<Item Name="Columns.SimilarCase.Caption" Value="Схоже звернення" />
+		</Items>
+	</Group>
+</Resources>

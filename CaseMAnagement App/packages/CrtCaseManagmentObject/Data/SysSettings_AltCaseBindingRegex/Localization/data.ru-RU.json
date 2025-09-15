@@ -1,0 +1,23 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "b48e7a26-046c-49c6-b514-bb666c1de068"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Регулярное выражение для привязки писем"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": "Вы можете использовать регулярные выражения с заменой. Например, выражение \"(SR)\\<span\\>(\\d{8})/\\1\\2\" найдет в тексте \"SR<span>12345678\" и преобразует его к виду \"SR12345678\""
+        }
+      ]
+    }
+  ]
+}

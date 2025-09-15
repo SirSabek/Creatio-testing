@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Typ av fältvärde &quot;E-postadress eller domän&quot;" />
+			<Item Name="Columns.Code.Caption" Value="Kod" />
+		</Items>
+	</Group>
+</Resources>

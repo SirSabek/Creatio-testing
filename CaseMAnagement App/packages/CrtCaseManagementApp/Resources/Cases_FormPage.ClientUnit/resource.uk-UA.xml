@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сторінка запису Звернення" />
+			<Item Name="LocalizableStrings.ActivitiesAddButton_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.ActivitiesExpansionPanel_title.Value" Value="Активності" />
+			<Item Name="LocalizableStrings.ActivitiesExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.ActivitiesImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.ActivitiesRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.ActivitiesSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.ActivitiesSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.addRecord_1fg0dsp_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_29owxq7_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_iifryop_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_ij355ic_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_khhzgc9_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_kp67ryq_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_n4mem4y_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_rcyw9m2_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_sai31tf_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_v70ts6s_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.AssignToMeButton_caption.Value" Value="Призначити мені" />
+			<Item Name="LocalizableStrings.Button_nlty3vs_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.Button_vd2uljn_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.CaseGeneralInfoTab_caption.Value" Value="Основна інформація" />
+			<Item Name="LocalizableStrings.CaseInfoLabel_caption.Value" Value="Інформація щодо звернення" />
+			<Item Name="LocalizableStrings.CaseLifecycleExpansionPanel_title.Value" Value="Життєвий цикл звернення" />
+			<Item Name="LocalizableStrings.CaseLifecycleExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.CaseLifecycleImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.CaseLifecycleRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.CaseLifecycleSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.CaseLifecycleSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.ClosureAndFeedbackTab_caption.Value" Value="Вирішення та закриття" />
+			<Item Name="LocalizableStrings.EscalateButton_caption.Value" Value="Ескалація" />
+			<Item Name="LocalizableStrings.ExpansionPanel_5s964cq_title.Value" Value="Життєвий цикл звернення" />
+			<Item Name="LocalizableStrings.ExpansionPanel_hiqjo9r_title.Value" Value="Панель розширення" />
+			<Item Name="LocalizableStrings.ExpansionPanel_hxfe0bg_title.Value" Value="Умови" />
+			<Item Name="LocalizableStrings.ExpansionPanel_n8yfhhj_title.Value" Value="Панель розширення" />
+			<Item Name="LocalizableStrings.FeedbackExpansionPanel_title.Value" Value="Зворотній зв'язок" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_x1oxk5t_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_8u5sych_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_bvdq6jt_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_hid5b3d_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_mj5o5wg_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_c1kmyhh_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_hfokqzj_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_lrlkg9u_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_rojvg62_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesAddButton_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesExpansionPanel_title.Value" Value="Статті бази знань" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_89c4504d.Value" Value="Кількість переглядів" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.MenuItem_db9ki1a_caption.Value" Value="Пункт меню" />
+			<Item Name="LocalizableStrings.MenuItem_j912r5k_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.MenuItem_sc4ga0v_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.NumberOfReopeningsIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.NumberOfReopeningsIndicatorWidget_title.Value" Value="Кількість повторних відкриттів" />
+			<Item Name="LocalizableStrings.PerformanceTab_caption.Value" Value="Продуктивність" />
+			<Item Name="LocalizableStrings.ReclassifyButton_caption.Value" Value="Рекласифікувати" />
+			<Item Name="LocalizableStrings.ResolutionMainTimer_negativeTextValue.Value" Value="[#timer#] затримки" />
+			<Item Name="LocalizableStrings.ResolutionMainTimer_positiveTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.ResolutionTimer_negativeTextValue.Value" Value="Затримка: [#timer#]" />
+			<Item Name="LocalizableStrings.ResolutionTimer_positiveTextValue.Value" Value="Залишилось: [#timer#]" />
+			<Item Name="LocalizableStrings.ResponseTimer_negativeTextValue.Value" Value="Затримка: [#timer#]" />
+			<Item Name="LocalizableStrings.ResponseTimer_positiveTextValue.Value" Value="Залишилось: [#timer#]" />
+			<Item Name="LocalizableStrings.SatisfactionLevel_tooltip.Value" Value="Рівень задоволеності, який залишив клієнт на сторінці подяки" />
+			<Item Name="LocalizableStrings.SatisfactionLevelComment_tooltip.Value" Value="Коментар, який клієнт залишив до оцінки на сторінці подяки" />
+			<Item Name="LocalizableStrings.SearchFilter_j01a0xl_placeholder.Value" Value="Знайти" />
+			<Item Name="LocalizableStrings.SubordinateCasesAddButton_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.SubordinateCasesExpansionPanel_title.Value" Value="Підлеглі звернення" />
+			<Item Name="LocalizableStrings.SubordinateCasesExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.SubordinateCasesImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.SubordinateCasesRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.SubordinateCasesSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.SubordinateCasesSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.TermsExpansionPanel_title.Value" Value="Терміни" />
+			<Item Name="LocalizableStrings.TermsLabel_caption.Value" Value="Терміни" />
+			<Item Name="LocalizableStrings.TimeInProgressIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.TimeInProgressIndicatorWidget_title.Value" Value="Час у работі, годин" />
+			<Item Name="LocalizableStrings.TimeLeftForResolutionLabel_caption.Value" Value="Залишилось часу до вирішення" />
+			<Item Name="LocalizableStrings.Timeline_4gfwh7t_caption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.Timeline_4gfwh7t_label.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.Timeline_v0cacsv_caption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.Timeline_v0cacsv_label.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.Timeline_vqv4ozm_caption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.Timeline_vqv4ozm_label.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.TimeOnSupportLinesChartWidget_series_0.Value" Value="Життєвий цикл звернення" />
+			<Item Name="LocalizableStrings.TimeOnSupportLinesChartWidget_title.Value" Value="Тривалість перебування на лініях підтримки, годин" />
+			<Item Name="LocalizableStrings.TimeOnSupportLinesChartWidget_yAxis.Value" Value="годин" />
+			<Item Name="LocalizableStrings.TimeToFirstResponseIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.TimeToFirstResponseIndicatorWidget_title.Value" Value="Час до першої відповіді, годин" />
+		</Items>
+	</Group>
+</Resources>

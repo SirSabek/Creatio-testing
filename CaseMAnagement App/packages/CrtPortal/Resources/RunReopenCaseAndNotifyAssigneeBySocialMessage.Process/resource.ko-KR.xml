@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="외부 사용자입니다" />
+			<Item Name="BaseElements.DefaultSequenceFlow1.Caption" Value="일반 사용자입니다" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Caption" Value="Read social message case Id" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.AggregationColumnName.Caption" Value="집계함수열의 이름" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.CanReadUncommitedData.Caption" Value="커밋되지 않은 데이터 읽기" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.CanReadUncommitedData.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ConsiderTimeInFilter.Caption" Value="필터의 시간을 고려" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ConsiderTimeInFilter.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.EntityColumnMetaPathes.Caption" Value="읽을 열" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.EntityColumnMetaPathes.DisplayValue" Value="b076a792-429d-47db-891d-6621341a0bde" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.FunctionType.Caption" Value="집계함수종류" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.IgnoreDisplayValues.Caption" Value="조회 열의 표시된 값을 읽지 않음" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.NumberOfRecords.Caption" Value="읽을 레코드 수" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.NumberOfRecords.DisplayValue" Value="50" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.OrderInfo.Caption" Value="열 순서" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.OrderInfo.DisplayValue" Value="Message:1:1" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ReadSomeTopRecords.Caption" Value="먼저 읽기" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ReadSomeTopRecords.DisplayValue" Value="맞는" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultCompositeObjectList.Caption" Value="기록 수집" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultCount.Caption" Value="레코드 수" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultEntity.Caption" Value="결과수집 첫 번째 항목" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultEntityCollection.Caption" Value="결과수집" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultRowsCount.Caption" Value="읽은 레코드 수" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultType.Caption" Value="결과 유형" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Reopen case and notify assignee" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Caption" Value="케이스 연락처로 이메일 보내기" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Parameters.CaseId.Caption" Value="케이스 Id" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Parameters.CaseId.DisplayValue" Value="[#SocialMessageCaseId#]" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Parameters.EmailTemplateId.Caption" Value="이메일 템플릿 Id" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Parameters.EmailTemplateId.DisplayValue" Value="[#Lookup.Message template.Case update: new message received.253cd392-267a-45bb-83b4-17630bcfa37b#]" />
+			<Item Name="BaseElements.SetIsExternalUser.Caption" Value="외부 사용자입니다 설정" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Social message added" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="레코드의 고유 식별자" />
+			<Item Name="Caption" Value="외부 피드 메시지 알림 및 케이스 다시 열기 프로세스" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="차선1" />
+			<Item Name="NotificationCaption.Caption" Value="프로세스 인스턴스 캡션" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.IsExternalUser.Caption" Value="IsExternalUser" />
+			<Item Name="Parameters.SocialMessageCaseId.Caption" Value="SocialMessageCaseId" />
+			<Item Name="Parameters.SocialMessageCaseId.DisplayValue" Value="[#Read social message case Id.First item of resulting collection.Object instance#]" />
+		</Items>
+	</Group>
+</Resources>

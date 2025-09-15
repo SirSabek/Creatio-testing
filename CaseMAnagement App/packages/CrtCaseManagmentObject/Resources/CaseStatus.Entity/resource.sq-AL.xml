@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Statusi i çështjes" />
+			<Item Name="Columns.ButtonCaption.Caption" Value="Diçitura e butonit" />
+			<Item Name="Columns.ClosureCode.Caption" Value="Reason for closing" />
+			<Item Name="Columns.Color.Caption" Value="Ngjyra" />
+			<Item Name="Columns.Image.Caption" Value="Image" />
+			<Item Name="Columns.IsCloseOnSave.Caption" Value="Mbyll pas ruajtjes" />
+			<Item Name="Columns.IsDisplayed.Caption" Value="IsDisplayed" />
+			<Item Name="Columns.IsFinal.Caption" Value="Statusi është përfundimtar" />
+			<Item Name="Columns.IsPaused.Caption" Value="Statusi i ndaluar" />
+			<Item Name="Columns.IsResolved.Caption" Value="Statusi i zgjidhur" />
+			<Item Name="Columns.StageNumber.Caption" Value="StageNumber" />
+			<Item Name="Columns.StatusColor.Caption" Value="Ngjyra e statusit" />
+		</Items>
+	</Group>
+</Resources>

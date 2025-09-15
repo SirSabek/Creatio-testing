@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Casos em chat" />
+			<Item Name="Columns.Case.Caption" Value="Caso" />
+			<Item Name="Columns.Chat.Caption" Value="Chat" />
+		</Items>
+	</Group>
+</Resources>

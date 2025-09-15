@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CaseRatingFeedbackPage" />
+			<Item Name="Images.8d68610d-8477-4874-9c89-f01cf792fec0.Caption" Value="רקע" />
+			<Item Name="LocalizableStrings.AddCommentCaption.Caption" Value="AddCommentCaption" />
+			<Item Name="LocalizableStrings.AddCommentCaption.Value" Value="הערות" />
+			<Item Name="LocalizableStrings.AddCommentHint.Caption" Value="AddCommentHint" />
+			<Item Name="LocalizableStrings.AddCommentHint.Value" Value="אנחנו תמיד עובדים על שיפור איכות השירותים שלנו, נעריך מאד אם תוכל לספק לנו כמה פרטים ולהשאיר תגובה!" />
+			<Item Name="LocalizableStrings.CommentIsEmpty.Caption" Value="CommentIsEmpty" />
+			<Item Name="LocalizableStrings.CommentIsEmpty.Value" Value="טקסט התגובה ריק!" />
+			<Item Name="LocalizableStrings.PostButtonCaption.Caption" Value="PostButtonCaption" />
+			<Item Name="LocalizableStrings.PostButtonCaption.Value" Value="פרסם תגובה" />
+			<Item Name="LocalizableStrings.PostCommentFailed.Caption" Value="PostCommentFailed" />
+			<Item Name="LocalizableStrings.PostCommentFailed.Value" Value="התרחשה שגיאה. התגובה לא נוספה." />
+			<Item Name="LocalizableStrings.PostCommentSuccess.Caption" Value="PostCommentSuccess" />
+			<Item Name="LocalizableStrings.PostCommentSuccess.Value" Value="התגובה נוספה בהצלחה" />
+			<Item Name="LocalizableStrings.ThanksMessage.Caption" Value="ThanksMessage" />
+			<Item Name="LocalizableStrings.ThanksMessage.Value" Value="המשוב שלך התקבל. תודה!" />
+		</Items>
+	</Group>
+</Resources>

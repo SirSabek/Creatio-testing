@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationEditPage" />
+			<Item Name="LocalizableStrings.AliasTip.Value" Value="Ha postafiók-aliast használ támogatási üzenetek fogadására, adja meg az álnév címét" />
+			<Item Name="LocalizableStrings.MessageLanguageTip.Value" Value="Az üzenet nyelvét a következő értékek határozzák meg, a legmagasabbtól a legalacsonyabb prioritásig:&#xA;1. A címzett kapcsolat preferált nyelve.&#xA;2. A postafiók nyelve az „Ügynyilvántartási postafiókok listája” keresésben.&#xA;3. Az „Üzenetek alapértelmezett nyelve” („DefaultMessageLanguage” kód) rendszerbeállítás értéke.&#xA;Tudjon meg többet erről a funkcióról az {0}Akadémián{1}" />
+		</Items>
+	</Group>
+</Resources>

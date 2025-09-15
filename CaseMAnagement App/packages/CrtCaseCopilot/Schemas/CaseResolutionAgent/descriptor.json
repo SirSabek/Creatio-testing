@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2c64fbcd-029f-dc88-6e7a-106ef262df0c",
+    "Name": "CaseResolutionAgent",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "CopilotIntentSchemaManager",
+    "Caption": "Case resolution agent",
+    "DependsOn": []
+  }
+}

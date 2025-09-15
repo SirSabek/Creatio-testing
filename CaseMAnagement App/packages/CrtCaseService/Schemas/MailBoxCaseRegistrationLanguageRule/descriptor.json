@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "deef2fcb-cb20-4c49-ac03-4ae5aaa4fc58",
+    "Name": "MailBoxCaseRegistrationLanguageRule",
+    "ModifiedOnUtc": "\/Date(1756637873000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Language rule for case registration mailbox",
+    "DependsOn": []
+  }
+}

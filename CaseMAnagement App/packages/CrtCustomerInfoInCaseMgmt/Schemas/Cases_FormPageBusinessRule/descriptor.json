@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "ac4cd7ca-98c7-4954-8700-143ed8b576f7",
+    "Name": "Cases_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1756637877000)\/",
+    "Parent": {
+      "UId": "44d57830-f146-4bc3-8370-54136f006252",
+      "Name": "Cases_FormPageBusinessRule"
+    },
+    "ExtendParent": true,
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Cases form page (Business rules)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Sohbette Olgular" />
+			<Item Name="Columns.Case.Caption" Value="Vaka" />
+			<Item Name="Columns.Chat.Caption" Value="Sohbet" />
+		</Items>
+	</Group>
+</Resources>

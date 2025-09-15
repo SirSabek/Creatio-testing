@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="סכימת דף עריכה - מודול &quot;מקרים&quot;" />
+			<Item Name="LocalizableStrings.AccountCaption.Value" Value="חברה" />
+			<Item Name="LocalizableStrings.ActualDateGroupCaption.Value" Value="מסגרת זמן עיבוד" />
+			<Item Name="LocalizableStrings.AssignToMeCaption.Value" Value="הקצה לי כגורם מטפל" />
+			<Item Name="LocalizableStrings.CaseInformationTabCaption.Value" Value="מידע על המקרה" />
+			<Item Name="LocalizableStrings.ClosureCodeCaption.Value" Value="סיבת הסגירה" />
+			<Item Name="LocalizableStrings.ClosureDateCaption.Value" Value="תאריך סגירה צפוי" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="איש קשר" />
+			<Item Name="LocalizableStrings.CreatedOnCaption.Value" Value="נוצר:" />
+			<Item Name="LocalizableStrings.CurrentStatusGroupCaption.Value" Value="סטטוס נוכחי" />
+			<Item Name="LocalizableStrings.DaysCaptionSuffix.Value" Value="יום" />
+			<Item Name="LocalizableStrings.DefaultHeader.Value" Value="מקרה {0}#" />
+			<Item Name="LocalizableStrings.DelayHeaderCaptionSuffix.Value" Value="עיכוב:" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="לוח הודעות" />
+			<Item Name="LocalizableStrings.FeedbackGroupCaption.Value" Value="משוב" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="מידע על המקרה" />
+			<Item Name="LocalizableStrings.GroupCaption.Caption" Value="קבוצה אחראית" />
+			<Item Name="LocalizableStrings.GroupCaption.Value" Value="צוות מוקצה" />
+			<Item Name="LocalizableStrings.HeaderTemplate.Value" Value="מקרה # {0}: {1}" />
+			<Item Name="LocalizableStrings.HoursCaptionSuffix.Value" Value="ש" />
+			<Item Name="LocalizableStrings.IndicatorsGroupCaption.Value" Value="מדדים" />
+			<Item Name="LocalizableStrings.LeftHeaderCaptionSuffix.Value" Value="נותר:" />
+			<Item Name="LocalizableStrings.MinutesCaptionSuffix.Value" Value="ד" />
+			<Item Name="LocalizableStrings.NotesFilesTabCaption.Value" Value="הצמדה" />
+			<Item Name="LocalizableStrings.NumberCaption.Value" Value="מספר" />
+			<Item Name="LocalizableStrings.OriginCaption.Value" Value="מקור" />
+			<Item Name="LocalizableStrings.OwnerCaption.Caption" Value="בעלים" />
+			<Item Name="LocalizableStrings.OwnerCaption.Value" Value="גורם מטפל" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Caption" Value="כיתוב מקרה הורה" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Value" Value="מקרה הורה" />
+			<Item Name="LocalizableStrings.PriorityCaption.Value" Value="עדיפות" />
+			<Item Name="LocalizableStrings.RatingGroupCaption.Value" Value="דרוג" />
+			<Item Name="LocalizableStrings.RegisteredOnCaption.Value" Value="תאריך רישום" />
+			<Item Name="LocalizableStrings.RelationsTabCaption.Value" Value="סגירה ומשוב" />
+			<Item Name="LocalizableStrings.RequiredContactOrAccountMessage.Value" Value="אנא מלא את השדה &quot;חשבון&quot; או את השדה &quot;קשר&quot;" />
+			<Item Name="LocalizableStrings.RespondedOnCaption.Value" Value="זמן תגובה בפועל" />
+			<Item Name="LocalizableStrings.ResponseDateCaption.Value" Value="זמו תגובה מתוכנן" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCaption.Value" Value="דרוג" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentCaption.Value" Value="הערת משתמש" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Caption" Value="רמז עבור תגובה לרמת שביעות רצון" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Value" Value="על מנת לשנות משוב אתה צריך לקבל זכויות גישה לפעולה &amp;quot;היכולת לשנות את רמת שביעות הרצון במקרה&amp;quot;" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Caption" Value="רמז עבור רמת שביעות רצון" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Value" Value="כדי לשנות את רמת שביעות הרצון אתה צריך זכויות גישה לפעולה &amp;quot;היכולת לשנות את רמת שביעות הרצון במקרה&amp;quot;" />
+			<Item Name="LocalizableStrings.SolutionCaption.Value" Value="פתרון" />
+			<Item Name="LocalizableStrings.SolutionDateCaption.Value" Value="זמן פתרון מתוכנן" />
+			<Item Name="LocalizableStrings.SolutionGroupCaption.Value" Value="פתרון" />
+			<Item Name="LocalizableStrings.SolutionProvidedOnCaption.Value" Value="זמן פתרון בפועל" />
+			<Item Name="LocalizableStrings.SolutionTabCaption.Value" Value="סגירה ומשוב" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Caption" Value="SolvedOnSupportLevelCaption" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="נפתר על ידי" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="סטטוס" />
+			<Item Name="LocalizableStrings.SubjectCaption.Value" Value="נושא" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="עקוב אחר לוח ההודעות" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="אתה עוקב אחרי לוח ההודעות: {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Caption" Value="SupportLevelCaption" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="קו תמיכה" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="תיאור" />
+			<Item Name="LocalizableStrings.TermsControlGroupCaption.Value" Value="תנאים" />
+			<Item Name="LocalizableStrings.TermsGroupCaption.Value" Value="מסגרת זמן" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Caption" Value="TimeZoneSysSettingMessage" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Value" Value="&lt;p&gt;הזמן הבא משמש להציג תאריכים:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;הזמן ביותר בשימוש בפרופיל &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;המשתמש שלך.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;אם אזור הזמן של הפרופיל לא הוגדר, אזור הזמן ברירת המחדל ישמש (המפורט בהגדרה של &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/12fef2c9-8baa-4b07-88e4-464169a44775&quot;&gt;&quot;אזור הזמן בברירת המחדל&quot;&lt;/a&gt;).&lt;/li&gt;&lt;/ol&gt;" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Caption" Value="TimeZoneUserProfileMessage" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Value" Value="&lt;p&gt;אזורים זמן יכולים להיות מוצגים בשלושה דרכים שונות:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;אזור הזמן המיוחד בפרופיל שלך,&lt;/li&gt;&#xA;&lt;li&gt;הגדרת מערכת &quot;אזור זמן לברירת מחדל&quot;,&lt;/li&gt;&#xA;&lt;li&gt;אזור הזמן &quot;שעה ב-UTC&quot;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;ניתן להגדיר אזור הזמן בפרופיל ה&lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;משתמש&quot;&lt;/a&gt; שלך או לפנות למנהל המערכת.&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="בטל מעקב אחר לוח ההודועות" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="הפסקת לעקוב אחרי לוח ההודעות: {0}" />
+		</Items>
+	</Group>
+</Resources>

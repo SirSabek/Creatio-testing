@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "bb7f384f-9d38-444a-b5b7-db76eaf138d9",
+    "Name": "EmailMessageNotifier",
+    "ModifiedOnUtc": "\/Date(1756637877000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "EmailMessageNotifier",
+    "DependsOn": []
+  }
+}

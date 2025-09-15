@@ -1,0 +1,16 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "UseAsyncEmailSender"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ac1735e8-3fe8-4498-ac84-2fe2b176ee2e"
+        }
+      ]
+    }
+  ]
+}

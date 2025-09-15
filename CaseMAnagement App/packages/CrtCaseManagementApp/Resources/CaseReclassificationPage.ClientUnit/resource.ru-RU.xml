@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница реклассификации Обращения" />
+			<Item Name="LocalizableStrings.Label_rmsidg3_caption.Value" Value="Реклассификация обращения" />
+			<Item Name="LocalizableStrings.PageSubtitle_caption.Value" Value="При реклассификации будут пересчитаны плановые сроки по обращению. После сохранения обращение может стать просроченным." />
+		</Items>
+	</Group>
+</Resources>

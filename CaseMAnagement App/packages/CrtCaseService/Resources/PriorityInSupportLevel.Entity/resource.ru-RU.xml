@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Приоритет в уровне поддержки - деталь" />
+			<Item Name="Columns.CasePriority.Caption" Value="Приоритет" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Единица времени реакции" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Значение времени реакции" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Единица времени разрешения" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Значение времени разрешения" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Уровнь поддержки" />
+		</Items>
+	</Group>
+</Resources>

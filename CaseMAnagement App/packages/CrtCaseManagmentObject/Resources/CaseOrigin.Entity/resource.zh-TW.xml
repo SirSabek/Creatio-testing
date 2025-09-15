@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="案例来源" />
+			<Item Name="Columns.Image.Caption" Value="来源图标" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="케이스 연락처 사용자 작업으로 이메일 보내기" />
+			<Item Name="Parameters.CaseId.Caption" Value="케이스 Id" />
+			<Item Name="Parameters.EmailTemplateId.Caption" Value="이메일 템플릿 Id" />
+		</Items>
+	</Group>
+</Resources>

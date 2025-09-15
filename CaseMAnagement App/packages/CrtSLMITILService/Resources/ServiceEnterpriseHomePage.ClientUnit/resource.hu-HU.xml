@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Szolgáltatás honlapja" />
+			<Item Name="LocalizableStrings.crtChartWidget28ef0973a8a14b3aca71633a2f2e3f5d_series_0.Value" Value="Megoldásra tervezve" />
+			<Item Name="LocalizableStrings.crtChartWidget28ef0973a8a14b3aca71633a2f2e3f5d_series_1.Value" Value="Valójában megoldódott" />
+			<Item Name="LocalizableStrings.crtChartWidget28ef0973a8a14b3aca71633a2f2e3f5d_title.Value" Value="Tervezett vs ténylegesen megoldott esetek" />
+			<Item Name="LocalizableStrings.crtChartWidget28ef0973a8a14b3aca71633a2f2e3f5d_xAxis.Value" Value="Nap" />
+			<Item Name="LocalizableStrings.crtChartWidget28ef0973a8a14b3aca71633a2f2e3f5d_yAxis.Value" Value="Eset" />
+			<Item Name="LocalizableStrings.crtChartWidget2dd3123ba3d4bd6cace277ef578ffb23_series_0.Value" Value="Eset" />
+			<Item Name="LocalizableStrings.crtChartWidget2dd3123ba3d4bd6cace277ef578ffb23_title.Value" Value="Esetek kézbesítés szerint" />
+			<Item Name="LocalizableStrings.crtChartWidget6156c3ce685eb8c0675d5630c24321cf_series_0.Value" Value="Eset" />
+			<Item Name="LocalizableStrings.crtChartWidget6156c3ce685eb8c0675d5630c24321cf_title.Value" Value="Esetek pontszám szerint" />
+			<Item Name="LocalizableStrings.crtChartWidget71615f3b5806d655c1d528aa86aa759a_series_0.Value" Value="Eset" />
+			<Item Name="LocalizableStrings.crtChartWidget71615f3b5806d655c1d528aa86aa759a_title.Value" Value="Az engedményes esetei" />
+			<Item Name="LocalizableStrings.crtChartWidget8fccb539466ff5cef60775000471bad3_series_0.Value" Value="Eset" />
+			<Item Name="LocalizableStrings.crtChartWidget8fccb539466ff5cef60775000471bad3_title.Value" Value="Esetek forrás szerint" />
+			<Item Name="LocalizableStrings.crtChartWidgetb18ce75bd995502dffa0305011afe479_series_0.Value" Value="Eset" />
+			<Item Name="LocalizableStrings.crtChartWidgetb18ce75bd995502dffa0305011afe479_title.Value" Value="Esetek kategóriánként" />
+			<Item Name="LocalizableStrings.crtIndicatorWidget1f84359932987d396c1866b2aa38ba03_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.crtIndicatorWidget1f84359932987d396c1866b2aa38ba03_title.Value" Value="Átlagos felbontási idő, óra" />
+			<Item Name="LocalizableStrings.crtIndicatorWidget2efb8e0318eaf237831c550975cb8891_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.crtIndicatorWidget2efb8e0318eaf237831c550975cb8891_title.Value" Value="Vevői elégedettség" />
+			<Item Name="LocalizableStrings.crtIndicatorWidget5df3bc04a346ac31605597dd4db2cd25_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.crtIndicatorWidget5df3bc04a346ac31605597dd4db2cd25_title.Value" Value="Értékelt esetek" />
+			<Item Name="LocalizableStrings.crtIndicatorWidgetb5a7d31cf2bb938967912a810961a274_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.crtIndicatorWidgetb5a7d31cf2bb938967912a810961a274_title.Value" Value="Késedelmes ügyek (állásfoglalás)" />
+			<Item Name="LocalizableStrings.crtIndicatorWidgetd0098b075e752979d980efb26a3309ed_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.crtIndicatorWidgetd0098b075e752979d980efb26a3309ed_title.Value" Value="Késedelmes ügyek (válasz)" />
+			<Item Name="LocalizableStrings.crtIndicatorWidgetd4b6d82386c78947005c7d016680f4bf_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.crtIndicatorWidgetd4b6d82386c78947005c7d016680f4bf_title.Value" Value="Az első kapcsolatfelvétel megoldása" />
+		</Items>
+	</Group>
+</Resources>

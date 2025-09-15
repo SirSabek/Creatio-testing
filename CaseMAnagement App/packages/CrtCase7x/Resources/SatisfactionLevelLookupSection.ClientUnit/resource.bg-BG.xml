@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SatisfactionLevelLookupSection" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Следвай публикацията" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отследвай публикацията" />
+		</Items>
+	</Group>
+</Resources>

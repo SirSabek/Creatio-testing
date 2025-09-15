@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ed98c998-00a1-44de-b0ff-893ddabf9f63",
+    "Name": "EmailTemplateLanguageHelper",
+    "ModifiedOnUtc": "\/Date(1491988535000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "EmailTemplateLanguageHelper",
+    "DependsOn": []
+  }
+}

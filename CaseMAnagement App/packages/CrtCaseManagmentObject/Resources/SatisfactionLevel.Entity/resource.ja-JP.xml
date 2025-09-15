@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="満足度" />
+			<Item Name="Columns.Colour.Caption" Value="色" />
+			<Item Name="Columns.Image.Caption" Value="画像" />
+			<Item Name="Columns.IsActive.Caption" Value="使用済みです" />
+			<Item Name="Columns.Point.Caption" Value="ポイント" />
+			<Item Name="Columns.Status.Caption" Value="ステータス" />
+		</Items>
+	</Group>
+</Resources>

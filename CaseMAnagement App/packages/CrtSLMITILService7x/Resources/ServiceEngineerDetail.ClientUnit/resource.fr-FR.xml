@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Détail du structure - Équipe service dans la section services" />
+			<Item Name="Images.12703106-728c-4173-ba38-8999330d571f.Caption" Value="Image 1" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Équipe service" />
+			<Item Name="LocalizableStrings.DeleteButtonTitle.Value" Value="Supprimer" />
+			<Item Name="LocalizableStrings.EngineerCaption.Value" Value="Membre/équipe" />
+			<Item Name="LocalizableStrings.ErrorTemplate.Value" Value="Détail {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Support" />
+			<Item Name="LocalizableStrings.ValidationErrorTemplate.Value" Value="Merci, de renseigner le champs &quot;{0}&quot;" />
+		</Items>
+	</Group>
+</Resources>

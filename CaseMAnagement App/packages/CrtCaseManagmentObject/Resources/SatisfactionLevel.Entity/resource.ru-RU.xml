@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Уровень удовлетворенности" />
+			<Item Name="Columns.Colour.Caption" Value="Цвет" />
+			<Item Name="Columns.Image.Caption" Value="Изображение" />
+			<Item Name="Columns.IsActive.Caption" Value="Используется" />
+			<Item Name="Columns.Point.Caption" Value="Балл" />
+			<Item Name="Columns.Status.Caption" Value="Статус" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

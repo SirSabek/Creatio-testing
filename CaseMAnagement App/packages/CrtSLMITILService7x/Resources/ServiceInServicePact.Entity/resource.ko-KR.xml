@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="서비스중계약" />
+			<Item Name="Columns.Calendar.Caption" Value="Calendar" />
+			<Item Name="Columns.ConcatName.Caption" Value="ServiseAndServiseInServicePactName" />
+			<Item Name="Columns.ReactionTime.Caption" Value="대답 시간" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Response time unit" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Response time value" />
+			<Item Name="Columns.ServiceItem.Caption" Value="서비스" />
+			<Item Name="Columns.ServicePact.Caption" Value="서비스 계약" />
+			<Item Name="Columns.SolutionTime.Caption" Value="해결책 시간" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Resolution time unit" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Resolution time value" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="풀 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="차선1" />
+			<Item Name="EventsProcessSchema.Methods.GetServiceItemName.Caption" Value="GetServiceItemName" />
+			<Item Name="EventsProcessSchema.Methods.GetServicePactName.Caption" Value="GetServicePactName" />
+		</Items>
+	</Group>
+</Resources>

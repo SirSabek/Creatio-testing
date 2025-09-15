@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Holder.Caption" Value="Holder" />
+			<Item Name="Columns.ServiceCategory.Caption" Value="Service category" />
+			<Item Name="Columns.ServicePact.Caption" Value="SLA" />
+			<Item Name="Columns.SolvedOnSupportLevel.Caption" Value="Vyřešil" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Linie podpory" />
+		</Items>
+	</Group>
+</Resources>

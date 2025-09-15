@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "af5a00ae-bb76-4993-8124-b3cbee465e45",
+    "Name": "ServiceItemFolder",
+    "ModifiedOnUtc": "\/Date(1756637879000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Folder in \"Services\" section",
+    "DependsOn": []
+  }
+}

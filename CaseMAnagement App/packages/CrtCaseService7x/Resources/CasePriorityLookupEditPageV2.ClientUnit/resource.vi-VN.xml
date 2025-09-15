@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Các ưu tiên trong trang tìm kiếm mức độ hỗ trợ" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Hình ảnh mặc định" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Hãy điền vào trường thời gian phản hồi" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Hãy điền vào trường thời gian phản hồi" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Hãy điền vào các trường thời gian xử lý" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Hãy điền vào các trường thời gian xử lý" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="Giá trị Hiện tại đã tồn tại" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="Giá trị Hiện tại đã tồn tại" />
+		</Items>
+	</Group>
+</Resources>

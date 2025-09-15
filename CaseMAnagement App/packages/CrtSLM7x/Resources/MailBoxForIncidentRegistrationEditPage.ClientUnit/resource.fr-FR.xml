@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationEditPage" />
+			<Item Name="LocalizableStrings.AliasTip.Value" Value="Si vous utilisez un alias de boîte aux lettres pour recevoir des messages Si vous utilisez un alias de boîte mail pour recevoir des messages de support, veuillez spécifier l'adresse de l'alias" />
+			<Item Name="LocalizableStrings.MessageLanguageTip.Value" Value="La langue du message est déterminée par les valeurs suivantes, de la priorité la plus élevée à la plus faible :&#xA;1. La langue préférée du contact destinataire.&#xA;2. La langue de la boîte mail dans la table de référence « Liste des boîtes mail pour l'enregistrement du cas ».&#xA;3. La valeur du paramètre système &quot;Langue par défaut des messages&quot; (code &quot;DefaultMessageLanguage&quot;).&#xA;En savoir plus sur cette fonctionnalité dans la Creatio {0}Académy{1}" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,73 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "52d53b9d-0879-468c-9e9b-7cc6f964895c"
+        },
+        {
+          "SchemaColumnUId": "1da56012-f89d-437f-ab67-8e7e41aa114f",
+          "Value": "2d91bff2-6bb1-4056-86e0-29d7c7ef14c9",
+          "DisplayValue": "Section folder - \"Cases\""
+        },
+        {
+          "SchemaColumnUId": "b796b8eb-9c18-41d7-a7d3-67248cc78185",
+          "Value": "9803f1e7-6cf7-4ce8-9651-f816c042068e",
+          "DisplayValue": "Cases"
+        },
+        {
+          "SchemaColumnUId": "d75d1e5f-0414-4dff-a8d7-e415c6f43067",
+          "Value": "bc30040d-9a96-40a0-bb91-feb614307c80",
+          "DisplayValue": "Go to section"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cff09486-d853-4cc2-b099-098296694a17"
+        },
+        {
+          "SchemaColumnUId": "1da56012-f89d-437f-ab67-8e7e41aa114f",
+          "Value": "d7e17199-d5fa-47a7-941e-b2c62ccd4cf8",
+          "DisplayValue": "Number"
+        },
+        {
+          "SchemaColumnUId": "b796b8eb-9c18-41d7-a7d3-67248cc78185",
+          "Value": "c47451b4-0344-477a-89b8-4b26299b21ab",
+          "DisplayValue": "Case"
+        },
+        {
+          "SchemaColumnUId": "d75d1e5f-0414-4dff-a8d7-e415c6f43067",
+          "Value": "ae53eaa3-74e1-4df5-b902-0e4dd2a12dd1",
+          "DisplayValue": "Search"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fb43a495-10a5-4960-bf26-8a819218ec79"
+        },
+        {
+          "SchemaColumnUId": "1da56012-f89d-437f-ab67-8e7e41aa114f",
+          "Value": "d7e17199-d5fa-47a7-941e-b2c62ccd4cf8",
+          "DisplayValue": "Number"
+        },
+        {
+          "SchemaColumnUId": "b796b8eb-9c18-41d7-a7d3-67248cc78185",
+          "Value": "c47451b4-0344-477a-89b8-4b26299b21ab",
+          "DisplayValue": "Case"
+        },
+        {
+          "SchemaColumnUId": "d75d1e5f-0414-4dff-a8d7-e415c6f43067",
+          "Value": "a22802df-096c-4985-8768-45f19aa2aa9b",
+          "DisplayValue": "Create"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Esquema de página de edición de detalle - Servicio en acuerdo de servicio" />
+			<Item Name="LocalizableStrings.CalendarCaption.Value" Value="Calendario" />
+			<Item Name="LocalizableStrings.ReactionTimeDayTypeCaption.Value" Value="Tipo de día de tiempo de resolución" />
+			<Item Name="LocalizableStrings.ReactionTimeUnitCaption.Value" Value="Unidad de tiempo de respuesta" />
+			<Item Name="LocalizableStrings.ReactionTimeValueCaption.Value" Value="Tiempo de respuesta" />
+			<Item Name="LocalizableStrings.ServiceItemCaption.Value" Value="Proceso de negocio" />
+			<Item Name="LocalizableStrings.ServicePactCaption.Value" Value="Contratos de servicio" />
+			<Item Name="LocalizableStrings.SolutionTimeDayTypeCaption.Value" Value="Tipo de día de tiempo de resolución" />
+			<Item Name="LocalizableStrings.SolutionTimeUnitCaption.Value" Value="Unidad de tiempo de resolución" />
+			<Item Name="LocalizableStrings.SolutionTimeValueCaption.Value" Value="Tiempo de resolución" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Estado" />
+		</Items>
+	</Group>
+</Resources>

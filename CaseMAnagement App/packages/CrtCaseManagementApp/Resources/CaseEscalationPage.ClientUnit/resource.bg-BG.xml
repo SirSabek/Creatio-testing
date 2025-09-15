@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница за ескалация на случай" />
+			<Item Name="LocalizableStrings.addRecord_0x53hzv_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_rzd3vov_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_zxicyy7_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Label_6qcallu_caption.Value" Value="Етикет" />
+			<Item Name="LocalizableStrings.Label_9myf4hy_caption.Value" Value="Ескалация на случай" />
+			<Item Name="LocalizableStrings.Label_incl2k4_caption.Value" Value="Посочи линия за поддръжка на случай за ескалация" />
+			<Item Name="LocalizableStrings.PageSubtitle_caption.Value" Value="Посочи линия за поддръжка на случай за ескалация" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Ескалация на случай" />
+		</Items>
+	</Group>
+</Resources>

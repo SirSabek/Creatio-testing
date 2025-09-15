@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CasePortalService" />
+			<Item Name="LocalizableStrings.CancelCaseError.Value" Value="Ezt a műveletet nem tudja végrehajtani: az ügy állapota megváltozott" />
+		</Items>
+	</Group>
+</Resources>

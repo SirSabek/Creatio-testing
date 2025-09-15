@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сторінка запису Сервісу у сервісному договорі" />
+			<Item Name="LocalizableStrings.addRecord_hl6cv6y_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_otug0r6_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_pworq7r_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_vyprjkp_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_xprr53n_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.ComboBox_09w87e2_label.Value" Value="Час вирішення" />
+			<Item Name="LocalizableStrings.ComboBox_v10hb6a_label.Value" Value="Час реакції" />
+			<Item Name="LocalizableStrings.NumberInput_fw0qi0g_label.Value" Value="Значення" />
+			<Item Name="LocalizableStrings.NumberInput_gfbs7wo_label.Value" Value="Значення" />
+			<Item Name="LocalizableStrings.ReactionTimeUnit_label.Value" Value="Час реакції" />
+			<Item Name="LocalizableStrings.ReactionTimeValue_label.Value" Value="Значення" />
+			<Item Name="LocalizableStrings.ServiceItem_tooltip.Value" Value="Терміни та статус будуть заповнені автоматично даними вибраного сервісу" />
+			<Item Name="LocalizableStrings.SolutionTimeUnit_label.Value" Value="Час розв'язання" />
+			<Item Name="LocalizableStrings.SolutionTimeValue_label.Value" Value="Значення" />
+		</Items>
+	</Group>
+</Resources>

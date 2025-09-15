@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "be14a69d-8343-4925-88e7-f017c52885e3",
+    "Name": "ServiceInServicePactRelatedPage",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Service in service agreement (Page settings)",
+    "DependsOn": []
+  }
+}

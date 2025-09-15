@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Página do formulário de casos externos" />
+			<Item Name="LocalizableStrings.addRecord_1qnv96k_caption.Value" Value="Adicionar novo" />
+			<Item Name="LocalizableStrings.addRecord_45y6j03_caption.Value" Value="Adicionar novo" />
+			<Item Name="LocalizableStrings.addRecord_94ey3ac_caption.Value" Value="Adicionar novo" />
+			<Item Name="LocalizableStrings.addRecord_hf17e9h_caption.Value" Value="Adicionar novo" />
+			<Item Name="LocalizableStrings.addRecord_pnag3mh_caption.Value" Value="Adicionar novo" />
+			<Item Name="LocalizableStrings.Button_2lqb4c8_caption.Value" Value="Enviar um feedback" />
+			<Item Name="LocalizableStrings.Label_9sli4x1_caption.Value" Value="Informações do caso" />
+			<Item Name="LocalizableStrings.Label_ckm678z_caption.Value" Value="Feedback" />
+			<Item Name="LocalizableStrings.Label_cq117yc_caption.Value" Value="Termos" />
+			<Item Name="LocalizableStrings.ResolutionTimer_caption.Value" Value="Temporizador" />
+			<Item Name="LocalizableStrings.ResolutionTimer_negativeTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.ResolutionTimer_positiveTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.ResponseTimer_caption.Value" Value="Temporizador" />
+			<Item Name="LocalizableStrings.ResponseTimer_negativeTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.ResponseTimer_positiveTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.SatisfactionLevelComment_label.Value" Value="O que você gostaria de compartilhar conosco?" />
+			<Item Name="LocalizableStrings.SubmitFeedbackButton_caption.Value" Value="Enviar um feedback" />
+			<Item Name="LocalizableStrings.TabContainer_k3mjo03_caption.Value" Value="Aba 2" />
+			<Item Name="LocalizableStrings.TabContainer_l3p6hpn_caption.Value" Value="Aba 1" />
+			<Item Name="LocalizableStrings.Timeline_0zkfh5o_caption.Value" Value="Linha do tempo" />
+			<Item Name="LocalizableStrings.Timeline_0zkfh5o_label.Value" Value="Linha do tempo" />
+			<Item Name="LocalizableStrings.Timer_2g724r4_negativeTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.Timer_2g724r4_positiveTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.Timer_2ktoas2_caption.Value" Value="Temporizador" />
+			<Item Name="LocalizableStrings.Timer_2ktoas2_negativeTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.Timer_2ktoas2_positiveTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.Timer_2on1knj_negativeTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.Timer_2on1knj_positiveTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.Timer_jiecd7h_negativeTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.Timer_jiecd7h_positiveTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.Timer_pbyr9og_caption.Value" Value="Temporizador" />
+			<Item Name="LocalizableStrings.Timer_pbyr9og_negativeTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.Timer_pbyr9og_positiveTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.Timer_pnfs9r2_caption.Value" Value="Temporizador" />
+			<Item Name="LocalizableStrings.Timer_pnfs9r2_negativeTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.Timer_pnfs9r2_positiveTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.Timer_vwjtvs8_caption.Value" Value="Temporizador" />
+			<Item Name="LocalizableStrings.Timer_vwjtvs8_label.Value" Value="Temporizador" />
+			<Item Name="LocalizableStrings.Timer_zi4qy5a_caption.Value" Value="Temporizador" />
+			<Item Name="LocalizableStrings.Timer_zi4qy5a_negativeTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.Timer_zi4qy5a_positiveTextValue.Value" Value="[#timer#]" />
+		</Items>
+	</Group>
+</Resources>

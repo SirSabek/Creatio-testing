@@ -1,0 +1,7 @@
+= MetaData.Schema.UId "28304f1a-3c03-4fa6-aa1e-98fe87b69a03"
+= MetaData.Schema.A2 "CaseInServicePactDetail"
+= MetaData.Schema.A5 "e45998c9-62eb-4d7e-9232-63ecc763f5be"
+= MetaData.Schema.B2.["8f7c31a4-b656-47c9-a503-a72d0b3dd077"].A4 "28304f1a-3c03-4fa6-aa1e-98fe87b69a03"
+= MetaData.Schema.B6 "f129f46d-d9a7-1aac-bc40-5626f9c428da"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

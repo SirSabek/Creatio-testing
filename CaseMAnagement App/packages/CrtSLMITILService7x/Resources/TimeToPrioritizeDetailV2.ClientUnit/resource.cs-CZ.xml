@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Detail - Termín prioritizace" />
+			<Item Name="LocalizableStrings.Caption.Caption" Value="Time to prioritize" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Time to prioritize" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Caption" Value="Aktuální hodnota již existuje" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Value" Value="Aktuální hodnota již existuje" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Caption" Value="Priorita požadavku nesmí být prázdná" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Value" Value="Priorita požadavku nesmí být prázdná" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Caption" Value="Vypňte prosím termín odpovědí nebo vyřešení" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Value" Value="Vypňte prosím termín odpovědí nebo vyřešení" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,1 @@
+DELETE FROM dbo.[Lookup] WHERE [SysEntitySchemaUId] = 'e43e673d-fdd2-45d5-8672-a2bca1a14f00'

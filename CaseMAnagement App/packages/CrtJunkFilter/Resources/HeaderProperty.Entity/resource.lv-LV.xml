@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Virsraksta īpašība" />
+			<Item Name="Columns.ExcludedEmailAdresses.Caption" Value="Izslēgtās e-pasta adreses" />
+			<Item Name="Columns.ExcludedEmailAdresses.Description" Value="E-pasta adreses, kurām noteikums netiks piemērots" />
+			<Item Name="Columns.Handler.Caption" Value="Pārzinis" />
+			<Item Name="Columns.IsActive.Caption" Value="Ir aktīvs" />
+			<Item Name="Columns.Name.Caption" Value="Nosaukums" />
+		</Items>
+	</Group>
+</Resources>

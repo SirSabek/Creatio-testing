@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "05e23eb3-4f97-7de0-be0d-28b5689853a2",
+    "Name": "CrtAddCaseFolderTreeRightsPostgreSql",
+    "DBEngineType": 2,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1688724950000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

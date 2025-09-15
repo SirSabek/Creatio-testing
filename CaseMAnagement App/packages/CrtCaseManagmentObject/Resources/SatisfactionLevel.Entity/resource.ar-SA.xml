@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="مستوى الرضا" />
+			<Item Name="Columns.Colour.Caption" Value="Color" />
+			<Item Name="Columns.Image.Caption" Value="صورة" />
+			<Item Name="Columns.IsActive.Caption" Value="مستخدمة" />
+			<Item Name="Columns.Point.Caption" Value="نقطة" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="BaseCaseEntityEventListener" />
+			<Item Name="LocalizableStrings.NewOwnerMessage.Value" Value="الحالة {0} &quot;{1}&quot; معهودة اليك" />
+			<Item Name="LocalizableStrings.OldOwnerMessage.Value" Value="الحالة رقم{0} &quot;{1}لم تعد مسندة لك" />
+			<Item Name="LocalizableStrings.SubjectByString.Value" Value="بواسطة" />
+			<Item Name="LocalizableStrings.SubjectForString.Value" Value="بواسطة" />
+		</Items>
+	</Group>
+</Resources>

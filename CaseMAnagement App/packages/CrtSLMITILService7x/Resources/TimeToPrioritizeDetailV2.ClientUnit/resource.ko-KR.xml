@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Time To Prioritize Detail" />
+			<Item Name="LocalizableStrings.Caption.Caption" Value="Time to prioritize" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Time to prioritize" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Caption" Value="The Current value is already exists" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Value" Value="The Current value is already exists" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Caption" Value="&quot;케이스 우선순위&quot;는 비워 둘 수 없습니다" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Value" Value="&quot;케이스 우선순위&quot;는 비워 둘 수 없습니다" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Caption" Value="Please fill in response time or resolution time" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Value" Value="Please fill in response time or resolution time" />
+		</Items>
+	</Group>
+</Resources>

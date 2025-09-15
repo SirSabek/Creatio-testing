@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Trimiteți e-mail la sarcina utilizatorului de contact la caz" />
+			<Item Name="Parameters.CaseId.Caption" Value="Id caz" />
+			<Item Name="Parameters.EmailTemplateId.Caption" Value="Email template Id" />
+		</Items>
+	</Group>
+</Resources>

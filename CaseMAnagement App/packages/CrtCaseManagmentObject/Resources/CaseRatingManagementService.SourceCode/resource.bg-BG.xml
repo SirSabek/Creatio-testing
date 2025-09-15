@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Услуга - Настройка на ниво на удовлетвореност" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Caption" Value="SatisfactionCommentMessage" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Value" Value="Коментарът за удовлетворение е променен" />
+			<Item Name="LocalizableStrings.SatisfactionLevelMessage.Value" Value="Нивото на удовлетвореност е променено на {0}" />
+		</Items>
+	</Group>
+</Resources>

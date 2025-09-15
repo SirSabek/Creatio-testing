@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Tid att prioritera detalj" />
+			<Item Name="LocalizableStrings.Caption.Caption" Value="Time to prioritize" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Time to prioritize" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Caption" Value="Det aktuella värdet existerar redan" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Value" Value="Det aktuella värdet existerar redan" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Caption" Value="&quot;Ärendeprioritet&quot; kan inte vara tomt" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Value" Value="&quot;Ärendeprioritet&quot; kan inte vara tomt" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Caption" Value="Fyll i svarstid eller lösningstid" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Value" Value="Fyll i svarstid eller lösningstid" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ExecutePredictionScriptTask.Caption" Value="Ejecutar predicción" />
+			<Item Name="BaseElements.ReadDataUserTask.Caption" Value="Leer modelos de casos" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.AggregationColumnName.Caption" Value="Nombre de columna de función de agregación" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.CanReadUncommitedData.Caption" Value="Leer datos no comprometidos" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.CanReadUncommitedData.DisplayValue" Value="Verdadero" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ConsiderTimeInFilter.Caption" Value="Considerar el tiempo en el filtro" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ConsiderTimeInFilter.DisplayValue" Value="falso" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.DataSourceFilters.Caption" Value="Fuente de datos de filtros" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.EntityColumnMetaPathes.Caption" Value="Columnas a leer" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.FunctionType.Caption" Value="Tipo de función de agregación" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.IgnoreDisplayValues.Caption" Value="No leer los valores mostrados de columnas de diccionario" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.NumberOfRecords.Caption" Value="Número de registros para leer" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.OrderInfo.Caption" Value="Orden de columnas" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ReadSomeTopRecords.Caption" Value="Leer primero" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCompositeObjectList.Caption" Value="Colección de registros" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Creado en" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCompositeObjectList.Id.Caption" Value="Id" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCount.Caption" Value="Número de registros" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultDateTimeFunction.Caption" Value="Resultado de función" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultEntity.Caption" Value="Primer elemento de colección resultante" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultEntityCollection.Caption" Value="Colección resultante" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultFloatFunction.Caption" Value="Resultado de función" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultIntegerFunction.Caption" Value="Resultado de función" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultRowsCount.Caption" Value="Número de registros leídos" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultType.Caption" Value="Tipo de resultado" />
+			<Item Name="BaseElements.StartCaseCreatedSignal.Caption" Value="Caso creado por Email" />
+			<Item Name="BaseElements.StartCaseCreatedSignal.Parameters.RecordId.Caption" Value="Id de registro" />
+			<Item Name="Caption" Value="Predecir valores de campo para Case" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Línea 1" />
+			<Item Name="NotificationCaption.Caption" Value="Título de la instancia del proceso" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseSchemaUId.Caption" Value="CaseSchemaUId" />
+			<Item Name="Parameters.CaseSchemaUId.DisplayValue" Value="new Guid(&quot;117d32f9-8275-4534-8411-1c66115ce9cd&quot;)" />
+			<Item Name="Parameters.FakeCollection.Caption" Value="FakeCollection" />
+			<Item Name="Parameters.FakeCollection.DisplayValue" Value="[#Read Case models.Collection of records#]" />
+			<Item Name="Parameters.FakeProcessSchemaParameter.Caption" Value="Falso" />
+			<Item Name="Parameters.FakeProcessSchemaParameter.DisplayValue" Value="[#Caso creado por Email.Registro Id#]" />
+			<Item Name="Parameters.GroupModelId.Caption" Value="GroupModelId" />
+			<Item Name="Parameters.GroupModelId.DisplayValue" Value="[#Lookup.ML model.Case assigned group prediction#]" />
+			<Item Name="Parameters.PriorityModelId.Caption" Value="PriorityModelId" />
+			<Item Name="Parameters.PriorityModelId.DisplayValue" Value="[#Lookup.ML model.Case priority prediction#]" />
+			<Item Name="Parameters.ServiceItemModelId.Caption" Value="ServiceItemModelId" />
+			<Item Name="Parameters.ServiceItemModelId.DisplayValue" Value="[#Lookup.ML model.Case service prediction#]" />
+		</Items>
+	</Group>
+</Resources>

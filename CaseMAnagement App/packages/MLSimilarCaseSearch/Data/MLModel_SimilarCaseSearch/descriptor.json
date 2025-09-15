@@ -1,0 +1,350 @@
+﻿{
+  "Descriptor": {
+    "UId": "38967e16-e4f1-f71d-4d84-774ad1c62197",
+    "Name": "MLModel_SimilarCaseSearch",
+    "ModifiedOnUtc": "\/Date(1749098388000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "f0d58f4a-303d-477c-8cf9-d00eaf04f32b",
+      "Name": "MLModel"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "bddb237e-fac4-4795-8764-fdf68d8146fd",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "BatchPredictionFilterData",
+        "DataTypeValueUId": "b7342b7a-5dde-40de-aa7c-24d2a57b3202"
+      },
+      {
+        "ColumnUId": "506e63a6-8aa9-46c9-9dd4-925c32021296",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ModelInstanceUId",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "0349a6eb-617b-476a-a594-6d587aa871b6",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TrainingFilterData",
+        "DataTypeValueUId": "b7342b7a-5dde-40de-aa7c-24d2a57b3202"
+      },
+      {
+        "ColumnUId": "3489b79b-de7a-4a1c-b6ee-c1202ce67226",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "State",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "5cf9d816-7f33-4b2b-b8ad-1501aa3ff764",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Notes",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "dc14983a-57e2-414d-9c45-0a7c43aa382e",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TrainingOutputFilterData",
+        "DataTypeValueUId": "b7342b7a-5dde-40de-aa7c-24d2a57b3202"
+      },
+      {
+        "ColumnUId": "eeaf6c5e-39ec-43d3-9804-44f7aad138ff",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TrainingSetQuery",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "37801848-9109-4a6e-9426-e4e9df99c227",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "MetaData",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "5e98be1f-c32b-401e-a72f-7439fd52dbba",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TrainingMaxRecordsCount",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "c8ee1799-f14e-4aad-b913-e3c3c16b1b80",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "BatchPredictedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "2ed22e17-707f-4fac-a992-4118fdf240bd",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "MetaDataLcz",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "40918ea8-2a5f-497a-9dc9-fd69ef47b4b9",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CFItemColumnPath",
+        "DataTypeValueUId": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+      },
+      {
+        "ColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ModifiedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "5f778292-a679-4ef2-829a-1d2730b81ec2",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "PredictedResultColumnUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "604e5349-5cac-4321-ae4e-0e2c051b40bd",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "PredictionEnabled",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "1f53be63-a6af-4d56-bcfa-359532e4f7ff",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "LowerScoreThreshold",
+        "DataTypeValueUId": "ff22e049-4d16-46ee-a529-92d8808932dc"
+      },
+      {
+        "ColumnUId": "ffedfecc-b449-2667-61df-3cd62b305b75",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "PredictionSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "aa12d9d8-4268-4b2b-8bc0-02e5b0479ea2",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "MetricThreshold",
+        "DataTypeValueUId": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+      },
+      {
+        "ColumnUId": "ac91d6c5-6153-46c7-846a-1b5738dc2fc4",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ConfidentValueLowEdge",
+        "DataTypeValueUId": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+      },
+      {
+        "ColumnUId": "db5a1dd8-8e54-4367-bd56-984f22db12fc",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TargetColumnUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "793e2e39-52cf-4c85-9e48-88b495f7ff0c",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "LastError",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "c455f536-c33d-4f53-a5c7-1d9e8982cff3",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CFUserColumnPath",
+        "DataTypeValueUId": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+      },
+      {
+        "ColumnUId": "076fc8aa-541b-4a7a-8bb3-93a29ee60537",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "InstanceMetric",
+        "DataTypeValueUId": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+      },
+      {
+        "ColumnUId": "daba050d-dd24-4318-88e8-39c0ed224874",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TrainSessionId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CreatedBy",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "99275f57-7f37-4fd5-8b7c-424fdb8c3c5d",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TrainingMinimumRecordsCount",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "7dcd6a05-f8cf-4f26-a162-852c0d390e12",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TrainedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "564a0aee-87ac-4689-9164-615feb8c6aa7",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TrainFrequency",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "0f24d427-9ad0-48f3-aa43-5641c7b15a4c",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "BatchPredictionQuery",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "3015559e-cbc6-406a-88af-07f7930be832",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ModifiedBy",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "539587f7-13b7-4cc8-82c2-08ec77e08100",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CFInteractionValueColumnPath",
+        "DataTypeValueUId": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+      },
+      {
+        "ColumnUId": "f9b286c5-f7e4-4903-946e-3ff5e9f0d126",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "MLProblemType",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "492d9f04-91b8-4f9a-994a-39a8e6bf3efa",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "RegularizationValues",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "bc0eb497-2a76-49b4-bba4-98fcb1e32af2",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "BatchPredictionStartMethod",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "a9f0280b-9a29-4ef3-87ad-32e543a57734",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ListPredictResultModelColumn",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "d7d07f8a-5e8a-426c-ae4a-a4b88069d77c",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ListPredictResultObjectColumn",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "4052a73f-aa84-4af8-88e1-33cfaf7dec09",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "RootSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "9d052301-6653-42b9-acc8-0dc988afc9ad",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ListPredictResultValueColumn",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "90154141-9251-4342-981f-4c0acf2b8557",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TriedToTrainOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CreatedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "f041f086-2b10-4c4c-9b57-25236c891492",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ListPredictResultDateColumn",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "e42aafab-672a-4444-a293-dd07a7434898",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "FactorsCounts",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "7c18fdbc-9258-41c1-a5a2-7194ea2610ea",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ListPredictResultSubjectColumn",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "d0953cec-19dc-4134-bb88-18a9cd4eaae5",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ListPredictResultSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "813876a1-a87e-4e68-8560-d9c61d37bbf2",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "MLConfidentValueMethod",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      }
+    ]
+  }
+}

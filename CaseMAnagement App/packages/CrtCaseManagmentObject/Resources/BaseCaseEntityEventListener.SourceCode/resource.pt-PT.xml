@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="BaseCaseEntityEventListener" />
+			<Item Name="LocalizableStrings.NewOwnerMessage.Value" Value="Caso nº. {0} “{1}” foi atribuído a você" />
+			<Item Name="LocalizableStrings.OldOwnerMessage.Value" Value="Case No{0} “{1}“ is no longer assigned to you" />
+			<Item Name="LocalizableStrings.SubjectByString.Value" Value="por" />
+			<Item Name="LocalizableStrings.SubjectForString.Value" Value="por" />
+		</Items>
+	</Group>
+</Resources>

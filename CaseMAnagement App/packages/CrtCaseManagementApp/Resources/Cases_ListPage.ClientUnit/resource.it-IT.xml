@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Pagina elenco casi" />
+			<Item Name="LocalizableStrings.ActionsButton_caption.Value" Value="Azioni" />
+			<Item Name="LocalizableStrings.Button_e04zrky_caption.Value" Value="Button" />
+			<Item Name="LocalizableStrings.ClosedCasesQuickFilter_config_caption.Value" Value="Mostra casi chiusi" />
+			<Item Name="LocalizableStrings.MenuItem_8m672s8_caption.Value" Value="Esporta in Excel" />
+			<Item Name="LocalizableStrings.MenuItem_ixsnk8a_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.MenuItem_sy8z6b6_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.QuickFilter_92htqsb_config_caption.Value" Value="Mostra casi chiusi" />
+		</Items>
+	</Group>
+</Resources>

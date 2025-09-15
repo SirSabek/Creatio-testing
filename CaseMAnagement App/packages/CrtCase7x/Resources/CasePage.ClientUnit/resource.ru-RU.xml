@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CasePage" />
+			<Item Name="LocalizableStrings.AccountCaption.Value" Value="Контрагент" />
+			<Item Name="LocalizableStrings.ActualDateGroupCaption.Value" Value="Processing time frame" />
+			<Item Name="LocalizableStrings.AssignToMeCaption.Value" Value="Назначить мне" />
+			<Item Name="LocalizableStrings.CaseInformationTabCaption.Value" Value="Информация по обращению" />
+			<Item Name="LocalizableStrings.ClosureCodeCaption.Value" Value="Причина закрытия" />
+			<Item Name="LocalizableStrings.ClosureDateCaption.Value" Value="Дата закрытия" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Контакт" />
+			<Item Name="LocalizableStrings.CreatedOnCaption.Value" Value="Создано:" />
+			<Item Name="LocalizableStrings.CurrentStatusGroupCaption.Value" Value="Текущее состояние" />
+			<Item Name="LocalizableStrings.DaysCaptionSuffix.Value" Value="д" />
+			<Item Name="LocalizableStrings.DefaultHeader.Value" Value="Обращение №{0}" />
+			<Item Name="LocalizableStrings.DelayHeaderCaptionSuffix.Value" Value="Задержка:" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.FeedbackGroupCaption.Value" Value="Обратная связь" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Информация по обращению" />
+			<Item Name="LocalizableStrings.GroupCaption.Caption" Value="Группа ответственных" />
+			<Item Name="LocalizableStrings.GroupCaption.Value" Value="Группа ответственных" />
+			<Item Name="LocalizableStrings.HeaderTemplate.Value" Value="Обращение №{0}: {1}" />
+			<Item Name="LocalizableStrings.HoursCaptionSuffix.Value" Value="ч" />
+			<Item Name="LocalizableStrings.IndicatorsGroupCaption.Value" Value="Indicators" />
+			<Item Name="LocalizableStrings.LeftHeaderCaptionSuffix.Value" Value="Осталось:" />
+			<Item Name="LocalizableStrings.MinutesCaptionSuffix.Value" Value="м" />
+			<Item Name="LocalizableStrings.NotesFilesTabCaption.Value" Value="Файлы и примечания" />
+			<Item Name="LocalizableStrings.NumberCaption.Value" Value="Номер" />
+			<Item Name="LocalizableStrings.OriginCaption.Value" Value="Источник" />
+			<Item Name="LocalizableStrings.OwnerCaption.Caption" Value="Ответственный" />
+			<Item Name="LocalizableStrings.OwnerCaption.Value" Value="Ответственный" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Caption" Value="Заголовок родительского обращения" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Value" Value="Parent case" />
+			<Item Name="LocalizableStrings.PriorityCaption.Value" Value="Приоритет" />
+			<Item Name="LocalizableStrings.RatingGroupCaption.Value" Value="Rating" />
+			<Item Name="LocalizableStrings.RegisteredOnCaption.Value" Value="Registration date" />
+			<Item Name="LocalizableStrings.RelationsTabCaption.Value" Value="Closure and feedback" />
+			<Item Name="LocalizableStrings.RequiredContactOrAccountMessage.Value" Value="Пожалуйста, заполните либо поле &quot;Контрагент&quot; либо &quot;Контакт&quot;" />
+			<Item Name="LocalizableStrings.RespondedOnCaption.Value" Value="Actual response time" />
+			<Item Name="LocalizableStrings.ResponseDateCaption.Value" Value="Scheduled response time" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCaption.Value" Value="Rating" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentCaption.Value" Value="User comment" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Caption" Value="Подсказка для поля &quot;Комментарий к оценке&quot;" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Value" Value="Чтобы изменить комментарий по обращению у вас должны быть права на операцию «Возможность изменять уровень удовлетворенности по обращению»" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Caption" Value="Подсказка для поля &quot;Уровень удовлетворенности&quot;" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Value" Value="Чтобы изменить оценку у вас должны быть права на операцию «Возможность изменять уровень удовлетворенности по обращению»" />
+			<Item Name="LocalizableStrings.SolutionCaption.Value" Value="Решение" />
+			<Item Name="LocalizableStrings.SolutionDateCaption.Value" Value="Scheduled resolution time" />
+			<Item Name="LocalizableStrings.SolutionGroupCaption.Value" Value="Resolution" />
+			<Item Name="LocalizableStrings.SolutionProvidedOnCaption.Value" Value="Actual resolution time" />
+			<Item Name="LocalizableStrings.SolutionTabCaption.Value" Value="Решение и закрытие" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Caption" Value="SolvedOnSupportLevelCaption" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="Resolved by" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Статус" />
+			<Item Name="LocalizableStrings.SubjectCaption.Value" Value="Subject" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Подписаться на обновление ленты" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Вы подписаны на обновление ленты: {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Caption" Value="SupportLevelCaption" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Support line" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="Description" />
+			<Item Name="LocalizableStrings.TermsControlGroupCaption.Value" Value="Сроки" />
+			<Item Name="LocalizableStrings.TermsGroupCaption.Value" Value="Timeframe" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Value" Value="&lt;p&gt;Для отображения дат используется часовой пояс (в приоритете по убыванию): &lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Часовой пояс, указанный в Вашем профиле,&lt;/li&gt;&#xA;&lt;li&gt;Системная настройка «Часовой пояс по умолчанию»,&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Для настройки часового пояса перейдите в  &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;Ваш профиль&quot;&lt;/a&gt;  или в системную настройку &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/12fef2c9-8baa-4b07-88e4-464169a44775&quot;&gt;&quot;Часовой пояс по умолчанию&quot;&lt;/a&gt;&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Value" Value="&lt;p&gt;Для отображения дат используется часовой пояс (в приоритете по убыванию):&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Часовой пояс, указанный в Вашем профиле,&lt;/li&gt;&#xA;&lt;li&gt;Системная настройка «Часовой пояс по умолчанию»,&lt;/li&gt; &#xA;&lt;li&gt;Часовой пояс «Время в формате UTC».&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Для настройки часового пояса перейдите в &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;ваш профиль&quot;&lt;/a&gt;  или обратитесь к администратору.&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отписаться от обновлений ленты" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Вы отписаны от обновлений ленты: {0}" />
+		</Items>
+	</Group>
+</Resources>

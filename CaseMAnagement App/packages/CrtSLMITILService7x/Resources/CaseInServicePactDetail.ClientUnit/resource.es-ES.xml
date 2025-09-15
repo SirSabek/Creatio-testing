@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="&quot;Caso&quot; en la sección de detalle&quot;Pactos de servicio&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Casos" />
+		</Items>
+	</Group>
+</Resources>

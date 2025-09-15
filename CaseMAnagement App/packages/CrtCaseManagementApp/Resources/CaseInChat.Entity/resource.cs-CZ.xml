@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Případy v chatu" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Chat.Caption" Value="Chat" />
+		</Items>
+	</Group>
+</Resources>

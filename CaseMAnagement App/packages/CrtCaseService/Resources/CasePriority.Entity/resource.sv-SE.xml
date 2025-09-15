@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Svarstidsenhet" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Svarstidsvärde" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Lösningstidsenhet" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Lösningstidsvärde" />
+		</Items>
+	</Group>
+</Resources>

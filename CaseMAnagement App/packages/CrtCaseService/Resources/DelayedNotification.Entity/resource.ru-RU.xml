@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Отложенное уведомление" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Фактическая дата отправки" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Assembly Qualified Manager Name" />
+			<Item Name="Columns.Case.Caption" Value="Обращение" />
+			<Item Name="Columns.Delay.Caption" Value="Задержка" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="Шаблон e-mail сообщения" />
+			<Item Name="Columns.Error.Caption" Value="Ошибка" />
+			<Item Name="Columns.SendDate.Caption" Value="Когда отправится" />
+		</Items>
+	</Group>
+</Resources>

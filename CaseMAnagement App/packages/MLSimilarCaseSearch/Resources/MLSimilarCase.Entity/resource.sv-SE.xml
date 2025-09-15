@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Similar case" />
+			<Item Name="Columns.MLModel.Caption" Value="ML-modell" />
+			<Item Name="Columns.ParentCase.Caption" Value="FöräldraÄrende" />
+			<Item Name="Columns.PredictionDate.Caption" Value="Prediction date" />
+			<Item Name="Columns.PredictionQuality.Caption" Value="Prediction quality" />
+			<Item Name="Columns.Score.Caption" Value="Poäng" />
+			<Item Name="Columns.SimilarCase.Caption" Value="Similar case" />
+		</Items>
+	</Group>
+</Resources>

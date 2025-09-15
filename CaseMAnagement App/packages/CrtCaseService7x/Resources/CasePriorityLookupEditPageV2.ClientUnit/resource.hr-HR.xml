@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Prioriteti na stranici za pretraživanje razine podrške" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Zadana slika" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Ispunite polja vremena odgovora" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Ispunite polja vremena odgovora" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Ispunite polja vremena rješavanja" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Ispunite polja vremena rješavanja" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="Trenutna vrijednost već postoji" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="Trenutna vrijednost već postoji" />
+		</Items>
+	</Group>
+</Resources>

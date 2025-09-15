@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Mailbox for incident registration" />
+			<Item Name="Columns.AliasAddress.Caption" Value="Mailbox alias" />
+			<Item Name="Columns.Category.Caption" Value="Case category" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="Mailbox" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="Message language" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="Always use the mailbox language" />
+		</Items>
+	</Group>
+</Resources>

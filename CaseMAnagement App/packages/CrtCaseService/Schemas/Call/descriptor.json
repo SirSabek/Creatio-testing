@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "577a8217-3cfc-4b88-b23e-c96a69336590",
+    "Name": "Call",
+    "ModifiedOnUtc": "\/Date(1756637873000)\/",
+    "Parent": {
+      "UId": "2f81fa05-11ae-400d-8e07-5ef6a620d1ad",
+      "Name": "Call"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Call",
+    "DependsOn": []
+  }
+}

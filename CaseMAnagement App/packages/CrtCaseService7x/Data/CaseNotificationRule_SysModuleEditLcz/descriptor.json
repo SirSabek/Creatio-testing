@@ -1,0 +1,49 @@
+﻿{
+  "Descriptor": {
+    "UId": "4b00ba4e-d5e3-40a9-9619-7c8d7ad1a174",
+    "Name": "CaseNotificationRule_SysModuleEditLcz",
+    "ModifiedOnUtc": "\/Date(1449572471000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "6d4d8d3e-1673-483a-a8e0-73b19dbb7d9f",
+      "Name": "SysModuleEditLczOld"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "00fbb35a-18af-426e-9bc0-6a7ee6784a06",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ColumnUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "6b414fa0-2b95-4f53-bef6-4d1234de71e0",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Record",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "22c1f20f-ee4c-4699-b988-238aaec3ff93",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysCulture",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "b8234209-35dc-4ca6-a959-e570754bfa1e",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Value",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      }
+    ]
+  }
+}

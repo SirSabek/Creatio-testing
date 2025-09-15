@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Статья базы знаний в обращении" />
+			<Item Name="Columns.Case.Caption" Value="Обращение" />
+			<Item Name="Columns.KnowledgeBase.Caption" Value="Статья базы знаний" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Пул 1" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Servis - Nastavení míry spokojenosti" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Caption" Value="SatisfactionCommentMessage" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Value" Value="Poznámka k míře spokojenosti byla upravena" />
+			<Item Name="LocalizableStrings.SatisfactionLevelMessage.Value" Value="Míra spokojenosti se změnila na {0}" />
+		</Items>
+	</Group>
+</Resources>

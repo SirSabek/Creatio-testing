@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9b299706-707d-4ea1-bb1f-dd34d3b36ef1",
+    "Name": "CaseActiveIntervalReader",
+    "ModifiedOnUtc": "\/Date(1499179969000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CaseActiveIntervalReader",
+    "DependsOn": []
+  }
+}

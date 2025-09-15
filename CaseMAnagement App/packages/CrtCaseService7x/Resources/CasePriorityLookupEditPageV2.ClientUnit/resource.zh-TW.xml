@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="支持级别查找页面中的优先级" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="默认图像" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="請填寫回應時間欄位" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="請填寫回應時間欄位" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="请填写解决时间字段" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="请填写解决时间字段" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="当前值已存在" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="当前值已存在" />
+		</Items>
+	</Group>
+</Resources>

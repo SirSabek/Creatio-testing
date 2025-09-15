@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="サービスの状態" />
+			<Item Name="Columns.Active.Caption" Value="Is Active" />
+			<Item Name="Columns.Color.Caption" Value="色" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "6f94f800-c500-433f-bc1d-fcfd77df71cb",
+    "Name": "SupportDefMailBox",
+    "ModifiedOnUtc": "\/Date(1491983507000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "SupportDefMailBox",
+    "DependsOn": []
+  }
+}

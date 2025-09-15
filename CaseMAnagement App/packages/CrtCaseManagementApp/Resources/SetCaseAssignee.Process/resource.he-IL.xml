@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="קבע מינוי למקרה" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="שקול זמן במסנן" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="מסנני מקור נתונים" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="אובייקט" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="אם האובייקט עומד בתנאים הבאים" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="הגדר ערכי עמודה" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="סטטוס שונה" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Record unique identifier" />
+			<Item Name="Caption" Value="קבע מינוי למקרה" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="נתיב 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="נתיב 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance title" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#שם תהליך#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="מזהה מקרה" />
+			<Item Name="Parameters.CaseId.DisplayValue" Value="[#סטטוס שונה. מזהה ייחודי של רשומה#]" />
+		</Items>
+	</Group>
+</Resources>

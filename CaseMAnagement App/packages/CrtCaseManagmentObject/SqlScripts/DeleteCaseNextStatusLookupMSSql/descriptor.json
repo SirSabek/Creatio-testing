@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "2c2f7935-c659-499d-a572-94f1f53e50ed",
+    "Name": "DeleteCaseNextStatusLookupMSSql",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1671270992000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Servizio - Impostazione livello di soddisfazione in corso" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Caption" Value="SatisfactionCommentMessage" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Value" Value="Il commento sullo stato di soddisfazione è stato modificato" />
+			<Item Name="LocalizableStrings.SatisfactionLevelMessage.Value" Value="Il livello di soddisfazione è stato modificato a {0}" />
+		</Items>
+	</Group>
+</Resources>

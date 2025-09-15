@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Зовнішній робочий стіл" />
+			<Item Name="LocalizableStrings.ChartWidget_kdjq9cg_series_0.Value" Value="Звернення" />
+			<Item Name="LocalizableStrings.ChartWidget_kdjq9cg_title.Value" Value="Мої звернення по сервісах" />
+			<Item Name="LocalizableStrings.ExpansionPanel_vjn8kpu_title.Value" Value="Розширений список" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_suss5f3_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_yx7f2m2_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_x34crvj_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_7wquxz9_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_dlpmv86_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_f0d10cw_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.IndicatorWidget_de5e411_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_de5e411_title.Value" Value="Вирішені звернення" />
+			<Item Name="LocalizableStrings.IndicatorWidget_svjoy5p_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_svjoy5p_title.Value" Value="Нові звернення" />
+			<Item Name="LocalizableStrings.IndicatorWidget_wxt16l2_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_wxt16l2_title.Value" Value="Очікування моєї відповіді" />
+			<Item Name="LocalizableStrings.Label_lj7p336_caption.Value" Value="Нещодавні звернення" />
+			<Item Name="LocalizableStrings.Label_w4zh47g_caption.Value" Value="Вітаю, [#Current user.Recipient Name#]!" />
+			<Item Name="LocalizableStrings.MyCasesByServiceChartWidget_series_0.Value" Value="Звернення" />
+			<Item Name="LocalizableStrings.MyCasesByServiceChartWidget_title.Value" Value="Мої звернення по сервісах" />
+			<Item Name="LocalizableStrings.NewCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.NewCasesIndicatorWidget_title.Value" Value="Нові звернення" />
+			<Item Name="LocalizableStrings.RecentCasesLabel_caption.Value" Value="Нещодавні звернення" />
+			<Item Name="LocalizableStrings.ResolvedCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.ResolvedCasesIndicatorWidget_title.Value" Value="Вирішені звернення" />
+			<Item Name="LocalizableStrings.WaitingForResponseCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.WaitingForResponseCasesIndicatorWidget_title.Value" Value="Очікування моєї відповіді" />
+			<Item Name="LocalizableStrings.WaitingForResponseIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.WaitingForResponseIndicatorWidget_title.Value" Value="Очікування моєї відповіді" />
+		</Items>
+	</Group>
+</Resources>

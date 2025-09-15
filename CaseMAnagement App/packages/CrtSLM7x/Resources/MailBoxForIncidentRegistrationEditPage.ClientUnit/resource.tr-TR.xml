@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationEditPage" />
+			<Item Name="LocalizableStrings.AliasTip.Value" Value="Destek mesajlarını almak için posta kutusu takma adını kullanırsanız, lütfen takma ad adresini belirtin" />
+			<Item Name="LocalizableStrings.MessageLanguageTip.Value" Value="Mesaj dili, en yüksekten en düşük önceliğe kadar olan aşağıdaki değerlerle belirlenir: &amp;#Xa;Alıcı temasının tercih edilen dili.&amp;#Xa; 2.&quot;Vaka kaydı için posta kutuları listesi&quot; aramasındaki posta kutusu dili.&amp;#Xa; 3.“Mesajlar için Varsayılan Dil” (“DefaultMessagelguage” kodu) sistem ayarı değeri.&amp;#Xa; {0} akademisinde bu özellik hakkında daha fazla bilgi edinin {1}" />
+		</Items>
+	</Group>
+</Resources>

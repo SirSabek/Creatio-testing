@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Buzón de registro de incidencias" />
+			<Item Name="Columns.AliasAddress.Caption" Value="Alias del buzón de correo" />
+			<Item Name="Columns.Category.Caption" Value="Categoría de caso" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="Buzón de correo" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="Idioma del mensaje" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="Usar siempre el idioma del buzón" />
+		</Items>
+	</Group>
+</Resources>

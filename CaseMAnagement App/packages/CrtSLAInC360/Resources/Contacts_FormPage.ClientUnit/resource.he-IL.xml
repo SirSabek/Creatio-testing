@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="חדש" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="מקרים" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="חפש" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="פעולות" />
+			<Item Name="LocalizableStrings.ExpansionPanel_5etntax_title.Value" Value="רשימה מורחבת" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_cwv991v_caption.Value" Value="חדש" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_nn4e4tv_caption.Value" Value="חדש" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_d9kp62y_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_714xipa_caption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ajk754f_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_sj49lgw_placeholder.Value" Value="חפש" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_63wr3ah_caption.Value" Value="פעולות" />
+			<Item Name="LocalizableStrings.ServiceAgreementsExpansionPanel_title.Value" Value="הסכמי שירות" />
+			<Item Name="LocalizableStrings.ServiceAgreementsExportDataButton_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.ServiceAgreementsImportDataButton_caption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_4f106e3b.Value" Value="כותרת" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_5f9c7ad3.Value" Value="מספר" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_623c7fb3.Value" Value="בעלים" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_86478300.Value" Value="סטטוס" />
+			<Item Name="LocalizableStrings.ServiceAgreementsListDS_ServicePact.Value" Value="הסכם שרות" />
+			<Item Name="LocalizableStrings.ServiceAgreementsRefreshButton_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.ServiceAgreementsSearchFilter_placeholder.Value" Value="חפש" />
+			<Item Name="LocalizableStrings.ServiceAgreementsSettingsButton_caption.Value" Value="פעולות" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="שרות" />
+			<Item Name="LocalizableStrings.TabContainer_mv41ha8_caption.Value" Value="שרות" />
+		</Items>
+	</Group>
+</Resources>

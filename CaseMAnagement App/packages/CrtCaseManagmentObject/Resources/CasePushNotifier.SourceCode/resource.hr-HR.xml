@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CasePushNotifier" />
+			<Item Name="LocalizableStrings.NewMessageNotificationTemplate.Value" Value="Primili ste novu poruku za svoj slučaj" />
+			<Item Name="LocalizableStrings.NewStatusNotificationTemplate.Value" Value="Status predmeta promijenjen u &quot;{0}&quot;" />
+			<Item Name="LocalizableStrings.PushTitleTemplate.Value" Value="Zahtjev #{0}" />
+		</Items>
+	</Group>
+</Resources>

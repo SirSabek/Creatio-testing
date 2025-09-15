@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="إشعار متأخر" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="تاريخ الإرسال الفعلي" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="اسم المسؤول المعتمد للتجميع" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Delay.Caption" Value="التأخير" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="قالب رسائل البريد الالكترونى" />
+			<Item Name="Columns.Error.Caption" Value="خطأ" />
+			<Item Name="Columns.SendDate.Caption" Value="وقت الإرسال" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d1e13f27-8cf2-4bd0-afe9-31854767acaa",
+    "Name": "CaseReclassificationPage",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "Parent": {
+      "UId": "97e48060-149c-408f-9f17-8ba82c400249",
+      "Name": "PageWithAreaFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Case reclassification page",
+    "DependsOn": []
+  }
+}

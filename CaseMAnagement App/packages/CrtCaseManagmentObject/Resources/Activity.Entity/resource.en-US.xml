@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.ServiceProcessed.Caption" Value="Service processed" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Active.Caption" Value="Active action" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Author.Caption" Value="Created by" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Contact.Caption" Value="Recipient" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Description.Caption" Value="Notification notes" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.RemindTime.Caption" Value="Time of notification" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Source.Caption" Value="Recipient role in object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.SubjectCaption.Caption" Value="SubjectCaption" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.SubjectPrimaryColumnValue.Caption" Value="Notification object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.SysEntitySchema.Caption" Value="Object containing record being notified about" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.TypeCaption.Caption" Value="TypeCaption" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Active.Caption" Value="Active action" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Author.Caption" Value="Created by" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Contact.Caption" Value="Recipient" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Description.Caption" Value="Notification notes" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.RemindTime.Caption" Value="Time of notification" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Source.Caption" Value="Recipient role in object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.SubjectCaption.Caption" Value="SubjectCaption" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.SubjectPrimaryColumnValue.Caption" Value="Notification object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.SysEntitySchema.Caption" Value="Object containing record being notified about" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.TypeCaption.Caption" Value="TypeCaption" />
+			<Item Name="EventsProcessSchema.Caption" Value="Activity" />
+			<Item Name="EventsProcessSchema.Parameters.BlindCopyRecepientsEmails.Caption" Value="BlindCopyRecepientsEmails" />
+			<Item Name="EventsProcessSchema.Parameters.CanGenerateAnniversaryReminding.Caption" Value="CanGenerateAnniversaryReminding" />
+			<Item Name="EventsProcessSchema.Parameters.CanUseDcm.Caption" Value="CanUseDcm" />
+			<Item Name="EventsProcessSchema.Parameters.CopyRecepientsEmails.Caption" Value="CopyRecepientsEmails" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.DeletedValues.Caption" Value="DeletedValues" />
+			<Item Name="EventsProcessSchema.Parameters.EmailParticipantHelper.Caption" Value="EmailParticipantHelper" />
+			<Item Name="EventsProcessSchema.Parameters.EntityChangedColumns.Caption" Value="EntityChangedColumns" />
+			<Item Name="EventsProcessSchema.Parameters.InsertedValues.Caption" Value="InsertedValues" />
+			<Item Name="EventsProcessSchema.Parameters.IsDifferentContacts.Caption" Value="IsDifferentContacts" />
+			<Item Name="EventsProcessSchema.Parameters.IsNeedAutoEmailRelation.Caption" Value="IsNeedAutoEmailRelation" />
+			<Item Name="EventsProcessSchema.Parameters.IsNew.Caption" Value="IsNew" />
+			<Item Name="EventsProcessSchema.Parameters.IsProcessModeSave.Caption" Value="IsProcessModeSave" />
+			<Item Name="EventsProcessSchema.Parameters.newContactId.Caption" Value="newContactId" />
+			<Item Name="EventsProcessSchema.Parameters.newOwnerId.Caption" Value="newOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.NextProcessElementReady.Caption" Value="NextProcessElementReady" />
+			<Item Name="EventsProcessSchema.Parameters.oldContactId.Caption" Value="oldContactId" />
+			<Item Name="EventsProcessSchema.Parameters.oldOwnerId.Caption" Value="oldOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessListeners.Caption" Value="ProcessListeners" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+			<Item Name="EventsProcessSchema.Parameters.RecepientsEmails.Caption" Value="RecepientsEmails" />
+			<Item Name="EventsProcessSchema.Parameters.RecepientsEmailsForDelete.Caption" Value="RecepientsEmailsForDelete" />
+			<Item Name="EventsProcessSchema.Parameters.SenderEmail.Caption" Value="SenderEmail" />
+			<Item Name="EventsProcessSchema.Parameters.SenderId.Caption" Value="SenderId" />
+		</Items>
+	</Group>
+</Resources>

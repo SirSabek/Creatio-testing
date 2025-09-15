@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Lietas paziņojumu noteikums" />
+			<Item Name="Columns.CaseCategory.Caption" Value="Lietas kategorija" />
+			<Item Name="Columns.CaseStatus.Caption" Value="Lietas statuss" />
+			<Item Name="Columns.Delay.Caption" Value="Sūtīšanas aizkave, minūtes" />
+			<Item Name="Columns.EmailTemplate.Caption" Value="E-pasta ziņojuma veidne" />
+			<Item Name="Columns.IsQuoteOriginalEmail.Caption" Value="Citēt oriģinālo e-pastu" />
+			<Item Name="Columns.RuleUsage.Caption" Value="Lietojuma noteikums" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.Methods.LocalMessageExecuting.Caption" Value="LocalMessageExecuting" />
+		</Items>
+	</Group>
+</Resources>

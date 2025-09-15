@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Holder.Caption" Value="حامل" />
+			<Item Name="Columns.ServiceCategory.Caption" Value="فئة الخدمة" />
+			<Item Name="Columns.ServicePact.Caption" Value="اتفاقية مستوى الخدمة" />
+			<Item Name="Columns.SolvedOnSupportLevel.Caption" Value="تم حلها من طرف" />
+			<Item Name="Columns.SupportLevel.Caption" Value="خط الدعم" />
+		</Items>
+	</Group>
+</Resources>

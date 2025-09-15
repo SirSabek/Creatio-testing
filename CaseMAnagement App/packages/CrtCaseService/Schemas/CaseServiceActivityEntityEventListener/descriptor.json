@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a4b683c7-72c3-4c1e-8098-c1f01ecac343",
+    "Name": "CaseServiceActivityEntityEventListener",
+    "ModifiedOnUtc": "\/Date(1699446220000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CaseServiceActivityEntityEventListener",
+    "DependsOn": []
+  }
+}

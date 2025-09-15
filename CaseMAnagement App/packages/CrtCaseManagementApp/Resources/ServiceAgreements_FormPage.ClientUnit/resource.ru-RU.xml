@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница записи Сервисного договора" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Обращения" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.GeneralInfoLabel_caption.Value" Value="Основная информация" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Условия договора" />
+			<Item Name="LocalizableStrings.Label_eay1yqv_caption.Value" Value="Основная информация" />
+			<Item Name="LocalizableStrings.ServiceRecipientsExpansionPanel_title.Value" Value="Объекты обслуживания" />
+			<Item Name="LocalizableStrings.ServiceRecipientsExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.ServiceRecipientsImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.ServiceRecipientsRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.ServiceRecipientsSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.ServiceRecipientsSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.ServicesAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.ServicesExpansionPanel_title.Value" Value="Доступные сервисы в договоре" />
+			<Item Name="LocalizableStrings.ServicesExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.ServicesImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.ServicesList_310bc671.Value" Value="Сервис" />
+			<Item Name="LocalizableStrings.ServicesRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.ServicesSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.ServicesSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.TabContainer_6ipl1ss_caption.Value" Value="История обращений" />
+		</Items>
+	</Group>
+</Resources>

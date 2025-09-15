@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9da4f22e-1e43-486d-bd33-7e00cd97b7a7",
+    "Name": "EmailFooterSupplier",
+    "ModifiedOnUtc": "\/Date(1511444668000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "EmailFooterSupplier",
+    "DependsOn": []
+  }
+}

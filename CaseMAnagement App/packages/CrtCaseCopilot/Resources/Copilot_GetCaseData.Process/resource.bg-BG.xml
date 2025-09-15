@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SetCaseScriptTask.Caption" Value="Зареди и задай случая" />
+			<Item Name="Caption" Value="Вземи данни за случая" />
+			<Item Name="Description" Value="Получава информация за случая по неговия номер" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.Case.Caption" Value="Данни за случая" />
+			<Item Name="Parameters.Case.Sys_Description" Value="Стойности на колоната за случай" />
+			<Item Name="Parameters.CaseNumber.Caption" Value="CaseNumber" />
+			<Item Name="Parameters.CaseNumber.Sys_Description" Value="Номер на Случая" />
+			<Item Name="Parameters.IsCaseFound.Caption" Value="Намерен ли е случай" />
+			<Item Name="Parameters.IsCaseFound.Sys_Description" Value="Показва, че случаят е намерен от дадения номер" />
+		</Items>
+	</Group>
+</Resources>

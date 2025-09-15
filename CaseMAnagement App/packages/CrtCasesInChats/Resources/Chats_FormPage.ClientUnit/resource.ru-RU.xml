@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CasesDeleteBulkAction_caption.Value" Value="Удалить" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Обращения" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.CasesExportToExcelBulkAction_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.CasesListDS_Case.Value" Value="Номер" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Действия" />
+		</Items>
+	</Group>
+</Resources>

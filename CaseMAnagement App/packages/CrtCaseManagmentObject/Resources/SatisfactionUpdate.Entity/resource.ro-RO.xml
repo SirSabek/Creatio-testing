@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Setare nivel satisfactie" />
+			<Item Name="Columns.Case.Caption" Value="Caz" />
+			<Item Name="Columns.Comment.Caption" Value="Comentariu" />
+			<Item Name="Columns.Point.Caption" Value="Rating" />
+		</Items>
+	</Group>
+</Resources>

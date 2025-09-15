@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="โครงสร้างข้อมูลรายละเอียดผู้รับในอนุสัญญาการบริการ" />
+			<Item Name="LocalizableStrings.ActiveServicePacts.Value" Value="Active service agreements" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Service agreements" />
+		</Items>
+	</Group>
+</Resources>

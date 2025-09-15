@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationLookupSection" />
+			<Item Name="LocalizableStrings.HeaderCaption.Value" Value="순람표" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="피드를 따라" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="피드 팔로우 해제" />
+		</Items>
+	</Group>
+</Resources>

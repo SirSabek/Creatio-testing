@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сервісний договір" />
+			<Item Name="Columns.Calendar.Caption" Value="Календар" />
+			<Item Name="Columns.EndDate.Caption" Value="Дата завершення" />
+			<Item Name="Columns.Name.Caption" Value="Заголовок" />
+			<Item Name="Columns.Notes.Caption" Value="Примітки" />
+			<Item Name="Columns.Number.Caption" Value="Номер" />
+			<Item Name="Columns.Owner.Caption" Value="Відповідальний" />
+			<Item Name="Columns.ServiceProvider.Caption" Value="Контрагент" />
+			<Item Name="Columns.ServiceProviderContact.Caption" Value="Контакт" />
+			<Item Name="Columns.StartDate.Caption" Value="Дата початку" />
+			<Item Name="Columns.Status.Caption" Value="Статус" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Рівень підтримки" />
+			<Item Name="Columns.Type.Caption" Value="Тип" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalFlow1.Caption" Value="Is generating number required" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess1.Caption" Value="Запустити підпроцес події 1" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumberUserTask.Caption" Value="Згенерувати номер по порядку" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask1.Caption" Value="Pass schema to generator" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask2.Caption" Value="Assign number" />
+			<Item Name="EventsProcessSchema.BaseElements.ServicePactSavingStartMessage.Caption" Value="ServicePactSaved" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Пул 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Доріжка 1" />
+		</Items>
+	</Group>
+</Resources>

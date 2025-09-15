@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Unitate de timp de reactie" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Response time value" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Unitate de timp de rezolutie" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Resolution time value" />
+		</Items>
+	</Group>
+</Resources>

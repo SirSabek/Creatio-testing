@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CaseRuleInStageDetail" />
+			<Item Name="LocalizableStrings.Caption.Caption" Value="CaseRuleInStageDetail" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="כללים עבור התנהגות תנאים במקרה" />
+		</Items>
+	</Group>
+</Resources>

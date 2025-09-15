@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "72deb8f3-0936-41ca-b4ae-102c6c4bf708",
+    "Name": "CaseFile",
+    "ModifiedOnUtc": "\/Date(1756637869000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Attachments and notes detail object in Cases section",
+    "DependsOn": []
+  }
+}

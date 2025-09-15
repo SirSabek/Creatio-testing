@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.RunProcess.Caption" Value="Prozess Analyse des Zufriedenheitsniveaus ausführen " />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Zufriedenheitsniveau für Fall abfragen" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Satz-ID" />
+			<Item Name="Caption" Value="Prozess ausführen: Zufriedenheit Fall analysieren" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.CaseRecordId.Caption" Value="Satz-Id Fall" />
+			<Item Name="Parameters.CaseRecordId.DisplayValue" Value="[#Get case satisfation level.Record Id#]" />
+		</Items>
+	</Group>
+</Resources>

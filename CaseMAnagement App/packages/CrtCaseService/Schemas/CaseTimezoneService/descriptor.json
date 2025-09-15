@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "992549c5-f56f-432d-80e7-1157f156a8c6",
+    "Name": "CaseTimezoneService",
+    "ModifiedOnUtc": "\/Date(1713530553000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CaseTimezoneService",
+    "DependsOn": []
+  }
+}

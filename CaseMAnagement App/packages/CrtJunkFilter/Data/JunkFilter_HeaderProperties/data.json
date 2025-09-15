@@ -1,0 +1,24 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2c1a0db3-d8c5-4f21-b3e3-9faf9d0c348a"
+        },
+        {
+          "SchemaColumnUId": "be0380b3-8214-4a8c-ab26-deea32aec690",
+          "Value": "Auto-Submitted"
+        },
+        {
+          "SchemaColumnUId": "bce02a0c-905a-45bd-99dd-c347de4a28b7",
+          "Value": "Terrasoft.Configuration.AutoSubmittedHandler"
+        },
+        {
+          "SchemaColumnUId": "59da2781-0bcf-42da-a7ef-535b038212dd",
+          "Value": true
+        }
+      ]
+    }
+  ]
+}

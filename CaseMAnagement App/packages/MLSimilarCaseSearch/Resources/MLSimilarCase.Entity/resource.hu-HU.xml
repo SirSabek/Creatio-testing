@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Hasonló eset" />
+			<Item Name="Columns.MLModel.Caption" Value="ML modell" />
+			<Item Name="Columns.ParentCase.Caption" Value="Parent case" />
+			<Item Name="Columns.PredictionDate.Caption" Value="Előrejelzés dátuma" />
+			<Item Name="Columns.PredictionQuality.Caption" Value="Jóslás minősége" />
+			<Item Name="Columns.Score.Caption" Value="Pontszám" />
+			<Item Name="Columns.SimilarCase.Caption" Value="Hasonló eset" />
+		</Items>
+	</Group>
+</Resources>

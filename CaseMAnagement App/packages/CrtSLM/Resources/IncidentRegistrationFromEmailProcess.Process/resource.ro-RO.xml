@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.RegisterIncidentScriptTask.Caption" Value="Incident registru" />
+			<Item Name="Caption" Value="Proces de inregistrare email care intra" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="Parameters.RecordId.DisplayValue" Value="[#StartSignalFinishedSyncSession.RecordId#]" />
+		</Items>
+	</Group>
+</Resources>

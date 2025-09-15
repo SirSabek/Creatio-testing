@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="案例重新分类页面" />
+			<Item Name="LocalizableStrings.addRecord_495tqx4_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fv97ymo_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_hm1xewk_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_vijoqx7_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Label_hdoqad0_caption.Value" Value="Label" />
+			<Item Name="LocalizableStrings.Label_rmsidg3_caption.Value" Value="案例重新分类页面" />
+			<Item Name="LocalizableStrings.PageSubtitle_caption.Value" Value="重新分类案件的所有最后期限都将更新，案件可能已逾期。" />
+		</Items>
+	</Group>
+</Resources>

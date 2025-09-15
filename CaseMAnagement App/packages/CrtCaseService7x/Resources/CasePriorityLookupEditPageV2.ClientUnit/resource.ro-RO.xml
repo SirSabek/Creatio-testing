@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Priorități pe pagina de lookup pentru nivelul de asistență" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Imagine implicita" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Rugam completati campurile timpului de reactie" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Rugam completati campurile timpului de reactie" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Rugam completati campurile timpului de rezolutie" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Rugam completati campurile timpului de rezolutie" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="Valoare curenta exista deja" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="Valoare curenta exista deja" />
+		</Items>
+	</Group>
+</Resources>

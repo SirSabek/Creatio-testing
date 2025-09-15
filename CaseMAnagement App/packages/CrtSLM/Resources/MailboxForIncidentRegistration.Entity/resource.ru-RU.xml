@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Почтовый ящик для регистрации обращений" />
+			<Item Name="Columns.AliasAddress.Caption" Value="Название пересылки" />
+			<Item Name="Columns.Category.Caption" Value="Категория обращения" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="Почтовый ящик" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="Язык сообщений" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="Всегда использовать язык почтового ящика" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ExecutePredictionScriptTask.Caption" Value="Виконати прогнозування" />
+			<Item Name="BaseElements.ReadDataUserTask.Caption" Value="Читати Моделі звернень" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.AggregationColumnName.Caption" Value="Ім'я колонки для агрегуючої функції" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.CanReadUncommitedData.Caption" Value="Читання непідтверджених даних" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.DataSourceFilters.Caption" Value="Джерело даних фільтрів" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.EntityColumnMetaPathes.Caption" Value="Перелік колонок для читання" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.FunctionType.Caption" Value="Тип агрегуючої функції" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.IgnoreDisplayValues.Caption" Value="Не читати значення колонок Довідників, що відображаються" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.NumberOfRecords.Caption" Value="Кількість записів для читання" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.OrderInfo.Caption" Value="Порядок сортування колонок" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ReadSomeTopRecords.Caption" Value="Читати перші" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCompositeObjectList.Caption" Value="Колекція записів" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Дата створення" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCompositeObjectList.Id.Caption" Value="Id" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultCount.Caption" Value="Кількість записів" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultDateTimeFunction.Caption" Value="Результат функції" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultEntity.Caption" Value="Перший елемент результуючої колекції" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultEntityCollection.Caption" Value="Результуюча колекція" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultFloatFunction.Caption" Value="Результат функції" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultIntegerFunction.Caption" Value="Результат функції" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultRowsCount.Caption" Value="Кількість прочитаних записів" />
+			<Item Name="BaseElements.ReadDataUserTask.Parameters.ResultType.Caption" Value="Тип результату" />
+			<Item Name="BaseElements.StartCaseCreatedSignal.Caption" Value="Звернення створено по e-mail" />
+			<Item Name="BaseElements.StartCaseCreatedSignal.Parameters.RecordId.Caption" Value="Id запису" />
+			<Item Name="Caption" Value="Прогнозування довідкових полів звернення" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Доріжка 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок екземпляру процесу" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseSchemaUId.Caption" Value="CaseSchemaUId" />
+			<Item Name="Parameters.CaseSchemaUId.DisplayValue" Value="new Guid(&quot;117d32f9-8275-4534-8411-1c66115ce9cd&quot;)" />
+			<Item Name="Parameters.FakeCollection.Caption" Value="FakeCollection" />
+			<Item Name="Parameters.FakeCollection.DisplayValue" Value="[#Read Case models.Collection of records#]" />
+			<Item Name="Parameters.FakeProcessSchemaParameter.Caption" Value="Фальшивий" />
+			<Item Name="Parameters.FakeProcessSchemaParameter.DisplayValue" Value="[# Звернення створено за e-mail.Id запису #]" />
+			<Item Name="Parameters.GroupModelId.Caption" Value="GroupModelId" />
+			<Item Name="Parameters.GroupModelId.DisplayValue" Value="[#Довідник.Модель машинного навчання.Прогнозування групи відповідальних звернення#]" />
+			<Item Name="Parameters.PriorityModelId.Caption" Value="PriorityModelId" />
+			<Item Name="Parameters.PriorityModelId.DisplayValue" Value="[#Довідник.Модель машинного навчання.Прогнозування пріорітету звернення#]" />
+			<Item Name="Parameters.ServiceItemModelId.Caption" Value="ServiceItemModelId" />
+			<Item Name="Parameters.ServiceItemModelId.DisplayValue" Value="[#Довідник.Модель машинного навчання.Прогнозування сервісу звернення#]" />
+		</Items>
+	</Group>
+</Resources>

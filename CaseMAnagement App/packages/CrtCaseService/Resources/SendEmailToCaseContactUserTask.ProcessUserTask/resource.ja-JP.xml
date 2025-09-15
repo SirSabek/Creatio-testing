@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="案件連絡先のユーザータスクにメールを送信する" />
+			<Item Name="Parameters.CaseId.Caption" Value="Case Id" />
+			<Item Name="Parameters.EmailTemplateId.Caption" Value="Email template Id" />
+		</Items>
+	</Group>
+</Resources>

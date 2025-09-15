@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "70c873b3-7132-4a39-85b0-a1ce4a2ae8d1",
+    "Name": "SatisfactionLevelLookupEditPage",
+    "ModifiedOnUtc": "\/Date(1486984345000)\/",
+    "Parent": {
+      "UId": "0a254ad1-c2fb-43ae-ac4d-63932be0835b",
+      "Name": "BaseLookupPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "SatisfactionLevelLookupEditPage",
+    "DependsOn": []
+  }
+}

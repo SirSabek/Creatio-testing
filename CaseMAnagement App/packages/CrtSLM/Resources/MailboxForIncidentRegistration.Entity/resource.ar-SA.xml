@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="علبة البريد لتسجيل العوارض" />
+			<Item Name="Columns.AliasAddress.Caption" Value="اسم صندوق البريد" />
+			<Item Name="Columns.Category.Caption" Value="فئة الحالة" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="علبة البريد" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="لغة الرسائل" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="استخدم دائمًا لغة صندوق البريد" />
+		</Items>
+	</Group>
+</Resources>

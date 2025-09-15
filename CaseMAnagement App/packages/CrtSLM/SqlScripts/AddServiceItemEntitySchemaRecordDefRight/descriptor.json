@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "5c960eae-7fc8-441e-95e8-62e96bd75ab4",
+    "Name": "AddServiceItemEntitySchemaRecordDefRight",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1459845007000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

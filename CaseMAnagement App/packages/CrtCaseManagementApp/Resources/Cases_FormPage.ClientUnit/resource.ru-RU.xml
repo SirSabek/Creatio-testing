@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница записи Обращения" />
+			<Item Name="LocalizableStrings.ActivitiesAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.ActivitiesExpansionPanel_title.Value" Value="Активности" />
+			<Item Name="LocalizableStrings.ActivitiesExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.ActivitiesImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.ActivitiesRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.ActivitiesSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.ActivitiesSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.AssignToMeButton_caption.Value" Value="Назначить мне" />
+			<Item Name="LocalizableStrings.CaseGeneralInfoTab_caption.Value" Value="Основная информация" />
+			<Item Name="LocalizableStrings.CaseInfoLabel_caption.Value" Value="Информация по обращению" />
+			<Item Name="LocalizableStrings.CaseLifecycleExpansionPanel_title.Value" Value="Жизненный цикл обращения" />
+			<Item Name="LocalizableStrings.CaseLifecycleExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.CaseLifecycleImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.CaseLifecycleRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.CaseLifecycleSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.CaseLifecycleSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.ClosureAndFeedbackTab_caption.Value" Value="Решение и закрытие" />
+			<Item Name="LocalizableStrings.EscalateButton_caption.Value" Value="Эскалация" />
+			<Item Name="LocalizableStrings.FeedbackExpansionPanel_title.Value" Value="Обратная связь" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_8u5sych_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_bvdq6jt_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_hid5b3d_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_mj5o5wg_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_c1kmyhh_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_hfokqzj_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_lrlkg9u_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_rojvg62_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesExpansionPanel_title.Value" Value="Статьи базы знаний" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_89c4504d.Value" Value="Количество просмотров" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.NumberOfReopeningsIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.NumberOfReopeningsIndicatorWidget_title.Value" Value="Количество повторных открытий" />
+			<Item Name="LocalizableStrings.PerformanceTab_caption.Value" Value="Производительность" />
+			<Item Name="LocalizableStrings.ReclassifyButton_caption.Value" Value="Реклассифицировать" />
+			<Item Name="LocalizableStrings.ResolutionMainTimer_negativeTextValue.Value" Value="[#timer#] задержки" />
+			<Item Name="LocalizableStrings.ResolutionMainTimer_positiveTextValue.Value" Value="[#timer#]" />
+			<Item Name="LocalizableStrings.ResolutionTimer_negativeTextValue.Value" Value="Задержка: [#timer#]" />
+			<Item Name="LocalizableStrings.ResolutionTimer_positiveTextValue.Value" Value="Осталось: [#timer#]" />
+			<Item Name="LocalizableStrings.ResponseTimer_negativeTextValue.Value" Value="Задержка: [#timer#]" />
+			<Item Name="LocalizableStrings.ResponseTimer_positiveTextValue.Value" Value="Осталось: [#timer#]" />
+			<Item Name="LocalizableStrings.SatisfactionLevel_tooltip.Value" Value="Уровень удовлетворенности, который клиент оставил на странице благодарности" />
+			<Item Name="LocalizableStrings.SatisfactionLevelComment_tooltip.Value" Value="Комментарий, который клиент оставил к оценке на странице благодарности" />
+			<Item Name="LocalizableStrings.SubordinateCasesAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.SubordinateCasesExpansionPanel_title.Value" Value="Подчиненные обращения" />
+			<Item Name="LocalizableStrings.SubordinateCasesExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.SubordinateCasesImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.SubordinateCasesRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.SubordinateCasesSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.SubordinateCasesSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.TermsExpansionPanel_title.Value" Value="Сроки" />
+			<Item Name="LocalizableStrings.TermsLabel_caption.Value" Value="Сроки" />
+			<Item Name="LocalizableStrings.TimeInProgressIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.TimeInProgressIndicatorWidget_title.Value" Value="Время в работе, часов" />
+			<Item Name="LocalizableStrings.TimeLeftForResolutionLabel_caption.Value" Value="Осталось до разрешения" />
+			<Item Name="LocalizableStrings.TimeOnSupportLinesChartWidget_series_0.Value" Value="Case Lifecycle" />
+			<Item Name="LocalizableStrings.TimeOnSupportLinesChartWidget_title.Value" Value="Длительность нахождения на линиях поддержки, часов" />
+			<Item Name="LocalizableStrings.TimeOnSupportLinesChartWidget_yAxis.Value" Value="часов" />
+			<Item Name="LocalizableStrings.TimeToFirstResponseIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.TimeToFirstResponseIndicatorWidget_title.Value" Value="Время до первого ответа, часов" />
+		</Items>
+	</Group>
+</Resources>

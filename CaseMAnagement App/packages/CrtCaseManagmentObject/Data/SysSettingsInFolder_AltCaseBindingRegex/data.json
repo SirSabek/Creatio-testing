@@ -1,0 +1,22 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0fab9dc4-6b43-41df-ae57-1ce5e817a3f1"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "b48e7a26-046c-49c6-b514-bb666c1de068",
+          "DisplayValue": "Regular expression for mail binding"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "83b4eed8-8b76-489b-8159-550cb9f939d6",
+          "DisplayValue": "Case registration"
+        }
+      ]
+    }
+  ]
+}

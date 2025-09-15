@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d88f3381-ce5e-4136-ab47-76b6f077f281",
+    "Name": "DelayedNotificationWorker",
+    "ModifiedOnUtc": "\/Date(1501673918000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "DelayedNotificationWorker",
+    "DependsOn": []
+  }
+}

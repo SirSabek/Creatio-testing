@@ -1,0 +1,24 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "SourceCodeSchemaManager",
+      "UId": "afd50c32-4e55-43f9-bdb2-d175ac7fa673",
+      "A2": "RegistrationFromEmail",
+      "A5": "d875cf44-2089-4c90-a894-025355d0d9a7",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "fa5c92a0-3411-463a-a77e-edd5d4a88a6c",
+          "A2": "UnsupportedTypeOfFieldErrorMsg",
+          "A3": "afd50c32-4e55-43f9-bdb2-d175ac7fa673",
+          "A4": "afd50c32-4e55-43f9-bdb2-d175ac7fa673",
+          "A5": "59955e0a-90db-4796-8f0c-f9403b7d622f"
+        }
+      ],
+      "B3": [],
+      "B6": "a613d152-0fec-4a58-9f9e-df4b7244f72c",
+      "B8": "0.0.0.0",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3"
+    }
+  }
+}

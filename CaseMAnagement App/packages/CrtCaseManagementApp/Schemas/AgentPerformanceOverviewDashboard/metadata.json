@@ -1,0 +1,278 @@
+= MetaData.Schema.UId "f706cbe0-91ec-4742-80ff-c3b1a2b56cba"
+= MetaData.Schema.A2 "AgentPerformanceOverviewDashboard"
+= MetaData.Schema.A5 "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
++ MetaData.Schema.B2 {
+  "UId": "beceb582-4e15-d66d-587b-81fb1da84b8c",
+  "A2": "MyOverdueResponseCasesIndicatorWidget_template",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "0ca4809f-05ba-e948-12a6-4f5b6effa81c",
+  "A2": "MyOverdueResponseCasesIndicatorWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "786056a2-0705-2919-1333-99473677e736",
+  "A2": "WaitingForResponseCasesIndicatorWidget_template",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "a01ed64c-dd5e-19c3-7d69-fc302a0d6654",
+  "A2": "WaitingForResponseCasesIndicatorWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "db5487b1-bf82-7f9a-d710-f56d2b85936c",
+  "A2": "CasesInProgressIndicatorWidget_template",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "c4a3c171-cd8f-72c8-984d-b03b20b53b52",
+  "A2": "CasesInProgressIndicatorWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "a6d4b968-a7c9-93f5-3c26-d60338f7b217",
+  "A2": "MyActiveCasesIndicatorWidget_template",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "6069c861-2f12-e89c-83a8-ae88d8625cd5",
+  "A2": "MyActiveCasesIndicatorWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "92858a49-cfed-248e-ea38-22a5f2c89736",
+  "A2": "MyCasesByPriorityChartWidget_label",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "fe7cae60-e4b3-eb91-6de9-5e653bcbc696",
+  "A2": "MyCasesByPriorityChartWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "0df97ca0-fb3b-3584-aba5-9b8b8b853a46",
+  "A2": "MyCasesByStatusChartWidget_label",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "c6cf96e2-f540-1a4b-c7fc-11e0b893e0b8",
+  "A2": "MyCasesByStatusChartWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "2b3b7a0e-3261-62ed-057f-87678e1312ae",
+  "A2": "MyAverageSatisfactionScoreIndicatorWidget_template",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "e92741aa-e7e8-636e-51ad-0d1654b39a87",
+  "A2": "MyAverageSatisfactionScoreIndicatorWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "100dfdfc-7e18-7db3-6067-1f9eca57a5ae",
+  "A2": "MyOverdueResolutionCasesIndicatorWidget_template",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "a1bb2b3d-a5cc-4f1c-c251-64770beff9c9",
+  "A2": "MyOverdueResolutionCasesIndicatorWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "afca38a0-d4bb-e2c6-b6e2-1efe5a2c3f49",
+  "A2": "ResovledVsOverdueCasesChartWidget_label",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "200a88bb-b86d-ac98-0d76-e09ccda9e886",
+  "A2": "ResovledVsOverdueCasesChartWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "d2173392-fd0f-f0ea-99ec-759a0d4f6234",
+  "A2": "AverageSatisfactionScoreByChannelChartWidget_series_0",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "b6041ae5-db10-3f46-2f87-4f13af52c919",
+  "A2": "AverageResolutionTimePerChannelChartWidget_series_0",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "6d9e0ed2-e23b-d075-0fa6-22933ae141fb",
+  "A2": "AverageResolutionTimePerChannelChartWidget_label",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "2dc54c23-011b-d1c0-de90-2c565689a345",
+  "A2": "AverageResolutionTimePerChannelChartWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "e169ea54-8009-04aa-2924-ad7c4a5b2dd2",
+  "A2": "AverageSatisfactionScoreByChannelChartWidget_label",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "1fabbe84-cec2-9ddb-2ef8-c84670ae258f",
+  "A2": "AverageSatisfactionScoreByChannelChartWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "2cf34f18-eadd-9d88-46d0-7b430b00accc",
+  "A2": "MySatisfactionScoreByMonthChartWidget_label",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "d293148c-24e3-0d2c-fe3d-3dc8aa39e03e",
+  "A2": "MySatisfactionScoreByMonthChartWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "2e30d8ff-383d-86bf-ba45-5f2e297095dd",
+  "A2": "MyCasesByChannelChartWidget_label",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "c829d1b4-7c7a-6001-b9d5-acbb1c4da8c0",
+  "A2": "MyCasesByChannelChartWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "785bafa1-74f8-ea62-51c6-e24ff4526a2a",
+  "A2": "ResovledVsOverdueCasesChartWidget_series_1",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "e5e70bc9-1fb3-a70a-5a33-67b7500db50e",
+  "A2": "ResovledVsOverdueCasesChartWidget_series_0",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "b9f96950-c4a8-5150-caa5-9fd1c80adf40",
+  "A2": "MySatisfactionScoreByMonthChartWidget_series_0",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "23e81f2d-8a93-3aec-dd9a-e7457e154671",
+  "A2": "MyCasesByChannelChartWidget_series_0",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "c3e5b2f5-2ebe-f7f9-e5b2-0f8d26a45bab",
+  "A2": "MyCasesByPriorityChartWidget_series_0",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "e5586e64-6dae-ae82-7741-2aa3f908546f",
+  "A2": "MyCasesByStatusChartWidget_series_0",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "a7113ebd-6de4-9508-d850-76f3d14e4174",
+  "A2": "MyCasesBySatisfactionScoreChartWidget_label",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "50b7cd9e-9d52-e6a4-1b2e-d7081575e88d",
+  "A2": "MyCasesBySatisfactionScoreChartWidget_title",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "e302c1fd-87aa-c9d6-1a4c-97222a420488",
+  "A2": "MySatisfactionScoreByChannelChartWidget_label",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
++ MetaData.Schema.B2 {
+  "UId": "2a213afb-daf0-35d3-710d-17614f8746f9",
+  "A2": "MyCasesBySatisfactionScoreChartWidget_series_0",
+  "A3": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A4": "f706cbe0-91ec-4742-80ff-c3b1a2b56cba",
+  "A5": "afc35d23-2b7c-457a-a83b-18c9527ab5d1"
+}
+~ MetaData.Schema.B2 ["beceb582-4e15-d66d-587b-81fb1da84b8c","0ca4809f-05ba-e948-12a6-4f5b6effa81c","786056a2-0705-2919-1333-99473677e736","a01ed64c-dd5e-19c3-7d69-fc302a0d6654","db5487b1-bf82-7f9a-d710-f56d2b85936c","c4a3c171-cd8f-72c8-984d-b03b20b53b52","a6d4b968-a7c9-93f5-3c26-d60338f7b217","6069c861-2f12-e89c-83a8-ae88d8625cd5","92858a49-cfed-248e-ea38-22a5f2c89736","fe7cae60-e4b3-eb91-6de9-5e653bcbc696","0df97ca0-fb3b-3584-aba5-9b8b8b853a46","c6cf96e2-f540-1a4b-c7fc-11e0b893e0b8","2b3b7a0e-3261-62ed-057f-87678e1312ae","e92741aa-e7e8-636e-51ad-0d1654b39a87","100dfdfc-7e18-7db3-6067-1f9eca57a5ae","a1bb2b3d-a5cc-4f1c-c251-64770beff9c9","afca38a0-d4bb-e2c6-b6e2-1efe5a2c3f49","200a88bb-b86d-ac98-0d76-e09ccda9e886","d2173392-fd0f-f0ea-99ec-759a0d4f6234","b6041ae5-db10-3f46-2f87-4f13af52c919","6d9e0ed2-e23b-d075-0fa6-22933ae141fb","2dc54c23-011b-d1c0-de90-2c565689a345","e169ea54-8009-04aa-2924-ad7c4a5b2dd2","1fabbe84-cec2-9ddb-2ef8-c84670ae258f","2cf34f18-eadd-9d88-46d0-7b430b00accc","d293148c-24e3-0d2c-fe3d-3dc8aa39e03e","2e30d8ff-383d-86bf-ba45-5f2e297095dd","c829d1b4-7c7a-6001-b9d5-acbb1c4da8c0","785bafa1-74f8-ea62-51c6-e24ff4526a2a","e5e70bc9-1fb3-a70a-5a33-67b7500db50e","b9f96950-c4a8-5150-caa5-9fd1c80adf40","23e81f2d-8a93-3aec-dd9a-e7457e154671","c3e5b2f5-2ebe-f7f9-e5b2-0f8d26a45bab","e5586e64-6dae-ae82-7741-2aa3f908546f","a7113ebd-6de4-9508-d850-76f3d14e4174","50b7cd9e-9d52-e6a4-1b2e-d7081575e88d","e302c1fd-87aa-c9d6-1a4c-97222a420488","2a213afb-daf0-35d3-710d-17614f8746f9"]
+= MetaData.Schema.B6 "43d663d1-6ab9-4369-903c-f804cacc55e4"
+= MetaData.Schema.B8 "8.3.0.2123"
++ MetaData.Schema.B10 "{\"DashboardsClientUnitSchemaUId\":\"7299090b-87c8-4062-8897-74497f40a7eb\",\"DashboardsElementName\":\"Dashboards\",\"DashboardsEntitySchemaName\":\"Case\"}"
+= MetaData.Schema.HD1 "eb4d4a67-25d8-fcfa-7851-c4c91efb7b9c"
++ MetaData.Schema.HD15 1
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:1,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
+- MetaData.Schema.HD2
++ MetaData.Schema.B7 false

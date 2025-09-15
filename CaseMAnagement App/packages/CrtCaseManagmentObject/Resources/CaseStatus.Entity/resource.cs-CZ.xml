@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Stav požadavku" />
+			<Item Name="Columns.ButtonCaption.Caption" Value="Popisek tlačítka" />
+			<Item Name="Columns.ClosureCode.Caption" Value="Reason for closing" />
+			<Item Name="Columns.Color.Caption" Value="Barva" />
+			<Item Name="Columns.Image.Caption" Value="Obrázek" />
+			<Item Name="Columns.IsCloseOnSave.Caption" Value="Zavřít po ukládání" />
+			<Item Name="Columns.IsDisplayed.Caption" Value="IsDisplayed" />
+			<Item Name="Columns.IsFinal.Caption" Value="Stav je koncový" />
+			<Item Name="Columns.IsPaused.Caption" Value="Stav pro pozastavení" />
+			<Item Name="Columns.IsResolved.Caption" Value="Stav pro vyřešení" />
+			<Item Name="Columns.StageNumber.Caption" Value="StageNumber" />
+			<Item Name="Columns.StatusColor.Caption" Value="Status Color" />
+		</Items>
+	</Group>
+</Resources>

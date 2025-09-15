@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page schema - &quot;Cases&quot; section" />
+			<Item Name="LocalizableStrings.AccountCaption.Value" Value="ลูกค้า (บริษัท)" />
+			<Item Name="LocalizableStrings.ActualDateGroupCaption.Value" Value="กำลังประมวลผลกรอบเวลา" />
+			<Item Name="LocalizableStrings.AssignToMeCaption.Value" Value="มอบหมายให้ฉัน" />
+			<Item Name="LocalizableStrings.CaseInformationTabCaption.Value" Value="ข้อมูลของเคส" />
+			<Item Name="LocalizableStrings.ClosureCodeCaption.Value" Value="เหตุผลสำหรับการปิด" />
+			<Item Name="LocalizableStrings.ClosureDateCaption.Value" Value="ปิดเมื่อ" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="ผู้ติดต่อ" />
+			<Item Name="LocalizableStrings.CreatedOnCaption.Value" Value="สร้างแล้ว:" />
+			<Item Name="LocalizableStrings.CurrentStatusGroupCaption.Value" Value="สถานะปัจจุบัน" />
+			<Item Name="LocalizableStrings.DaysCaptionSuffix.Value" Value="d" />
+			<Item Name="LocalizableStrings.DefaultHeader.Value" Value="เคส #{0}" />
+			<Item Name="LocalizableStrings.DelayHeaderCaptionSuffix.Value" Value="ล่าช้า:" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="ฟีด" />
+			<Item Name="LocalizableStrings.FeedbackGroupCaption.Value" Value="ฟีดแบ็ค" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="ข้อมูลของเคส" />
+			<Item Name="LocalizableStrings.GroupCaption.Caption" Value="กลุ่มที่รับผิดชอบ" />
+			<Item Name="LocalizableStrings.GroupCaption.Value" Value="ทีมงานที่ได้รับมอบหมาย" />
+			<Item Name="LocalizableStrings.HeaderTemplate.Value" Value="เคส #{0}: {1}" />
+			<Item Name="LocalizableStrings.HoursCaptionSuffix.Value" Value="h" />
+			<Item Name="LocalizableStrings.IndicatorsGroupCaption.Value" Value="ตัวชี้วัด" />
+			<Item Name="LocalizableStrings.LeftHeaderCaptionSuffix.Value" Value="ที่เหลือ:" />
+			<Item Name="LocalizableStrings.MinutesCaptionSuffix.Value" Value="m" />
+			<Item Name="LocalizableStrings.NotesFilesTabCaption.Value" Value="สิ่งที่แนบ" />
+			<Item Name="LocalizableStrings.NumberCaption.Value" Value="หมายเลข" />
+			<Item Name="LocalizableStrings.OriginCaption.Value" Value="แหล่งข้อมูล" />
+			<Item Name="LocalizableStrings.OwnerCaption.Caption" Value="เจ้าของ" />
+			<Item Name="LocalizableStrings.OwnerCaption.Value" Value="ผู้ได้รับมอบหมาย" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Caption" Value="เคสหลักของคำบรรยายภาพ" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Value" Value="เคสต้นกำเนิด" />
+			<Item Name="LocalizableStrings.PriorityCaption.Value" Value="ลำดับความสำคัญ" />
+			<Item Name="LocalizableStrings.RatingGroupCaption.Value" Value="การจัดอันดับ" />
+			<Item Name="LocalizableStrings.RegisteredOnCaption.Value" Value="วันที่ลงทะเบียน" />
+			<Item Name="LocalizableStrings.RelationsTabCaption.Value" Value="การปิดและฟีดแบ็ค" />
+			<Item Name="LocalizableStrings.RequiredContactOrAccountMessage.Value" Value="กรุณา กรอกในฟิลด์ &quot;ลูกค้า&quot; หรือ &quot;ผู้ติดต่อ&quot;" />
+			<Item Name="LocalizableStrings.RespondedOnCaption.Value" Value="เวลาการตอบสนองตามจริง" />
+			<Item Name="LocalizableStrings.ResponseDateCaption.Value" Value="เวลาตอบสนองที่กำหนด" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCaption.Value" Value="การจัดอันดับ" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentCaption.Value" Value="ความคิดเห็นของผู้ใช้" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Caption" Value="Tooltip สำหรับความคิดเห็นต่อระดับความพึงพอใจ" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Value" Value="In order to change feedback you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Caption" Value="Tooltip สำหรับระดับความพึงพอใจ" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Value" Value="In order to change satisfaction level you need to have rights on operation “Ability to change case satisfaction level”" />
+			<Item Name="LocalizableStrings.SolutionCaption.Value" Value="การแก้ปัญหา" />
+			<Item Name="LocalizableStrings.SolutionDateCaption.Value" Value="เวลาในการแก้ปัญหาที่กำหนด" />
+			<Item Name="LocalizableStrings.SolutionGroupCaption.Value" Value="การแก้ปัญหา" />
+			<Item Name="LocalizableStrings.SolutionProvidedOnCaption.Value" Value="เวลาแก้ปัญหาตามจริง" />
+			<Item Name="LocalizableStrings.SolutionTabCaption.Value" Value="การปิดและฟีดแบ็ค" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Caption" Value="SolvedOnSupportLevelCaption" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="แก้ไขโดย" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="สถานะ" />
+			<Item Name="LocalizableStrings.SubjectCaption.Value" Value="เรื่อง" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="ติดตามฟีด" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="ตอนนี้คุณกำลังติดตามฟีด: {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Caption" Value="SupportLevelCaption" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="สายสนับสนุน" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="คำอธิบาย" />
+			<Item Name="LocalizableStrings.TermsControlGroupCaption.Value" Value="เงื่อนไข" />
+			<Item Name="LocalizableStrings.TermsGroupCaption.Value" Value="กรอบเวลา" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Caption" Value="TimeZoneSysSettingMessage" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Value" Value="&lt;p&gt;The following time zone is used for displaying dates:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The time zone specified in your &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;User profile.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;If the profile time zone is not set, the default time zone will be used (specified in the &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/12fef2c9-8baa-4b07-88e4-464169a44775&quot;&gt;&quot;Time zone by default&quot;&lt;/a&gt; system setting).&lt;/li&gt;&lt;/ol&gt;" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Caption" Value="TimeZoneUserProfileMessage" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Value" Value="&lt;p&gt;Time zones can be displayed in three different ways:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The time zone specified in your profile,&lt;/li&gt;&#xA;&lt;li&gt;System setting “Time zone by default”,&lt;/li&gt;&#xA;&lt;li&gt;Time zone “Time in UTC”.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;You can configure time zone inside your &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;User profile &quot;&lt;/a&gt;  or contact system administrator.&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="ยกเลิกการติดตามฟีด" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="คุณได้หยุดติดตามฟีด: {0}" />
+		</Items>
+	</Group>
+</Resources>

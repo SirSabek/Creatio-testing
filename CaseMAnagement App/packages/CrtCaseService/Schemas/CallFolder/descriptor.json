@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "b40e8d89-4e65-4f51-baef-af1408366ee4",
+    "Name": "CallFolder",
+    "ModifiedOnUtc": "\/Date(1756637873000)\/",
+    "Parent": {
+      "UId": "d20408e6-4859-42ac-8c7a-e8ce7e63dc5b",
+      "Name": "CallFolder"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Call folder",
+    "DependsOn": []
+  }
+}

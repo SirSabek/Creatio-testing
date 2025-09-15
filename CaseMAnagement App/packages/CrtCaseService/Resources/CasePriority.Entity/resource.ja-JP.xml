@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="レスポンス時間の単位" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="レスポンス時間の値" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="解決時間の単位" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="解決時間の値" />
+		</Items>
+	</Group>
+</Resources>

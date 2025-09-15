@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.1387e847-b823-d9c3-4201-8f699f518bb7.Caption" Value="Categorie, Descriere: Faceți câmpurile obligatorii" />
+			<Item Name="AddonConfig.Rules.1f7e084f-f362-d755-f47b-7269427712e9.Caption" Value="Sursa: Setare valoare" />
+			<Item Name="Caption" Value="Cazuri externe adăugare pagină (Reguli de business)" />
+		</Items>
+	</Group>
+</Resources>

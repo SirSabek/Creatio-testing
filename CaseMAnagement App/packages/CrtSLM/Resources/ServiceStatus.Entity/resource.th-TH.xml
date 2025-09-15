@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="สถานะการบริการ" />
+			<Item Name="Columns.Active.Caption" Value="ทำงาน" />
+			<Item Name="Columns.Color.Caption" Value="สี" />
+		</Items>
+	</Group>
+</Resources>

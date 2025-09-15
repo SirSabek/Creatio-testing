@@ -1,0 +1,29 @@
+﻿{
+  "Descriptor": {
+    "UId": "01204aad-6bd9-1e6a-387d-e1f2a0a2a898",
+    "Name": "CrtEmailMessage",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1732030532000)\/",
+    "Maintainer": "Creatio",
+    "ProjectPath": "Files/CrtEmailMessage.csproj",
+    "DependsOn": [
+      {
+        "UId": "03073bf4-d6a7-152d-7145-522cd3fde185",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtFeatureToggling",
+        "Type": 1
+      },
+      {
+        "UId": "787ad917-aee4-f583-3cd7-77806d25542a",
+        "Name": "CrtMessage",
+        "Type": 1
+      },
+      {
+        "UId": "942cf87c-44d4-f25e-3a88-438377d1268a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBaseConsts",
+        "Type": 1
+      }
+    ]
+  }
+}

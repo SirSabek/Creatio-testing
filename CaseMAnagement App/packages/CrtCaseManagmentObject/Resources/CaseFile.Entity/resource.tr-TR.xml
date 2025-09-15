@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Ekler ve Notlar Durumlar bölümünde detay nesnesi" />
+			<Item Name="Columns.Case.Caption" Value="Vakalar" />
+			<Item Name="Columns.IsNeedToNotify.Caption" Value="IsNeedToNotify" />
+			<Item Name="EventsProcessSchema.LaneSets.BaseEntityLaneSet1.Lanes.BaseEntityLane2.Caption" Value="Şerit" />
+		</Items>
+	</Group>
+</Resources>

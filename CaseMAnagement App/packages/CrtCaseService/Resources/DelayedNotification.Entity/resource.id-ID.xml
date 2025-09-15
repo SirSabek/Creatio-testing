@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Notifikasi tertunda" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Tanggal pengiriman sebenarnya" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Kumpulan Nama Manajer yang Memenuhi Kualifikasi" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Delay.Caption" Value="Tunda" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="Template pesan email" />
+			<Item Name="Columns.Error.Caption" Value="Error" />
+			<Item Name="Columns.SendDate.Caption" Value="Ketika mengirim" />
+		</Items>
+	</Group>
+</Resources>

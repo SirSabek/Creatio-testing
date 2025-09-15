@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="กฎการแจ้งเตือนเกี่ยวกับเคส" />
+			<Item Name="Columns.CaseCategory.Caption" Value="หมวดหมู่ของเคส" />
+			<Item Name="Columns.CaseStatus.Caption" Value="สถานะก่อนหน้า" />
+			<Item Name="Columns.Delay.Caption" Value="การส่งล่าช้า, นาที" />
+			<Item Name="Columns.EmailTemplate.Caption" Value="รูปแบบข้อความอีเมล" />
+			<Item Name="Columns.IsQuoteOriginalEmail.Caption" Value="อ้างอิงอีเมลต้นฉบับ" />
+			<Item Name="Columns.RuleUsage.Caption" Value="กฎการใช้" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.Methods.LocalMessageExecuting.Caption" Value="LocalMessageExecuting" />
+		</Items>
+	</Group>
+</Resources>

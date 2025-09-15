@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Ställa in nöjdhetsnivå" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Comment.Caption" Value="Kommentar" />
+			<Item Name="Columns.Point.Caption" Value="Omdöme" />
+		</Items>
+	</Group>
+</Resources>

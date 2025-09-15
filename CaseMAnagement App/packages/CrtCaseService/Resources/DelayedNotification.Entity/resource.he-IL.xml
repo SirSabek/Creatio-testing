@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="התראה שהופשרה" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="תאריך שליחה בפועל" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="שם מנהל איכותי שהוזמן" />
+			<Item Name="Columns.Case.Caption" Value="מקרה" />
+			<Item Name="Columns.Delay.Caption" Value="עיכוב" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="הודעה מתבנית" />
+			<Item Name="Columns.Error.Caption" Value="שגיאה" />
+			<Item Name="Columns.SendDate.Caption" Value="מתי יישלח" />
+		</Items>
+	</Group>
+</Resources>

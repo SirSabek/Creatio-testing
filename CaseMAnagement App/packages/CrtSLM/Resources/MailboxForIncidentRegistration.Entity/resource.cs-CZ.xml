@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Schránka pro registraci požadavků" />
+			<Item Name="Columns.AliasAddress.Caption" Value="Alias adresy" />
+			<Item Name="Columns.Category.Caption" Value="Kategorie požadavku" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="E-mailová schránka" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="Jazyk ve zprávě" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="Vždy používejte jazyk poštovní schránky" />
+		</Items>
+	</Group>
+</Resources>

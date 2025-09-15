@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="تأجيل حتى" />
+			<Item Name="LocalizableStrings.EmailTitleCaption.Caption" Value="استجابة حالة" />
+			<Item Name="LocalizableStrings.EmailTitleCaption.Value" Value="استجابة الحالة {0} {1}" />
+			<Item Name="LocalizableStrings.EscalationTitle.Caption" Value="EscalationTitle" />
+			<Item Name="LocalizableStrings.EscalationTitle.Value" Value="تصعيد" />
+			<Item Name="LocalizableStrings.FoundSimilarCaseTextTemplate.Value" Value="تم العثور على حالات مشابهة" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="تفاصيل" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Caption" Value="إخفاء رسائل النظام" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Value" Value="إخفاء رسائل النظام" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Caption" Value="أرشيف" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Value" Value="أرشيف" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="أكثر من عنصر قائمة انتظار  متصل بالعملية. معرف العملية: {0}" />
+			<Item Name="LocalizableStrings.OpenServiceModelByServiceModuleCaption.Value" Value="عرض تبعيات الخدمة" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Caption" Value="ملف تعريف الحالة" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Value" Value="ملف تعريف الحالة" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="اعادة وضعه في الانتظار" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="تعذر اعادة ادراج العنصر في قائمة الانتظار. رسالة الخطأ: {0}" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Caption" Value="معالجة" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Value" Value="معالجة" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="صفحة غير متصلة بعنصر قائمة انتظار سطح مكتب الوكيل. إلغاء الإجراء." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="تعذر اعادة ادراج العنصر في قائمة الانتظار" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="تمت اعادة وضعه في الانتظار بنجاح" />
+			<Item Name="LocalizableStrings.ReclassificationTitle.Value" Value="اعادة الترتيب على شكل فئات" />
+			<Item Name="LocalizableStrings.SchemaLocalizableString1.Caption" Value="رسالة للمستخدم1" />
+			<Item Name="LocalizableStrings.SearchForSimilarCasesButtonCaption.Caption" Value="بحث عن حالات مماثلة" />
+			<Item Name="LocalizableStrings.SearchForSimilarCasesButtonCaption.Value" Value="بحث عن حالات مماثلة" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Caption" Value="ServiceItemTipMessage" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Value" Value="&lt;p&gt; تحدد الخدمات فئات الحالة والمهلة المحددة للرد الافتراضي والحل. يتم تحديد نطاق الخدمات حسب اتفاقية مستوى الخدمة الخاصة بالعميل. استخدم &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServiceItemSection/&quot;&gt; خدمات &quot;&lt;/a&gt; و&lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServicePactSection/&quot;&gt;أقسام اتفاقيات الخدمة &quot;&lt;/a&gt; لتهيئة الخدمات المتاحة&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.ServicePactTipMessage.Caption" Value="ServicePactTipMessage" />
+			<Item Name="LocalizableStrings.ServicePactTipMessage.Value" Value="&lt;p&gt;تحدد اتفاقية مستوى الخدمة نطاق الخدمات المقدّمة لمختلف أنواع العملاء، بالإضافة إلى أنها تحدد شروط تقديم الخدمات الداخلية والمتعاقد عليها من الباطن. استخدم أقسام اتفاقيات الخدمة &lt;a href=&quot;../0/Nui/ViewModule.aspx#SectionModuleV2/ServicePactSection/&quot;&gt; لإبرام اتفاقيات الخدمة وتعديلها&quot;&lt;/a&gt;&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.SetCaseContactMessage.Value" Value="تحديد {0} كجهة اتصال في الحالة؟" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Caption" Value="إظهار رسائل النظام" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Value" Value="إظهار رسائل النظام" />
+			<Item Name="LocalizableStrings.SolutionFieldPlaceholder.Value" Value="وصف قرار" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Ārējais lietotājs" />
+			<Item Name="BaseElements.DefaultSequenceFlow1.Caption" Value="Vispārējs lietotājs" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Caption" Value="Lasīt sociālā ziņojuma lietu Id" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.AggregationColumnName.Caption" Value="Apkopotās funkcijas kolonnas nosaukums" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.CanReadUncommitedData.DisplayValue" Value="patiess" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ConsiderTimeInFilter.DisplayValue" Value="patiess" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.EntityColumnMetaPathes.Caption" Value="Kolonnas, kuras lasīt" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.EntityColumnMetaPathes.DisplayValue" Value="b076a792-429d-47db-891d-6621341a0bde" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.FunctionType.Caption" Value="Apkopotās funkcijas veids" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.NumberOfRecords.DisplayValue" Value="50" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.OrderInfo.Caption" Value="Kolonnu secība" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.OrderInfo.DisplayValue" Value="Message:1:1" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ReadSomeTopRecords.DisplayValue" Value="patiess" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultCompositeObjectList.Caption" Value="Ierakstu kolekcija" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultDateTimeFunction.Caption" Value="Funkcijas rezultāts (Datums/Laiks)" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultEntity.Caption" Value="Pirmā vienība rezultātu kolekcijā" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultFloatFunction.Caption" Value="Funkcijas rezultāts (decimālskaitlis)" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultIntegerFunction.Caption" Value="Funkcijas rezultāts (Vesels skaitlis)" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultType.Caption" Value="Rezultāta veids" />
+			<Item Name="BaseElements.ReadSocialMessageCaseId.Parameters.ResultType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Atjaunot lietu un paziņot atbildīgajam" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Caption" Value="Send email to case contact" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Parameters.CaseId.Caption" Value="Case Id" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Parameters.CaseId.DisplayValue" Value="[#SocialMessageCaseId#]" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Parameters.EmailTemplateId.Caption" Value="E-pasta veidnes Id" />
+			<Item Name="BaseElements.SendEmailToCaseContactUserTask.Parameters.EmailTemplateId.DisplayValue" Value="[#Lookup.Message template.Case update: new message received.253cd392-267a-45bb-83b4-17630bcfa37b#]" />
+			<Item Name="BaseElements.SetIsExternalUser.Caption" Value="Iestatījums ir ārējais lietotājs" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Sociālais ziņojums pievienots" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Unikāls ieraksta identifikators" />
+			<Item Name="Caption" Value="Paziņojums par ārēju lentes ziņu un lietas atkārtotas atvēršanas process" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.IsExternalUser.Caption" Value="IsExternalUser" />
+			<Item Name="Parameters.SocialMessageCaseId.Caption" Value="SocialMessageCaseId" />
+			<Item Name="Parameters.SocialMessageCaseId.DisplayValue" Value="[#Read social message case Id.First item of resulting collection.Object instance#]" />
+		</Items>
+	</Group>
+</Resources>

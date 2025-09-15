@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Detaļas shēma - Servisa līgumu sadaļa" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Servisa līgumi" />
+		</Items>
+	</Group>
+</Resources>

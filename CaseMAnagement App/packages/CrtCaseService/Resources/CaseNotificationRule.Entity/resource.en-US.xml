@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Case notification rule" />
+			<Item Name="Columns.CaseCategory.Caption" Value="Case category" />
+			<Item Name="Columns.CaseStatus.Caption" Value="Case status" />
+			<Item Name="Columns.Delay.Caption" Value="Sending delay, minutes" />
+			<Item Name="Columns.EmailTemplate.Caption" Value="Email message template" />
+			<Item Name="Columns.IsQuoteOriginalEmail.Caption" Value="Quote original email" />
+			<Item Name="Columns.RuleUsage.Caption" Value="Usage rule" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.Methods.LocalMessageExecuting.Caption" Value="LocalMessageExecuting" />
+		</Items>
+	</Group>
+</Resources>

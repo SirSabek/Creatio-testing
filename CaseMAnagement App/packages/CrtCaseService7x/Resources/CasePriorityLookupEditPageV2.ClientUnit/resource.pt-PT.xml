@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Prioridades no nível de suporte na página de lookup" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Imagem Default" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Por favor preencha os campos de tempo de resposta" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Por favor preencha os campos de tempo de resposta" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Por favor preencha os campos de tempo de resolução" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Por favor preencha os campos de tempo de resolução" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="O valor atual já existe" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="O valor atual já existe" />
+		</Items>
+	</Group>
+</Resources>

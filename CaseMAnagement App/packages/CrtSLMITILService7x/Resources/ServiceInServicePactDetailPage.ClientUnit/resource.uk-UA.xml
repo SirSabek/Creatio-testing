@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема сторінки редагування деталі &quot;Сервіс в сервісному договорі&quot;" />
+			<Item Name="LocalizableStrings.CalendarCaption.Value" Value="Календар" />
+			<Item Name="LocalizableStrings.ReactionTimeDayTypeCaption.Value" Value="Тип дня часу реакції" />
+			<Item Name="LocalizableStrings.ReactionTimeUnitCaption.Value" Value="Одиниця часу реакції" />
+			<Item Name="LocalizableStrings.ReactionTimeValueCaption.Value" Value="Час реакції" />
+			<Item Name="LocalizableStrings.ServiceItemCaption.Value" Value="Сервіс" />
+			<Item Name="LocalizableStrings.ServicePactCaption.Value" Value="Сервісний договір" />
+			<Item Name="LocalizableStrings.SolutionTimeDayTypeCaption.Value" Value="Тип дня часу розв'язання" />
+			<Item Name="LocalizableStrings.SolutionTimeUnitCaption.Value" Value="Одиниця часу вирішення" />
+			<Item Name="LocalizableStrings.SolutionTimeValueCaption.Value" Value="Час розв'язання" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Стан" />
+		</Items>
+	</Group>
+</Resources>

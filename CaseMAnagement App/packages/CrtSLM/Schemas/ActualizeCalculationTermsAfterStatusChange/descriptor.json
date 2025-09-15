@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "12ed463d-51aa-4d38-a7ff-929a9bc8beee",
+    "Name": "ActualizeCalculationTermsAfterStatusChange",
+    "ModifiedOnUtc": "\/Date(1756637879000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Actualize calculation terms after status change",
+    "DependsOn": []
+  }
+}

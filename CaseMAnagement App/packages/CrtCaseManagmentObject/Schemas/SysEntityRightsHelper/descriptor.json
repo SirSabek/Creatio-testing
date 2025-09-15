@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8f827f66-1340-4fb9-95ac-3f8d4a06001e",
+    "Name": "SysEntityRightsHelper",
+    "ModifiedOnUtc": "\/Date(1414094115000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "SysEntityRightsHelper",
+    "DependsOn": []
+  }
+}

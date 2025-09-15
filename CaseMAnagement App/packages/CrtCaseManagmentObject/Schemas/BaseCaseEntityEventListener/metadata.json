@@ -1,0 +1,45 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "SourceCodeSchemaManager",
+      "UId": "340f9ea9-6303-4440-9e7d-04b2cce5b1f6",
+      "A2": "BaseCaseEntityEventListener",
+      "A5": "0d3d36e6-4bde-4001-82d8-c1ab3fe448d1",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "d3a13680-abcb-12c3-31da-bf60fe6628dc",
+          "A2": "SubjectForString",
+          "A3": "340f9ea9-6303-4440-9e7d-04b2cce5b1f6",
+          "A4": "340f9ea9-6303-4440-9e7d-04b2cce5b1f6",
+          "A5": "0d3d36e6-4bde-4001-82d8-c1ab3fe448d1"
+        },
+        {
+          "UId": "b5046b6d-54a0-43d1-92a1-0cdd1da59b03",
+          "A2": "SubjectByString",
+          "A3": "340f9ea9-6303-4440-9e7d-04b2cce5b1f6",
+          "A4": "340f9ea9-6303-4440-9e7d-04b2cce5b1f6",
+          "A5": "0d3d36e6-4bde-4001-82d8-c1ab3fe448d1"
+        },
+        {
+          "UId": "955cb2c0-c05a-deec-62ae-06848a2683df",
+          "A2": "OldOwnerMessage",
+          "A3": "340f9ea9-6303-4440-9e7d-04b2cce5b1f6",
+          "A4": "340f9ea9-6303-4440-9e7d-04b2cce5b1f6",
+          "A5": "0d3d36e6-4bde-4001-82d8-c1ab3fe448d1"
+        },
+        {
+          "UId": "4dfa3618-3fc4-f748-7954-cab76c535b50",
+          "A2": "NewOwnerMessage",
+          "A3": "340f9ea9-6303-4440-9e7d-04b2cce5b1f6",
+          "A4": "340f9ea9-6303-4440-9e7d-04b2cce5b1f6",
+          "A5": "0d3d36e6-4bde-4001-82d8-c1ab3fe448d1"
+        }
+      ],
+      "B3": [],
+      "B6": "83b1062a-d944-eba7-a72b-5400034c6223",
+      "B8": "0.0.0.0",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3"
+    }
+  }
+}

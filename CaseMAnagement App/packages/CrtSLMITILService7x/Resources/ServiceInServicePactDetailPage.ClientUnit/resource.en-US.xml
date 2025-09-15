@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Detail edit page schema - Service in service contract" />
+			<Item Name="LocalizableStrings.CalendarCaption.Value" Value="Calendar" />
+			<Item Name="LocalizableStrings.ReactionTimeDayTypeCaption.Value" Value="Response time day type" />
+			<Item Name="LocalizableStrings.ReactionTimeUnitCaption.Value" Value="Response time unit" />
+			<Item Name="LocalizableStrings.ReactionTimeValueCaption.Value" Value="Response time" />
+			<Item Name="LocalizableStrings.ServiceItemCaption.Value" Value="Service" />
+			<Item Name="LocalizableStrings.ServicePactCaption.Value" Value="Service contract" />
+			<Item Name="LocalizableStrings.SolutionTimeDayTypeCaption.Value" Value="Resolution time day type" />
+			<Item Name="LocalizableStrings.SolutionTimeUnitCaption.Value" Value="Resolution time unit" />
+			<Item Name="LocalizableStrings.SolutionTimeValueCaption.Value" Value="Resolution time" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

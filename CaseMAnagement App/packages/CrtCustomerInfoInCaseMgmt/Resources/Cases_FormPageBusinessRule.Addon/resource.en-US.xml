@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.65cd387c-e99f-ac09-610d-d849cb609559.Caption" Value="Contact profile container: Hide element" />
+			<Item Name="AddonConfig.Rules.8fc0661b-2181-5ae4-5e29-49d374410795.Caption" Value="Account profile container: Hide element" />
+		</Items>
+	</Group>
+</Resources>

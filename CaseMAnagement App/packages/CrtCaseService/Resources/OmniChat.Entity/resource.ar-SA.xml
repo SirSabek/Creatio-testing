@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Case.Description" Value="الحالة متصلة بالدردشة" />
+		</Items>
+	</Group>
+</Resources>

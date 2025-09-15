@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="詳細スキーマ - オブジェクト" />
+			<Item Name="LocalizableStrings.AddAccountMenuCaption.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AddContactMenuCaption.Value" Value="連絡先" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="サービス受領者" />
+			<Item Name="LocalizableStrings.CreateDepartmentsMenuCaption.Value" Value="Select department" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="類似のケースページ" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="延期" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="プロセスに接続された複数のキュー要素。プロセスId: {0}" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="添付資料とメモ" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Notes" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="再キュー" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Unable to re-queue item. Error message: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="ページはエージェントデスクトップキュー要素に接続されていません。アクションはキャンセルされました。" />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="アイテムを再キューできません" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="再キューに成功しました" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="承認" />
+		</Items>
+	</Group>
+</Resources>

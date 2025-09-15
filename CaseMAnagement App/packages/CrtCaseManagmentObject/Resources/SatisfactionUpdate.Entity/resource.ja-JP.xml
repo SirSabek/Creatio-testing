@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="満足度の設定" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Comment.Caption" Value="コメント" />
+			<Item Name="Columns.Point.Caption" Value="評価" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "debb6152-95c5-4972-8ad8-0499f3e41f2a",
+    "Name": "CasePortalService",
+    "ModifiedOnUtc": "\/Date(1502889346000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CasePortalService",
+    "DependsOn": []
+  }
+}

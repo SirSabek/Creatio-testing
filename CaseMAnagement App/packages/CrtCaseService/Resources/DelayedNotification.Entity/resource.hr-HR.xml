@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Odgođena obavijest" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Stvarni datum slanja" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Potpuno kvalificirano ime upravitelja" />
+			<Item Name="Columns.Case.Caption" Value="Zahtjev" />
+			<Item Name="Columns.Delay.Caption" Value="Odgoda" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="Predložak poruke e-pošte" />
+			<Item Name="Columns.Error.Caption" Value="Error" />
+			<Item Name="Columns.SendDate.Caption" Value="Kada se šalje" />
+		</Items>
+	</Group>
+</Resources>

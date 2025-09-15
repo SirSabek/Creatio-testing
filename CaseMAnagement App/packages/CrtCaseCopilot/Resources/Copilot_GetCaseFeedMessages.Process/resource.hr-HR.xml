@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadFeeds.Caption" Value="Čitaj feed poruku" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.AggregationColumnName.Caption" Value="Naziv stupca agregatne funkcije" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.CanReadUncommitedData.Caption" Value="Pročitaj neizvršene podatke" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.CanReadUncommitedData.DisplayValue" Value="točno" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ConsiderTimeInFilter.DisplayValue" Value="točno" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.DataSourceFilters.Caption" Value="Izvor podataka filtera" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.EntityColumnMetaPathes.Caption" Value="Stupci za čitanje" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.EntityColumnMetaPathes.DisplayValue" Value="ebf6bb93-8aa6-4a01-900d-c6ea67affe21;e80190a5-03b2-4095-90f7-a193a960adee;fb47c81f-a125-488b-b2fb-05415b8da84c" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.FunctionType.Caption" Value="Vrsta agregatne funkcije" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.IgnoreDisplayValues.Caption" Value="Nemojte čitati prikazane vrijednosti stupaca pretraživanja" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.NumberOfRecords.Caption" Value="Broj zapisa za čitanje" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.NumberOfRecords.DisplayValue" Value="30" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.OrderInfo.Caption" Value="Redoslijed stupaca" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.OrderInfo.DisplayValue" Value="CreatedOn:2:1" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ReadSomeTopRecords.Caption" Value="Pročitaj prvo" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ReadSomeTopRecords.DisplayValue" Value="točno" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.Caption" Value="Zbirka zapisa" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Kontakt" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Created on" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.Message.Caption" Value="Poruka/komentar" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCount.Caption" Value="Broj zapisa" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultDateTimeFunction.Caption" Value="Rezultat funkcije (Datum/Vrijeme)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultFloatFunction.Caption" Value="Rezultat funkcije (Decimalni)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultRowsCount.Caption" Value="Broj pročitanih zapisa" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultType.Caption" Value="Vrsta rezultata" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultType.DisplayValue" Value="2" />
+			<Item Name="BaseElements.RemoveHtmlScriptTask.Caption" Value="Ukloni HTML oznake" />
+			<Item Name="Caption" Value="Primajte poruke o feedu predmeta" />
+			<Item Name="Description" Value="Dohvaćanje zadnjih 30 poruka iz zahtjeva na temelju Id-a zahtjeva" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Traka 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="Id zahtjeva" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="Jedinstveni identifikator zahtjeva" />
+			<Item Name="Parameters.FeedMessages.Caption" Value="Poruke feeda" />
+			<Item Name="Parameters.FeedMessages.CreatedBy.Caption" Value="CreatedBy" />
+			<Item Name="Parameters.FeedMessages.CreatedBy.Sys_Description" Value="Autor poruke" />
+			<Item Name="Parameters.FeedMessages.CreatedOn.Caption" Value="Created on" />
+			<Item Name="Parameters.FeedMessages.CreatedOn.Sys_Description" Value="Datum kreiranja" />
+			<Item Name="Parameters.FeedMessages.Message.Caption" Value="Message" />
+			<Item Name="Parameters.FeedMessages.Message.Sys_Description" Value="Tijelo poruke" />
+			<Item Name="Parameters.FeedMessages.Sys_Description" Value="10 zadnjih poruka u feedu po predmetu" />
+		</Items>
+	</Group>
+</Resources>

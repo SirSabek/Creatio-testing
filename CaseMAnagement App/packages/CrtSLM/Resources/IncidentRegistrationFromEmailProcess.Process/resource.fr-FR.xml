@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.RegisterIncidentScriptTask.Caption" Value="Enregistrer l'incident" />
+			<Item Name="Caption" Value="Processus d'enregistrement d'un appel entrant" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.RecordId.Caption" Value="Id de l'enregistrement" />
+			<Item Name="Parameters.RecordId.DisplayValue" Value="[#StartSignalFinishedSyncSession.RecordId#]" />
+		</Items>
+	</Group>
+</Resources>

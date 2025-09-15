@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service" />
+			<Item Name="Columns.Calendar.Caption" Value="Takvim" />
+			<Item Name="Columns.CaseCategory.Caption" Value="Vaka kategorileri" />
+			<Item Name="Columns.Name.Caption" Value="Satılan birimlerin sayısı" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.Owner.Caption" Value="Sahip" />
+			<Item Name="Columns.ReactionTime.Caption" Value="Yanıt zamanı" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Yanıt zaman birimi" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Response time value" />
+			<Item Name="Columns.SolutionTime.Caption" Value="Çözüm süresi" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Resolution time unit" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Resolution time value" />
+			<Item Name="Columns.Status.Caption" Value="Durum" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Havuz 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Şerit 1" />
+		</Items>
+	</Group>
+</Resources>

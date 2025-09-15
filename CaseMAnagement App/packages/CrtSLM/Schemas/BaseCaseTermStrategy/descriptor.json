@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "94f1b8ae-b31f-4486-922e-96e082f6ad14",
+    "Name": "BaseCaseTermStrategy",
+    "ModifiedOnUtc": "\/Date(1480425338000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "BaseCaseTermStrategy",
+    "DependsOn": []
+  }
+}

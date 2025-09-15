@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4750bab8-ddbf-43e5-8711-9d252f61bb0c",
+    "Name": "SendMultiLanguageNotification",
+    "ModifiedOnUtc": "\/Date(1500363286000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "SendMultiLanguageNotification",
+    "DependsOn": []
+  }
+}

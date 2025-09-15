@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Стаття бази знань в зверненні" />
+			<Item Name="Columns.Case.Caption" Value="Звернення" />
+			<Item Name="Columns.KnowledgeBase.Caption" Value="Стаття бази знань" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

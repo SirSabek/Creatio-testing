@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Apmierinātības līmeņa iestatīšana" />
+			<Item Name="Columns.Case.Caption" Value="Lieta" />
+			<Item Name="Columns.Comment.Caption" Value="Komentārs" />
+			<Item Name="Columns.Point.Caption" Value="Vērtējums" />
+		</Items>
+	</Group>
+</Resources>

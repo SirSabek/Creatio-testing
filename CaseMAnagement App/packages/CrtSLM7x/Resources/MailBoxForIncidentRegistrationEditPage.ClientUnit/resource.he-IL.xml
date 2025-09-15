@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationEditPage" />
+			<Item Name="LocalizableStrings.AliasTip.Value" Value="אם אתה משתמש בכינוי תיבת דואר כדי לקבל הודעות תמיכה, אנא ציין את כתובת הכינוי" />
+			<Item Name="LocalizableStrings.MessageLanguageTip.Value" Value="שפת ההודעה נקבעת לפי הערכים הבאים, מהעדיפות הגבוהה לנמוכה: &#xA;1. השפה המועדפת של איש הקשר המקבל. &#xA;2. שפת תיבת המייל ברשימת תיבות המייל לרישום מקרים. &#xA;3. ערך הגדרת המערכת של השפה ברירת המחדל להודעות. &#xA;למד עוד על תכונה זו במ{0}אקדמיה{1}" />
+		</Items>
+	</Group>
+</Resources>

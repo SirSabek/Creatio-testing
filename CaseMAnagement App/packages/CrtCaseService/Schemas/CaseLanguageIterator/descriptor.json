@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2765b5d5-b370-4bb8-88bf-c51f5ee29ecf",
+    "Name": "CaseLanguageIterator",
+    "ModifiedOnUtc": "\/Date(1518453001000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CaseLanguageIterator",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="BaseCaseEntityEventListener" />
+			<Item Name="LocalizableStrings.NewOwnerMessage.Value" Value="{0}{1}的案例已分配给你" />
+			<Item Name="LocalizableStrings.OldOwnerMessage.Value" Value="{0} 大小写“{1} 不再分配给你" />
+			<Item Name="LocalizableStrings.SubjectByString.Value" Value="由" />
+			<Item Name="LocalizableStrings.SubjectForString.Value" Value="由" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Получател на услугата" />
+			<Item Name="Columns.Account.Caption" Value="Account" />
+			<Item Name="Columns.Contact.Caption" Value="Контакт" />
+			<Item Name="Columns.Department.Caption" Value="Department" />
+			<Item Name="Columns.ServicePact.Caption" Value="Контакт на услугата" />
+			<Item Name="Columns.Type.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>

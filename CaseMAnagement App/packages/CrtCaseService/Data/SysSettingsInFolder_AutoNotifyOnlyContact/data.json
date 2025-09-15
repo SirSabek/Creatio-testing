@@ -1,0 +1,22 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "83b4eed8-8b76-489b-8159-550cb9f939d6",
+          "DisplayValue": "Case registration"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "911a316e-76f4-4da2-b807-bac301ee746c"
+        },
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "105e25ad-b1bf-42cd-b4f5-c20104eccaab",
+          "DisplayValue": "Send automatic notifications only to contact"
+        }
+      ]
+    }
+  ]
+}

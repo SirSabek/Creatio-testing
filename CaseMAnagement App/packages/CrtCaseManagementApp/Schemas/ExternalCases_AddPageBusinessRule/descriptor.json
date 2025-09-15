@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b0e1f9b3-43ec-4bb0-884b-42398c426ca4",
+    "Name": "ExternalCases_AddPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "External cases add page (Business rules)",
+    "DependsOn": []
+  }
+}

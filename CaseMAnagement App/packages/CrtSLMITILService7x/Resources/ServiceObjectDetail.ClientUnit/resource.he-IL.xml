@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="סכימת פירוט - אובייקטים" />
+			<Item Name="LocalizableStrings.AddAccountMenuCaption.Value" Value="חברה" />
+			<Item Name="LocalizableStrings.AddContactMenuCaption.Value" Value="איש קשר" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="מקבלי שירות" />
+			<Item Name="LocalizableStrings.CreateDepartmentsMenuCaption.Value" Value="בחר מחלקה" />
+		</Items>
+	</Group>
+</Resources>

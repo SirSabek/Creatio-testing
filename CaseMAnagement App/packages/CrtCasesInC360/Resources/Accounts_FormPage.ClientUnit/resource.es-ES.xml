@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Casos" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="Importar datos" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Actualizar" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Buscar" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Comportamiento" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="Proceso de negocio" />
+		</Items>
+	</Group>
+</Resources>

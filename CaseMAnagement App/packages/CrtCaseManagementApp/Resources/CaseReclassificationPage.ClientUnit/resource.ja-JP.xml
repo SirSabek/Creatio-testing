@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="案件の再分類ページ" />
+			<Item Name="LocalizableStrings.addRecord_495tqx4_caption.Value" Value="新規追加" />
+			<Item Name="LocalizableStrings.addRecord_fv97ymo_caption.Value" Value="新規追加" />
+			<Item Name="LocalizableStrings.addRecord_hm1xewk_caption.Value" Value="新規追加" />
+			<Item Name="LocalizableStrings.addRecord_vijoqx7_caption.Value" Value="新規追加" />
+			<Item Name="LocalizableStrings.Label_hdoqad0_caption.Value" Value="ラベル" />
+			<Item Name="LocalizableStrings.Label_rmsidg3_caption.Value" Value="案件の再分類" />
+			<Item Name="LocalizableStrings.PageSubtitle_caption.Value" Value="再分類された案件のすべての期限が更新されます。この案件は期限切れになる可能性があります。" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Get account by contact" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="Get cases by contact or account" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Account.Caption" Value="Account" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Category.Caption" Value="Category" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.ClosureCode.Caption" Value="Reason for closing" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.ClosureDate.Caption" Value="Closed on" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Contact.Caption" Value="Contact" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Created on" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.FirstSolutionProvidedOn.Caption" Value="First resolution time" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Group.Caption" Value="Assignees group" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Id.Caption" Value="Id" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Number.Caption" Value="Number" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Origin.Caption" Value="Source" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Owner.Caption" Value="Assignee" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Priority.Caption" Value="Priority" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.RegisteredOn.Caption" Value="Registration date" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.RespondedOn.Caption" Value="Actual response time" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.ResponseDate.Caption" Value="Response time" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.ResponseOverdue.Caption" Value="Overdue response" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.SatisfactionLevel.Caption" Value="Satisfaction level" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.ServiceCategory.Caption" Value="Service category" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.ServiceItem.Caption" Value="Service" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.ServicePact.Caption" Value="SLA" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Solution.Caption" Value="Resolution" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.SolutionDate.Caption" Value="Resolution time" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.SolutionOverdue.Caption" Value="Overdue resolution" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.SolutionProvidedOn.Caption" Value="Actual resolution time" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Status.Caption" Value="Status" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Subject.Caption" Value="Subject" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.SupportLevel.Caption" Value="Support line" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Symptoms.Caption" Value="Description" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="Caption" Value="Get cases by contact and linked account" />
+			<Item Name="Description" Value="Get cases by contact and linked account" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.Cases.Account.Caption" Value="Account" />
+			<Item Name="Parameters.Cases.Account.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Account#]" />
+			<Item Name="Parameters.Cases.ActualResolutionTime.Caption" Value="Actual resolution time" />
+			<Item Name="Parameters.Cases.ActualResolutionTime.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Actual resolution time#]" />
+			<Item Name="Parameters.Cases.ActualResponseTime.Caption" Value="Actual response time" />
+			<Item Name="Parameters.Cases.ActualResponseTime.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Actual response time#]" />
+			<Item Name="Parameters.Cases.Assignee.Caption" Value="Assignee" />
+			<Item Name="Parameters.Cases.Assignee.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Assignee#]" />
+			<Item Name="Parameters.Cases.Assignee.Sys_Description" Value="Assignee contact" />
+			<Item Name="Parameters.Cases.Caption" Value="Cases" />
+			<Item Name="Parameters.Cases.CaseCategory.Caption" Value="Case category" />
+			<Item Name="Parameters.Cases.CaseCategory.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Category#]" />
+			<Item Name="Parameters.Cases.CaseCreatedOn.Caption" Value="Case created on" />
+			<Item Name="Parameters.Cases.CaseCreatedOn.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Created on#]" />
+			<Item Name="Parameters.Cases.CaseId.Caption" Value="CaseId" />
+			<Item Name="Parameters.Cases.CaseId.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Id#]" />
+			<Item Name="Parameters.Cases.CaseReporter.Caption" Value="Case reporter contact" />
+			<Item Name="Parameters.Cases.CaseReporter.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Contact#]" />
+			<Item Name="Parameters.Cases.ClosedOn.Caption" Value="Closed on" />
+			<Item Name="Parameters.Cases.ClosedOn.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Closed on#]" />
+			<Item Name="Parameters.Cases.Description.Caption" Value="Description" />
+			<Item Name="Parameters.Cases.Description.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Description#]" />
+			<Item Name="Parameters.Cases.DisplayValue" Value="[#Get cases by contact or account.Collection of records#]" />
+			<Item Name="Parameters.Cases.FirstResolutionTime.Caption" Value="First resolution time" />
+			<Item Name="Parameters.Cases.FirstResolutionTime.DisplayValue" Value="[#Get cases by contact or account.Collection of records:First resolution time#]" />
+			<Item Name="Parameters.Cases.Number.Caption" Value="Number" />
+			<Item Name="Parameters.Cases.Number.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Number#]" />
+			<Item Name="Parameters.Cases.OverdueResolution.Caption" Value="Overdue resolution" />
+			<Item Name="Parameters.Cases.OverdueResolution.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Overdue resolution#]" />
+			<Item Name="Parameters.Cases.OverdueResponse.Caption" Value="Overdue response" />
+			<Item Name="Parameters.Cases.OverdueResponse.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Overdue response#]" />
+			<Item Name="Parameters.Cases.Priority.Caption" Value="Priority" />
+			<Item Name="Parameters.Cases.Priority.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Priority#]" />
+			<Item Name="Parameters.Cases.RegistrationDate.Caption" Value="Registration date" />
+			<Item Name="Parameters.Cases.RegistrationDate.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Registration date#]" />
+			<Item Name="Parameters.Cases.Resolution.Caption" Value="Resolution" />
+			<Item Name="Parameters.Cases.Resolution.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Resolution#]" />
+			<Item Name="Parameters.Cases.ResolutionTime.Caption" Value="Resolution time" />
+			<Item Name="Parameters.Cases.ResolutionTime.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Resolution time#]" />
+			<Item Name="Parameters.Cases.ResponseTime.Caption" Value="Response time" />
+			<Item Name="Parameters.Cases.ResponseTime.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Response time#]" />
+			<Item Name="Parameters.Cases.SatisfactionLevel.Caption" Value="Satisfaction level" />
+			<Item Name="Parameters.Cases.SatisfactionLevel.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Satisfaction level#]" />
+			<Item Name="Parameters.Cases.Status.Caption" Value="Status" />
+			<Item Name="Parameters.Cases.Status.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Status#]" />
+			<Item Name="Parameters.Cases.Subject.Caption" Value="Subject" />
+			<Item Name="Parameters.Cases.Subject.DisplayValue" Value="[#Get cases by contact or account.Collection of records:Subject#]" />
+			<Item Name="Parameters.ContactId.Caption" Value="Contact" />
+		</Items>
+	</Group>
+</Resources>

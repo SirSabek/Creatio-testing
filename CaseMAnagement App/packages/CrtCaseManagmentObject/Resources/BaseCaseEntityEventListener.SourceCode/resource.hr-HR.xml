@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="BaseCaseEntityEventListener" />
+			<Item Name="LocalizableStrings.NewOwnerMessage.Value" Value="Zahtjev br. {0} “{1}” vam je dodijeljen" />
+			<Item Name="LocalizableStrings.OldOwnerMessage.Value" Value="Zahtjev br{0} “{1}&quot; vam više nije dodijeljen" />
+			<Item Name="LocalizableStrings.SubjectByString.Value" Value="prema" />
+			<Item Name="LocalizableStrings.SubjectForString.Value" Value="prema" />
+		</Items>
+	</Group>
+</Resources>

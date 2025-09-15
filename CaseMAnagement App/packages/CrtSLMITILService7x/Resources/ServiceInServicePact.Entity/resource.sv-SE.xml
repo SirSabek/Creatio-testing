@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service in service agreement" />
+			<Item Name="Columns.Calendar.Caption" Value="Calendar" />
+			<Item Name="Columns.ConcatName.Caption" Value="ServiseAndServiseInServicePactName" />
+			<Item Name="Columns.ReactionTime.Caption" Value="Svarstid" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Svarstidsenhet" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Svarstidsvärde" />
+			<Item Name="Columns.ServiceItem.Caption" Value="Tjänst" />
+			<Item Name="Columns.ServicePact.Caption" Value="Ärendeavtal" />
+			<Item Name="Columns.SolutionTime.Caption" Value="Lösningstid" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Lösningstidsenhet" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Lösningstidsvärde" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Pool 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Bana 1" />
+			<Item Name="EventsProcessSchema.Methods.GetServiceItemName.Caption" Value="GetServiceItemName" />
+			<Item Name="EventsProcessSchema.Methods.GetServicePactName.Caption" Value="GetServicePactName" />
+		</Items>
+	</Group>
+</Resources>

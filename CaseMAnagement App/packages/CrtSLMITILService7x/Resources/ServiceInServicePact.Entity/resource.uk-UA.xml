@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сервіс в сервісному договорі" />
+			<Item Name="Columns.Calendar.Caption" Value="Календар" />
+			<Item Name="Columns.ConcatName.Caption" Value="ServiseAndServiseInServicePactName" />
+			<Item Name="Columns.ReactionTime.Caption" Value="Час реакції" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Одиниця часу реакції" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Значення часу реакції" />
+			<Item Name="Columns.ServiceItem.Caption" Value="Сервіс" />
+			<Item Name="Columns.ServicePact.Caption" Value="Сервісний договір" />
+			<Item Name="Columns.SolutionTime.Caption" Value="Час розв'язання" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Одиниця часу вирішення" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Значення часу розв'язання" />
+			<Item Name="Columns.Status.Caption" Value="Стан" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Пул 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Доріжка 1" />
+			<Item Name="EventsProcessSchema.Methods.GetServiceItemName.Caption" Value="GetServiceItemName" />
+			<Item Name="EventsProcessSchema.Methods.GetServicePactName.Caption" Value="GetServicePactName" />
+		</Items>
+	</Group>
+</Resources>

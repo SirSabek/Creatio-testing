@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c2e0f3d5-2043-7308-e3d8-b294677bdfdb",
+    "Name": "MLPredictionQuality",
+    "ModifiedOnUtc": "\/Date(1756637887000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Quality of prediction",
+    "DependsOn": []
+  }
+}

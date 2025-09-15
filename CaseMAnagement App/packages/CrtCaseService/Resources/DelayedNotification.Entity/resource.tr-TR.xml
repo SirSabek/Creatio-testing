@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Geciken bildirim" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Gerçek Gönder Tarihi" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Meclis Nitelikli Yönetici Adı" />
+			<Item Name="Columns.Case.Caption" Value="Vaka" />
+			<Item Name="Columns.Delay.Caption" Value="Gecikme" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="E-posta şablonu" />
+			<Item Name="Columns.Error.Caption" Value="Hata" />
+			<Item Name="Columns.SendDate.Caption" Value="Gönderdiğinde" />
+		</Items>
+	</Group>
+</Resources>

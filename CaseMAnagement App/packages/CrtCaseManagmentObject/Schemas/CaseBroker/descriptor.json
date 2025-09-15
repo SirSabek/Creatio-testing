@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "29af7a40-d9b4-4d1e-b907-cfa9dd10b1a2",
+    "Name": "CaseBroker",
+    "ModifiedOnUtc": "\/Date(1511523848000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CaseBroker",
+    "DependsOn": []
+  }
+}

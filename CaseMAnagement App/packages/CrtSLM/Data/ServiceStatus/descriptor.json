@@ -1,0 +1,49 @@
+﻿{
+  "Descriptor": {
+    "UId": "0b548cae-8149-4b8f-81ad-3a0fbdb587c9",
+    "Name": "ServiceStatus",
+    "ModifiedOnUtc": "\/Date(1749098388000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "4fcd6c56-2c34-4f37-9c39-35dd78cc6c0a",
+      "Name": "ServiceStatus"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "fcbba6ec-7eae-1932-d28a-c1bbfc481c9a",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Color",
+        "DataTypeValueUId": "dafb71f9-ee9f-4e0b-a4d7-37aa15987155"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "f3426482-79ac-402c-8cfd-660c7d268e0b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Active",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      }
+    ]
+  }
+}

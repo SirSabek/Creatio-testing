@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "71ebe1a4-e2ab-467c-9422-fde6ea4bd7f3",
+    "Name": "CaseTermStrategyByServiceInServicePact",
+    "ModifiedOnUtc": "\/Date(1479742570000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CaseTermStrategyByServiceInServicePact",
+    "DependsOn": []
+  }
+}

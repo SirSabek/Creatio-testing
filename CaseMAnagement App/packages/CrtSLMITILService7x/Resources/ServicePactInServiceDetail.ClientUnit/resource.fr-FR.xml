@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Schéma détaillé - &quot;Contrats de service&quot; dans &quot;Services&quot; section" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Contrat de service" />
+		</Items>
+	</Group>
+</Resources>

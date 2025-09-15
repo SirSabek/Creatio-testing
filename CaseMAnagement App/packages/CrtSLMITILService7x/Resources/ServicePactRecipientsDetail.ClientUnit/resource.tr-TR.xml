@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Servis Pakt Alıcıları Detay Şeması" />
+			<Item Name="LocalizableStrings.ActiveServicePacts.Value" Value="Aktif Hizmet Anlaşmaları" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Hizmet sözleşmesi" />
+		</Items>
+	</Group>
+</Resources>

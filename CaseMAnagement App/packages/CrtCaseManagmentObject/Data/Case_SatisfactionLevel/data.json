@@ -1,0 +1,154 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "777e1f2c-f46b-1410-c682-0050ba5d6c38"
+        },
+        {
+          "SchemaColumnUId": "519e64ec-c30f-4bea-b0d7-6e193095640e",
+          "Value": "3e7f420c-f46b-1410-fc9a-0050ba5d6c38",
+          "DisplayValue": "Closed"
+        },
+        {
+          "SchemaColumnUId": "4afc23aa-b8ec-4063-86ef-7fc3f19151fb",
+          "Value": "d760bebc-32be-4475-9353-89c11206395d",
+          "DisplayValue": "Eforia.png"
+        },
+        {
+          "SchemaColumnUId": "ceda6e1a-cdf9-46b0-858b-32646d065136",
+          "Value": 5
+        },
+        {
+          "SchemaColumnUId": "41c56be9-adf6-4ece-a539-4294ead150ad",
+          "Value": "#F07E63"
+        },
+        {
+          "SchemaColumnUId": "1c80b42f-5c2a-4802-8ac4-8bb011959db5",
+          "Value": true
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "775e4230-f46b-1410-c682-0050ba5d6c38"
+        },
+        {
+          "SchemaColumnUId": "519e64ec-c30f-4bea-b0d7-6e193095640e",
+          "Value": "f063ebbe-fdc6-4982-8431-d8cfa52fedcf",
+          "DisplayValue": "Reopened"
+        },
+        {
+          "SchemaColumnUId": "4afc23aa-b8ec-4063-86ef-7fc3f19151fb",
+          "Value": "67bf3741-9b35-45a0-b4e0-34366d4d801c",
+          "DisplayValue": "Obespokoennost.png"
+        },
+        {
+          "SchemaColumnUId": "ceda6e1a-cdf9-46b0-858b-32646d065136",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "41c56be9-adf6-4ece-a539-4294ead150ad",
+          "Value": "#E7CC61"
+        },
+        {
+          "SchemaColumnUId": "1c80b42f-5c2a-4802-8ac4-8bb011959db5",
+          "Value": true
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f79e201c-f46b-1410-c382-0050ba5d6c38"
+        },
+        {
+          "SchemaColumnUId": "519e64ec-c30f-4bea-b0d7-6e193095640e",
+          "Value": "3e7f420c-f46b-1410-fc9a-0050ba5d6c38",
+          "DisplayValue": "Closed"
+        },
+        {
+          "SchemaColumnUId": "4afc23aa-b8ec-4063-86ef-7fc3f19151fb",
+          "Value": "7ef4efb3-50b3-458c-8de6-8cf92034d231",
+          "DisplayValue": "Nadejda.png"
+        },
+        {
+          "SchemaColumnUId": "ceda6e1a-cdf9-46b0-858b-32646d065136",
+          "Value": 4
+        },
+        {
+          "SchemaColumnUId": "41c56be9-adf6-4ece-a539-4294ead150ad",
+          "Value": "#5BC8C3"
+        },
+        {
+          "SchemaColumnUId": "1c80b42f-5c2a-4802-8ac4-8bb011959db5",
+          "Value": true
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "377e3228-f46b-1410-c582-0050ba5d6c38"
+        },
+        {
+          "SchemaColumnUId": "519e64ec-c30f-4bea-b0d7-6e193095640e",
+          "Value": "3e7f420c-f46b-1410-fc9a-0050ba5d6c38",
+          "DisplayValue": "Closed"
+        },
+        {
+          "SchemaColumnUId": "4afc23aa-b8ec-4063-86ef-7fc3f19151fb",
+          "Value": "3dfcbdf1-c2a6-4a6e-9f9c-e2419d09eada",
+          "DisplayValue": "Neutral.png"
+        },
+        {
+          "SchemaColumnUId": "ceda6e1a-cdf9-46b0-858b-32646d065136",
+          "Value": 3
+        },
+        {
+          "SchemaColumnUId": "41c56be9-adf6-4ece-a539-4294ead150ad",
+          "Value": "#64B7DF"
+        },
+        {
+          "SchemaColumnUId": "1c80b42f-5c2a-4802-8ac4-8bb011959db5",
+          "Value": true
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "005f1f20-f46b-1410-c482-0050ba5d6c38"
+        },
+        {
+          "SchemaColumnUId": "519e64ec-c30f-4bea-b0d7-6e193095640e",
+          "Value": "f063ebbe-fdc6-4982-8431-d8cfa52fedcf",
+          "DisplayValue": "Reopened"
+        },
+        {
+          "SchemaColumnUId": "4afc23aa-b8ec-4063-86ef-7fc3f19151fb",
+          "Value": "060b263b-542f-42c0-a6c1-5940786b7552",
+          "DisplayValue": "Somnenie.png"
+        },
+        {
+          "SchemaColumnUId": "ceda6e1a-cdf9-46b0-858b-32646d065136",
+          "Value": 2
+        },
+        {
+          "SchemaColumnUId": "41c56be9-adf6-4ece-a539-4294ead150ad",
+          "Value": "#8ECC61"
+        },
+        {
+          "SchemaColumnUId": "1c80b42f-5c2a-4802-8ac4-8bb011959db5",
+          "Value": true
+        }
+      ]
+    }
+  ]
+}

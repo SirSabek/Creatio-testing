@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Caixa de correios para registro de incidentes" />
+			<Item Name="Columns.AliasAddress.Caption" Value="Apelido da caixa de correios" />
+			<Item Name="Columns.Category.Caption" Value="Categoria do caso" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="Caixa de correios" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="Idioma da mensagem" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="Sempre utilizar o idioma da caixa de correios" />
+		</Items>
+	</Group>
+</Resources>

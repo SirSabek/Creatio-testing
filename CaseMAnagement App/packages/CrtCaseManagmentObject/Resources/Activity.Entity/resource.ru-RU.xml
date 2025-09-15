@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Case.Caption" Value="Обращение" />
+			<Item Name="Columns.ServiceProcessed.Caption" Value="Обработано процессами сервиса" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Active.Caption" Value="Активное действие" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Author.Caption" Value="Автор" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Contact.Caption" Value="Адресат" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Description.Caption" Value="Описание уведомления" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.RemindTime.Caption" Value="Время уведомления" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Source.Caption" Value="Роль адресата в объекте" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.SubjectPrimaryColumnValue.Caption" Value="Запись в объекте уведомления" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.SysEntitySchema.Caption" Value="Объект, к записи которого относится уведомление" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Active.Caption" Value="Активное действие" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Author.Caption" Value="Автор" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Contact.Caption" Value="Адресат" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Description.Caption" Value="Описание уведомления" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.RemindTime.Caption" Value="Время уведомления" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Source.Caption" Value="Роль адресата в объекте" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.SubjectPrimaryColumnValue.Caption" Value="Запись в объекте уведомления" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.SysEntitySchema.Caption" Value="Объект, к записи которого относится уведомление" />
+			<Item Name="EventsProcessSchema.Caption" Value="Активность" />
+			<Item Name="EventsProcessSchema.Parameters.BlindCopyRecepientsEmails.Caption" Value="BlindCopyRecepientsEmails" />
+			<Item Name="EventsProcessSchema.Parameters.CanGenerateAnniversaryReminding.Caption" Value="CanGenerateAnniversaryReminding" />
+			<Item Name="EventsProcessSchema.Parameters.CanUseDcm.Caption" Value="CanUseDcm" />
+			<Item Name="EventsProcessSchema.Parameters.CopyRecepientsEmails.Caption" Value="CopyRecepientsEmails" />
+			<Item Name="EventsProcessSchema.Parameters.DeletedValues.Caption" Value="DeletedValues" />
+			<Item Name="EventsProcessSchema.Parameters.EmailParticipantHelper.Caption" Value="Parameter 1" />
+			<Item Name="EventsProcessSchema.Parameters.EntityChangedColumns.Caption" Value="EntityChangedColumns" />
+			<Item Name="EventsProcessSchema.Parameters.InsertedValues.Caption" Value="InsertedValues" />
+			<Item Name="EventsProcessSchema.Parameters.IsDifferentContacts.Caption" Value="IsDifferentContacts" />
+			<Item Name="EventsProcessSchema.Parameters.IsNeedAutoEmailRelation.Caption" Value="IsNeedAutoEmailRelation" />
+			<Item Name="EventsProcessSchema.Parameters.IsProcessModeSave.Caption" Value="IsProcessModeSave" />
+			<Item Name="EventsProcessSchema.Parameters.newContactId.Caption" Value="newContactId" />
+			<Item Name="EventsProcessSchema.Parameters.newOwnerId.Caption" Value="newOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.NextProcessElementReady.Caption" Value="NextProcessElementReady" />
+			<Item Name="EventsProcessSchema.Parameters.oldContactId.Caption" Value="oldContactId" />
+			<Item Name="EventsProcessSchema.Parameters.oldOwnerId.Caption" Value="oldOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessListeners.Caption" Value="ProcessListeners" />
+			<Item Name="EventsProcessSchema.Parameters.RecepientsEmails.Caption" Value="RecepientsEmails" />
+			<Item Name="EventsProcessSchema.Parameters.RecepientsEmailsForDelete.Caption" Value="RecepientsEmailsForDelete" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5bf1c040-6f5b-435c-9b08-854bd766f820",
+    "Name": "SenderObtainingService",
+    "ModifiedOnUtc": "\/Date(1498744900000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "SenderObtainingService",
+    "DependsOn": []
+  }
+}

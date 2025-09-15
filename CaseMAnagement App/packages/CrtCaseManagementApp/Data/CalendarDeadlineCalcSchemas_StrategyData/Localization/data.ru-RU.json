@@ -1,0 +1,76 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "3582e35b-11ee-4c33-930f-0c701737320c"
+        },
+        {
+          "SchemaColumnUId": "259b670f-a523-4e81-b1d2-f7c2448d6e3c",
+          "ColumnName": "Handler",
+          "Value": "Terrasoft.Configuration.CaseTermStrategyByPriorityAndSLA"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "По приоритету обращения"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "7637a951-ec15-41a0-a7af-ca6db8c3a388"
+        },
+        {
+          "SchemaColumnUId": "259b670f-a523-4e81-b1d2-f7c2448d6e3c",
+          "ColumnName": "Handler",
+          "Value": "Terrasoft.Configuration.CaseTermStrategyByServiceInServicePact"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "По сервису в сервисном договоре"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "9791d521-ef72-4424-b74f-84bf3e5cc9ae"
+        },
+        {
+          "SchemaColumnUId": "259b670f-a523-4e81-b1d2-f7c2448d6e3c",
+          "ColumnName": "Handler",
+          "Value": "Terrasoft.Configuration.CaseTermStrategyByService"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "По сервису"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

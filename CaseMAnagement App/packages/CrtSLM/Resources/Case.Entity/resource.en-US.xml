@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.ProcessingTimeUnit.Caption" Value="Processing time unit" />
+			<Item Name="Columns.ProcessingTimeUnitValue.Caption" Value="Processing time unit value" />
+			<Item Name="Columns.ServiceItem.Caption" Value="Service" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_2.Caption" Value="Pool 2" />
+			<Item Name="EventsProcessSchema.Methods.ClosePreviousInterval.Caption" Value="ClosePreviousInterval" />
+			<Item Name="EventsProcessSchema.Methods.GetDateTimeInCurrentTimeZone.Caption" Value="GetDateTimeInCurrentTimeZone" />
+			<Item Name="EventsProcessSchema.Methods.GetIsNeedToLogLifecycle.Caption" Value="GetIsNeedToLogLifecycle" />
+			<Item Name="EventsProcessSchema.Methods.GetIsStatusActive.Caption" Value="GetIsStatusActive" />
+			<Item Name="EventsProcessSchema.Methods.GetIsStatusFinal.Caption" Value="GetIsStatusFinal" />
+			<Item Name="EventsProcessSchema.Methods.GetIsStatusFinalOrResolved.Caption" Value="GetIsStatusFinalOrResolved" />
+			<Item Name="EventsProcessSchema.Methods.GetIsStatusPaused.Caption" Value="GetIsStatusPaused" />
+			<Item Name="EventsProcessSchema.Methods.GetIsStatusResolved.Caption" Value="GetIsStatusResolved" />
+			<Item Name="EventsProcessSchema.Methods.GetLoggingColumns.Caption" Value="GetLoggingColumns" />
+			<Item Name="EventsProcessSchema.Methods.GetStatusIs.Caption" Value="GetStatusIs" />
+			<Item Name="EventsProcessSchema.Methods.OpenNewInterval.Caption" Value="OpenNewInterval" />
+			<Item Name="EventsProcessSchema.Methods.SaveLifecycle.Caption" Value="SaveLifecycle" />
+			<Item Name="EventsProcessSchema.Methods.SetCurrentDateTime.Caption" Value="SetCurrentDateTime" />
+			<Item Name="EventsProcessSchema.Methods.UpdateClosureDate.Caption" Value="UpdateClosureDate" />
+			<Item Name="EventsProcessSchema.Methods.UpdateResponse.Caption" Value="UpdateResponse" />
+			<Item Name="EventsProcessSchema.Methods.UpdateSolution.Caption" Value="UpdateSolution" />
+		</Items>
+	</Group>
+</Resources>

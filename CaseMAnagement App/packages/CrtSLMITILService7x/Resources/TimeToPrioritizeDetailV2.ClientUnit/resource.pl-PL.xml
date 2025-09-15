@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Czas na nadanie priorytetu" />
+			<Item Name="LocalizableStrings.Caption.Caption" Value="Czas na nadanie priorytetu" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Czas na nadanie priorytetu" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Caption" Value="Aktualna wartość już istnieje" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Value" Value="Aktualna wartość już istnieje" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Caption" Value="&quot;Priorytet zgłoszenia&quot; nie może być pusty" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Value" Value="&quot;Priorytet zgłoszenia&quot; nie może być pusty" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Caption" Value="Proszę podać czas odpowiedzi lub czas rozwiązania" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Value" Value="Proszę podać czas odpowiedzi lub czas rozwiązania" />
+		</Items>
+	</Group>
+</Resources>

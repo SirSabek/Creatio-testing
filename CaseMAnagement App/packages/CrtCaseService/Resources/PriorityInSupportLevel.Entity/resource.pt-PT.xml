@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Prioridade no nível de suporte - detalhe" />
+			<Item Name="Columns.CasePriority.Caption" Value="Prioridade do caso" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="A unidade de tempo da resposta" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Valor de tempo de resposta" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Unidade de tempo da resolução" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Valor de tempo da resolução" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Nível de suporte" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Agent performance overview" />
+			<Item Name="LocalizableStrings.AverageResolutionTimePerChannelChartWidget_label.Value" Value="Case" />
+			<Item Name="LocalizableStrings.AverageResolutionTimePerChannelChartWidget_series_0.Value" Value="Case" />
+			<Item Name="LocalizableStrings.AverageResolutionTimePerChannelChartWidget_title.Value" Value="Average resolution time per channel, hours" />
+			<Item Name="LocalizableStrings.AverageSatisfactionScoreByChannelChartWidget_label.Value" Value="Case" />
+			<Item Name="LocalizableStrings.AverageSatisfactionScoreByChannelChartWidget_series_0.Value" Value="Case" />
+			<Item Name="LocalizableStrings.AverageSatisfactionScoreByChannelChartWidget_title.Value" Value="Average satisfaction score by channel" />
+			<Item Name="LocalizableStrings.CasesInProgressIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CasesInProgressIndicatorWidget_title.Value" Value="In progress" />
+			<Item Name="LocalizableStrings.MyActiveCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.MyActiveCasesIndicatorWidget_title.Value" Value="My active cases" />
+			<Item Name="LocalizableStrings.MyAverageSatisfactionScoreIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.MyAverageSatisfactionScoreIndicatorWidget_title.Value" Value="My average satisfaction score (1-5)" />
+			<Item Name="LocalizableStrings.MyCasesByChannelChartWidget_label.Value" Value="Case" />
+			<Item Name="LocalizableStrings.MyCasesByChannelChartWidget_series_0.Value" Value="Case" />
+			<Item Name="LocalizableStrings.MyCasesByChannelChartWidget_title.Value" Value="My cases by channel" />
+			<Item Name="LocalizableStrings.MyCasesByPriorityChartWidget_label.Value" Value="Case" />
+			<Item Name="LocalizableStrings.MyCasesByPriorityChartWidget_series_0.Value" Value="Case" />
+			<Item Name="LocalizableStrings.MyCasesByPriorityChartWidget_title.Value" Value="My cases by priority" />
+			<Item Name="LocalizableStrings.MyCasesBySatisfactionScoreChartWidget_label.Value" Value="Case" />
+			<Item Name="LocalizableStrings.MyCasesBySatisfactionScoreChartWidget_series_0.Value" Value="Case" />
+			<Item Name="LocalizableStrings.MyCasesBySatisfactionScoreChartWidget_title.Value" Value="My cases by satisfaction score" />
+			<Item Name="LocalizableStrings.MyCasesByStatusChartWidget_label.Value" Value="Case" />
+			<Item Name="LocalizableStrings.MyCasesByStatusChartWidget_series_0.Value" Value="Case" />
+			<Item Name="LocalizableStrings.MyCasesByStatusChartWidget_title.Value" Value="My cases by status" />
+			<Item Name="LocalizableStrings.MyOverdueResolutionCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.MyOverdueResolutionCasesIndicatorWidget_title.Value" Value="My overdue cases (resolution)" />
+			<Item Name="LocalizableStrings.MyOverdueResponseCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.MyOverdueResponseCasesIndicatorWidget_title.Value" Value="My overdue cases (response)" />
+			<Item Name="LocalizableStrings.MySatisfactionScoreByChannelChartWidget_label.Value" Value="Cases" />
+			<Item Name="LocalizableStrings.MySatisfactionScoreByMonthChartWidget_label.Value" Value="Cases" />
+			<Item Name="LocalizableStrings.MySatisfactionScoreByMonthChartWidget_series_0.Value" Value="Cases" />
+			<Item Name="LocalizableStrings.MySatisfactionScoreByMonthChartWidget_title.Value" Value="My satisfaction score by month" />
+			<Item Name="LocalizableStrings.ResovledVsOverdueCasesChartWidget_label.Value" Value="Overdue cases" />
+			<Item Name="LocalizableStrings.ResovledVsOverdueCasesChartWidget_series_0.Value" Value="All resolved cases" />
+			<Item Name="LocalizableStrings.ResovledVsOverdueCasesChartWidget_series_1.Value" Value="Overdue cases" />
+			<Item Name="LocalizableStrings.ResovledVsOverdueCasesChartWidget_title.Value" Value="Resolved vs Overdue cases" />
+			<Item Name="LocalizableStrings.WaitingForResponseCasesIndicatorWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.WaitingForResponseCasesIndicatorWidget_title.Value" Value="Waiting for response" />
+		</Items>
+	</Group>
+</Resources>

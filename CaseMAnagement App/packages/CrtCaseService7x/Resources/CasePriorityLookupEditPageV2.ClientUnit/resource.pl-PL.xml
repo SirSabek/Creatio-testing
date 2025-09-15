@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Priorytety na stronie słownika poziomu wsparcia" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Obraz domyślny" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Proszę wypełnić pola czasu reakcji" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Proszę wypełnić pola czasu reakcji" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Proszę wypełnić pola czasu rozwiązania" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Proszę wypełnić pola czasu rozwiązania" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="Aktualna wartość już istnieje" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="Aktualna wartość już istnieje" />
+		</Items>
+	</Group>
+</Resources>

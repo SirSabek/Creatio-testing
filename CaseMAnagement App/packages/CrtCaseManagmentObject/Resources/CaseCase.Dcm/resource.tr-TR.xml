@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Vaka" />
+			<Item Name="Stages.Stage1.Caption" Value="New" />
+			<Item Name="Stages.Stage2.Caption" Value="İptal edildi" />
+			<Item Name="Stages.Stage3.Caption" Value="Kapalı" />
+			<Item Name="Stages.Stage4.Caption" Value="Çözüldü" />
+			<Item Name="Stages.Stage5.Caption" Value="Cevap bekle" />
+			<Item Name="Stages.Stage6.Caption" Value="Devam etmekte" />
+			<Item Name="Stages.Stage7.Caption" Value="Tepki" />
+		</Items>
+	</Group>
+</Resources>

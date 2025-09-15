@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "71eaee1a-bb7c-4b1a-a901-2b23ea63abfb",
+    "Name": "CaseCalculationParameterReader",
+    "ModifiedOnUtc": "\/Date(1480169653000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CaseCalculationParameterReader",
+    "DependsOn": []
+  }
+}

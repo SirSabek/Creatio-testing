@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Пощенска кутия за регистрация на инциденти" />
+			<Item Name="Columns.AliasAddress.Caption" Value="Псевдоним на пощенската кутия" />
+			<Item Name="Columns.Category.Caption" Value="Case category" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="Пощенска кутия" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="Message language" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="Винаги използвай езика на пощенската кутия" />
+		</Items>
+	</Group>
+</Resources>

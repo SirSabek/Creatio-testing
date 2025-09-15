@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.1eda64d7-23d0-8c79-fbc1-a90208ef297b.Caption" Value="Kennisbank: Filter toepassen op status en moederartikel" />
+			<Item Name="Caption" Value="Kennisbankartikel in geval (Zakelijke regels)" />
+		</Items>
+	</Group>
+</Resources>

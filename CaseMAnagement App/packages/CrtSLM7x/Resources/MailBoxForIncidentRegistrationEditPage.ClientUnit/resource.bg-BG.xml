@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationEditPage" />
+			<Item Name="LocalizableStrings.AliasTip.Value" Value="Ако използваш псевдоним на пощенската кутия, за да получаваш съобщения за поддръжка, моля посочи псевдоним на адреса" />
+			<Item Name="LocalizableStrings.MessageLanguageTip.Value" Value="Езикът на съобщението се определя от следните стойности, от най-висок към най-нисък приоритет: &#xA;1. Предпочитания език на контакта на получателя. &#xA;2. Езикът на пощенската кутия в справката „Списък на пощенските кутии за регистрация на случаи“. &#xA;3. Стойността на системната настройка „Език по подразбиране за съобщенията“ (код „DefaultMessageLanguage“). &#xA;Научи повече за тази функция в {0}Академията{1}" />
+		</Items>
+	</Group>
+</Resources>

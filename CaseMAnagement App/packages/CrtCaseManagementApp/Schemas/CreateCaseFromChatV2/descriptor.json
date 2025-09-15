@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f3e97ec3-ea73-44e5-882c-2268b07d18cc",
+    "Name": "CreateCaseFromChatV2",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Create case from chat",
+    "DependsOn": []
+  }
+}

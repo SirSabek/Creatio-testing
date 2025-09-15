@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationEditPage" />
+			<Item Name="LocalizableStrings.AliasTip.Value" Value="Nëse përdor emërtime alternative të kutisë postare për të marrë mesazhe mbështetëse, të lutem specifiko adresën alternative" />
+			<Item Name="LocalizableStrings.MessageLanguageTip.Value" Value="Gjuha e mesazhit përcaktohet nga vlerat e mëposhtme, nga përparësia më e lartë tek ajo më e ulëta: &#xA;1. Gjuha e preferuar e kontaktit të marrësit. &#xA;2. Gjuha e kutisë postare në kërkimin &quot;Lista e kutive postare për regjistrimin e çështjes&quot; &#xA;3. Vlera e konfigurimit të sistemit &quot;Gjuha e paracaktuar për mesazhet&quot; (kodi &quot;DefaultMessageLanguage&quot;). &#xA;Mëso më shumë rreth kësaj veçorie te {0}Akademia{1}" />
+		</Items>
+	</Group>
+</Resources>

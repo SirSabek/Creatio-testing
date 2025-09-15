@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CasePortalService" />
+			<Item Name="LocalizableStrings.CancelCaseError.Value" Value="このアクションを完了できません：案件のステータスが変更されました" />
+		</Items>
+	</Group>
+</Resources>

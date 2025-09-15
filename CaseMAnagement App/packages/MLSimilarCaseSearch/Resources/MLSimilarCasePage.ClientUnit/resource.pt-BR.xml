@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Página dos casos semelhantes" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Adiar até" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Mais de um elemento de filas conectado ao processo. Identidade do processo: {0}" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Anexos e notas" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Notas" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Re-enfileirar" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Não foi possível re-enfileirar o item na fila. Mensagem de erro: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="A página não está conectada ao elemento da fila do desktop do agente. Ação cancelada." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Não foi possível re-enfileirar o item na fila" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Re-Enfileirado com sucesso" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Aprovações" />
+		</Items>
+	</Group>
+</Resources>

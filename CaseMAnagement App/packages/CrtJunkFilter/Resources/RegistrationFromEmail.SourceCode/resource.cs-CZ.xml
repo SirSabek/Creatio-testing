@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="RegistrationFromEmail" />
+			<Item Name="LocalizableStrings.UnsupportedTypeOfFieldErrorMsg.Caption" Value="UnsupportedTypeOfFieldErrorMsg" />
+			<Item Name="LocalizableStrings.UnsupportedTypeOfFieldErrorMsg.Value" Value="Černý seznam: Nepodporovaný typ pole." />
+		</Items>
+	</Group>
+</Resources>

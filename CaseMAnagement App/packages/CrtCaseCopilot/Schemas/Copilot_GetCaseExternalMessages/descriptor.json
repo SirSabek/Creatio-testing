@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e93a314e-7a84-445a-b683-882ec6347c16",
+    "Name": "Copilot_GetCaseExternalMessages",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Get Case External Messages",
+    "DependsOn": []
+  }
+}

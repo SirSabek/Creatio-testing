@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0171a101-5f1a-4c8a-a3c2-71151cabb291",
+    "Name": "RenamePortalLookups",
+    "ModifiedOnUtc": "\/Date(1684239732000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "RenamePortalLookups",
+    "DependsOn": []
+  }
+}

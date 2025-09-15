@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Член на екипа по обслужване" />
+			<Item Name="Columns.Engineer.Caption" Value="Член/екип" />
+			<Item Name="Columns.ServiceItem.Caption" Value="Service" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Support line" />
+		</Items>
+	</Group>
+</Resources>

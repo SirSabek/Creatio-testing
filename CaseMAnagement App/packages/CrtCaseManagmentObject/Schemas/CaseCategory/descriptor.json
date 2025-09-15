@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "63fec14d-0309-43b0-99c5-b085abf0c314",
+    "Name": "CaseCategory",
+    "ModifiedOnUtc": "\/Date(1756637869000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Case category",
+    "DependsOn": []
+  }
+}

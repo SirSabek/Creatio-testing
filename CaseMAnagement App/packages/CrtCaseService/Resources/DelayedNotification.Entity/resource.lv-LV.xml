@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Aizkavētais paziņojums" />
+			<Item Name="Columns.ActualSendDate.Caption" Value="Faktiskais nosūtīšanas datums" />
+			<Item Name="Columns.AssemblyQualifiedManagerName.Caption" Value="Apkopes kvalificētā vadītāja vārds" />
+			<Item Name="Columns.Case.Caption" Value="Lieta" />
+			<Item Name="Columns.Delay.Caption" Value="Aizkave" />
+			<Item Name="Columns.EmailTemplateId.Caption" Value="E-pasta ziņojuma veidne" />
+			<Item Name="Columns.Error.Caption" Value="Kļūda" />
+			<Item Name="Columns.SendDate.Caption" Value="Kad sūta" />
+		</Items>
+	</Group>
+</Resources>

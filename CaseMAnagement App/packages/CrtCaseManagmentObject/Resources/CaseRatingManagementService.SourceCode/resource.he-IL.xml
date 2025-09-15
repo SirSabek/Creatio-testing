@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="שירות - הגדרת רמת שביעות רצון" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Caption" Value="SatisfactionCommentMessage" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Value" Value="תגובת שביעות רצון השתנתה" />
+			<Item Name="LocalizableStrings.SatisfactionLevelMessage.Value" Value="רמת שביעות הרצון השתנתה ל- {0}" />
+		</Items>
+	</Group>
+</Resources>

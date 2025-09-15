@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "e8e7dca6-f285-4090-9d1e-491a2e1aa0f2",
+    "Name": "AddServiceItemEntitySchemaRecordDefRightPostgreSql",
+    "DBEngineType": 2,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1544697137000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

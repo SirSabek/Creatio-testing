@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Налаштування рівня задоволеності" />
+			<Item Name="Columns.Case.Caption" Value="Звернення" />
+			<Item Name="Columns.Comment.Caption" Value="Коментар" />
+			<Item Name="Columns.Point.Caption" Value="Оцінка" />
+		</Items>
+	</Group>
+</Resources>

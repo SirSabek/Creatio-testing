@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="查找-大小写优先级" />
+			<Item Name="Columns.Image.Caption" Value="图标" />
+			<Item Name="Columns.Priority.Caption" Value="Priority" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Response time unit" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="响应时间值" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="解决时间" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="解决时间" />
+		</Items>
+	</Group>
+</Resources>

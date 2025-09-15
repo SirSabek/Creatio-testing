@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Pravilo za prijavu zahtjeva" />
+			<Item Name="Columns.CaseCategory.Caption" Value="Kategorija zahtjeva" />
+			<Item Name="Columns.CaseStatus.Caption" Value="Status zahtjeva" />
+			<Item Name="Columns.Delay.Caption" Value="Kašnjenje slanja, minute" />
+			<Item Name="Columns.EmailTemplate.Caption" Value="Predložak poruke e-pošte" />
+			<Item Name="Columns.IsQuoteOriginalEmail.Caption" Value="Citiraj izvornu e-poštu" />
+			<Item Name="Columns.RuleUsage.Caption" Value="Pravilo korištenja" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.Methods.LocalMessageExecuting.Caption" Value="LocalMessageExecuting" />
+		</Items>
+	</Group>
+</Resources>

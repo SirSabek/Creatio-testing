@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CasePage" />
+			<Item Name="LocalizableStrings.AccountCaption.Value" Value="Контрагент" />
+			<Item Name="LocalizableStrings.ActualDateGroupCaption.Value" Value="Фактичні дати" />
+			<Item Name="LocalizableStrings.AssignToMeCaption.Value" Value="Призначити мені" />
+			<Item Name="LocalizableStrings.CaseInformationTabCaption.Value" Value="Інформация по зверненню" />
+			<Item Name="LocalizableStrings.ClosureCodeCaption.Value" Value="Причина закриття" />
+			<Item Name="LocalizableStrings.ClosureDateCaption.Value" Value="Дата закриття" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Контакт" />
+			<Item Name="LocalizableStrings.CreatedOnCaption.Value" Value="Створено:" />
+			<Item Name="LocalizableStrings.CurrentStatusGroupCaption.Value" Value="Поточний стан" />
+			<Item Name="LocalizableStrings.DaysCaptionSuffix.Value" Value="д" />
+			<Item Name="LocalizableStrings.DefaultHeader.Value" Value="Звернення № {0}" />
+			<Item Name="LocalizableStrings.DelayHeaderCaptionSuffix.Value" Value="Затримка:" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Стрічка" />
+			<Item Name="LocalizableStrings.FeedbackGroupCaption.Value" Value="Зворотній зв'язок" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Інформация по зверненню" />
+			<Item Name="LocalizableStrings.GroupCaption.Caption" Value="Група відповідальних" />
+			<Item Name="LocalizableStrings.GroupCaption.Value" Value="Група відповідальних" />
+			<Item Name="LocalizableStrings.HeaderTemplate.Value" Value="Звернення № {0}: {1}" />
+			<Item Name="LocalizableStrings.HoursCaptionSuffix.Value" Value="г" />
+			<Item Name="LocalizableStrings.IndicatorsGroupCaption.Value" Value="Показники" />
+			<Item Name="LocalizableStrings.LeftHeaderCaptionSuffix.Value" Value="Залишилося:" />
+			<Item Name="LocalizableStrings.MinutesCaptionSuffix.Value" Value="хв" />
+			<Item Name="LocalizableStrings.NotesFilesTabCaption.Value" Value="Файли та примітки" />
+			<Item Name="LocalizableStrings.NumberCaption.Value" Value="Номер" />
+			<Item Name="LocalizableStrings.OriginCaption.Value" Value="Походження" />
+			<Item Name="LocalizableStrings.OwnerCaption.Caption" Value="Відповідальний" />
+			<Item Name="LocalizableStrings.OwnerCaption.Value" Value="Відповідальний" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Caption" Value="Заголовок батьківського звернення" />
+			<Item Name="LocalizableStrings.ParentCaseCaption.Value" Value="Батьківське звернення" />
+			<Item Name="LocalizableStrings.PriorityCaption.Value" Value="Пріоритет" />
+			<Item Name="LocalizableStrings.RatingGroupCaption.Value" Value="Оцінка" />
+			<Item Name="LocalizableStrings.RegisteredOnCaption.Value" Value="Дата реєстрації" />
+			<Item Name="LocalizableStrings.RelationsTabCaption.Value" Value="Закриття та зворотній зв'язок" />
+			<Item Name="LocalizableStrings.RequiredContactOrAccountMessage.Value" Value="Заповнення одного з полів &quot;Контрагент&quot; або &quot;Контакт&quot; є обов'язковим" />
+			<Item Name="LocalizableStrings.RespondedOnCaption.Value" Value="Фактична реакція" />
+			<Item Name="LocalizableStrings.ResponseDateCaption.Value" Value="Запланований час відповіді" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCaption.Value" Value="Оцінка" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentCaption.Value" Value="Побажання від клієнта" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Caption" Value="Підказка для поля &quot;Коментар до оцінки&quot;" />
+			<Item Name="LocalizableStrings.SatisfactionLevelCommentTip.Value" Value="Щоб змінити коментар щодо звернення у вас повинні бути права на операцію «Можливість змінювати рівень задоволеності за зверненням»" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Caption" Value="Підказка для поля &quot;Рівень задоволеності&quot;" />
+			<Item Name="LocalizableStrings.SatisfactionLevelTip.Value" Value="Щоб змінити оцінку у вас повинні бути права на операцію «Можливість змінювати рівень задоволеності за зверненням»" />
+			<Item Name="LocalizableStrings.SolutionCaption.Value" Value="Розширення" />
+			<Item Name="LocalizableStrings.SolutionDateCaption.Value" Value="Планове вирішення" />
+			<Item Name="LocalizableStrings.SolutionGroupCaption.Value" Value="Розширення" />
+			<Item Name="LocalizableStrings.SolutionProvidedOnCaption.Value" Value="Фактичне вирішення" />
+			<Item Name="LocalizableStrings.SolutionTabCaption.Value" Value="Закриття та зворотній зв'язок" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Caption" Value="SolvedOnSupportLevelCaption" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="Вирішено на рівні" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Статус" />
+			<Item Name="LocalizableStrings.SubjectCaption.Value" Value="Заголовок" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Підписатися на оновлення стрічки" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Ви підписані на оновлення стрічки: {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Caption" Value="SupportLevelCaption" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Рівень підтримки" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="Опис" />
+			<Item Name="LocalizableStrings.TermsControlGroupCaption.Value" Value="Терміни" />
+			<Item Name="LocalizableStrings.TermsGroupCaption.Value" Value="Терміни" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Caption" Value="TimeZoneSysSettingMessage" />
+			<Item Name="LocalizableStrings.TimeZoneSysSettingMessage.Value" Value="&lt;p&gt; Для відображення дат використовується часовий пояс (в пріоритеті за спаданням): &lt;/p&gt;&lt;ol&gt;&lt;li&gt; Часовий пояс, зазначений у Вашому профілі, &lt;/li&gt;&lt;li&gt; Системне налаштування «Часовий пояс за замовчуванням», &lt;/li&gt;&lt;/ol&gt;&lt;p&gt; Для налаштування часового поясу перейдіть в &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;Ваш профіль&quot;&lt;/a&gt; або в системне налаштуваня &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/12fef2c9-8baa-4b07-88e4-464169a44775&quot;&gt;&quot;Часовий пояс за замовчуванням&quot;&lt;/a&gt; &lt;/p&gt;" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Caption" Value="TimeZoneUserProfileMessage" />
+			<Item Name="LocalizableStrings.TimeZoneUserProfileMessage.Value" Value="&lt;p&gt; Для відображення дат використовується часовий пояс (в пріоритеті за спаданням): &lt;/p&gt;&lt;ol&gt;&lt;li&gt; Часовий пояс, зазначений у Вашому профілі, &lt;/li&gt;&lt;li&gt; Системне налаштування «Часовий пояс за замовчуванням», &lt;/li&gt;&lt;li&gt; Часовий пояс «Час у форматі UTC». &lt;/li&gt;&lt;/ol&gt;&lt;p&gt; Для налаштування часового поясу перейдіть в &lt;a href=&quot;../Nui/ViewModule.aspx#UserProfile&quot;&gt;&quot;ваш профіль&quot;&lt;/a&gt; або зверніться до адміністратора. &lt;/p&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Відписатися від оновлень стрічки" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ви відписані від оновлень стрічки: {0}" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Ciclo di vita del caso" />
+			<Item Name="Columns.Case.Caption" Value="Caso" />
+			<Item Name="Columns.CaseRecordId.Caption" Value="Identificatore del record del caso" />
+			<Item Name="Columns.EndDate.Caption" Value="Data fine" />
+			<Item Name="Columns.Group.Caption" Value="Gruppo assegnatari" />
+			<Item Name="Columns.Owner.Caption" Value="Assegnatario" />
+			<Item Name="Columns.Priority.Caption" Value="Priorità" />
+			<Item Name="Columns.ResponseOverdue.Caption" Value="Risposta fuori tempo" />
+			<Item Name="Columns.ServiceItem.Caption" Value="elemento del servizio" />
+			<Item Name="Columns.SolutionDate.Caption" Value="Tempo di risoluzione" />
+			<Item Name="Columns.SolutionOverdue.Caption" Value="Risoluzione fuori tempo" />
+			<Item Name="Columns.SolutionProvidedOn.Caption" Value="Tempo effettivo di risoluzione" />
+			<Item Name="Columns.StartDate.Caption" Value="Data inizio" />
+			<Item Name="Columns.StateDurationInDays.Caption" Value="Durata (giorni)" />
+			<Item Name="Columns.StateDurationInHours.Caption" Value="Durata (ore)" />
+			<Item Name="Columns.StateDurationInMinutes.Caption" Value="Durata (minuti)" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

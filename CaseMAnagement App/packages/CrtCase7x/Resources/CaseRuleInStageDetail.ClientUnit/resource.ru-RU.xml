@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CaseRuleInStageDetail" />
+			<Item Name="LocalizableStrings.Caption.Caption" Value="CaseRuleInStageDetail" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Правила поведения полей сроков в обращении" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.28b4adf7-8386-08d5-3157-fe1de7aa95ea.Caption" Value="Контейнер &quot;Оценка&quot;: Делать элементы редактируемыми" />
+			<Item Name="AddonConfig.Rules.5f5224b3-744a-bde3-1180-3fe7f405fe59.Caption" Value="Таймер для времени реакции: Скрывать элемент" />
+			<Item Name="AddonConfig.Rules.8279c9ea-9402-e190-2eba-a08663d1b37d.Caption" Value="Категория, Сервис, Сервисный договор: Делать поля редактируемыми" />
+			<Item Name="AddonConfig.Rules.e2fc9f98-f17b-47a7-f156-71a02462bbe8.Caption" Value="Кнопка &quot;Отправить оценку&quot;: Скрывать элеменет" />
+			<Item Name="AddonConfig.Rules.f5704a88-bd5c-970d-7a3d-eaaea7b4bd9c.Caption" Value="Контейнер &quot;Оценка&quot;: Показывать элемент" />
+			<Item Name="AddonConfig.Rules.f5e0f2d0-c908-8702-79fd-4b5865688b47.Caption" Value="Таймер для времени разрешения: Скрывать элемент" />
+			<Item Name="Caption" Value="External cases form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

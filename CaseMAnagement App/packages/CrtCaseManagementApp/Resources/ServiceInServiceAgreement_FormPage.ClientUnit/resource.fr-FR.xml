@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Formulaire du service au sein du contrat de service" />
+			<Item Name="LocalizableStrings.addRecord_hl6cv6y_caption.Value" Value="Ajouter" />
+			<Item Name="LocalizableStrings.addRecord_otug0r6_caption.Value" Value="Ajouter" />
+			<Item Name="LocalizableStrings.addRecord_pworq7r_caption.Value" Value="Ajouter" />
+			<Item Name="LocalizableStrings.addRecord_vyprjkp_caption.Value" Value="Ajouter" />
+			<Item Name="LocalizableStrings.addRecord_xprr53n_caption.Value" Value="Ajout" />
+			<Item Name="LocalizableStrings.ComboBox_09w87e2_label.Value" Value="Date et heure de résolution" />
+			<Item Name="LocalizableStrings.ComboBox_v10hb6a_label.Value" Value="Heure de réponse" />
+			<Item Name="LocalizableStrings.NumberInput_fw0qi0g_label.Value" Value="Valeur de l'en-tête" />
+			<Item Name="LocalizableStrings.NumberInput_gfbs7wo_label.Value" Value="Valeur de l'en-tête" />
+			<Item Name="LocalizableStrings.ReactionTimeUnit_label.Value" Value="Heure de réponse" />
+			<Item Name="LocalizableStrings.ReactionTimeValue_label.Value" Value="Valeur" />
+			<Item Name="LocalizableStrings.ServiceItem_tooltip.Value" Value="Les conditions et le statut seront automatiquement remplis avec les données du service sélectionné" />
+			<Item Name="LocalizableStrings.SolutionTimeUnit_label.Value" Value="Date et heure de résolution" />
+			<Item Name="LocalizableStrings.SolutionTimeValue_label.Value" Value="Valeur de l'en-tête" />
+		</Items>
+	</Group>
+</Resources>

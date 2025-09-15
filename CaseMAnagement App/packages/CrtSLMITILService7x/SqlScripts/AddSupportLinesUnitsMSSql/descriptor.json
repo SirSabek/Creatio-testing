@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "fa2a7eab-f18c-6c3f-c734-5180697bf882",
+    "Name": "AddSupportLinesUnitsMSSql",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1669047544000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

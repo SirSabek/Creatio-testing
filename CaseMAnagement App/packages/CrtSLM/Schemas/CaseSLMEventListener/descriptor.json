@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a34f73f9-d6f2-4e58-8349-70275d45d272",
+    "Name": "CaseSLMEventListener",
+    "ModifiedOnUtc": "\/Date(1674028947000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CaseSLMEventListener",
+    "DependsOn": []
+  }
+}

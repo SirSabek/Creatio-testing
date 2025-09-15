@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Statut du cas" />
+			<Item Name="Columns.ButtonCaption.Caption" Value="Libellé du bouton" />
+			<Item Name="Columns.ClosureCode.Caption" Value="Raison de la clôture" />
+			<Item Name="Columns.Color.Caption" Value="Couleur" />
+			<Item Name="Columns.Image.Caption" Value="Photo" />
+			<Item Name="Columns.IsCloseOnSave.Caption" Value="Fermer après enregistrement" />
+			<Item Name="Columns.IsDisplayed.Caption" Value="IsDisplayed" />
+			<Item Name="Columns.IsFinal.Caption" Value="Statut final" />
+			<Item Name="Columns.IsPaused.Caption" Value="Statut en attente" />
+			<Item Name="Columns.IsResolved.Caption" Value="Statut de la résolution" />
+			<Item Name="Columns.StageNumber.Caption" Value="StageNumber" />
+			<Item Name="Columns.StatusColor.Caption" Value="Couleur du statut" />
+		</Items>
+	</Group>
+</Resources>

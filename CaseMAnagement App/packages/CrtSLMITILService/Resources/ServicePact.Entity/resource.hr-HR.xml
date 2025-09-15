@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Ugovor o usluzi" />
+			<Item Name="Columns.Calendar.Caption" Value="Kalendar" />
+			<Item Name="Columns.EndDate.Caption" Value="Kraj" />
+			<Item Name="Columns.Name.Caption" Value="Naslov" />
+			<Item Name="Columns.Notes.Caption" Value="Bilješke" />
+			<Item Name="Columns.Number.Caption" Value="Number" />
+			<Item Name="Columns.Owner.Caption" Value="Vlasnik" />
+			<Item Name="Columns.ServiceProvider.Caption" Value="Account" />
+			<Item Name="Columns.ServiceProviderContact.Caption" Value="Kontakt" />
+			<Item Name="Columns.StartDate.Caption" Value="Start" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="Columns.SupportLevel.Caption" Value="Razina podrške" />
+			<Item Name="Columns.Type.Caption" Value="Type" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalFlow1.Caption" Value="Is generating number required" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess1.Caption" Value="Pokreni potproces događaja 1" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumberUserTask.Caption" Value="Generiraj redni broj" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask1.Caption" Value="Pass schema to generator" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask2.Caption" Value="Assign number" />
+			<Item Name="EventsProcessSchema.BaseElements.ServicePactSavingStartMessage.Caption" Value="ServicePactSaved" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Bazen 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Traka 1" />
+		</Items>
+	</Group>
+</Resources>

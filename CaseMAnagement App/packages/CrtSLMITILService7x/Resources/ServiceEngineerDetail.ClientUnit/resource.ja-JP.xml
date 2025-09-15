@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="詳細スキーマ - サービスセクションのサービスチーム" />
+			<Item Name="Images.12703106-728c-4173-ba38-8999330d571f.Caption" Value="イメージ 1" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="サービスチーム" />
+			<Item Name="LocalizableStrings.DeleteButtonTitle.Value" Value="削除" />
+			<Item Name="LocalizableStrings.EngineerCaption.Value" Value="メンバー/チーム" />
+			<Item Name="LocalizableStrings.ErrorTemplate.Value" Value="詳細 {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="サポートライン" />
+			<Item Name="LocalizableStrings.ValidationErrorTemplate.Value" Value="Please, fill in the &quot;{0}&quot; field" />
+		</Items>
+	</Group>
+</Resources>

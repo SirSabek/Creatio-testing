@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Propriedade do Cabeçalho" />
+			<Item Name="Columns.ExcludedEmailAdresses.Caption" Value="Endereços de e-mail excluídos" />
+			<Item Name="Columns.ExcludedEmailAdresses.Description" Value="Endereços de e-mail aos quais a regra não será aplicada" />
+			<Item Name="Columns.Handler.Caption" Value="Manipulador" />
+			<Item Name="Columns.IsActive.Caption" Value="Está Ativo" />
+			<Item Name="Columns.Name.Caption" Value="Nome" />
+		</Items>
+	</Group>
+</Resources>

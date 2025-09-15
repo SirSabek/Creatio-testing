@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "e231aa20-bc42-4ec3-a54b-77ee6df3c2cc"
+= MetaData.Schema.A2 "CaseStatusLookupSection"
+= MetaData.Schema.A5 "776e5140-accd-4a7b-a7de-2f3723ce8ed2"
+= MetaData.Schema.B6 "0daea9e4-b08a-abb1-687e-7dc834448743"
+= MetaData.Schema.B8 "7.6.0.0"
+= MetaData.Schema.HD1 "c8c39e3b-de05-4d01-814a-45c7981e139f"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

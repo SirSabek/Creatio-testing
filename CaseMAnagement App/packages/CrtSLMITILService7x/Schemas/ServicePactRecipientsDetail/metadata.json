@@ -1,0 +1,17 @@
+= MetaData.Schema.UId "c6e30189-1686-4978-8001-17a683d4d258"
+= MetaData.Schema.A2 "ServicePactRecipientsDetail"
+= MetaData.Schema.A5 "914c52f8-7161-4b32-82f6-d4cef8b3a889"
++ MetaData.Schema.B2 {
+  "UId": "702e5b41-952a-4af0-8d25-721b970a58e5",
+  "A2": "ActiveServicePacts",
+  "A3": "c6e30189-1686-4978-8001-17a683d4d258",
+  "A4": "c6e30189-1686-4978-8001-17a683d4d258",
+  "A5": "914c52f8-7161-4b32-82f6-d4cef8b3a889"
+}
+= MetaData.Schema.B2.["8f7c31a4-b656-47c9-a503-a72d0b3dd077"].A4 "c6e30189-1686-4978-8001-17a683d4d258"
+~ MetaData.Schema.B2 ["702e5b41-952a-4af0-8d25-721b970a58e5"]
+= MetaData.Schema.B6 "f129f46d-d9a7-1aac-bc40-5626f9c428da"
+= MetaData.Schema.B8 "7.8.0.0"
+= MetaData.Schema.HD1 "2ff3b2fa-5b9d-4e9a-8831-ce498329d553"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

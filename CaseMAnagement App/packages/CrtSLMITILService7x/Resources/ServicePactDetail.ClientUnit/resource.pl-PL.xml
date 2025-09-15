@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Schemat szczegółowy - Umowy serwisowe w sekcji umów serwisowych" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Umowa serwisowa" />
+		</Items>
+	</Group>
+</Resources>

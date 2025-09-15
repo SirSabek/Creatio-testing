@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "47c5526d-bf30-4599-8622-9313f9cb3e5b",
+    "Name": "CaseRatingFeedbackPage",
+    "ModifiedOnUtc": "\/Date(1486388386000)\/",
+    "Parent": {
+      "UId": "81c2ebad-7f20-4e71-b0c6-941b1422ba62",
+      "Name": "BaseEntityPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "CaseRatingFeedbackPage",
+    "DependsOn": []
+  }
+}

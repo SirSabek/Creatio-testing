@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="הגדרת רמת שביעות רצון" />
+			<Item Name="Columns.Case.Caption" Value="מקרה" />
+			<Item Name="Columns.Comment.Caption" Value="הערות" />
+			<Item Name="Columns.Point.Caption" Value="דרוג" />
+		</Items>
+	</Group>
+</Resources>

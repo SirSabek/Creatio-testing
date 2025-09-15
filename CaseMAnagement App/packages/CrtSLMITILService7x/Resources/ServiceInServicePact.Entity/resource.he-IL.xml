@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="שירות בחוזה השירות" />
+			<Item Name="Columns.Calendar.Caption" Value="לוח שנה" />
+			<Item Name="Columns.ConcatName.Caption" Value="ServiseAndServiseInServicePactName" />
+			<Item Name="Columns.ReactionTime.Caption" Value="זמן תגובה" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="יחידת זמן תגובה" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="ערך זמן תגובה" />
+			<Item Name="Columns.ServiceItem.Caption" Value="שרות" />
+			<Item Name="Columns.ServicePact.Caption" Value="הסכם שרות" />
+			<Item Name="Columns.SolutionTime.Caption" Value="זמן פתרון" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="יחידת זמן פתרון" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="ערך זמן פתרון" />
+			<Item Name="Columns.Status.Caption" Value="סטטוס" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="בריכה 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="נתיב 1" />
+			<Item Name="EventsProcessSchema.Methods.GetServiceItemName.Caption" Value="GetServiceItemName" />
+			<Item Name="EventsProcessSchema.Methods.GetServicePactName.Caption" Value="GetServicePactName" />
+		</Items>
+	</Group>
+</Resources>

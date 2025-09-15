@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Page du formulaire des services" />
+			<Item Name="LocalizableStrings.addRecord_03s9cot_caption.Value" Value="Ajouter" />
+			<Item Name="LocalizableStrings.addRecord_512tqpw_caption.Value" Value="Ajouter" />
+			<Item Name="LocalizableStrings.addRecord_f54okj6_caption.Value" Value="Ajouter" />
+			<Item Name="LocalizableStrings.addRecord_g3cn7mq_caption.Value" Value="Ajouter" />
+			<Item Name="LocalizableStrings.addRecord_i5xmdt7_caption.Value" Value="Ajouter" />
+			<Item Name="LocalizableStrings.addRecord_jd4aj44_caption.Value" Value="Ajouter" />
+			<Item Name="LocalizableStrings.addRecord_u8lsmco_caption.Value" Value="Ajouter" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Cas" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="Import de données" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Rechercher" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ComboboxSearchTextAction_q2nrnan_caption.Value" Value="Ajouter" />
+			<Item Name="LocalizableStrings.ExpansionPanel_bzlj5in_title.Value" Value="Équipe responsable du service" />
+			<Item Name="LocalizableStrings.ExpansionPanel_hk5gmbt_title.Value" Value="Cas" />
+			<Item Name="LocalizableStrings.ExpansionPanel_my13urh_title.Value" Value="Services associés" />
+			<Item Name="LocalizableStrings.ExpansionPanel_p94hdm6_title.Value" Value="Contrats de service" />
+			<Item Name="LocalizableStrings.GeneralInfoLabel_caption.Value" Value="Info générale" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Profil de service" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_5rm00x4_caption.Value" Value="Nouveau" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_6ybvphu_caption.Value" Value="Nouveau" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_cf3yrbf_caption.Value" Value="Nouveau" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_l985z0l_caption.Value" Value="Nouveau" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_199cc1u_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_ecccny6_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_huey3az_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_qywk5qg_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_19cqo5j_caption.Value" Value="Importer les données" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_1cppkoy_caption.Value" Value="Import de données" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_d8q6i3r_caption.Value" Value="Import de données" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_nx1fnqs_caption.Value" Value="Import de données" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_5vs7aur_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_brx41dw_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_iixd0yt_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_zrtkjak_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.GridDetailRefreshButton_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_9qs4sib_placeholder.Value" Value="Rechercher" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_nfnjt32_placeholder.Value" Value="Rechercher" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_sbh1em5_placeholder.Value" Value="Recherche" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_uowgd08_placeholder.Value" Value="Rechercher" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_051u662_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_4ddsz60_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_7vinrmk_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_fvm5lxp_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="Historique du cas" />
+			<Item Name="LocalizableStrings.Label_4qxqmbk_caption.Value" Value="Termes" />
+			<Item Name="LocalizableStrings.Label_x01rs14_caption.Value" Value="Info générale" />
+			<Item Name="LocalizableStrings.RelatedServicesExpansionPanel_title.Value" Value="Services associés" />
+			<Item Name="LocalizableStrings.RelatedServicesExportDataButton_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.RelatedServicesImportDataButton_caption.Value" Value="Import de données" />
+			<Item Name="LocalizableStrings.RelatedServicesList_6f31e5ef.Value" Value="Service" />
+			<Item Name="LocalizableStrings.RelatedServicesRefreshButton_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.RelatedServicesSearchFilter_placeholder.Value" Value="Rechercher" />
+			<Item Name="LocalizableStrings.RelatedServicesSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ResolutionTimeUnit_label.Value" Value="Date et heure de résolution" />
+			<Item Name="LocalizableStrings.ResolutionTimeValue_label.Value" Value="Valeur de l'en-tête" />
+			<Item Name="LocalizableStrings.ResponseTimeUnit_label.Value" Value="Heure de réponse" />
+			<Item Name="LocalizableStrings.ResponseTimeValue_label.Value" Value="Valeur" />
+			<Item Name="LocalizableStrings.ServicePactExpansionPanel_title.Value" Value="Contrats de service associés" />
+			<Item Name="LocalizableStrings.ServicePactRefreshButton_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.ServicePactSearchFilter_placeholder.Value" Value="Rechercher" />
+			<Item Name="LocalizableStrings.ServicePactSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ServicePactsExportDataButton_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.ServicePactsImportDataButton_caption.Value" Value="Import de données" />
+			<Item Name="LocalizableStrings.ServiceTeamMemberExpansionPanel_title.Value" Value="Équipe responsable du service" />
+			<Item Name="LocalizableStrings.ServiceTeamMemberExportDataButton_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.ServiceTeamMemberImportDataButton_caption.Value" Value="Import de données" />
+			<Item Name="LocalizableStrings.ServiceTeamMemberRefreshButton_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.ServiceTeamMemberSearchFilter_placeholder.Value" Value="Rechercher" />
+			<Item Name="LocalizableStrings.ServiceTeamMemberSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.TabContainer_cmfqamf_caption.Value" Value="Historique" />
+			<Item Name="LocalizableStrings.TermsLabel_caption.Value" Value="Termes" />
+		</Items>
+	</Group>
+</Resources>

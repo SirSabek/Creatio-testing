@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service contract status" />
+			<Item Name="Columns.Color.Caption" Value="색" />
+			<Item Name="Columns.IsActive.Caption" Value="Is Active" />
+		</Items>
+	</Group>
+</Resources>

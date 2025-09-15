@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="מקרה" />
+			<Item Name="Columns.Group.Caption" Value="קבוצת גורמים מטפלים" />
+			<Item Name="Columns.Owner.Caption" Value="גורם מטפל" />
+			<Item Name="Columns.ParentActivity.Caption" Value="פעילות הורה" />
+			<Item Name="Columns.ParentCase.Caption" Value="מקרה הורה" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="בריכת 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="נתיב 1" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.NewOwnerCaption.Value" Value="התראת הקצאה לגורם מטפל" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.NewOwnerMessage.Value" Value="מקרה {0} &quot;{1}&quot; הוקצה לך" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OldOwnerCaption.Value" Value="הודעה על שינוי הגורם המטפל" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OldOwnerMessage.Value" Value="מקרה לא {0} &quot;{1} לא מוקצה לך עוד" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.ServiceRequestName.Value" Value="מקרה {0}" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SubjectByString.Value" Value="על ידי" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SubjectForString.Value" Value="על ידי" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.IsNeedSendRemind.Caption" Value="IsNeedSendRemind" />
+			<Item Name="EventsProcessSchema.Parameters.NewOwnerId.Caption" Value="NewOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.OldOwnerId.Caption" Value="OldOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+			<Item Name="EventsProcessSchema.Parameters.SendToNewOwner.Caption" Value="SendToNewOwner" />
+			<Item Name="EventsProcessSchema.Parameters.SendToOldOwner.Caption" Value="SendToOldOwner" />
+		</Items>
+	</Group>
+</Resources>

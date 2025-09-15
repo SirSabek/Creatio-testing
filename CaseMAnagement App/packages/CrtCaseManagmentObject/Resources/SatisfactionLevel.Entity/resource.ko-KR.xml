@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="만족도" />
+			<Item Name="Columns.Colour.Caption" Value="색" />
+			<Item Name="Columns.Image.Caption" Value="Image" />
+			<Item Name="Columns.IsActive.Caption" Value="Is used" />
+			<Item Name="Columns.Point.Caption" Value="Point" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

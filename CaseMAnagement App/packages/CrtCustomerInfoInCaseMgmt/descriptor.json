@@ -1,0 +1,26 @@
+﻿{
+  "Descriptor": {
+    "UId": "016b1832-0aa2-d2cf-cf9f-5ad4d6767b7a",
+    "PackageVersion": "7.8.0",
+    "Name": "CrtCustomerInfoInCaseMgmt",
+    "Type": 1,
+    "InstallBehavior": 1,
+    "ModifiedOnUtc": "\/Date(1732030532000)\/",
+    "Maintainer": "Creatio",
+    "ProjectPath": "Files/CrtCustomerInfoInCaseMgmt.csproj",
+    "DependsOn": [
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      },
+      {
+        "UId": "43d663d1-6ab9-4369-903c-f804cacc55e4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseManagementApp",
+        "Type": 1
+      }
+    ]
+  }
+}

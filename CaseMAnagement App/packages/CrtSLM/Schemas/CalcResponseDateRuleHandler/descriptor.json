@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "cf92978c-b250-40c8-8c48-5699a7bb22e2",
+    "Name": "CalcResponseDateRuleHandler",
+    "ModifiedOnUtc": "\/Date(1756637879000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "The rule for calculating the planned response time.",
+    "DependsOn": []
+  }
+}

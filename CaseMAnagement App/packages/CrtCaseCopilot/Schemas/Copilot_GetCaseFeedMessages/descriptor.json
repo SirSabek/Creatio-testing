@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "fe82a4fb-ebfc-4ffa-8a8e-e76a6462a95f",
+    "Name": "Copilot_GetCaseFeedMessages",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Get Case Feed Messages",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="满意度" />
+			<Item Name="Columns.Colour.Caption" Value="Color" />
+			<Item Name="Columns.Image.Caption" Value="图像" />
+			<Item Name="Columns.IsActive.Caption" Value="已暂停" />
+			<Item Name="Columns.Point.Caption" Value="点数" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

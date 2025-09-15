@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.1eda64d7-23d0-8c79-fbc1-a90208ef297b.Caption" Value="מאמר בסיס ידע: החל את המסנן לפי מצב ומאמר הורה" />
+			<Item Name="Caption" Value="מאמר בסיס ידע במקרה (חוקי עסקי)" />
+		</Items>
+	</Group>
+</Resources>

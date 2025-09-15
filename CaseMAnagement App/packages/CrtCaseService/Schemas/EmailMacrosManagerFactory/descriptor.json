@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1dcb3000-5b6a-4194-879d-882c4655dfa9",
+    "Name": "EmailMacrosManagerFactory",
+    "ModifiedOnUtc": "\/Date(1511800281000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "EmailMacrosManagerFactory",
+    "DependsOn": []
+  }
+}

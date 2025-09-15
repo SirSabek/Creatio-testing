@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadFeeds.Caption" Value="フィードメッセージを読む" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.DataSourceFilters.Caption" Value="フィルターのデータソース" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.EntityColumnMetaPathes.DisplayValue" Value="ebf6bb93-8aa6-4a01-900d-c6ea67affe21;e80190a5-03b2-4095-90f7-a193a960adee;fb47c81f-a125-488b-b2fb-05415b8da84c" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.NumberOfRecords.Caption" Value="読み込むレコード数" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.NumberOfRecords.DisplayValue" Value="30" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.OrderInfo.Caption" Value="列の順序" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.OrderInfo.DisplayValue" Value="CreatedOn:2:1" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ReadSomeTopRecords.Caption" Value="最初に読み込む" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ReadSomeTopRecords.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="連絡先" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Created on" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCompositeObjectList.Message.Caption" Value="メッセージ/コメント" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultCount.Caption" Value="レコード数" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultEntity.Caption" Value="結果コレクションの最初のアイテム" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultFloatFunction.Caption" Value="関数の結果(Decimal)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.ReadFeeds.Parameters.ResultType.DisplayValue" Value="2" />
+			<Item Name="BaseElements.RemoveHtmlScriptTask.Caption" Value="Remove HTML tags" />
+			<Item Name="Caption" Value="ケースフィードメッセージを取得" />
+			<Item Name="Description" Value="ケースIDに基づいてケースからの最後の30件のメッセージを取得します" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="プロセスインスタンスのキャプション" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.CaseId.Caption" Value="ケースID" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="ケースのID" />
+			<Item Name="Parameters.FeedMessages.Caption" Value="Feed messages" />
+			<Item Name="Parameters.FeedMessages.CreatedBy.Caption" Value="CreatedBy" />
+			<Item Name="Parameters.FeedMessages.CreatedBy.Sys_Description" Value="メッセージの投稿者" />
+			<Item Name="Parameters.FeedMessages.CreatedOn.Caption" Value="Created on" />
+			<Item Name="Parameters.FeedMessages.CreatedOn.Sys_Description" Value="作成日" />
+			<Item Name="Parameters.FeedMessages.Message.Caption" Value="メッセージ" />
+			<Item Name="Parameters.FeedMessages.Message.Sys_Description" Value="メッセージ本文" />
+			<Item Name="Parameters.FeedMessages.Sys_Description" Value="ケース別フィード内の最後の10件のメッセージ" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,16 @@
+﻿{
+  "SqlScript": {
+    "UId": "1bb67eeb-27ea-4781-96e3-d08907d8fc8f",
+    "Name": "UpdatePortalUserCanEditRightsOracle",
+    "DBEngineType": 1,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1443188269000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": [
+      {
+        "UId": "08ecb06a-07c6-4a6b-af8b-11e76a54401f",
+        "Name": "InsertPortalUserCanReadRightsOracle"
+      }
+    ]
+  }
+}

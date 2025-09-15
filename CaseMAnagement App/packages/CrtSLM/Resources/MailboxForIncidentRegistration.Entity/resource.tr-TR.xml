@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Mailbox for incident registration" />
+			<Item Name="Columns.AliasAddress.Caption" Value="Posta kutusu takma adı" />
+			<Item Name="Columns.Category.Caption" Value="Vaka kategorileri" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="Mailbox" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="Message language" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="Her zaman posta kutusu dilini kullanın" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="BaseCaseEntityEventListener" />
+			<Item Name="LocalizableStrings.NewOwnerMessage.Value" Value="Ügyszám{0} &quot;{1}&quot; Önhöz lett rendelve" />
+			<Item Name="LocalizableStrings.OldOwnerMessage.Value" Value="Ügyszám{0} &quot;{1}&quot; már nincs Önhöz rendelve" />
+			<Item Name="LocalizableStrings.SubjectByString.Value" Value="írta" />
+			<Item Name="LocalizableStrings.SubjectForString.Value" Value="írta" />
+		</Items>
+	</Group>
+</Resources>

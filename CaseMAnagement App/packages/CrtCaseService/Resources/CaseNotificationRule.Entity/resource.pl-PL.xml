@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Reguła powiadamiania o zgłoszeniach" />
+			<Item Name="Columns.CaseCategory.Caption" Value="Kategoria zgłoszenia" />
+			<Item Name="Columns.CaseStatus.Caption" Value="Status zgłoszenia" />
+			<Item Name="Columns.Delay.Caption" Value="Opóźnienie wysyłki, minuty" />
+			<Item Name="Columns.EmailTemplate.Caption" Value="Szablon wiadomości email" />
+			<Item Name="Columns.IsQuoteOriginalEmail.Caption" Value="Cytuj oryginalny e-mail" />
+			<Item Name="Columns.RuleUsage.Caption" Value="Tryb użycia" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.Methods.LocalMessageExecuting.Caption" Value="LocalMessageExecuting" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "92753ebc-e72e-41f5-8d5a-68c4b7974bca",
+    "Name": "SatisfactionUpdateProcess",
+    "ModifiedOnUtc": "\/Date(1756637869000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Set satisfaction level in cases",
+    "DependsOn": []
+  }
+}

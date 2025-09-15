@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "828798ff-f221-49bb-b0cc-0e97641c9dca",
+    "Name": "CaseEntityFileCopier",
+    "ModifiedOnUtc": "\/Date(1756637869000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CaseEntityFileCopier",
+    "DependsOn": []
+  }
+}

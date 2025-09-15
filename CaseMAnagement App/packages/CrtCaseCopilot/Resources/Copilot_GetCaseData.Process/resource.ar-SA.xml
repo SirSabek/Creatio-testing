@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SetCaseScriptTask.Caption" Value="تحميل وتعيين الحالة" />
+			<Item Name="Caption" Value="الحصول على بيانات الحالة" />
+			<Item Name="Description" Value="الحصول على معلومات عن الحالة حسب رقمها" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.Case.Caption" Value="بيانات الحالة" />
+			<Item Name="Parameters.Case.Sys_Description" Value="Case column values" />
+			<Item Name="Parameters.CaseNumber.Caption" Value="CaseNumber" />
+			<Item Name="Parameters.CaseNumber.Sys_Description" Value="The Number of the Case" />
+			<Item Name="Parameters.IsCaseFound.Caption" Value="هل تم إيجاد الحالة" />
+			<Item Name="Parameters.IsCaseFound.Sys_Description" Value="Indicates that the Case was found by the given Number" />
+		</Items>
+	</Group>
+</Resources>

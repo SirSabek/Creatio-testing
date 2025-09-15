@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Case.Description" Value="チャットに接続した案件" />
+		</Items>
+	</Group>
+</Resources>

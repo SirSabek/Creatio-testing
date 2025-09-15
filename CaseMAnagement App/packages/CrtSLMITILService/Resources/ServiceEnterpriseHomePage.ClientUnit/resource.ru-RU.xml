@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Домашняя страница руководителя службы поддержки" />
+			<Item Name="LocalizableStrings.crtChartWidget28ef0973a8a14b3aca71633a2f2e3f5d_series_0.Value" Value="Запланировано решить" />
+			<Item Name="LocalizableStrings.crtChartWidget28ef0973a8a14b3aca71633a2f2e3f5d_series_1.Value" Value="Фактически решено" />
+			<Item Name="LocalizableStrings.crtChartWidget28ef0973a8a14b3aca71633a2f2e3f5d_title.Value" Value="План-факт разрешения обращений" />
+			<Item Name="LocalizableStrings.crtChartWidget28ef0973a8a14b3aca71633a2f2e3f5d_xAxis.Value" Value="День" />
+			<Item Name="LocalizableStrings.crtChartWidget28ef0973a8a14b3aca71633a2f2e3f5d_yAxis.Value" Value="Обращение" />
+			<Item Name="LocalizableStrings.crtChartWidget2dd3123ba3d4bd6cace277ef578ffb23_series_0.Value" Value="Case" />
+			<Item Name="LocalizableStrings.crtChartWidget2dd3123ba3d4bd6cace277ef578ffb23_title.Value" Value="Обращения по сервисам" />
+			<Item Name="LocalizableStrings.crtChartWidget6156c3ce685eb8c0675d5630c24321cf_series_0.Value" Value="Case" />
+			<Item Name="LocalizableStrings.crtChartWidget6156c3ce685eb8c0675d5630c24321cf_title.Value" Value="Уровень удовлетворенности решением обращений" />
+			<Item Name="LocalizableStrings.crtChartWidget71615f3b5806d655c1d528aa86aa759a_series_0.Value" Value="Case" />
+			<Item Name="LocalizableStrings.crtChartWidget71615f3b5806d655c1d528aa86aa759a_title.Value" Value="Обращения по ответственным" />
+			<Item Name="LocalizableStrings.crtChartWidget8fccb539466ff5cef60775000471bad3_series_0.Value" Value="Обращения" />
+			<Item Name="LocalizableStrings.crtChartWidget8fccb539466ff5cef60775000471bad3_title.Value" Value="Источники обращений" />
+			<Item Name="LocalizableStrings.crtChartWidgetb18ce75bd995502dffa0305011afe479_series_0.Value" Value="Case" />
+			<Item Name="LocalizableStrings.crtChartWidgetb18ce75bd995502dffa0305011afe479_title.Value" Value="Категории обращений" />
+			<Item Name="LocalizableStrings.crtIndicatorWidget1f84359932987d396c1866b2aa38ba03_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.crtIndicatorWidget1f84359932987d396c1866b2aa38ba03_title.Value" Value="Средняя продолжительность решения, часов" />
+			<Item Name="LocalizableStrings.crtIndicatorWidget2efb8e0318eaf237831c550975cb8891_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.crtIndicatorWidget2efb8e0318eaf237831c550975cb8891_title.Value" Value="Средняя оценка" />
+			<Item Name="LocalizableStrings.crtIndicatorWidget5df3bc04a346ac31605597dd4db2cd25_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.crtIndicatorWidget5df3bc04a346ac31605597dd4db2cd25_title.Value" Value="Оценено обращений" />
+			<Item Name="LocalizableStrings.crtIndicatorWidgetb5a7d31cf2bb938967912a810961a274_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.crtIndicatorWidgetb5a7d31cf2bb938967912a810961a274_title.Value" Value="Просрочено по разрешению" />
+			<Item Name="LocalizableStrings.crtIndicatorWidgetd0098b075e752979d980efb26a3309ed_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.crtIndicatorWidgetd0098b075e752979d980efb26a3309ed_title.Value" Value="Просрочено по реакции" />
+			<Item Name="LocalizableStrings.crtIndicatorWidgetd4b6d82386c78947005c7d016680f4bf_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.crtIndicatorWidgetd4b6d82386c78947005c7d016680f4bf_title.Value" Value="Решено с первого раза" />
+		</Items>
+	</Group>
+</Resources>

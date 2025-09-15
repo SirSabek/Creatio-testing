@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "af9b1e78-e018-487e-9a15-deed4c262d47",
+    "Name": "ServiceTermProviderFactory",
+    "ModifiedOnUtc": "\/Date(1460469228000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ServiceTermProviderFactory",
+    "DependsOn": []
+  }
+}

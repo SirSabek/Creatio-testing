@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Поштова скринька для реєстрації звернень" />
+			<Item Name="Columns.AliasAddress.Caption" Value="Назва пересилання" />
+			<Item Name="Columns.Category.Caption" Value="Категорія звернення" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="Поштова скринька" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="Мова повідомлень" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="Завжди використовувати мову поштової скриньки" />
+		</Items>
+	</Group>
+</Resources>

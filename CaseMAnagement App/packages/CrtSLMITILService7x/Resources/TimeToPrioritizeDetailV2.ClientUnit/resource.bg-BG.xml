@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Време за Приоритизиране на Детайл" />
+			<Item Name="LocalizableStrings.Caption.Caption" Value="Време за приоритизиране" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Време за приоритизиране" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Caption" Value="Текущата стойност вече съществува" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Value" Value="Текущата стойност вече съществува" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Caption" Value="&quot;Приоритет на случая&quot; не може да бъде празен" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Value" Value="&quot;Приоритет на случая&quot; не може да бъде празен" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Caption" Value="Моля попълни време за отговор или време за разрешаване" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Value" Value="Моля попълни време за отговор или време за разрешаване" />
+		</Items>
+	</Group>
+</Resources>

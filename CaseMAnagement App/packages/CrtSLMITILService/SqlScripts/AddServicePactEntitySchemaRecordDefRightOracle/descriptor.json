@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "5601591f-5f6c-4c33-8da2-c48431792944",
+    "Name": "AddServicePactEntitySchemaRecordDefRightOracle",
+    "DBEngineType": 1,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1521730536000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

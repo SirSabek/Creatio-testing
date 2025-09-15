@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "45ce99dc-bbf7-4b2f-be72-31b2e29b841f",
+    "Name": "SupportMailBoxRepository",
+    "ModifiedOnUtc": "\/Date(1494858905000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "SupportMailBoxRepository",
+    "DependsOn": []
+  }
+}

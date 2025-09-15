@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c2e89258-8c9d-4973-ac4b-6ee99e078d98",
+    "Name": "ServiceItemTag",
+    "ModifiedOnUtc": "\/Date(1756637879000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Services section tag",
+    "DependsOn": []
+  }
+}

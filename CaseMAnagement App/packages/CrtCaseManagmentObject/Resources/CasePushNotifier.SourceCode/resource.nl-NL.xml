@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CasePushNotifier" />
+			<Item Name="LocalizableStrings.NewMessageNotificationTemplate.Value" Value="Je hebt een nieuw bericht ontvangen voor je case" />
+			<Item Name="LocalizableStrings.NewStatusNotificationTemplate.Value" Value="Status van case veranderd naar &quot;{0}&quot;" />
+			<Item Name="LocalizableStrings.PushTitleTemplate.Value" Value="Case #{0}" />
+		</Items>
+	</Group>
+</Resources>

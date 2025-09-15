@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service recipient" />
+			<Item Name="Columns.Account.Caption" Value="계좌" />
+			<Item Name="Columns.Contact.Caption" Value="연락처" />
+			<Item Name="Columns.Department.Caption" Value="Department" />
+			<Item Name="Columns.ServicePact.Caption" Value="서비스 계약" />
+			<Item Name="Columns.Type.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>

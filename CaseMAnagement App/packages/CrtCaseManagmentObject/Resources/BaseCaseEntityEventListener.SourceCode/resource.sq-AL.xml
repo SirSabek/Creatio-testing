@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="BaseCaseEntityEventListener" />
+			<Item Name="LocalizableStrings.NewOwnerMessage.Value" Value="Çështja Nr{0} “{1}” të është caktuar ty" />
+			<Item Name="LocalizableStrings.OldOwnerMessage.Value" Value="Çështja Nr {0} “{1}” nuk të është caktuar më ty" />
+			<Item Name="LocalizableStrings.SubjectByString.Value" Value="sipas" />
+			<Item Name="LocalizableStrings.SubjectForString.Value" Value="sipas" />
+		</Items>
+	</Group>
+</Resources>

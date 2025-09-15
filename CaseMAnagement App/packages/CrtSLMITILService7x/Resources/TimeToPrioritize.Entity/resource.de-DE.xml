@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Time to prioritize" />
+			<Item Name="Columns.CasePriority.Caption" Value="Case priority" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Antwortzeiteinheit" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Antwortzeitwert" />
+			<Item Name="Columns.ServiceInServicePact.Caption" Value="Service in service pact" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Lösungszeiteinheit" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Lösungszeitwert" />
+		</Items>
+	</Group>
+</Resources>

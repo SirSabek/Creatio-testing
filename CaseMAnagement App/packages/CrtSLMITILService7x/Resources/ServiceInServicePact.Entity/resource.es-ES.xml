@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Servicio en Acuerdo de Servicio" />
+			<Item Name="Columns.Calendar.Caption" Value="Calendario" />
+			<Item Name="Columns.ConcatName.Caption" Value="ServiseAndServiseInServicePactName" />
+			<Item Name="Columns.ReactionTime.Caption" Value="Tiempo de respuesta" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Unidad de tiempo de respuesta" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Valor del tiempo de respuesta" />
+			<Item Name="Columns.ServiceItem.Caption" Value="Proceso de negocio" />
+			<Item Name="Columns.ServicePact.Caption" Value="Acuerdo de servicio" />
+			<Item Name="Columns.SolutionTime.Caption" Value="Tiempo de resolución" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Unidad de tiempo de resolución" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Valor de tiempo de resolución" />
+			<Item Name="Columns.Status.Caption" Value="Estado" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Grupo 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.Methods.GetServiceItemName.Caption" Value="GetServiceItemName" />
+			<Item Name="EventsProcessSchema.Methods.GetServicePactName.Caption" Value="GetServicePactName" />
+		</Items>
+	</Group>
+</Resources>

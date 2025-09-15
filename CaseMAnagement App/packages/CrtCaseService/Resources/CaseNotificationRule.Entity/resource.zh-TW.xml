@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="客户反馈通知提供商" />
+			<Item Name="Columns.CaseCategory.Caption" Value="案例类别" />
+			<Item Name="Columns.CaseStatus.Caption" Value="Case statuses" />
+			<Item Name="Columns.Delay.Caption" Value="寄送延遲, 分鐘" />
+			<Item Name="Columns.EmailTemplate.Caption" Value="邮件模板ID" />
+			<Item Name="Columns.IsQuoteOriginalEmail.Caption" Value="引用原始电子邮件" />
+			<Item Name="Columns.RuleUsage.Caption" Value="使用規則" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.Methods.LocalMessageExecuting.Caption" Value="LocalMessageExecuting" />
+		</Items>
+	</Group>
+</Resources>

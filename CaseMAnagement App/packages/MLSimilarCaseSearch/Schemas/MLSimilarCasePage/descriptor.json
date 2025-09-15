@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4b8e1493-b7e6-2597-5d4b-d3abbe344f58",
+    "Name": "MLSimilarCasePage",
+    "ModifiedOnUtc": "\/Date(1756637887000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Similar case page",
+    "DependsOn": []
+  }
+}

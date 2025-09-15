@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "07cd0230-240d-4c09-8dec-f39bc3e6322f",
+    "Name": "CaseRatingManagementService",
+    "ModifiedOnUtc": "\/Date(1756637869000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Service - Setting up satisfaction level",
+    "DependsOn": []
+  }
+}

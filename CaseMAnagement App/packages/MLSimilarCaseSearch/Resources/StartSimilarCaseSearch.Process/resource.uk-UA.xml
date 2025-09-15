@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Звернення створено" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Унікальний ідентифікатор запису" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Оновлено опис звернення" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Унікальний ідентифікатор запису" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Пошук схожих звернень" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.Caption" Value="Ідентифікатор звернення" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.DisplayValue" Value="[#Case created.Unique identifier of record#] == Guid.Empty ? [#Case description updated.Unique identifier of record#] : [#Case created.Unique identifier of record#]" />
+			<Item Name="Caption" Value="Запуск пошуку схожих звернень" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Доріжка 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок екземпляру процесу" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

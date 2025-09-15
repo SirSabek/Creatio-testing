@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Servis Mühendisi Düzenleme Sayfası" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="İçerik akışını takip et" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Artık içerik akışını takip ediyorsunuz: {0}" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="İçerik akışını takipten çık" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="İçerik akışını takipten çıktın: {0}" />
+		</Items>
+	</Group>
+</Resources>

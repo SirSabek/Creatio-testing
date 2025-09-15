@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "24857783-d0f5-41d6-a6e8-aa620f5e1d2c",
+    "Name": "ChangeAdministratedByColumnsSysSchemaPropertyISE",
+    "ModifiedOnUtc": "\/Date(1756637865000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ChangeAdministratedByColumnsSysSchemaProperty InstallScriptExecutor",
+    "DependsOn": []
+  }
+}

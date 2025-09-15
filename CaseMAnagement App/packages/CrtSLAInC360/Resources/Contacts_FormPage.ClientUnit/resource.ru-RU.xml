@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ServiceAgreementsExpansionPanel_title.Value" Value="Сервисные договоры" />
+			<Item Name="LocalizableStrings.ServiceAgreementsExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.ServiceAgreementsImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_4f106e3b.Value" Value="Заголовок" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_5f9c7ad3.Value" Value="Номер" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_623c7fb3.Value" Value="Ответственный" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_86478300.Value" Value="Состояние" />
+			<Item Name="LocalizableStrings.ServiceAgreementsListDS_ServicePact.Value" Value="Сервисный договор" />
+			<Item Name="LocalizableStrings.ServiceAgreementsRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.ServiceAgreementsSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.ServiceAgreementsSettingsButton_caption.Value" Value="Действия" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="สมาชิกทีมบริการ" />
+			<Item Name="Columns.Engineer.Caption" Value="สมาชิก/ทีมงาน" />
+			<Item Name="Columns.ServiceItem.Caption" Value="บริการ" />
+			<Item Name="Columns.SupportLevel.Caption" Value="สายสนับสนุน" />
+		</Items>
+	</Group>
+</Resources>

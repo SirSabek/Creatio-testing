@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "130a718d-9c8c-1d0a-d77f-f734a6b9af6a",
+    "Name": "CrtAddCaseFolderTreeRightsMSSql",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1688724912000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

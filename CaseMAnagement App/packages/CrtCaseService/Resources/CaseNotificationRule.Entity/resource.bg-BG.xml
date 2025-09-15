@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Правило за уведомяване на случая" />
+			<Item Name="Columns.CaseCategory.Caption" Value="Case category" />
+			<Item Name="Columns.CaseStatus.Caption" Value="Статус на случай" />
+			<Item Name="Columns.Delay.Caption" Value="Забавяне в минути на изпращането" />
+			<Item Name="Columns.EmailTemplate.Caption" Value="Шаблон за имейл съобщение" />
+			<Item Name="Columns.IsQuoteOriginalEmail.Caption" Value="Цитирай оригиналния имейл" />
+			<Item Name="Columns.RuleUsage.Caption" Value="Правило за използване" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.Methods.LocalMessageExecuting.Caption" Value="LocalMessageExecuting" />
+		</Items>
+	</Group>
+</Resources>

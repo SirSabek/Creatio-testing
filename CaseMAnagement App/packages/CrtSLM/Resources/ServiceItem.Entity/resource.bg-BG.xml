@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service" />
+			<Item Name="Columns.Calendar.Caption" Value="Календар" />
+			<Item Name="Columns.CaseCategory.Caption" Value="Case category" />
+			<Item Name="Columns.Name.Caption" Value="Име" />
+			<Item Name="Columns.Notes.Caption" Value="Бележки" />
+			<Item Name="Columns.Owner.Caption" Value="Собственик" />
+			<Item Name="Columns.ReactionTime.Caption" Value="Response time" />
+			<Item Name="Columns.ReactionTimeUnit.Caption" Value="Response time unit" />
+			<Item Name="Columns.ReactionTimeValue.Caption" Value="Response time value" />
+			<Item Name="Columns.SolutionTime.Caption" Value="Време за разрешаване" />
+			<Item Name="Columns.SolutionTimeUnit.Caption" Value="Resolution time unit" />
+			<Item Name="Columns.SolutionTimeValue.Caption" Value="Стойност на времето за разрешаване" />
+			<Item Name="Columns.Status.Caption" Value="Статус" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Басейн 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Пътека 1" />
+		</Items>
+	</Group>
+</Resources>

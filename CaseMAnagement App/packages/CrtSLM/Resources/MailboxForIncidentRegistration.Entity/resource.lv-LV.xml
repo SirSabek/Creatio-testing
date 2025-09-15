@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Pasta adrese incidentu reģistrācijai" />
+			<Item Name="Columns.AliasAddress.Caption" Value="Pastkastes aizstājvārds" />
+			<Item Name="Columns.Category.Caption" Value="Lietas kategorija" />
+			<Item Name="Columns.MailboxSyncSettings.Caption" Value="E-pasta kastīte" />
+			<Item Name="Columns.MessageLanguage.Caption" Value="Ziņojuma valoda" />
+			<Item Name="Columns.UseMailboxLanguage.Caption" Value="Vienmēr lietojiet pastkastītes valodu" />
+		</Items>
+	</Group>
+</Resources>

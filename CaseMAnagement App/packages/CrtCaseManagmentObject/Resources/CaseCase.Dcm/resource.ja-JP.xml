@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Case" />
+			<Item Name="Stages.Stage1.Caption" Value="新規" />
+			<Item Name="Stages.Stage2.Caption" Value="キャンセル済み" />
+			<Item Name="Stages.Stage3.Caption" Value="クローズ済み" />
+			<Item Name="Stages.Stage4.Caption" Value="解決済み" />
+			<Item Name="Stages.Stage5.Caption" Value="返信待ち" />
+			<Item Name="Stages.Stage6.Caption" Value="進行中" />
+			<Item Name="Stages.Stage7.Caption" Value="再開" />
+		</Items>
+	</Group>
+</Resources>

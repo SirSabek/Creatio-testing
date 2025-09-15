@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "744613a1-ffa8-46a9-8d86-77f6bda4de44",
+    "Name": "EmailSenderObtainerWrapper",
+    "ModifiedOnUtc": "\/Date(1494858550000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "EmailSenderObtainerWrapper",
+    "DependsOn": []
+  }
+}

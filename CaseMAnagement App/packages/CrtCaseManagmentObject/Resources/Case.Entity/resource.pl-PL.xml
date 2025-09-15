@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Zgłoszenie" />
+			<Item Name="Columns.Group.Caption" Value="Grupa przypisanych" />
+			<Item Name="Columns.Owner.Caption" Value="Beneficjent" />
+			<Item Name="Columns.ParentActivity.Caption" Value="Nadrzędna aktywność" />
+			<Item Name="Columns.ParentCase.Caption" Value="Nadrzędne zgłoszenie" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Caption" Value="Pool 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.NewOwnerCaption.Value" Value="Powiadomienie o przypisaniu" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.NewOwnerMessage.Value" Value="Zgłoszenie nr {0} &quot;{1}&quot; został przypisane Tobie" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OldOwnerCaption.Value" Value="Powiadomienie o zmianie właściciela" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OldOwnerMessage.Value" Value="Zgłoszenie nr {0} &quot;{1} nie jest już do Ciebie przypisane" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.ServiceRequestName.Value" Value="Zgłoszenie {0}" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SubjectByString.Value" Value="przez" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SubjectForString.Value" Value="przez" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.IsNeedSendRemind.Caption" Value="IsNeedSendRemind" />
+			<Item Name="EventsProcessSchema.Parameters.NewOwnerId.Caption" Value="NewOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.OldOwnerId.Caption" Value="OldOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+			<Item Name="EventsProcessSchema.Parameters.SendToNewOwner.Caption" Value="SendToNewOwner" />
+			<Item Name="EventsProcessSchema.Parameters.SendToOldOwner.Caption" Value="SendToOldOwner" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Nastavení míry spokojenosti" />
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.Comment.Caption" Value="Komentář" />
+			<Item Name="Columns.Point.Caption" Value="Hodnocení" />
+		</Items>
+	</Group>
+</Resources>

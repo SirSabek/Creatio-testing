@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Página Reclassificação de Caso" />
+			<Item Name="LocalizableStrings.addRecord_495tqx4_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fv97ymo_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_hm1xewk_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_vijoqx7_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Label_hdoqad0_caption.Value" Value="Etiqueta" />
+			<Item Name="LocalizableStrings.Label_rmsidg3_caption.Value" Value="Reclassificação de caso" />
+			<Item Name="LocalizableStrings.PageSubtitle_caption.Value" Value="Todos os prazos do caso reclassificado serão atualizados. O caso pode ficar em atraso." />
+		</Items>
+	</Group>
+</Resources>

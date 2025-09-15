@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="שלח דוא&quot;ל למשימת משתמש של קשר במקרה" />
+			<Item Name="Parameters.CaseId.Caption" Value="מזהה מקרה" />
+			<Item Name="Parameters.EmailTemplateId.Caption" Value="מזהה תבנית דוא&quot;ל" />
+		</Items>
+	</Group>
+</Resources>

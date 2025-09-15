@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Schema detaliu pagina de editare- Serviciu in contract service" />
+			<Item Name="LocalizableStrings.CalendarCaption.Value" Value="Calendar" />
+			<Item Name="LocalizableStrings.ReactionTimeDayTypeCaption.Value" Value="Tip zi pentru timp raspuns" />
+			<Item Name="LocalizableStrings.ReactionTimeUnitCaption.Value" Value="Unitate de timp de reactie" />
+			<Item Name="LocalizableStrings.ReactionTimeValueCaption.Value" Value="Timp reactie" />
+			<Item Name="LocalizableStrings.ServiceItemCaption.Value" Value="Serviciu" />
+			<Item Name="LocalizableStrings.ServicePactCaption.Value" Value="Contract service" />
+			<Item Name="LocalizableStrings.SolutionTimeDayTypeCaption.Value" Value="Tip zi pentru timp rezolutie" />
+			<Item Name="LocalizableStrings.SolutionTimeUnitCaption.Value" Value="Unitate de timp de rezolutie" />
+			<Item Name="LocalizableStrings.SolutionTimeValueCaption.Value" Value="Timp rezolutie" />
+			<Item Name="LocalizableStrings.StatusCaption.Value" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

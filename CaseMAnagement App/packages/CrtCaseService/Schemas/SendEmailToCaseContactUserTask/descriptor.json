@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9b724c7b-d355-4ec6-8d5a-0fd0b37bedbc",
+    "Name": "SendEmailToCaseContactUserTask",
+    "ModifiedOnUtc": "\/Date(1756637873000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "Send email to case contact user task",
+    "DependsOn": []
+  }
+}

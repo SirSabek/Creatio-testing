@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SetCaseScriptTask.Caption" Value="Učitaj i postavi zahtjev" />
+			<Item Name="Caption" Value="Dohvati podatke zahtjeva" />
+			<Item Name="Description" Value="Dobiva podatke o zahtjevu po njegovom broju" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+			<Item Name="Parameters.Case.Caption" Value="Podaci zahtjeva" />
+			<Item Name="Parameters.Case.Sys_Description" Value="Vrijednosti stupaca zahtjeva" />
+			<Item Name="Parameters.CaseNumber.Caption" Value="CaseNumber" />
+			<Item Name="Parameters.CaseNumber.Sys_Description" Value="Broj zahtjeva" />
+			<Item Name="Parameters.IsCaseFound.Caption" Value="Je li zahtjev pronađen" />
+			<Item Name="Parameters.IsCaseFound.Sys_Description" Value="Označava da je zahtjev pronađen prema danom broju" />
+		</Items>
+	</Group>
+</Resources>

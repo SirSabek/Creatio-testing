@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a9bcf047-e11f-4720-a629-4cc2e09bf794",
+    "Name": "GrantRightsToExternalColumnsExecutor",
+    "ModifiedOnUtc": "\/Date(1699270659000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "GrantRightsToExternalColumnsExecutor",
+    "DependsOn": []
+  }
+}

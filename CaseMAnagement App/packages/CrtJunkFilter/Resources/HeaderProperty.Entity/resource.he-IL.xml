@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="מאפייני כותרת" />
+			<Item Name="Columns.ExcludedEmailAdresses.Caption" Value="כתובות דוא&amp;quot;ל שהודרו" />
+			<Item Name="Columns.ExcludedEmailAdresses.Description" Value="כתובות דוא&amp;quot;ל שלתוכן לא ייושם הכלל" />
+			<Item Name="Columns.Handler.Caption" Value="מטפל" />
+			<Item Name="Columns.IsActive.Caption" Value="פעיל" />
+			<Item Name="Columns.Name.Caption" Value="שם" />
+		</Items>
+	</Group>
+</Resources>

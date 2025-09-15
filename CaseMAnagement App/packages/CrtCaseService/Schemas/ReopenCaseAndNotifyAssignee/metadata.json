@@ -1,0 +1,24 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "SourceCodeSchemaManager",
+      "UId": "09d5e522-4a4c-45fb-a412-d5799f195e9c",
+      "A2": "ReopenCaseAndNotifyAssignee",
+      "A5": "33bac096-c819-4c57-86af-fe71bbb0cb56",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "d2f08d4f-1078-4db2-8912-9c582058dbcb",
+          "A2": "NotifySubject",
+          "A3": "09d5e522-4a4c-45fb-a412-d5799f195e9c",
+          "A4": "09d5e522-4a4c-45fb-a412-d5799f195e9c",
+          "A5": "33bac096-c819-4c57-86af-fe71bbb0cb56"
+        }
+      ],
+      "B3": [],
+      "B6": "335c46ac-da94-33b1-a9b5-03a3f3644fe8",
+      "B8": "0.0.0.0",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3"
+    }
+  }
+}

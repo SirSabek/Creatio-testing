@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.BaseCaseSaved.Caption" Value="CaseSaved" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseCaseSaving.Caption" Value="CaseSaving" />
+			<Item Name="EventsProcessSchema.BaseElements.CaseSavedScriptTask.Caption" Value="Grant permissions to portal users" />
+			<Item Name="EventsProcessSchema.BaseElements.CaseSavedStartMessage.Caption" Value="CaseSaved" />
+			<Item Name="EventsProcessSchema.BaseElements.CaseSavingStartMessage.Caption" Value="CaseSaving" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess4.Caption" Value="Run event sub-process 4" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess5.Caption" Value="Run event sub-process 5" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess6.Caption" Value="Run event sub-process 6" />
+			<Item Name="EventsProcessSchema.BaseElements.IntermediateThrowMessageEvent1.Caption" Value="CaseInserting" />
+			<Item Name="EventsProcessSchema.BaseElements.PortalCaseSavingScriptTask.Caption" Value="CaseSavingScriptTask" />
+			<Item Name="EventsProcessSchema.BaseElements.SetEmptyOwnerScriptTask.Caption" Value="Clear owner for portal user" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage6.Caption" Value="CaseInserting" />
+			<Item Name="EventsProcessSchema.Caption" Value="Case" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.NewOwnerCaption.Value" Value="Assignment notification" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.NewOwnerMessage.Value" Value="Case No{0} “{1}” has been assigned to you" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OldOwnerCaption.Value" Value="Assignee change notification" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OldOwnerMessage.Value" Value="Case No{0} “{1} is no longer assigned to you" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.ServiceRequestName.Value" Value="Case {0}" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SubjectByString.Value" Value="by" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SubjectForString.Value" Value="by" />
+			<Item Name="EventsProcessSchema.Methods.ActualizePortalUsersRights.Caption" Value="ActualizePortalUsersRights" />
+			<Item Name="EventsProcessSchema.Parameters.CanUseDcm.Caption" Value="CanUseDcm" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.IsNeedSendRemind.Caption" Value="IsNeedSendRemind" />
+			<Item Name="EventsProcessSchema.Parameters.IsProcessModeSave.Caption" Value="IsProcessModeSave" />
+			<Item Name="EventsProcessSchema.Parameters.NewOwnerId.Caption" Value="NewOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.NextProcessElementReady.Caption" Value="NextProcessElementReady" />
+			<Item Name="EventsProcessSchema.Parameters.OldContactId.Caption" Value="OldContactId" />
+			<Item Name="EventsProcessSchema.Parameters.OldOwnerId.Caption" Value="OldOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessListeners.Caption" Value="ProcessListeners" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+			<Item Name="EventsProcessSchema.Parameters.SendToNewOwner.Caption" Value="SendToNewOwner" />
+			<Item Name="EventsProcessSchema.Parameters.SendToOldOwner.Caption" Value="SendToOldOwner" />
+		</Items>
+	</Group>
+</Resources>

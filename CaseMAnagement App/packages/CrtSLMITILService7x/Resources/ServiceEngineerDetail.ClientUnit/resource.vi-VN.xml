@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Lược đồ chi tiết - Team dịch vụ trong phần dịch vụ" />
+			<Item Name="Images.12703106-728c-4173-ba38-8999330d571f.Caption" Value="Hình ảnh 1" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Team dịch vụ" />
+			<Item Name="LocalizableStrings.DeleteButtonTitle.Value" Value="Xóa" />
+			<Item Name="LocalizableStrings.EngineerCaption.Value" Value="Thành viên/team" />
+			<Item Name="LocalizableStrings.ErrorTemplate.Value" Value="Chi tiết {0}" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Support line" />
+			<Item Name="LocalizableStrings.ValidationErrorTemplate.Value" Value="Vui lòng, điền vào trường &quot;{0}&quot;" />
+		</Items>
+	</Group>
+</Resources>

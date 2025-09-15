@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Case origin" />
+			<Item Name="Columns.Image.Caption" Value="Icon of origin" />
+		</Items>
+	</Group>
+</Resources>

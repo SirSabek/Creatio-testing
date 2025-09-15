@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Servisa līguma statuss" />
+			<Item Name="Columns.Color.Caption" Value="Krāsa" />
+			<Item Name="Columns.IsActive.Caption" Value="Ir aktīvs" />
+		</Items>
+	</Group>
+</Resources>

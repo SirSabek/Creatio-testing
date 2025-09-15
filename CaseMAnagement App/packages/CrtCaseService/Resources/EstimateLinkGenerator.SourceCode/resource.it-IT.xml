@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="EstimateLinkGenerator" />
+			<Item Name="Description" Value=" Generatore di collegamento a livello di soddisfazione" />
+			<Item Name="LocalizableStrings.SatisfactionLevelMessage.Value" Value="Stima" />
+		</Items>
+	</Group>
+</Resources>

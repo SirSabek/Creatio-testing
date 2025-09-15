@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MailBoxForIncidentRegistrationEditPage" />
+			<Item Name="LocalizableStrings.AliasTip.Value" Value="Om ni använder mejlbox alias för att mottaga support-meddelanden, vänligen specificera alias-adress" />
+			<Item Name="LocalizableStrings.MessageLanguageTip.Value" Value="The message language is determined by the following values, from highest to lowest priority:  1. The preferred language of the recipient contact.  2. The mailbox language in the “List of mailboxes for case registration” lookup.  3. The value of the “Default language for messages” (“DefaultMessageLanguage” code) system setting.  Learn more about this feature in the {0}Academy{1}" />
+		</Items>
+	</Group>
+</Resources>

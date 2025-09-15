@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Shërbimi - Vendosja e nivelit të kënaqshmërisë" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Caption" Value="SatisfactionCommentMessage" />
+			<Item Name="LocalizableStrings.SatisfactionCommentMessage.Value" Value="Komenti i kënaqshmërisë ka ndryshuar" />
+			<Item Name="LocalizableStrings.SatisfactionLevelMessage.Value" Value="Niveli i kënaqshmërisë ka ndryshuar në {0}" />
+		</Items>
+	</Group>
+</Resources>

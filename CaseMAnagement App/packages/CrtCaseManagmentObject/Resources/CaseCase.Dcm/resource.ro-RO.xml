@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Caz" />
+			<Item Name="Stages.Stage1.Caption" Value="Nou" />
+			<Item Name="Stages.Stage2.Caption" Value="Anulat" />
+			<Item Name="Stages.Stage3.Caption" Value="Inchis" />
+			<Item Name="Stages.Stage4.Caption" Value="Rezolvat" />
+			<Item Name="Stages.Stage5.Caption" Value="In asteptarea unei reactii" />
+			<Item Name="Stages.Stage6.Caption" Value="In progress" />
+			<Item Name="Stages.Stage7.Caption" Value="Deschis din nou" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Statusy usługi" />
+			<Item Name="Columns.Active.Caption" Value="Jest aktywny" />
+			<Item Name="Columns.Color.Caption" Value="Kolor" />
+		</Items>
+	</Group>
+</Resources>

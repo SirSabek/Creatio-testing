@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Externe cases voeg pagina toe" />
+			<Item Name="LocalizableStrings.addRecord_cjmt287_caption.Value" Value="Nieuwe toevoegen" />
+			<Item Name="LocalizableStrings.addRecord_f0f5oox_caption.Value" Value="Nieuwe toevoegen" />
+			<Item Name="LocalizableStrings.addRecord_vbmqmp8_caption.Value" Value="Nieuwe toevoegen" />
+		</Items>
+	</Group>
+</Resources>

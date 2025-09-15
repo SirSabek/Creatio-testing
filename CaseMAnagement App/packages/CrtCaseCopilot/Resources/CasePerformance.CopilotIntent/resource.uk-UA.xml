@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Продуктивність звернення" />
+			<Item Name="Description" Value="Згенерувати звіт про аналіз продуктивності звернення в підтримку" />
+		</Items>
+	</Group>
+</Resources>

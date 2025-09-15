@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "87b3bcc1-054b-4d22-b62d-b3d765973e0c",
+    "Name": "ServiceObjectConstants",
+    "ModifiedOnUtc": "\/Date(1422542346000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ServiceObjectConstants",
+    "DependsOn": []
+  }
+}

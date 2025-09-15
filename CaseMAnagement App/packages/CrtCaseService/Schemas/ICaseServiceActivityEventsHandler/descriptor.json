@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0c523a32-702b-4a95-b0d6-e068df7e5eb7",
+    "Name": "ICaseServiceActivityEventsHandler",
+    "ModifiedOnUtc": "\/Date(1699537896000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ICaseServiceActivityEventsHandler",
+    "DependsOn": []
+  }
+}

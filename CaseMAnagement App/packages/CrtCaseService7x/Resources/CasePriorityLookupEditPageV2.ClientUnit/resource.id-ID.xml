@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Prioritas dalam tingkat support halaman lookup" />
+			<Item Name="Images.f9fb3f6f-c694-4e47-8f36-3b7aff1fd6a0.Caption" Value="Gambar default" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Caption" Value="Silahkan isi kolom waktu respon" />
+			<Item Name="LocalizableStrings.EmptyReactionTimeValueMessage.Value" Value="Silahkan isi kolom waktu respon" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Caption" Value="Silahkan isi kolom waktu resolusi" />
+			<Item Name="LocalizableStrings.EmptySolutionTimeValueMessage.Value" Value="Silahkan isi kolom waktu resolusi" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Caption" Value="Nilai tersebut sudah ada" />
+			<Item Name="LocalizableStrings.NameIsDuplicateMessage.Value" Value="Nilai tersebut sudah ada" />
+		</Items>
+	</Group>
+</Resources>

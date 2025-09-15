@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Blacklist von E-Mailadressen und Domains für Fallregistrierung" />
+			<Item Name="Columns.Name.Caption" Value="E-Mail-Adresse oder Domain" />
+			<Item Name="Columns.TypeOfField.Caption" Value="Feldtyp" />
+		</Items>
+	</Group>
+</Resources>

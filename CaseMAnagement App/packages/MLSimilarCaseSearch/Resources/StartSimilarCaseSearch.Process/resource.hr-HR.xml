@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Zahtjev kreiran" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Jedinstveni identifikator zapisa" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Opis zahtjeva ažuriran" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Jedinstveni identifikator zapisa" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Slična pretraga zahtjeva" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.Caption" Value="Identifikator zahtjeva" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CaseId.DisplayValue" Value="[#Case created.Unique identifier of record#] == Guid.Empty ? [#Case description updated.Unique identifier of record#] : [#Case created.Unique identifier of record#]" />
+			<Item Name="Caption" Value="Pokreni pretragu sličnih zahtjeva" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Traka 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

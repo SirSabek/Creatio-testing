@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="حالة اساسية" />
+			<Item Name="Columns.Account.Caption" Value="Account" />
+			<Item Name="Columns.Category.Caption" Value="Category" />
+			<Item Name="Columns.ClosureCode.Caption" Value="Reason for closing" />
+			<Item Name="Columns.ClosureDate.Caption" Value="Closed on" />
+			<Item Name="Columns.Contact.Caption" Value="Contact" />
+			<Item Name="Columns.FirstSolutionProvidedOn.Caption" Value="زمن أول قرار" />
+			<Item Name="Columns.Group.Caption" Value="مجموعة" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.Number.Caption" Value="Number" />
+			<Item Name="Columns.Origin.Caption" Value="Source" />
+			<Item Name="Columns.Owner.Caption" Value="Owner" />
+			<Item Name="Columns.Priority.Caption" Value="Priority" />
+			<Item Name="Columns.RegisteredOn.Caption" Value="تاريخ التسجيل" />
+			<Item Name="Columns.RespondedOn.Caption" Value="زمن الاستجابة الفعلية" />
+			<Item Name="Columns.ResponseDate.Caption" Value="وقت الاستجابة" />
+			<Item Name="Columns.ResponseOverdue.Caption" Value="استجابة متأخرة" />
+			<Item Name="Columns.SatisfactionLevel.Caption" Value="مستوى الرضا" />
+			<Item Name="Columns.SatisfactionLevelComment.Caption" Value="ملاحظات التغذية المرتدة" />
+			<Item Name="Columns.Solution.Caption" Value="قرار" />
+			<Item Name="Columns.SolutionDate.Caption" Value="وقت القرار" />
+			<Item Name="Columns.SolutionOverdue.Caption" Value="قرارا متأخر" />
+			<Item Name="Columns.SolutionProvidedOn.Caption" Value="تاريخ القرار الفعلي" />
+			<Item Name="Columns.SolutionRemains.Caption" Value="المتبقي حتى وقت القرار" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="Columns.Subject.Caption" Value="Subject" />
+			<Item Name="Columns.Symptoms.Caption" Value="Description" />
+		</Items>
+	</Group>
+</Resources>

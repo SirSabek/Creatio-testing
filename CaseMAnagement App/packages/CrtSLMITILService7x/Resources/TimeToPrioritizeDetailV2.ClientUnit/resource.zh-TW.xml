@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Time To Prioritize Detail" />
+			<Item Name="LocalizableStrings.Caption.Caption" Value="Time to prioritize" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Time to prioritize" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Caption" Value="当前值已存在" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Value" Value="当前值已存在" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Caption" Value="&quot;大小写优先级&quot; 不能为空" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Value" Value="&quot;大小写优先级&quot; 不能为空" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Caption" Value="请填写响应时间或分辨时间" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Value" Value="请填写响应时间或分辨时间" />
+		</Items>
+	</Group>
+</Resources>

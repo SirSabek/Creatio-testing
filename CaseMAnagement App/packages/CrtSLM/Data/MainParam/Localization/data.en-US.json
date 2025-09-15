@@ -1,0 +1,32 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "0e93d45e-4f08-4644-8ea9-7352b41a95a5"
+        },
+        {
+          "SchemaColumnUId": "b712ca3e-9821-4e10-91d1-0e3544d5b749",
+          "ColumnName": "Name",
+          "Value": "Service"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "ab7b57d1-88dd-4f4e-8102-309df7e0bbde"
+        },
+        {
+          "SchemaColumnUId": "b712ca3e-9821-4e10-91d1-0e3544d5b749",
+          "ColumnName": "Name",
+          "Value": "Services"
+        }
+      ]
+    }
+  ]
+}

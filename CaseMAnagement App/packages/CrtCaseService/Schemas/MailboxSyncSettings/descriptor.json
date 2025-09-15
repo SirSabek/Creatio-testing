@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "ac8c9f06-5246-4e89-9138-fd1290a80344",
+    "Name": "MailboxSyncSettings",
+    "ModifiedOnUtc": "\/Date(1756637873000)\/",
+    "Parent": {
+      "UId": "5e487721-02e2-48ee-b755-dfa5160f5315",
+      "Name": "MailboxSyncSettings"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Mailbox synchronization settings",
+    "DependsOn": []
+  }
+}

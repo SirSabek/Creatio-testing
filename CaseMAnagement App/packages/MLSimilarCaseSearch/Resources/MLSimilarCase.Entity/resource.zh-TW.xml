@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Similar case" />
+			<Item Name="Columns.MLModel.Caption" Value="機器學習模型" />
+			<Item Name="Columns.ParentCase.Caption" Value="上级案例" />
+			<Item Name="Columns.PredictionDate.Caption" Value="Prediction date" />
+			<Item Name="Columns.PredictionQuality.Caption" Value="Prediction quality" />
+			<Item Name="Columns.Score.Caption" Value="得分" />
+			<Item Name="Columns.SimilarCase.Caption" Value="Similar case" />
+		</Items>
+	</Group>
+</Resources>

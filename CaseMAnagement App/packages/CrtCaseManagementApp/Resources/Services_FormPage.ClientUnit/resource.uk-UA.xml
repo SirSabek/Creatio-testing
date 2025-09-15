@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сторінка запису Сервісу" />
+			<Item Name="LocalizableStrings.addRecord_03s9cot_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_512tqpw_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_f54okj6_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_g3cn7mq_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_i5xmdt7_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_jd4aj44_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_u8lsmco_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Звернення" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.ComboboxSearchTextAction_q2nrnan_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.ExpansionPanel_bzlj5in_title.Value" Value="Відповідальна команда обслуговування" />
+			<Item Name="LocalizableStrings.ExpansionPanel_hk5gmbt_title.Value" Value="Звернення" />
+			<Item Name="LocalizableStrings.ExpansionPanel_my13urh_title.Value" Value="Пов'язані сервіси" />
+			<Item Name="LocalizableStrings.ExpansionPanel_p94hdm6_title.Value" Value="Сервісні договори" />
+			<Item Name="LocalizableStrings.GeneralInfoLabel_caption.Value" Value="Основна інформація" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Сервісні умови" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_5rm00x4_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_6ybvphu_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_cf3yrbf_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_l985z0l_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_199cc1u_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_ecccny6_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_huey3az_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_qywk5qg_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_19cqo5j_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_1cppkoy_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_d8q6i3r_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_nx1fnqs_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_5vs7aur_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_brx41dw_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_iixd0yt_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_zrtkjak_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.GridDetailRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_9qs4sib_placeholder.Value" Value="Знайти" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_nfnjt32_placeholder.Value" Value="Знайти" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_sbh1em5_placeholder.Value" Value="Знайти" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_uowgd08_placeholder.Value" Value="Знайти" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_051u662_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_4ddsz60_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_7vinrmk_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_fvm5lxp_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="Історія звернень" />
+			<Item Name="LocalizableStrings.Label_4qxqmbk_caption.Value" Value="Умови" />
+			<Item Name="LocalizableStrings.Label_x01rs14_caption.Value" Value="Основна інформація" />
+			<Item Name="LocalizableStrings.RelatedServicesExpansionPanel_title.Value" Value="Пов'язані сервіси" />
+			<Item Name="LocalizableStrings.RelatedServicesExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.RelatedServicesImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.RelatedServicesList_6f31e5ef.Value" Value="Сервіс" />
+			<Item Name="LocalizableStrings.RelatedServicesRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.RelatedServicesSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.RelatedServicesSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.ResolutionTimeUnit_label.Value" Value="Час розв'язання" />
+			<Item Name="LocalizableStrings.ResolutionTimeValue_label.Value" Value="Значення" />
+			<Item Name="LocalizableStrings.ResponseTimeUnit_label.Value" Value="Час реакції" />
+			<Item Name="LocalizableStrings.ResponseTimeValue_label.Value" Value="Значення" />
+			<Item Name="LocalizableStrings.ServicePactExpansionPanel_title.Value" Value="Пов'язані сервісні договори" />
+			<Item Name="LocalizableStrings.ServicePactRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.ServicePactSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.ServicePactSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.ServicePactsExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.ServicePactsImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.ServiceTeamMemberExpansionPanel_title.Value" Value="Сервісні інженери" />
+			<Item Name="LocalizableStrings.ServiceTeamMemberExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.ServiceTeamMemberImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.ServiceTeamMemberRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.ServiceTeamMemberSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.ServiceTeamMemberSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.TabContainer_cmfqamf_caption.Value" Value="Історія" />
+			<Item Name="LocalizableStrings.TermsLabel_caption.Value" Value="Терміни" />
+		</Items>
+	</Group>
+</Resources>

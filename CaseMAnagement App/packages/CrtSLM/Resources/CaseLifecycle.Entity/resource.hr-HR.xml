@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Životni ciklus zahtjeva" />
+			<Item Name="Columns.Case.Caption" Value="Zahtjev" />
+			<Item Name="Columns.CaseRecordId.Caption" Value="Identifikator zahtjeva zapisa" />
+			<Item Name="Columns.EndDate.Caption" Value="Datum završetka" />
+			<Item Name="Columns.Group.Caption" Value="Grupa dodijeljenih" />
+			<Item Name="Columns.Owner.Caption" Value="Assignee" />
+			<Item Name="Columns.Priority.Caption" Value="Prioritet" />
+			<Item Name="Columns.ResponseOverdue.Caption" Value="Zakašnjeli odgovor" />
+			<Item Name="Columns.ServiceItem.Caption" Value="Stavka usluge" />
+			<Item Name="Columns.SolutionDate.Caption" Value="Vrijeme rješavanja" />
+			<Item Name="Columns.SolutionOverdue.Caption" Value="Zakašnjelo rješenje" />
+			<Item Name="Columns.SolutionProvidedOn.Caption" Value="Stvarno vrijeme rješenja" />
+			<Item Name="Columns.StartDate.Caption" Value="Datum početka" />
+			<Item Name="Columns.StateDurationInDays.Caption" Value="Trajanje (dani)" />
+			<Item Name="Columns.StateDurationInHours.Caption" Value="Trajanje (sati)" />
+			<Item Name="Columns.StateDurationInMinutes.Caption" Value="Trajanje (minute)" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

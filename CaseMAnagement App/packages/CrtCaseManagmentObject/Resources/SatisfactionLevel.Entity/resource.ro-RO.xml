@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Nivel satisfactie" />
+			<Item Name="Columns.Colour.Caption" Value="Color" />
+			<Item Name="Columns.Image.Caption" Value="Imagine" />
+			<Item Name="Columns.IsActive.Caption" Value="Este folosit" />
+			<Item Name="Columns.Point.Caption" Value="Punct" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,32 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "af16bbb5-3363-4700-a800-ca613cedf94e"
+        },
+        {
+          "SchemaColumnUId": "eebe8b0c-7eb9-4fa0-97dc-03f64aa07e7e",
+          "ColumnName": "ColumnCaption",
+          "Value": "Folder in \"Services\" section"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "9e250273-dd02-4241-9898-cda0c4268944"
+        },
+        {
+          "SchemaColumnUId": "eebe8b0c-7eb9-4fa0-97dc-03f64aa07e7e",
+          "ColumnName": "ColumnCaption",
+          "Value": "Name"
+        }
+      ]
+    }
+  ]
+}

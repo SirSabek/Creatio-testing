@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Time To Prioritize Detail" />
+			<Item Name="LocalizableStrings.Caption.Caption" Value="Сроки по приоритетам" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Сроки по приоритетам" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Caption" Value="Данное значение уже существует" />
+			<Item Name="LocalizableStrings.CasePriorityIsExist.Value" Value="Данное значение уже существует" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Caption" Value="Поле &quot;Приоритет обращения&quot; не может быть пустым" />
+			<Item Name="LocalizableStrings.CasePriorityIsNotFilling.Value" Value="Поле &quot;Приоритет обращения&quot; не может быть пустым" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Caption" Value="Необходимо заполнить время реакции или время разрешения" />
+			<Item Name="LocalizableStrings.ResponceOrReactionFillingFalse.Value" Value="Необходимо заполнить время реакции или время разрешения" />
+		</Items>
+	</Group>
+</Resources>
