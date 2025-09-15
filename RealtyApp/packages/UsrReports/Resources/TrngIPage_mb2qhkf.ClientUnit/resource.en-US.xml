@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty Homepage" />
+			<Item Name="LocalizableStrings.ChartWidget_l2nsv36_series_0.Value" Value="Realty" />
+			<Item Name="LocalizableStrings.ChartWidget_l2nsv36_series_1.Value" Value="Realty" />
+			<Item Name="LocalizableStrings.ChartWidget_l2nsv36_title.Value" Value="Realty Performance" />
+			<Item Name="LocalizableStrings.Label_vjqvbi0_caption.Value" Value="Hello, [#Current user.Recipient Name#]!" />
+		</Items>
+	</Group>
+</Resources>

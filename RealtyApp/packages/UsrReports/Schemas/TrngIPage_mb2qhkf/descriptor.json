@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2e070dd9-84f4-4a01-9054-8002febddfa5",
+    "Name": "TrngIPage_mb2qhkf",
+    "ModifiedOnUtc": "\/Date(1757934275000)\/",
+    "Parent": {
+      "UId": "0c5cfb7a-1ed9-41b8-905e-9a38c6915550",
+      "Name": "BaseHomePage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty Homepage",
+    "DependsOn": []
+  }
+}

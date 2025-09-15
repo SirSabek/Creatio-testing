@@ -5,6 +5,7 @@
     "Type": 1,
     "Maintainer": "Customer",
     "ProjectPath": "Files/UsrRealty.csproj",
+    "Description": "#OriginalMaintainer:Customer",
     "DependsOn": [
       {
         "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",

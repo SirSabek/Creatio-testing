@@ -1,6 +1,7 @@
 {
   "Packages": [
-    "UsrRealty"
+    "UsrRealty",
+    "UsrReports"
   ],
   "ApplicationVersion": "8.1.3"
 }

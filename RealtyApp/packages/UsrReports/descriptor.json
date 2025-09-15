@@ -1,0 +1,20 @@
+﻿{
+  "Descriptor": {
+    "UId": "1513c6c6-8a76-176c-ae14-a0071dd0426f",
+    "Name": "UsrReports",
+    "Type": 1,
+    "InstallBehavior": 1,
+    "ModifiedOnUtc": "\/Date(1757933572000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrReports.csproj",
+    "Description": "Testing dashboard report",
+    "DependsOn": [
+      {
+        "UId": "70ff4e5f-d0af-6a9b-e063-f7171aac2c42",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIPlatform",
+        "Type": 1
+      }
+    ]
+  }
+}

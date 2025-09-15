@@ -1,0 +1,41 @@
+= MetaData.Schema.UId "2e070dd9-84f4-4a01-9054-8002febddfa5"
+= MetaData.Schema.A2 "TrngIPage_mb2qhkf"
+= MetaData.Schema.A5 "fd19f1b4-490e-484e-a7ec-2a546b00a20a"
++ MetaData.Schema.B2 {
+  "UId": "77b23c26-914f-1a4b-322d-dfcd14366b17",
+  "A2": "ChartWidget_l2nsv36_series_1",
+  "A3": "2e070dd9-84f4-4a01-9054-8002febddfa5",
+  "A4": "2e070dd9-84f4-4a01-9054-8002febddfa5",
+  "A5": "fd19f1b4-490e-484e-a7ec-2a546b00a20a"
+}
++ MetaData.Schema.B2 {
+  "UId": "0072a4cd-e0d7-6e98-069f-774e70483736",
+  "A2": "ChartWidget_l2nsv36_series_0",
+  "A3": "2e070dd9-84f4-4a01-9054-8002febddfa5",
+  "A4": "2e070dd9-84f4-4a01-9054-8002febddfa5",
+  "A5": "fd19f1b4-490e-484e-a7ec-2a546b00a20a"
+}
++ MetaData.Schema.B2 {
+  "UId": "0fceea69-fbeb-d0f4-9b3f-954abe157df5",
+  "A2": "Label_vjqvbi0_caption",
+  "A3": "2e070dd9-84f4-4a01-9054-8002febddfa5",
+  "A4": "2e070dd9-84f4-4a01-9054-8002febddfa5",
+  "A5": "fd19f1b4-490e-484e-a7ec-2a546b00a20a"
+}
++ MetaData.Schema.B2 {
+  "UId": "c06e9313-0d00-252f-bad0-7fc700d654b0",
+  "A2": "ChartWidget_l2nsv36_title",
+  "A3": "2e070dd9-84f4-4a01-9054-8002febddfa5",
+  "A4": "2e070dd9-84f4-4a01-9054-8002febddfa5",
+  "A5": "fd19f1b4-490e-484e-a7ec-2a546b00a20a"
+}
+~ MetaData.Schema.B2 ["77b23c26-914f-1a4b-322d-dfcd14366b17","0072a4cd-e0d7-6e98-069f-774e70483736","0fceea69-fbeb-d0f4-9b3f-954abe157df5","c06e9313-0d00-252f-bad0-7fc700d654b0"]
+= MetaData.Schema.B6 "1513c6c6-8a76-176c-ae14-a0071dd0426f"
+= MetaData.Schema.B8 "8.3.0.3031"
+= MetaData.Schema.HD1 "0c5cfb7a-1ed9-41b8-905e-9a38c6915550"
++ MetaData.Schema.HD15 1
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:1,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
+- MetaData.Schema.HD2
+- MetaData.Schema.HD9
+- MetaData.Schema.HD10
++ MetaData.Schema.B7 false
