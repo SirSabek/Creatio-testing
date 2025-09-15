@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3aee22d5-006c-4fa3-8db3-a4b5f4afae30",
+    "Name": "UsrProcess_79c30dfUsrRealty1",
+    "ModifiedOnUtc": "\/Date(1753703552000)\/",
+    "Parent": {
+      "UId": "39d9b4bb-d51d-4b42-afab-61390553b4b0",
+      "Name": "UsrProcess_79c30df"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "UsrAddRealtyVisitsProcess",
+    "DependsOn": []
+  }
+}
