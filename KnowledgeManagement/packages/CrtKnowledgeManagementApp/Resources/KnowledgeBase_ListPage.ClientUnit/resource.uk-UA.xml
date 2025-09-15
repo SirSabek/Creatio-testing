@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сторінка переліку статей бази знань" />
+			<Item Name="LocalizableStrings.AddButton_caption.Value" Value="Новий" />
+			<Item Name="LocalizableStrings.DataImportButton_caption.Value" Value="Імпорт" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_AddTagsBulkAction_caption.Value" Value="Додати тег" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_DeleteBulkAction_caption.Value" Value="Видалити" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_ExportToExcelBulkAction_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_RemoveTagsBulkAction_caption.Value" Value="Видалити тег" />
+			<Item Name="LocalizableStrings.PDS_ModifiedBy.Value" Value="Автор" />
+			<Item Name="LocalizableStrings.PDS_ModifiedOn.Value" Value="Час останнього оновлення" />
+			<Item Name="LocalizableStrings.PDS_Name.Value" Value="Стаття" />
+		</Items>
+	</Group>
+</Resources>

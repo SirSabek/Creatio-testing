@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Стадія Playbook" />
+			<Item Name="Columns.DcmStageValue.Caption" Value="DCM stage value" />
+			<Item Name="Columns.KnowledgeBase.Caption" Value="Стаття бази знань" />
+			<Item Name="Columns.Playbook.Caption" Value="Playbook" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

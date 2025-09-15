@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Pagină listă playbooks" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="Add tag" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="Delete" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="Șterge tag" />
+			<Item Name="LocalizableStrings.MenuItem_DataImport_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_caption.Value" Value="Obiect" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_hint.Value" Value="Selectați obiectul playbook " />
+			<Item Name="LocalizableStrings.PDS_DcmCase.Value" Value="Caz dinamic" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Refresh" />
+		</Items>
+	</Group>
+</Resources>

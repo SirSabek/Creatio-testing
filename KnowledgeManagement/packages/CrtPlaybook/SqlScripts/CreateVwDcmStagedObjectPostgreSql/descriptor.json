@@ -1,0 +1,16 @@
+﻿{
+  "SqlScript": {
+    "UId": "34929234-813b-b755-b34c-339b6e54e94f",
+    "Name": "CreateVwDcmStagedObjectPostgreSql",
+    "DBEngineType": 2,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1705067933000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": [
+      {
+        "UId": "b4baae1d-92ef-467f-954a-f204ebde329a",
+        "Name": "CreateVwSysDcmLibPostgreSql"
+      }
+    ]
+  }
+}

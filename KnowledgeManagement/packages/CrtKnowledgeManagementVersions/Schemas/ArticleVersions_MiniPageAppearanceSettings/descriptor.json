@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4235050e-a58a-40d4-8267-74ce92b40f26",
+    "Name": "ArticleVersions_MiniPageAppearanceSettings",
+    "ModifiedOnUtc": "\/Date(1757936360000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Article versions mini page (AppearanceSettings)",
+    "DependsOn": []
+  }
+}

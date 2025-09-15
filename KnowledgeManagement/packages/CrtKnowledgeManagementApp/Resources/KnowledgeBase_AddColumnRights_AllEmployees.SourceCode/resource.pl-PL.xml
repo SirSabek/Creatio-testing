@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Dodaj uprawnienia do kolumny w Bazie Wiedzy dla grupy Wszystkich Pracowników" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="VwDcmStagedObject" />
+			<Item Name="Columns.Caption.Caption" Value="כותרת" />
+			<Item Name="Columns.Id.Caption" Value="מזהה" />
+			<Item Name="Columns.UId.Caption" Value="מערכת Schema UId" />
+		</Items>
+	</Group>
+</Resources>

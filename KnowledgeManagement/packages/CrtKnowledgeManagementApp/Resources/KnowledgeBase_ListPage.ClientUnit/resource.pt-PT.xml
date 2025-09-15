@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Knowledge Base list page" />
+			<Item Name="LocalizableStrings.AddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.DataImportButton_caption.Value" Value="Import" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_AddTagsBulkAction_caption.Value" Value="Adicionar tag" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_DeleteBulkAction_caption.Value" Value="Apagar" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_ExportToExcelBulkAction_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_RemoveTagsBulkAction_caption.Value" Value="Remover etiqueta" />
+			<Item Name="LocalizableStrings.PDS_ModifiedBy.Value" Value="Autor" />
+			<Item Name="LocalizableStrings.PDS_ModifiedOn.Value" Value="Última atualização em" />
+			<Item Name="LocalizableStrings.PDS_Name.Value" Value="Artigo" />
+		</Items>
+	</Group>
+</Resources>

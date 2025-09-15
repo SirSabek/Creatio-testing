@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.87ebe150-a1ce-5e94-a055-9bce42085250.Caption" Value="Динамический кейс: Добавлять фильтр по объекту" />
+			<Item Name="AddonConfig.Rules.d8f86848-136d-0d2e-ebae-69b1008ead92.Caption" Value="Динамический кейс: Добавлять фильтр по активным кейсам" />
+			<Item Name="Caption" Value="Playbook (Crt) (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

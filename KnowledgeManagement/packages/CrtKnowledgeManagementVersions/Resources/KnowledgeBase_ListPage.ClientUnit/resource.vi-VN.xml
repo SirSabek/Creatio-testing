@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActionButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="New" />
+			<Item Name="LocalizableStrings.Button_Data_Import.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.Button_xmxpm40_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.DefaultHeaderCaption.Value" Value="Tiêu đề trang" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderSubHead.Value" Value="Add a new record to make it look prettier" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderTitle.Value" Value="The section has no records" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderSubHead.Value" Value="Clear the filter or change its conditions" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderTitle.Value" Value="There are no records matching the filter criteria" />
+			<Item Name="LocalizableStrings.ListTitleCaption.Value" Value="List title" />
+			<Item Name="LocalizableStrings.MenuItem_ExportToExcel_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="Excel" />
+			<Item Name="LocalizableStrings.OpenLandingDesignerCaption.Value" Value="Web forms and pages" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Tìm kiếm" />
+		</Items>
+	</Group>
+</Resources>

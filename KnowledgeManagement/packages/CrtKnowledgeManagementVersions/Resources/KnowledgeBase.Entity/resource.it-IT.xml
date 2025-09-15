@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.ParentArticle.Caption" Value="Parent article" />
+			<Item Name="Columns.ParentArticle.Description" Value="Link to the parent article for version history " />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="Columns.Version.Caption" Value="Versione" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

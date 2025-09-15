@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Fügen Sie die Spaltenrechte in der Wissensdatenbank für die Gruppe Alle Mitarbeiter hinzu" />
+		</Items>
+	</Group>
+</Resources>

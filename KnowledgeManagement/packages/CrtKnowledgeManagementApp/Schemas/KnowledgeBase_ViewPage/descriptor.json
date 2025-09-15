@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2a00caec-fbec-4a4a-8ba0-8480b04485b4",
+    "Name": "KnowledgeBase_ViewPage",
+    "ModifiedOnUtc": "\/Date(1757936359000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Knowledge Base Article view page",
+    "DependsOn": []
+  }
+}

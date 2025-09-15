@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Page de formulaire Playbooks" />
+			<Item Name="LocalizableStrings.AttachmentAddButton_caption.Value" Value="Télécharger" />
+			<Item Name="LocalizableStrings.AttachmentRefreshButton_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.DynamicCase_label.Value" Value="Cas dynamique" />
+			<Item Name="LocalizableStrings.RelatedArticlesAddTagAction_caption.Value" Value="Ajouter un tag" />
+			<Item Name="LocalizableStrings.RelatedArticlesExpansionPanel_title.Value" Value="Articles associés" />
+			<Item Name="LocalizableStrings.RelatedArticlesExportDataMenuItem_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.RelatedArticlesExportToExcelBulkAction_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.RelatedArticlesImportDataMenuItem_caption.Value" Value="Importer les données" />
+			<Item Name="LocalizableStrings.RelatedArticlesList_DeleteBulkAction_caption.Value" Value="Supprimer" />
+			<Item Name="LocalizableStrings.RelatedArticlesListDS_DcmStageValue.Value" Value="Etape" />
+			<Item Name="LocalizableStrings.RelatedArticlesListDS_KnowledgeBase.Value" Value="Article" />
+			<Item Name="LocalizableStrings.RelatedArticlesRefreshButton_caption.Value" Value="Rafraîchir" />
+			<Item Name="LocalizableStrings.RelatedArticlesRemoveTagsBulkAction_caption.Value" Value="Supprimer le Tag" />
+			<Item Name="LocalizableStrings.RelatedArticlesSearchFilter_placeholder.Value" Value="Recherche" />
+			<Item Name="LocalizableStrings.RelatedArticlesSettingsButton_caption.Value" Value="Actions" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "dbfecd7c-6164-6c99-d6e5-6c982c61ac10",
+    "Name": "KnowledgeAgent",
+    "ModifiedOnUtc": "\/Date(1757936359000)\/",
+    "ManagerName": "CopilotIntentSchemaManager",
+    "Caption": "Knowledge agent",
+    "DependsOn": []
+  }
+}

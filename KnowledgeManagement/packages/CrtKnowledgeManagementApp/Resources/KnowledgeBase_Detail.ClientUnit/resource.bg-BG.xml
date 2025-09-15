@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Детайл в Базата знания" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Базата знания" />
+		</Items>
+	</Group>
+</Resources>

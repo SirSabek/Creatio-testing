@@ -1,0 +1,27 @@
+= MetaData.Schema.UId "7c24b075-b458-43b4-9209-e4cf2f6da235"
+= MetaData.Schema.A2 "UsrPage_ed9k8iw"
+= MetaData.Schema.A5 "bab57435-374d-439f-84eb-4498f94fff61"
++ MetaData.Schema.B2 {
+  "UId": "85023331-bca7-13e7-db2a-8d19923bdef2",
+  "A2": "ChartWidget_sltt414_title",
+  "A3": "7c24b075-b458-43b4-9209-e4cf2f6da235",
+  "A4": "7c24b075-b458-43b4-9209-e4cf2f6da235",
+  "A5": "bab57435-374d-439f-84eb-4498f94fff61"
+}
++ MetaData.Schema.B2 {
+  "UId": "427ee20d-d361-95f2-6140-e3fc051d0786",
+  "A2": "ChartWidget_gz456xk_title",
+  "A3": "7c24b075-b458-43b4-9209-e4cf2f6da235",
+  "A4": "7c24b075-b458-43b4-9209-e4cf2f6da235",
+  "A5": "bab57435-374d-439f-84eb-4498f94fff61"
+}
+~ MetaData.Schema.B2 ["85023331-bca7-13e7-db2a-8d19923bdef2","427ee20d-d361-95f2-6140-e3fc051d0786"]
+= MetaData.Schema.B6 "9f6416fd-de6a-386c-9806-446f7970c0d5"
+= MetaData.Schema.B8 "8.3.0.3017"
+= MetaData.Schema.HD1 "0c5cfb7a-1ed9-41b8-905e-9a38c6915550"
++ MetaData.Schema.HD15 1
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:0,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
+- MetaData.Schema.HD2
+- MetaData.Schema.HD9
+- MetaData.Schema.HD10
++ MetaData.Schema.B7 false

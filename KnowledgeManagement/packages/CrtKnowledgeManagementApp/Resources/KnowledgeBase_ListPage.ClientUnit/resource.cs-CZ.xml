@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Knowledge Base list page" />
+			<Item Name="LocalizableStrings.AddButton_caption.Value" Value="Nový" />
+			<Item Name="LocalizableStrings.DataImportButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_AddTagsBulkAction_caption.Value" Value="Nový štítek" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_DeleteBulkAction_caption.Value" Value="Delete" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_ExportToExcelBulkAction_caption.Value" Value="Export do Excelu" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_RemoveTagsBulkAction_caption.Value" Value="Remove tag" />
+			<Item Name="LocalizableStrings.PDS_ModifiedBy.Value" Value="Autor" />
+			<Item Name="LocalizableStrings.PDS_ModifiedOn.Value" Value="Podlesní aktualizace" />
+			<Item Name="LocalizableStrings.PDS_Name.Value" Value="Článek" />
+		</Items>
+	</Group>
+</Resources>

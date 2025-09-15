@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Playbook stage" />
+			<Item Name="Columns.DcmStageValue.Caption" Value="DCM stage value" />
+			<Item Name="Columns.KnowledgeBase.Caption" Value="Knowledge base article" />
+			<Item Name="Columns.Playbook.Caption" Value="Példatár" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

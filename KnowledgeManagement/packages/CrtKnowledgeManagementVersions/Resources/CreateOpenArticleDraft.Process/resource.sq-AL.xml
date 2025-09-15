@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask2.Caption" Value="create initial version for history" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Konsidero kohën në filtrim" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.EntitySchemaId.Caption" Value="Objekti" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.FilterEntitySchemaId.Caption" Value="Objekti" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordAddMode.Caption" Value="Record adding mode" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordAddMode.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordDefValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordDefValues.DisplayValue" Value="{&quot;$type&quot;:&quot;Terrasoft.Core.Process.LocalizableParameterValuesList, Terrasoft.Core&quot;,&quot;$values&quot;:[]}" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordId.Caption" Value="Created record Id" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="set initial version to article" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Konsidero kohën në filtrim" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Objekti" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="New draft" />
+			<Item Name="BaseElements.ConditionalSequenceFlow3.Caption" Value="no draft found" />
+			<Item Name="BaseElements.ConditionalSequenceFlow8.Caption" Value="version 0" />
+			<Item Name="BaseElements.DefaultSequenceFlow1.Caption" Value="Draft of the existing article" />
+			<Item Name="BaseElements.DefaultSequenceFlow2.Caption" Value="exists draft for current user" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="set new draft version parameter" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="set new draft version parameter" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Caption" Value="open new draft page" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Account.Caption" Value="Subjekti" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.Caption" Value="Kategoria" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.DisplayValue" Value="f51c4643-58e6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityResult.Caption" Value="Rezultati i aktivitetit" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivitySchemaUId.Caption" Value="Identifikuesi unik i skemës së objektit &quot;Aktiviteti&quot;" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Case.Caption" Value="Case" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Change.Caption" Value="Change" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ConfItem.Caption" Value="Configuration item" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CreateActivity.Caption" Value="Create activity" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CreateActivity.DisplayValue" Value="e gabuar" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CurrentActivityId.Caption" Value="Unique identifier of activity" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DecisionalColumnMetaPath.Caption" Value="Column" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Document.Caption" Value="Document" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.Caption" Value="Kohëzgjatja" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.Caption" Value="Kohëzgjatja (periudha)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.EditMode.Caption" Value="Page edit mode" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Event.Caption" Value="Event" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutedMode.Caption" Value="Konsidero të përfunduar" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutionContext.Caption" Value="Konteksti i ekzekutimit" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.GenerateDecisionsFromColumn.Caption" Value="Results list is generated by column" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.GenerateDecisionsFromColumn.DisplayValue" Value="e gabuar" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Incident.Caption" Value="Incidenti" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.InformationOnStep.Caption" Value="Informacion rreth hapit" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="Aktiviteti përfundoi" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsActivityCompleted.DisplayValue" Value="e gabuar" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsReexecution.Caption" Value="Përfundimi i përsëritur" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.KnowledgeBase.Caption" Value="Artikulli i bazës së njohurive" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.KnowledgeBaseVersion.Caption" Value="Knowledge base article version" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Listing.Caption" Value="Listing" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ObjectSchemaId.Caption" Value="Objekti" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Order.Caption" Value="Order" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OwnerId.DisplayValue" Value="[#System variable.Current user contact#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageSchemaId.Caption" Value="Page" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageTypeUId.Caption" Value="Identifikuesi unik i llojit të faqes" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Problem.Caption" Value="Problemi" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Project.Caption" Value="Projekti" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Property.Caption" Value="Property" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.DisplayValue" Value="open new draft page" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Value" Value="open new draft page" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordColumnValues.Caption" Value="Vlerat e paracaktuara" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordColumnValues.DisplayValue" Value="{&quot;$type&quot;:&quot;Terrasoft.Core.Process.LocalizableParameterValuesList, Terrasoft.Core&quot;,&quot;$values&quot;:[]}" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Release.Caption" Value="Release" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ResultParameter.Caption" Value="Parametri divergjent" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RoleId.Caption" Value="Roli" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.Caption" Value="Trego në kalendar" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="e gabuar" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartIn.Caption" Value="Fillo ekzekutimin në" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Caption" Value="open new prefilled draft" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Account.Caption" Value="Subjekti" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ActivityCategory.Caption" Value="Kategoria" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ActivityCategory.DisplayValue" Value="f51c4643-58e6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ActivityResult.Caption" Value="Rezultati i aktivitetit" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ActivitySchemaUId.Caption" Value="Identifikuesi unik i skemës së objektit &quot;Aktiviteti&quot;" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Case.Caption" Value="Case" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Change.Caption" Value="Change" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ConfItem.Caption" Value="Configuration item" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.CreateActivity.Caption" Value="Create activity" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.CreateActivity.DisplayValue" Value="e gabuar" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.CurrentActivityId.Caption" Value="Unique identifier of activity" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.DecisionalColumnMetaPath.Caption" Value="Column" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Document.Caption" Value="Document" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Duration.Caption" Value="Kohëzgjatja" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.DurationPeriod.Caption" Value="Kohëzgjatja (periudha)" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.EditMode.Caption" Value="Page edit mode" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Event.Caption" Value="Event" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ExecutedMode.Caption" Value="Konsidero të përfunduar" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ExecutionContext.Caption" Value="Konteksti i ekzekutimit" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.GenerateDecisionsFromColumn.Caption" Value="Results list is generated by column" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.GenerateDecisionsFromColumn.DisplayValue" Value="e gabuar" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Incident.Caption" Value="Incidenti" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.InformationOnStep.Caption" Value="Informacion rreth hapit" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.IsActivityCompleted.Caption" Value="Aktiviteti përfundoi" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.IsActivityCompleted.DisplayValue" Value="e gabuar" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.IsReexecution.Caption" Value="Përfundimi i përsëritur" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.KnowledgeBase.Caption" Value="Artikulli i bazës së njohurive" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.KnowledgeBaseVersion.Caption" Value="Knowledge base article version" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Listing.Caption" Value="Listing" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ObjectSchemaId.Caption" Value="Objekti" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Order.Caption" Value="Order" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.OwnerId.DisplayValue" Value="[#System variable.Current user contact#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.PageSchemaId.Caption" Value="Page" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.PageTypeUId.Caption" Value="Identifikuesi unik i llojit të faqes" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Problem.Caption" Value="Problemi" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Project.Caption" Value="Projekti" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Property.Caption" Value="Property" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Recommendation.DisplayValue" Value="open new draft page" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Recommendation.Value" Value="open new draft page" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RecordColumnValues.Caption" Value="Vlerat e paracaktuara" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RecordColumnValues.DisplayValue" Value="{&quot;$type&quot;:&quot;Terrasoft.Core.Process.LocalizableParameterValuesList, Terrasoft.Core&quot;,&quot;$values&quot;:[]}" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Release.Caption" Value="Release" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ResultParameter.Caption" Value="Parametri divergjent" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RoleId.Caption" Value="Roli" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ShowInScheduler.Caption" Value="Trego në kalendar" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ShowInScheduler.DisplayValue" Value="e gabuar" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.StartIn.Caption" Value="Fillo ekzekutimin në" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Caption" Value="open existing draft" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Account.Caption" Value="Subjekti" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ActivityResult.Caption" Value="Rezultati i aktivitetit" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Buttons.Value.735cf22e-da44-41b6-9606-4f2f2b28be17.Caption" Value="Close | CloseButton" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Buttons.Value.f2e3c4b4-6b0a-4fdb-8433-59cbf119fcad.Caption" Value="Save | SaveButton" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Case.Caption" Value="Case" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Change.Caption" Value="Change" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ClientUnitSchemaUId.Caption" Value="Moduli" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ClientUnitSchemaUId.DisplayValue" Value="Knowledge Base Article edit page | KnowledgeBase_EditPage" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ConfItem.Caption" Value="Configuration item" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.CreateActivity.Caption" Value="Create activity" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.CreateActivity.DisplayValue" Value="e gabuar" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.CurrentActivityId.Caption" Value="Task Id" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.DataSource_KnowledgeBaseDS_Id.Caption" Value="KnowledgeBaseDS (Knowledge base article.Id)" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.DataSource_KnowledgeBaseDS_Id.DisplayValue" Value="[#Exist draft already or not?.First item of resulting collection.Id#]" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Document.Caption" Value="Document" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Duration.Caption" Value="Kohëzgjatja" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.DurationPeriod.Caption" Value="Kohëzgjatja (periudha)" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntityId.Caption" Value="Objekti" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntitySchemaUId.Caption" Value="Skema e objektit" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntryPointId.Caption" Value="Pika hyrëse" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Event.Caption" Value="Event" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.InformationOnStep.Caption" Value="Informacion rreth hapit" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="Aktiviteti përfundoi" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.IsActivityCompleted.DisplayValue" Value="e gabuar" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.IsRunning.Caption" Value="Aktivizimi" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.KnowledgeBase.Caption" Value="Artikulli i bazës së njohurive" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Module.Caption" Value="Moduli i kartës" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Module.DisplayValue" Value="[#Lookup.Schema used in workspace (view) .Process page display module.eb89c336-08b9-4951-bffd-3f5abc433174#]" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Order.Caption" Value="Order" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OwnerId.DisplayValue" Value="[#System variable.Current user contact#]" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.PressedButtonCode.Caption" Value="Kodi i butonit që klikoi përdoruesi" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Problem.Caption" Value="Problemi" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Release.Caption" Value="Release" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RoleId.Caption" Value="Roli" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ShowInScheduler.Caption" Value="Trego në kalendar" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="e gabuar" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.StartIn.Caption" Value="Fillo ekzekutimin në" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Template.Caption" Value="Template" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Template.DisplayValue" Value="[#Lookup.Schema used in workspace (view) .Tabbed page with area on top.21620f25-166f-42f1-8b4d-224a959040a3#]" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Caption" Value="Titulli" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.DisplayValue" Value="Faqja e modifikimit të artikullit Baza e njohurive" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Faqja e modifikimit të artikullit Baza e njohurive" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Url.Caption" Value="Url" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Url.DisplayValue" Value="&quot;[Module]/[Page]/add&quot;" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.UseCardProcessModule.Caption" Value="Përdor krijuesin standard të faqeve" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.UseCardProcessModule.DisplayValue" Value="e gabuar" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Exist draft already or not?" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Emri i kolonës së funksionit agregat" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Lexo të dhëna të paangazhuara" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Konsidero kohën në filtrim" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Lloji i funksionit agregat" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Numri i të dhënave për të lexuar" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Renditja e kolonave" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Lexo në fillim" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Numri i të dhënave" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Rezultati i funksionit (Data/Ora)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Mbledhja rezultuese" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Rezultati i funksionit (numër dhjetor)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Rezultati i funksionit (numër i plotë)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Lloji i rezultatit" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="read article data" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.AggregationColumnName.Caption" Value="Emri i kolonës së funksionit agregat" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.Caption" Value="Lexo të dhëna të paangazhuara" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Konsidero kohën në filtrim" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.FunctionType.Caption" Value="Lloji i funksionit agregat" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.NumberOfRecords.Caption" Value="Numri i të dhënave për të lexuar" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.OrderInfo.Caption" Value="Renditja e kolonave" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ReadSomeTopRecords.Caption" Value="Lexo në fillim" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCount.Caption" Value="Numri i të dhënave" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultDateTimeFunction.Caption" Value="Rezultati i funksionit (Data/Ora)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntityCollection.Caption" Value="Mbledhja rezultuese" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultFloatFunction.Caption" Value="Rezultati i funksionit (numër dhjetor)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultIntegerFunction.Caption" Value="Rezultati i funksionit (numër i plotë)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultType.Caption" Value="Lloji i rezultatit" />
+			<Item Name="Caption" Value="Create open article draft" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Linja 1" />
+			<Item Name="NotificationCaption.Caption" Value="Përpuno diçiturën shembull" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.Article.Caption" Value="Article" />
+			<Item Name="Parameters.Version.Caption" Value="Versioni" />
+		</Items>
+	</Group>
+</Resources>

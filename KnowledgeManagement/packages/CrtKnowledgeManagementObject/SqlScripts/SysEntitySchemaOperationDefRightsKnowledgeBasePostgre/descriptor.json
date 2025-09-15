@@ -1,0 +1,16 @@
+﻿{
+  "SqlScript": {
+    "UId": "093ad7fe-3eba-4db0-8bb1-f1a324203310",
+    "Name": "SysEntitySchemaOperationDefRightsKnowledgeBasePostgre",
+    "DBEngineType": 2,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1722852445000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": [
+      {
+        "UId": "87d184d7-1817-482a-a40e-8bb414658c41",
+        "Name": "tsp_AddSysEntityOperationDefaultRights"
+      }
+    ]
+  }
+}

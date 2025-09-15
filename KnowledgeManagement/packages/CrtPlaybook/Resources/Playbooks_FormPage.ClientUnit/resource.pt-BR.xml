@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Página do formulário de playbooks" />
+			<Item Name="LocalizableStrings.AttachmentAddButton_caption.Value" Value="Realizar o upload" />
+			<Item Name="LocalizableStrings.AttachmentRefreshButton_caption.Value" Value="Atualizar" />
+			<Item Name="LocalizableStrings.DynamicCase_label.Value" Value="Caso dinâmico" />
+			<Item Name="LocalizableStrings.RelatedArticlesAddTagAction_caption.Value" Value="Adicionar uma etiqueta" />
+			<Item Name="LocalizableStrings.RelatedArticlesExpansionPanel_title.Value" Value="Artigos relacionados" />
+			<Item Name="LocalizableStrings.RelatedArticlesExportDataMenuItem_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.RelatedArticlesExportToExcelBulkAction_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.RelatedArticlesImportDataMenuItem_caption.Value" Value="Importação de dados" />
+			<Item Name="LocalizableStrings.RelatedArticlesList_DeleteBulkAction_caption.Value" Value="Excluir" />
+			<Item Name="LocalizableStrings.RelatedArticlesListDS_DcmStageValue.Value" Value="Estágio" />
+			<Item Name="LocalizableStrings.RelatedArticlesListDS_KnowledgeBase.Value" Value="Artigo" />
+			<Item Name="LocalizableStrings.RelatedArticlesRefreshButton_caption.Value" Value="Atualizar" />
+			<Item Name="LocalizableStrings.RelatedArticlesRemoveTagsBulkAction_caption.Value" Value="Remover a etiqueta" />
+			<Item Name="LocalizableStrings.RelatedArticlesSearchFilter_placeholder.Value" Value="Pesquisar" />
+			<Item Name="LocalizableStrings.RelatedArticlesSettingsButton_caption.Value" Value="Ações" />
+		</Items>
+	</Group>
+</Resources>

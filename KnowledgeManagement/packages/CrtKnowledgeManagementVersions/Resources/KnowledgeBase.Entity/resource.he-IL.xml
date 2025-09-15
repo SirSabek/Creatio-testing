@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.ParentArticle.Caption" Value="מאמר הורה" />
+			<Item Name="Columns.ParentArticle.Description" Value="קישור למאמר ההורה עבור היסטוריית גרסאות " />
+			<Item Name="Columns.Status.Caption" Value="סטטוס" />
+			<Item Name="Columns.Version.Caption" Value="גרסה" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

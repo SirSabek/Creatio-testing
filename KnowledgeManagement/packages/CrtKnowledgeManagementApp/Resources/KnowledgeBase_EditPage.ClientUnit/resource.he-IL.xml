@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="דף עריכת מאמר בסיס ידע" />
+			<Item Name="LocalizableStrings.addRecord_u9rrs6z_caption.Value" Value="הוסף כחדש" />
+			<Item Name="LocalizableStrings.ExportedNoficationText_caption.Value" Value="מאמר זה מיוצא ל-Copilot כדי לסייע במציאת פתרון מהיר יותר למקרים" />
+			<Item Name="LocalizableStrings.ImageInput_oz7tq48_label.Value" Value="תמונה להעלאה" />
+			<Item Name="LocalizableStrings.Label_fbdv5hn_caption.Value" Value="lCaption" />
+		</Items>
+	</Group>
+</Resources>

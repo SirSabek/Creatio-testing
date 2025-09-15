@@ -1,0 +1,103 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "7bd5f095-cf01-44dc-a73b-e99d334d869a",
+      "A2": "KnowledgeBase_ViewPageBusinessRule",
+      "A5": "086523c2-1158-472e-8e86-24c1bc87f574",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "934551d2-2e0b-1dea-b0c7-962ccd94a422",
+      "B8": "8.1.4.2889",
+      "AD1": "2a00caec-fbec-4a4a-8ba0-8480b04485b4",
+      "AD2": "ClientUnitSchemaManager",
+      "AD3": "BusinessRule",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "JI0": "Terrasoft.Core.BusinessRules.BusinessRules",
+        "BRS1": [
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "b34ab99b-df52-d1ea-c01d-6b112fbb1fc2",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "1fab7ec4-bcad-b3e0-f761-219155ac18d1",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleGroupCondition",
+                  "UId": "0b2f5afd-632e-35de-f7d7-7706bbca69f5",
+                  "BGC1": 1,
+                  "BGC2": [
+                    {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                      "UId": "fd33a96f-e41c-8316-0ecc-0dfeb8c54d0f",
+                      "BCO1": {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                        "UId": "aabcfc32-9808-6759-0554-c14d4fa2a09d",
+                        "BRE1": "Lookup",
+                        "BRE2": "AttributeValue",
+                        "BRX1": "ParentArticle",
+                        "BRX2": "PDS"
+                      },
+                      "BCO3": 1
+                    },
+                    {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                      "UId": "433fd1dc-278d-6a0c-da8d-551cb8534538",
+                      "BCO1": {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                        "UId": "a9068f60-1239-9bcc-095f-06d3035cb101",
+                        "BRE1": "Lookup",
+                        "BRE2": "AttributeValue",
+                        "BRX1": "Status",
+                        "BRX2": "PDS"
+                      },
+                      "BCO2": {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                        "UId": "5cbeb5c1-af1d-3119-242a-7bfa5fc5ceb5",
+                        "BRE1": "Lookup",
+                        "BRE3": "ArticlePublicationStatus",
+                        "BVE1": "767612dd-f372-4f03-97d4-14bc0c744719"
+                      },
+                      "BCO3": 2
+                    }
+                  ]
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionHideElement",
+                    "UId": "eac417fb-563c-9f09-b9ea-620f6621e1bf",
+                    "BRA4": "ActionEdit,ArticleActionsMenu"
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "fe59c530-33a5-df62-b270-c2d10867a708",
+                "BRT1": "PDS",
+                "BRT3": "null",
+                "BRT2": 2
+              },
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "a016ae86-8378-d433-2ade-4d30bef9b658",
+                "BRT1": "ParentArticle",
+                "BRT3": "PDS"
+              },
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "b40ba564-5c0c-a852-3e27-ce625cc01c57",
+                "BRT1": "Status",
+                "BRT3": "PDS"
+              }
+            ],
+            "BR3": "BusinessRule_d8449a2"
+          }
+        ]
+      }
+    }
+  }
+}

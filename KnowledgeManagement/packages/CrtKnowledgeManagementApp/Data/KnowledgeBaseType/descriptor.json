@@ -1,0 +1,28 @@
+﻿{
+  "Descriptor": {
+    "UId": "59dd5a88-ef7f-09fe-6d13-50408ef192a2",
+    "Name": "KnowledgeBaseType",
+    "ModifiedOnUtc": "\/Date(1749098388000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "9d744e43-11b0-4811-bfe1-6350f1d100c3",
+      "Name": "KnowledgeBaseType"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "a681e162-f4b7-cfa3-bb28-22ac792b8e2d",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Color",
+        "DataTypeValueUId": "dafb71f9-ee9f-4e0b-a4d7-37aa15987155"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      }
+    ]
+  }
+}

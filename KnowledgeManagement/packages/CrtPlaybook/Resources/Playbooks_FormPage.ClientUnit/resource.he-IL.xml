@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="עמוד טופס Playbooks" />
+			<Item Name="LocalizableStrings.AttachmentAddButton_caption.Value" Value="העלה" />
+			<Item Name="LocalizableStrings.AttachmentRefreshButton_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.DynamicCase_label.Value" Value="מקרה דינמי" />
+			<Item Name="LocalizableStrings.RelatedArticlesAddTagAction_caption.Value" Value="הוסף תווית" />
+			<Item Name="LocalizableStrings.RelatedArticlesExpansionPanel_title.Value" Value="מאמרים קשורים" />
+			<Item Name="LocalizableStrings.RelatedArticlesExportDataMenuItem_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.RelatedArticlesExportToExcelBulkAction_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.RelatedArticlesImportDataMenuItem_caption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.RelatedArticlesList_DeleteBulkAction_caption.Value" Value="מחק" />
+			<Item Name="LocalizableStrings.RelatedArticlesListDS_DcmStageValue.Value" Value="שלב" />
+			<Item Name="LocalizableStrings.RelatedArticlesListDS_KnowledgeBase.Value" Value="מאמר" />
+			<Item Name="LocalizableStrings.RelatedArticlesRefreshButton_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.RelatedArticlesRemoveTagsBulkAction_caption.Value" Value="הסר תגית" />
+			<Item Name="LocalizableStrings.RelatedArticlesSearchFilter_placeholder.Value" Value="חפש" />
+			<Item Name="LocalizableStrings.RelatedArticlesSettingsButton_caption.Value" Value="פעולות" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,26 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "CopilotIntentSchemaManager",
+      "UId": "dbfecd7c-6164-6c99-d6e5-6c982c61ac10",
+      "A2": "KnowledgeAgent",
+      "A5": "29a5837e-93cb-4593-899c-2a8301ff0fa4",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "4f32ddde-4848-a9f0-1a62-1b018a920e4d",
+      "B8": "8.3.0.1300",
+      "CIS1": " ",
+      "CIS5": "Continuously improves the knowledge base by drafting new articles from user prompt or resolved cases, recommending updates to existing ones. Designed to enable self-service and boost efficiency.",
+      "CIS9": "Act as a technical documentation specialist. Convert solved cases into structured knowledge articles using company templates, and flag gaps or outdated content for update.",
+      "CIS10": "Cannot create articles based on the case if the customer has not confirmed the issue is resolved. \nDo not duplicate articles—must check for existing relevant content before drafting. \nGenerated articles must follow approved formatting and tone guidelines.",
+      "CIS2": 2,
+      "CIS4": 1,
+      "CIS3": [],
+      "CIS11": [],
+      "CIS6": [],
+      "CIS7": [],
+      "CIS8": {}
+    }
+  }
+}

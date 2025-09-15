@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Lista e modulit të Playbooks" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="Add tag" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="Delete" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Eksporto në Exel" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="Remove tag" />
+			<Item Name="LocalizableStrings.MenuItem_DataImport_caption.Value" Value="Importimi i të dhënave" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_caption.Value" Value="Objekti" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_hint.Value" Value="Zgjidh objektin e Playbooks " />
+			<Item Name="LocalizableStrings.PDS_DcmCase.Value" Value="Rast dinamik" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Rifresko" />
+		</Items>
+	</Group>
+</Resources>

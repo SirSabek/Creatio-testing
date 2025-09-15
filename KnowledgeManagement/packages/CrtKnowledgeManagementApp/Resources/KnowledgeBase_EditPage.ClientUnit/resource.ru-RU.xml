@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования записи Knowledge Base" />
+			<Item Name="LocalizableStrings.ExportedNoficationText_caption.Value" Value="СТАТЬЯ ЭКСПОРТИРОВАНА В COPILOT, ЧТОБЫ ПОМОЧЬ БЫСТРЕЕ РЕШАТЬ ОБРАЩЕНИЯ&#xA;" />
+		</Items>
+	</Group>
+</Resources>

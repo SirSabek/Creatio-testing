@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.e11d5516-6705-6ccd-4cba-e6d5520bf949.Caption" Value="עשה את האלמנטים לקריאה בלבד אם פורסם או בבדיקה" />
+			<Item Name="Caption" Value="דף עריכת מאמר בסיס ידע (כללים עסקיים)" />
+		</Items>
+	</Group>
+</Resources>

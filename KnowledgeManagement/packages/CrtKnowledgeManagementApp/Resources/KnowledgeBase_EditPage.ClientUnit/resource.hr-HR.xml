@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Stranica za uređivanje članka baze znanja" />
+			<Item Name="LocalizableStrings.addRecord_u9rrs6z_caption.Value" Value="Dodaj novi" />
+			<Item Name="LocalizableStrings.ExportedNoficationText_caption.Value" Value="Ovaj članak je izvezen u Copilot kako bi pomogao bržem rješavanju zahtjeva" />
+			<Item Name="LocalizableStrings.ImageInput_oz7tq48_label.Value" Value="Slika za učitavanje" />
+			<Item Name="LocalizableStrings.Label_fbdv5hn_caption.Value" Value="Oznaka" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "f9cd88db-9644-4354-a2a7-dbbe2022695c",
+    "Name": "KnowledgeBase_EditPage",
+    "ModifiedOnUtc": "\/Date(1757936360000)\/",
+    "Parent": {
+      "UId": "585cdb98-ed0a-4409-a48d-dec358cd70a3",
+      "Name": "KnowledgeBase_EditPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Knowledge Base Article edit page",
+    "DependsOn": []
+  }
+}

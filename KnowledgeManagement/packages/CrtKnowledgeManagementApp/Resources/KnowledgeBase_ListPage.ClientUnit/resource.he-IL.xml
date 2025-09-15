@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="דף רשימת בסיס ידע" />
+			<Item Name="LocalizableStrings.AddButton_caption.Value" Value="חדש" />
+			<Item Name="LocalizableStrings.DataImportButton_caption.Value" Value="יבוא" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_AddTagsBulkAction_caption.Value" Value="הוסף תווית" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_DeleteBulkAction_caption.Value" Value="מחק" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_ExportToExcelBulkAction_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_RemoveTagsBulkAction_caption.Value" Value="הסר תגית" />
+			<Item Name="LocalizableStrings.PDS_ModifiedBy.Value" Value="מחבר" />
+			<Item Name="LocalizableStrings.PDS_ModifiedOn.Value" Value="עודכן לאחרונה בתאריך" />
+			<Item Name="LocalizableStrings.PDS_Name.Value" Value="מאמר" />
+		</Items>
+	</Group>
+</Resources>

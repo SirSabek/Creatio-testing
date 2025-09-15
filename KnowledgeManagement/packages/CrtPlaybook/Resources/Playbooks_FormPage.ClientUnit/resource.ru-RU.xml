@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница записи Playbooks" />
+			<Item Name="LocalizableStrings.AttachmentAddButton_caption.Value" Value="Загрузить" />
+			<Item Name="LocalizableStrings.AttachmentRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.DynamicCase_label.Value" Value="Динамический кейс" />
+			<Item Name="LocalizableStrings.RelatedArticlesAddTagAction_caption.Value" Value="Добавить тег" />
+			<Item Name="LocalizableStrings.RelatedArticlesExpansionPanel_title.Value" Value="Связанные статьи" />
+			<Item Name="LocalizableStrings.RelatedArticlesExportDataMenuItem_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.RelatedArticlesExportToExcelBulkAction_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.RelatedArticlesImportDataMenuItem_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.RelatedArticlesList_DeleteBulkAction_caption.Value" Value="Удалить" />
+			<Item Name="LocalizableStrings.RelatedArticlesListDS_DcmStageValue.Value" Value="Стадия" />
+			<Item Name="LocalizableStrings.RelatedArticlesListDS_KnowledgeBase.Value" Value="Статья" />
+			<Item Name="LocalizableStrings.RelatedArticlesListDS_KnowledgeBaseId.Value" Value="Статья" />
+			<Item Name="LocalizableStrings.RelatedArticlesRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.RelatedArticlesRemoveTagsBulkAction_caption.Value" Value="Убрать тег" />
+			<Item Name="LocalizableStrings.RelatedArticlesSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.RelatedArticlesSettingsButton_caption.Value" Value="Действия" />
+		</Items>
+	</Group>
+</Resources>

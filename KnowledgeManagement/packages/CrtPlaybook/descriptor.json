@@ -1,0 +1,29 @@
+﻿{
+  "Descriptor": {
+    "UId": "23bf62a7-f480-80cd-7ed4-0284df677bd5",
+    "PackageVersion": "7.8.0",
+    "Name": "CrtPlaybook",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1732030534000)\/",
+    "Maintainer": "Creatio",
+    "ProjectPath": "Files/CrtPlaybook.csproj",
+    "DependsOn": [
+      {
+        "UId": "215cedf9-0bfd-639a-9f7f-1b1340000f4a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtKnowledgeManagementObject",
+        "Type": 1
+      },
+      {
+        "UId": "a17d52e6-97ab-6f7f-17aa-f0e197e488ea",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIv2"
+      },
+      {
+        "UId": "b1eb54a2-9569-45de-81cb-a24654c09264",
+        "PackageVersion": "7.8.0",
+        "Name": "DcmLibrary"
+      }
+    ]
+  }
+}

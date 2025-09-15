@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.32cc5b06-ac23-7298-dcf8-261ba54d6729.Caption" Value="Knowledge base: Apply filter by status and parent article" />
+			<Item Name="Caption" Value="Playbook stage (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

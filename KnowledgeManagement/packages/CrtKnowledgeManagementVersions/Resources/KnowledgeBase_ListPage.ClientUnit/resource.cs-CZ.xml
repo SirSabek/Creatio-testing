@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActionButton_caption.Value" Value="Akce" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="Nový" />
+			<Item Name="LocalizableStrings.Button_Data_Import.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.Button_xmxpm40_caption.Value" Value="Nový" />
+			<Item Name="LocalizableStrings.DefaultHeaderCaption.Value" Value="Page title" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderSubHead.Value" Value="Přidejte záznamy aby sekce vypadala líp" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderTitle.Value" Value="The section has no records" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderSubHead.Value" Value="Zrušte filtr nebo upravte podmínky" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderTitle.Value" Value="Žádné záznamy neodpovídají aktuálnímu filtru" />
+			<Item Name="LocalizableStrings.ListTitleCaption.Value" Value="List title" />
+			<Item Name="LocalizableStrings.MenuItem_ExportToExcel_caption.Value" Value="Export do Excelu" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="Excel" />
+			<Item Name="LocalizableStrings.OpenLandingDesignerCaption.Value" Value="Webové formuláře a stránky" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Search" />
+		</Items>
+	</Group>
+</Resources>

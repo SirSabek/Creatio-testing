@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.633e1a63-1b73-def9-d4f9-ce85fba20452.Caption" Value="ChildRule-87ebe150-a1ce-5e94-a055-9bce42085250-ClearValue" />
+			<Item Name="AddonConfig.Rules.74e611b4-5ab6-5796-6a04-42f8e3b9e41e.Caption" Value="ChildRule-87ebe150-a1ce-5e94-a055-9bce42085250-PopulateValue" />
+			<Item Name="AddonConfig.Rules.87ebe150-a1ce-5e94-a055-9bce42085250.Caption" Value="מקרה דינמי: החלת מסנן לפי אובייקט" />
+			<Item Name="AddonConfig.Rules.d8f86848-136d-0d2e-ebae-69b1008ead92.Caption" Value="מקרה דינמי: החלת מסנן לפי מקרים פעילים" />
+			<Item Name="Caption" Value="Playbook (Crt) (חוקי עסקים)" />
+		</Items>
+	</Group>
+</Resources>

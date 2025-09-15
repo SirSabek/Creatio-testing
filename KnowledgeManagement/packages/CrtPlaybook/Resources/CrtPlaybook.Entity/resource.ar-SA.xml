@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Playbook (Crt)" />
+			<Item Name="Columns.DcmCase.Caption" Value="الحالة الديناميكية" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.Object.Caption" Value="Object" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2a555541-0143-4225-9de2-0799c07b2b28",
+    "Name": "CrtPlaybookBusinessRule",
+    "ModifiedOnUtc": "\/Date(1757936362000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Playbook (Crt) (Business rules)",
+    "DependsOn": []
+  }
+}

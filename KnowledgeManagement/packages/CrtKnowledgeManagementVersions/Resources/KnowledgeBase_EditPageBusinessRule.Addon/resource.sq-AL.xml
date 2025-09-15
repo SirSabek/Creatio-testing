@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.e11d5516-6705-6ccd-4cba-e6d5520bf949.Caption" Value="Make inputs elements read-only if Published or Proofreading" />
+			<Item Name="Caption" Value="Knowledge Base Article edit page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

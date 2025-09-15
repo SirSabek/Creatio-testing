@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActionOpenDraft_caption.Value" Value="Open unpublished changes" />
+			<Item Name="LocalizableStrings.ActionOpenVersions_caption.Value" Value="Version history" />
+			<Item Name="LocalizableStrings.Button_1sac1k1_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.Button_6p6z9m3_caption.Value" Value="ボタン" />
+			<Item Name="LocalizableStrings.Button_6p7dvyf_caption.Value" Value="ボタン" />
+			<Item Name="LocalizableStrings.Button_7nedpzf_caption.Value" Value="Open unpublished changes" />
+			<Item Name="LocalizableStrings.Button_qmbyy7s_caption.Value" Value="Open versions" />
+			<Item Name="LocalizableStrings.Button_szw3vfw_caption.Value" Value="修正" />
+			<Item Name="LocalizableStrings.Feed_iaxnurtTabContainerCaption.Value" Value="フィード" />
+			<Item Name="LocalizableStrings.Label_g8wv9hz_caption.Value" Value="バージョン" />
+			<Item Name="LocalizableStrings.Label_oqqcssp_caption.Value" Value="作成者" />
+			<Item Name="LocalizableStrings.Label_oqqcsspValue_caption.Value" Value="ジョン ベスト" />
+			<Item Name="LocalizableStrings.Label_Version_caption.Value" Value="バージョン" />
+			<Item Name="LocalizableStrings.Label_x448qk0_caption.Value" Value="Version history" />
+			<Item Name="LocalizableStrings.MenuItem_4xuxyzu_caption.Value" Value="修正" />
+			<Item Name="LocalizableStrings.MenuItem_vwzzxef_caption.Value" Value="Version history" />
+			<Item Name="LocalizableStrings.OpenVersionsButton_caption.Value" Value="ボタン" />
+			<Item Name="LocalizableStrings.TabContainer_byi2yme_caption.Value" Value="Version history" />
+			<Item Name="LocalizableStrings.TabContainer_byi2ymeCaption.Value" Value="Attachments" />
+			<Item Name="LocalizableStrings.TabContainer_y5xr06sCaption.Value" Value="フィード" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "cf6aa925-3866-493d-ab46-bf601e89537e",
+    "Name": "KnowledgeBase_ListPage",
+    "ModifiedOnUtc": "\/Date(1757936360000)\/",
+    "Parent": {
+      "UId": "3cb7646f-021f-4ffa-b74f-bcf60043713f",
+      "Name": "KnowledgeBase_ListPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Knowledge Base list page",
+    "DependsOn": []
+  }
+}

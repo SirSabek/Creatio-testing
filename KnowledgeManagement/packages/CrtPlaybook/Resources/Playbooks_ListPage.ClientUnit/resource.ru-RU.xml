@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница с реестром раздела &quot;Playbooks&quot;" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="Добавить тег" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="Удалить" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="Убрать тег" />
+			<Item Name="LocalizableStrings.MenuItem_DataImport_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_caption.Value" Value="Объект" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_hint.Value" Value="Выберете объект Playbook" />
+			<Item Name="LocalizableStrings.PDS_DcmCase.Value" Value="Динамический кейс" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Обновить" />
+		</Items>
+	</Group>
+</Resources>

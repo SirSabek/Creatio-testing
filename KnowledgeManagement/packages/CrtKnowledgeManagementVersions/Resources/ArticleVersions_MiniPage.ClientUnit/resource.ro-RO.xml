@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Article versions mini page" />
+			<Item Name="LocalizableStrings.CancelButton_caption.Value" Value="Cancel" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Version history" />
+			<Item Name="LocalizableStrings.SaveButton_caption.Value" Value="Save" />
+		</Items>
+	</Group>
+</Resources>

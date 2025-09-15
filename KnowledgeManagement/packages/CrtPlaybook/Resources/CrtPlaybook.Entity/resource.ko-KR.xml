@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="플레이북 (Crt)" />
+			<Item Name="Columns.DcmCase.Caption" Value="다이나믹 케이스" />
+			<Item Name="Columns.Name.Caption" Value="이름" />
+			<Item Name="Columns.Object.Caption" Value="개체" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="VwDcmStagedObject" />
+			<Item Name="Columns.Caption.Caption" Value="Заголовок" />
+			<Item Name="Columns.Id.Caption" Value="Id" />
+			<Item Name="Columns.UId.Caption" Value="SysSchema UId" />
+		</Items>
+	</Group>
+</Resources>

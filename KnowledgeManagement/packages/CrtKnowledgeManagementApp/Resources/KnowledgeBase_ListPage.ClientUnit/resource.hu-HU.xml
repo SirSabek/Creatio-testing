@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Tudásbázis listaoldal" />
+			<Item Name="LocalizableStrings.AddButton_caption.Value" Value="Új" />
+			<Item Name="LocalizableStrings.DataImportButton_caption.Value" Value="Importálás" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_AddTagsBulkAction_caption.Value" Value="Címke hozzáadása" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_DeleteBulkAction_caption.Value" Value="Törlés" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_ExportToExcelBulkAction_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_RemoveTagsBulkAction_caption.Value" Value="Címke eltávolítása" />
+			<Item Name="LocalizableStrings.PDS_ModifiedBy.Value" Value="Szerző" />
+			<Item Name="LocalizableStrings.PDS_ModifiedOn.Value" Value="Last updated on" />
+			<Item Name="LocalizableStrings.PDS_Name.Value" Value="Cikk" />
+		</Items>
+	</Group>
+</Resources>

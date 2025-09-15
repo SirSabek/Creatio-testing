@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c667713e-9293-45fa-8586-2c75160feb17",
+    "Name": "CrtPlaybookEventListener",
+    "ModifiedOnUtc": "\/Date(1705477894000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "CrtPlaybookEventListener",
+    "DependsOn": []
+  }
+}

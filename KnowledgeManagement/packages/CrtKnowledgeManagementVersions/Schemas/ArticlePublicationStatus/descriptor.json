@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "986d5a0c-cea3-4801-8144-37953dddf272",
+    "Name": "ArticlePublicationStatus",
+    "ModifiedOnUtc": "\/Date(1757936360000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Article publication status",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActionOpenDraft_caption.Value" Value="Open unpublished changes" />
+			<Item Name="LocalizableStrings.ActionOpenVersions_caption.Value" Value="Version history" />
+			<Item Name="LocalizableStrings.Button_1sac1k1_caption.Value" Value="Aktionen" />
+			<Item Name="LocalizableStrings.Button_6p6z9m3_caption.Value" Value="Schaltfläche" />
+			<Item Name="LocalizableStrings.Button_6p7dvyf_caption.Value" Value="Schaltfläche" />
+			<Item Name="LocalizableStrings.Button_7nedpzf_caption.Value" Value="Open unpublished changes" />
+			<Item Name="LocalizableStrings.Button_qmbyy7s_caption.Value" Value="Open versions" />
+			<Item Name="LocalizableStrings.Button_szw3vfw_caption.Value" Value="Freigeben" />
+			<Item Name="LocalizableStrings.Feed_iaxnurtTabContainerCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.Label_g8wv9hz_caption.Value" Value="Version" />
+			<Item Name="LocalizableStrings.Label_oqqcssp_caption.Value" Value="Author" />
+			<Item Name="LocalizableStrings.Label_oqqcsspValue_caption.Value" Value="John Best" />
+			<Item Name="LocalizableStrings.Label_Version_caption.Value" Value="Version" />
+			<Item Name="LocalizableStrings.Label_x448qk0_caption.Value" Value="Version history" />
+			<Item Name="LocalizableStrings.MenuItem_4xuxyzu_caption.Value" Value="Freigeben" />
+			<Item Name="LocalizableStrings.MenuItem_vwzzxef_caption.Value" Value="Version history" />
+			<Item Name="LocalizableStrings.OpenVersionsButton_caption.Value" Value="Schaltfläche" />
+			<Item Name="LocalizableStrings.TabContainer_byi2yme_caption.Value" Value="Version history" />
+			<Item Name="LocalizableStrings.TabContainer_byi2ymeCaption.Value" Value="Anhänge" />
+			<Item Name="LocalizableStrings.TabContainer_y5xr06sCaption.Value" Value="Feed" />
+		</Items>
+	</Group>
+</Resources>

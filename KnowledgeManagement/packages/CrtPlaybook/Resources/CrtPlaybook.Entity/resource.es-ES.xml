@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Libro de reproducción (Crt)" />
+			<Item Name="Columns.DcmCase.Caption" Value="Caso dinámico" />
+			<Item Name="Columns.Name.Caption" Value="Nombre" />
+			<Item Name="Columns.Object.Caption" Value="Objeto" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

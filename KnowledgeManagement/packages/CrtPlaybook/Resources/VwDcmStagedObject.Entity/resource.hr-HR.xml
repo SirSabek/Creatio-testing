@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="VwDcmStagedObject" />
+			<Item Name="Columns.Caption.Caption" Value="Natpis" />
+			<Item Name="Columns.Id.Caption" Value="Id" />
+			<Item Name="Columns.UId.Caption" Value="UId SysSheme" />
+		</Items>
+	</Group>
+</Resources>

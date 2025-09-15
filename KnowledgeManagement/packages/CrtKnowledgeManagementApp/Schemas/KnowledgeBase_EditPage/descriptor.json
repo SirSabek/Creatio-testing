@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "585cdb98-ed0a-4409-a48d-dec358cd70a3",
+    "Name": "KnowledgeBase_EditPage",
+    "ModifiedOnUtc": "\/Date(1757936359000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Knowledge Base Article edit page",
+    "DependsOn": []
+  }
+}

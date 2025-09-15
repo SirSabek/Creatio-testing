@@ -1,0 +1,22 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "69476c4e-687a-46d2-9a69-2e05fc750c5c"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "4b15859a-65ce-4db2-a3ee-e5cb639edb2a",
+          "DisplayValue": "Knowledge article publication status"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "d5671280-f36b-1410-bc9c-00155d043204",
+          "DisplayValue": "Knowledge base"
+        }
+      ]
+    }
+  ]
+}

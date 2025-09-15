@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Detalii bază de cunoștințe" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Bază de cunoștințe" />
+		</Items>
+	</Group>
+</Resources>

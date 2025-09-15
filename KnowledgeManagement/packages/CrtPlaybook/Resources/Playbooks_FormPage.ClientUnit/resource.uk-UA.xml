@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сторінка запису Playbooks" />
+			<Item Name="LocalizableStrings.AttachmentAddButton_caption.Value" Value="Завантажити" />
+			<Item Name="LocalizableStrings.AttachmentRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.DynamicCase_label.Value" Value="Динамічний кейс" />
+			<Item Name="LocalizableStrings.RelatedArticlesAddTagAction_caption.Value" Value="Додати тег" />
+			<Item Name="LocalizableStrings.RelatedArticlesExpansionPanel_title.Value" Value="Пов'язані статті" />
+			<Item Name="LocalizableStrings.RelatedArticlesExportDataMenuItem_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.RelatedArticlesExportToExcelBulkAction_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.RelatedArticlesImportDataMenuItem_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.RelatedArticlesList_DeleteBulkAction_caption.Value" Value="Видалити" />
+			<Item Name="LocalizableStrings.RelatedArticlesListDS_DcmStageValue.Value" Value="Стадія" />
+			<Item Name="LocalizableStrings.RelatedArticlesListDS_KnowledgeBase.Value" Value="Стаття" />
+			<Item Name="LocalizableStrings.RelatedArticlesRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.RelatedArticlesRemoveTagsBulkAction_caption.Value" Value="Видалити тег" />
+			<Item Name="LocalizableStrings.RelatedArticlesSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.RelatedArticlesSettingsButton_caption.Value" Value="Дії" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,16 @@
+﻿{
+  "SqlScript": {
+    "UId": "2f8635bf-f8d1-1ade-fd51-55e66bb53439",
+    "Name": "CreateVwDcmStagedObjectOracle",
+    "DBEngineType": 1,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1705067903000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": [
+      {
+        "UId": "3fe746a7-d15b-4d11-8f2b-83264e46fa09",
+        "Name": "CreateVwSysDcmLibOracle"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+﻿{
+  "Descriptor": {
+    "UId": "934551d2-2e0b-1dea-b0c7-962ccd94a422",
+    "PackageVersion": "7.8.0",
+    "Name": "CrtKnowledgeManagementVersions",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1732034813000)\/",
+    "Maintainer": "Creatio",
+    "ProjectPath": "Files/CrtKnowledgeManagementVersions.csproj",
+    "DependsOn": [
+      {
+        "UId": "3a71e376-9ac3-3049-c62b-9c43b9abe054",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCoreBase",
+        "Type": 1
+      },
+      {
+        "UId": "408fe390-2c3e-4702-5703-80e181a174b3",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtKnowledgeManagementApp",
+        "Type": 1
+      },
+      {
+        "UId": "70ff4e5f-d0af-6a9b-e063-f7171aac2c42",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIPlatform",
+        "Type": 1
+      }
+    ]
+  }
+}

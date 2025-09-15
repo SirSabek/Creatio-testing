@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Détail de la base de connaissances" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Base de connaissance" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.32cc5b06-ac23-7298-dcf8-261ba54d6729.Caption" Value="Базата знания: Приложи филтър по статус и родителска статия" />
+			<Item Name="Caption" Value="Етап от книга с разиграни сценарии (Бизнес правила)" />
+		</Items>
+	</Group>
+</Resources>

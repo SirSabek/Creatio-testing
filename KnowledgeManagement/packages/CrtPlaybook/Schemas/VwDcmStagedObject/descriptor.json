@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "14bc3643-5f20-4ff9-b8ba-c1333fe81935",
+    "Name": "VwDcmStagedObject",
+    "ModifiedOnUtc": "\/Date(1757936362000)\/",
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "VwDcmStagedObject",
+    "DependsOn": []
+  }
+}

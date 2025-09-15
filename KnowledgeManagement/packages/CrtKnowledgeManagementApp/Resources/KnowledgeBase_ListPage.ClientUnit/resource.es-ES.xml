@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Página de lista de Base de Conocimiento" />
+			<Item Name="LocalizableStrings.AddButton_caption.Value" Value="Nuevo" />
+			<Item Name="LocalizableStrings.DataImportButton_caption.Value" Value="Importar" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_AddTagsBulkAction_caption.Value" Value="Añadir etiqueta" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_DeleteBulkAction_caption.Value" Value="Cancel" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_ExportToExcelBulkAction_caption.Value" Value="Exportar a Excel" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_RemoveTagsBulkAction_caption.Value" Value="Eliminar etiqueta" />
+			<Item Name="LocalizableStrings.PDS_ModifiedBy.Value" Value="Autor" />
+			<Item Name="LocalizableStrings.PDS_ModifiedOn.Value" Value="Fecha de última actualización" />
+			<Item Name="LocalizableStrings.PDS_Name.Value" Value="Artículo" />
+		</Items>
+	</Group>
+</Resources>

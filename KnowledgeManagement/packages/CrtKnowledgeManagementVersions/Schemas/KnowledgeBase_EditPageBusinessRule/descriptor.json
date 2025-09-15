@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "224626ae-7cd2-44b9-835c-ecc1a726dcd6",
+    "Name": "KnowledgeBase_EditPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1757936360000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Knowledge Base Article edit page (Business rules)",
+    "DependsOn": []
+  }
+}

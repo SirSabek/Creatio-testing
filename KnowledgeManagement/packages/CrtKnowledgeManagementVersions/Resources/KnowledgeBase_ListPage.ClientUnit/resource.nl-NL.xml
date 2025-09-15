@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActionButton_caption.Value" Value="Acties" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="Nieuw" />
+			<Item Name="LocalizableStrings.Button_Data_Import.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.Button_xmxpm40_caption.Value" Value="Nieuw" />
+			<Item Name="LocalizableStrings.DefaultHeaderCaption.Value" Value="Paginatitel" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderSubHead.Value" Value="Voeg een nieuw record toe" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderTitle.Value" Value="The section has no records" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderSubHead.Value" Value="Schakel het filter uit of wijzig de condities" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderTitle.Value" Value="Er zijn geen records die overeenkomen met de filtercriteria" />
+			<Item Name="LocalizableStrings.ListTitleCaption.Value" Value="List title" />
+			<Item Name="LocalizableStrings.MenuItem_ExportToExcel_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="Excel" />
+			<Item Name="LocalizableStrings.OpenLandingDesignerCaption.Value" Value="Webformulieren en pagina's" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Verversen" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Zoeken" />
+		</Items>
+	</Group>
+</Resources>

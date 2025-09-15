@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4ad25e68-0ade-44f5-8441-0db7a0531792",
+    "Name": "CrtPlaybookRelatedPage",
+    "ModifiedOnUtc": "\/Date(1757936362000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Playbook (Crt) (Page settings)",
+    "DependsOn": []
+  }
+}

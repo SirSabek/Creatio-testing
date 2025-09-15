@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActionButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.Button_Data_Import.Value" Value="Import" />
+			<Item Name="LocalizableStrings.Button_xmxpm40_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.DefaultHeaderCaption.Value" Value="페이지 제목" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderSubHead.Value" Value="Add a new record to make it look prettier" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderTitle.Value" Value="The section has no records" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderSubHead.Value" Value="필터를 지우거나 조건을 변경합니다" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderTitle.Value" Value="필터 기준에 일치하는 레코드가 없습니다." />
+			<Item Name="LocalizableStrings.ListTitleCaption.Value" Value="List title" />
+			<Item Name="LocalizableStrings.MenuItem_ExportToExcel_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="Excel" />
+			<Item Name="LocalizableStrings.OpenLandingDesignerCaption.Value" Value="Web forms and pages" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="검색" />
+		</Items>
+	</Group>
+</Resources>

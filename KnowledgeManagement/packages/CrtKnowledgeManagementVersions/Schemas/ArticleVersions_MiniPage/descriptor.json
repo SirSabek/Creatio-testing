@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b2085498-f97c-45ca-8062-29bbeb16298b",
+    "Name": "ArticleVersions_MiniPage",
+    "ModifiedOnUtc": "\/Date(1757936360000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Article versions mini page",
+    "DependsOn": []
+  }
+}

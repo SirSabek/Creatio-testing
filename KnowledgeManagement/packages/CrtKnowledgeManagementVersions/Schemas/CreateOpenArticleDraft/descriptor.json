@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "256d3fb2-45a9-494b-82db-fdba0190edb6",
+    "Name": "CreateOpenArticleDraft",
+    "ModifiedOnUtc": "\/Date(1757936360000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Create open article draft",
+    "DependsOn": []
+  }
+}

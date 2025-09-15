@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActionButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.Button_Data_Import.Value" Value="Импорт" />
+			<Item Name="LocalizableStrings.DefaultHeaderCaption.Value" Value="Заголовок страницы" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderSubHead.Value" Value="Добавьте новую запись, и в разделе не будет так одиноко" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderTitle.Value" Value="В разделе нет ни одной записи" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderSubHead.Value" Value="Очистите фильтр или измените условия фильтрации" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderTitle.Value" Value="При установленном фильтре в разделе нет ни одной записи" />
+			<Item Name="LocalizableStrings.MenuItem_ExportToExcel_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="Excel" />
+			<Item Name="LocalizableStrings.OpenLandingDesignerCaption.Value" Value="Web-формы и страницы" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Поиск" />
+		</Items>
+	</Group>
+</Resources>

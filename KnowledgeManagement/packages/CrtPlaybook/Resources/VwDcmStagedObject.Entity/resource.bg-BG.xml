@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="VwDcmStagedObject" />
+			<Item Name="Columns.Caption.Caption" Value="Caption" />
+			<Item Name="Columns.Id.Caption" Value="Уникален идентификатор" />
+			<Item Name="Columns.UId.Caption" Value="SysSchema UId" />
+		</Items>
+	</Group>
+</Resources>

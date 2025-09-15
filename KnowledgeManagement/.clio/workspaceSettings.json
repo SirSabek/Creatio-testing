@@ -1,0 +1,11 @@
+{
+  "Packages": [
+    "CrtKnowledgeManagementObject",
+    "UsrKnowledgeManagementExtension",
+    "CrtKnowledgeAI",
+    "CrtKnowledgeManagementVersions",
+    "CrtKnowledgeManagementApp",
+    "CrtPlaybook"
+  ],
+  "ApplicationVersion": "8.1.3"
+}

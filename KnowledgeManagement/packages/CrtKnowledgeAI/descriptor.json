@@ -1,0 +1,19 @@
+﻿{
+  "Descriptor": {
+    "UId": "4f32ddde-4848-a9f0-1a62-1b018a920e4d",
+    "PackageVersion": "7.8.0",
+    "Name": "CrtKnowledgeAI",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1747129048000)\/",
+    "Maintainer": "Creatio",
+    "ProjectPath": "Files/CrtKnowledgeAI.csproj",
+    "DependsOn": [
+      {
+        "UId": "408fe390-2c3e-4702-5703-80e181a174b3",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtKnowledgeManagementApp",
+        "Type": 1
+      }
+    ]
+  }
+}

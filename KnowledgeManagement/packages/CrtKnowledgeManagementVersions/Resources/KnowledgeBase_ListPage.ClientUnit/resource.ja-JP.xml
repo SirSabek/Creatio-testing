@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActionButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="新規" />
+			<Item Name="LocalizableStrings.Button_Data_Import.Value" Value="インポート" />
+			<Item Name="LocalizableStrings.Button_xmxpm40_caption.Value" Value="新規" />
+			<Item Name="LocalizableStrings.DefaultHeaderCaption.Value" Value="ページタイトル" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderSubHead.Value" Value="レコードを追加してください" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderTitle.Value" Value="セクションにはレコードがありません" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderSubHead.Value" Value="フィルターをクリアするか、条件を変更してください" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderTitle.Value" Value="フィルター条件に一致するレコードがありません。" />
+			<Item Name="LocalizableStrings.ListTitleCaption.Value" Value="リストタイトル" />
+			<Item Name="LocalizableStrings.MenuItem_ExportToExcel_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="Excel" />
+			<Item Name="LocalizableStrings.OpenLandingDesignerCaption.Value" Value="Webフォームとページ" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="検索" />
+		</Items>
+	</Group>
+</Resources>

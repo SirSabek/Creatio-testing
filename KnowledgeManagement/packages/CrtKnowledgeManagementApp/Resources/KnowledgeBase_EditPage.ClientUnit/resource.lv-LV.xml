@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Zināšanu bāze Rakstu rediģēšanas lapa" />
+			<Item Name="LocalizableStrings.addRecord_u9rrs6z_caption.Value" Value="Pievienot jaunu" />
+			<Item Name="LocalizableStrings.ExportedNoficationText_caption.Value" Value="Šis raksts ir eksportēts uz Copilot, lai palīdzētu ātrāk atrisināt lietas" />
+			<Item Name="LocalizableStrings.ImageInput_oz7tq48_label.Value" Value="Attēls, ko augšupielādēt" />
+			<Item Name="LocalizableStrings.Label_fbdv5hn_caption.Value" Value="Uzraksts" />
+		</Items>
+	</Group>
+</Resources>

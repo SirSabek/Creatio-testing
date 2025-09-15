@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActionOpenDraft_caption.Value" Value="Открыть неопубликованные изменения" />
+			<Item Name="LocalizableStrings.ActionOpenVersions_caption.Value" Value="Предыдущие версии" />
+			<Item Name="LocalizableStrings.Feed_iaxnurtTabContainerCaption.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.Label_g8wv9hz_caption.Value" Value="Версия" />
+			<Item Name="LocalizableStrings.Label_oqqcssp_caption.Value" Value="Автор" />
+			<Item Name="LocalizableStrings.Label_oqqcsspValue_caption.Value" Value="John Best" />
+			<Item Name="LocalizableStrings.Label_Version_caption.Value" Value="Версия" />
+			<Item Name="LocalizableStrings.Label_x448qk0_caption.Value" Value="Файлы" />
+			<Item Name="LocalizableStrings.TabContainer_byi2yme_caption.Value" Value="Файлы" />
+			<Item Name="LocalizableStrings.TabContainer_byi2ymeCaption.Value" Value="Файлы" />
+			<Item Name="LocalizableStrings.TabContainer_y5xr06sCaption.Value" Value="Лента" />
+		</Items>
+	</Group>
+</Resources>

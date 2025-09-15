@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Page de la liste playbooks" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="Ajouter un tag" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="Supprimer" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Exporter vers Excel" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="Supprimer le Tag" />
+			<Item Name="LocalizableStrings.MenuItem_DataImport_caption.Value" Value="Import de données" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_caption.Value" Value="Objet" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_hint.Value" Value="Sélectionnez l'objet du playbook " />
+			<Item Name="LocalizableStrings.PDS_DcmCase.Value" Value="Cas dynamique" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Rafraîchir" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сторінка редагування статті бази знань" />
+			<Item Name="LocalizableStrings.addRecord_u9rrs6z_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.ExportedNoficationText_caption.Value" Value="Ця стаття експортується в Copilot, щоб допомогти швидше вирішувати звернення" />
+			<Item Name="LocalizableStrings.ImageInput_oz7tq48_label.Value" Value="Зображення для завантаження" />
+			<Item Name="LocalizableStrings.Label_fbdv5hn_caption.Value" Value="Напис" />
+		</Items>
+	</Group>
+</Resources>

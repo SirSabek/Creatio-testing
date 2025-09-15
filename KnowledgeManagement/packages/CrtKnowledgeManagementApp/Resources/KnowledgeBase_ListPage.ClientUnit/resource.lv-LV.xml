@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Zināšanu bāzes saraksta lapa" />
+			<Item Name="LocalizableStrings.AddButton_caption.Value" Value="Jauns" />
+			<Item Name="LocalizableStrings.DataImportButton_caption.Value" Value="Importēt" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_AddTagsBulkAction_caption.Value" Value="Pievienot tagu" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_DeleteBulkAction_caption.Value" Value="Dzēst" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_ExportToExcelBulkAction_caption.Value" Value="Eksportēt uz Excel" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_RemoveTagsBulkAction_caption.Value" Value="Noņemt tagu" />
+			<Item Name="LocalizableStrings.PDS_ModifiedBy.Value" Value="Autors" />
+			<Item Name="LocalizableStrings.PDS_ModifiedOn.Value" Value="Pēdējoreiz atjaunināts" />
+			<Item Name="LocalizableStrings.PDS_Name.Value" Value="Raksts" />
+		</Items>
+	</Group>
+</Resources>

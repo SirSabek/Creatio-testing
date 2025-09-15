@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="使用手冊 (Crt)" />
+			<Item Name="Columns.DcmCase.Caption" Value="Dynamic case" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.Object.Caption" Value="Object" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

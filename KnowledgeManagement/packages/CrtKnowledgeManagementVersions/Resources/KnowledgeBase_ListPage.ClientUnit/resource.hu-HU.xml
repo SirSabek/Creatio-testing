@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActionButton_caption.Value" Value="Műveletek" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="Új" />
+			<Item Name="LocalizableStrings.Button_Data_Import.Value" Value="Importálás" />
+			<Item Name="LocalizableStrings.Button_xmxpm40_caption.Value" Value="Új" />
+			<Item Name="LocalizableStrings.DefaultHeaderCaption.Value" Value="Lap cím" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderSubHead.Value" Value="Adjon hozzá egy új rekordot, hogy szebb legyen" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderTitle.Value" Value="A szakasznak nincsenek rekordjai" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderSubHead.Value" Value="Törölje ki a szűrőt, vagy módosítsa annak állapotát" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderTitle.Value" Value="Nincsenek a szűrési feltételeknek megfelelő rekordok" />
+			<Item Name="LocalizableStrings.ListTitleCaption.Value" Value="Lista címe" />
+			<Item Name="LocalizableStrings.MenuItem_ExportToExcel_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="Excel" />
+			<Item Name="LocalizableStrings.OpenLandingDesignerCaption.Value" Value="Webes űrlapok és oldalak" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Keresés" />
+		</Items>
+	</Group>
+</Resources>

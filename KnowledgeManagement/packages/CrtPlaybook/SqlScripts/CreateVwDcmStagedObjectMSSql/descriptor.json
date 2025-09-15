@@ -1,0 +1,16 @@
+﻿{
+  "SqlScript": {
+    "UId": "170787e7-a9d9-6604-50d6-7f121784f96e",
+    "Name": "CreateVwDcmStagedObjectMSSql",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1705067856000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": [
+      {
+        "UId": "966f9d90-5b4b-4975-8fbe-210e3fb24eb7",
+        "Name": "CreateVwSysDcmLibMSSql"
+      }
+    ]
+  }
+}

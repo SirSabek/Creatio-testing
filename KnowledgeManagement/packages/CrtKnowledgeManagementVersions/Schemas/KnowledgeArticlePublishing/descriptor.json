@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b74deac9-a0d8-4ca3-a992-b9216a92456e",
+    "Name": "KnowledgeArticlePublishing",
+    "ModifiedOnUtc": "\/Date(1757936360000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Knowledge article publishing",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask2.Caption" Value="create initial version for history" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="vero" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.EntitySchemaId.Caption" Value="Oggetto" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.FilterEntitySchemaId.Caption" Value="Oggetto" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordAddMode.Caption" Value="Modalità aggiunta record" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordAddMode.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordDefValues.Caption" Value="Imposta valori colonna" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordDefValues.DisplayValue" Value="{&quot;$type&quot;:&quot;Terrasoft.Core.Process.LocalizableParameterValuesList, Terrasoft.Core&quot;,&quot;$values&quot;:[]}" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordId.Caption" Value="Created record Id" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="set initial version to article" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="vero" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Oggetto" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Se l'oggetto soddisfa le seguenti condizioni" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="vero" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Imposta valori colonna" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="New draft" />
+			<Item Name="BaseElements.ConditionalSequenceFlow3.Caption" Value="no draft found" />
+			<Item Name="BaseElements.ConditionalSequenceFlow8.Caption" Value="version 0" />
+			<Item Name="BaseElements.DefaultSequenceFlow1.Caption" Value="Draft of the existing article" />
+			<Item Name="BaseElements.DefaultSequenceFlow2.Caption" Value="exists draft for current user" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="set new draft version parameter" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="set new draft version parameter" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Caption" Value="open new draft page" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Account.Caption" Value="Account" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.Caption" Value="Categoria" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.DisplayValue" Value="f51c4643-58e6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityPriority.Caption" Value="Priorità" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityResult.Caption" Value="Risultato dell'attività" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivitySchemaUId.Caption" Value="Unique identifier of &quot;Activity&quot; object schema" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Case.Caption" Value="Caso" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Change.Caption" Value="Modifica" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ConfItem.Caption" Value="Elemento di configurazione" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contact.Caption" Value="Contatto" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contract.Caption" Value="Contratto" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CreateActivity.Caption" Value="Creare attività" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CreateActivity.DisplayValue" Value="falso" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CurrentActivityId.Caption" Value="Identificativo unico dell'attività" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DecisionalColumnMetaPath.Caption" Value="Colonna" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Document.Caption" Value="Documento" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.Caption" Value="Durata" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.Caption" Value="Durata (periodo)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.EditMode.Caption" Value="Modalità modifica pagina" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Event.Caption" Value="Evento" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutedMode.Caption" Value="Considera completato" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutionContext.Caption" Value="Contesto di esecuzione" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.GenerateDecisionsFromColumn.Caption" Value="La lista dei risultati è generata per colonne" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.GenerateDecisionsFromColumn.DisplayValue" Value="falso" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Incident.Caption" Value="Incidente" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Invoice.Caption" Value="Fattura" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="Attività completata" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsActivityCompleted.DisplayValue" Value="falso" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsMatchConditions.Caption" Value="Se l'oggetto soddisfa le seguenti condizioni" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsReexecution.Caption" Value="Completamento ripetuto" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.KnowledgeBase.Caption" Value="Articolo Knowledge Base" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.KnowledgeBaseVersion.Caption" Value="Knowledge base article version" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Listing.Caption" Value="Listing" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ObjectSchemaId.Caption" Value="Oggetto" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Opportunity.Caption" Value="Opportunità" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Order.Caption" Value="Ordine" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OwnerId.Caption" Value="Responsabile" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OwnerId.DisplayValue" Value="[#System variable.Current user contact#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageSchemaId.Caption" Value="Pagina" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageTypeUId.Caption" Value="Identificativo unico del tipo di pagina" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Problem.Caption" Value="Problema" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Project.Caption" Value="Progetto" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Property.Caption" Value="Proprietà" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Caption" Value="Raccomandazione" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.DisplayValue" Value="open new draft page" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Value" Value="open new draft page" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordColumnValues.Caption" Value="Valori predefiniti" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordColumnValues.DisplayValue" Value="{&quot;$type&quot;:&quot;Terrasoft.Core.Process.LocalizableParameterValuesList, Terrasoft.Core&quot;,&quot;$values&quot;:[]}" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordId.Caption" Value="Id Record" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Release.Caption" Value="Rilascio" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Requests.Caption" Value="Richiesta" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ResultParameter.Caption" Value="Parametro divergente" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="Mostra pagina di esecuzione automaticamente" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="vero" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="falso" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.Caption" Value="Inizio esecuzione in (periodo di tempo)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Caption" Value="open new prefilled draft" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Account.Caption" Value="Account" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ActivityCategory.Caption" Value="Categoria" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ActivityCategory.DisplayValue" Value="f51c4643-58e6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ActivityPriority.Caption" Value="Priorità" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ActivityResult.Caption" Value="Risultato dell'attività" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ActivitySchemaUId.Caption" Value="Unique identifier of &quot;Activity&quot; object schema" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Case.Caption" Value="Caso" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Change.Caption" Value="Modifica" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ConfItem.Caption" Value="Elemento di configurazione" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Contact.Caption" Value="Contatto" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Contract.Caption" Value="Contratto" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.CreateActivity.Caption" Value="Creare attività" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.CreateActivity.DisplayValue" Value="falso" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.CurrentActivityId.Caption" Value="Identificativo unico dell'attività" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.DecisionalColumnMetaPath.Caption" Value="Colonna" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Document.Caption" Value="Documento" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Duration.Caption" Value="Durata" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.DurationPeriod.Caption" Value="Durata (periodo)" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.EditMode.Caption" Value="Modalità modifica pagina" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Event.Caption" Value="Evento" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ExecutedMode.Caption" Value="Considera completato" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ExecutionContext.Caption" Value="Contesto di esecuzione" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.GenerateDecisionsFromColumn.Caption" Value="La lista dei risultati è generata per colonne" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.GenerateDecisionsFromColumn.DisplayValue" Value="falso" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Incident.Caption" Value="Incidente" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Invoice.Caption" Value="Fattura" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.IsActivityCompleted.Caption" Value="Attività completata" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.IsActivityCompleted.DisplayValue" Value="falso" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.IsMatchConditions.Caption" Value="Se l'oggetto soddisfa le seguenti condizioni" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.IsReexecution.Caption" Value="Completamento ripetuto" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.KnowledgeBase.Caption" Value="Articolo Knowledge Base" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.KnowledgeBaseVersion.Caption" Value="Knowledge base article version" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Listing.Caption" Value="Listing" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ObjectSchemaId.Caption" Value="Oggetto" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Opportunity.Caption" Value="Opportunità" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Order.Caption" Value="Ordine" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.OwnerId.Caption" Value="Responsabile" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.OwnerId.DisplayValue" Value="[#System variable.Current user contact#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.PageSchemaId.Caption" Value="Pagina" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.PageTypeUId.Caption" Value="Identificativo unico del tipo di pagina" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Problem.Caption" Value="Problema" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Project.Caption" Value="Progetto" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Property.Caption" Value="Proprietà" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Recommendation.Caption" Value="Raccomandazione" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Recommendation.DisplayValue" Value="open new draft page" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Recommendation.Value" Value="open new draft page" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RecordColumnValues.Caption" Value="Valori predefiniti" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RecordColumnValues.DisplayValue" Value="{&quot;$type&quot;:&quot;Terrasoft.Core.Process.LocalizableParameterValuesList, Terrasoft.Core&quot;,&quot;$values&quot;:[]}" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RecordId.Caption" Value="Id Record" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Release.Caption" Value="Rilascio" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.Requests.Caption" Value="Richiesta" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ResultParameter.Caption" Value="Parametro divergente" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ShowExecutionPage.Caption" Value="Mostra pagina di esecuzione automaticamente" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ShowExecutionPage.DisplayValue" Value="vero" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.ShowInScheduler.DisplayValue" Value="falso" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.StartInPeriod.Caption" Value="Inizio esecuzione in (periodo di tempo)" />
+			<Item Name="BaseElements.OpenEditPageUserTask3.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Caption" Value="open existing draft" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Account.Caption" Value="Account" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ActivityPriority.Caption" Value="Priorità" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ActivityResult.Caption" Value="Risultato dell'attività" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Buttons.Value.735cf22e-da44-41b6-9606-4f2f2b28be17.Caption" Value="Chiudi | Pulsante Chiudi" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Buttons.Value.f2e3c4b4-6b0a-4fdb-8433-59cbf119fcad.Caption" Value="Salva | Pulsante Salva" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Case.Caption" Value="Caso" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Change.Caption" Value="Modifica" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ClientUnitSchemaUId.Caption" Value="Modulo" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ClientUnitSchemaUId.DisplayValue" Value="Knowledge Base Article edit page | KnowledgeBase_EditPage" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ConfItem.Caption" Value="Elemento di configurazione" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Contact.Caption" Value="Contatto" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Contract.Caption" Value="Contratto" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.CreateActivity.Caption" Value="Creare attività" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.CreateActivity.DisplayValue" Value="falso" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.CurrentActivityId.Caption" Value="Id attività" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.DataSource_KnowledgeBaseDS_Id.Caption" Value="KnowledgeBaseDS (Knowledge base article.Id)" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.DataSource_KnowledgeBaseDS_Id.DisplayValue" Value="[#Exist draft already or not?.First item of resulting collection.Id#]" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Document.Caption" Value="Documento" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Duration.Caption" Value="Durata" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.DurationPeriod.Caption" Value="Durata (periodo)" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntityId.Caption" Value="Oggetto" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntitySchemaUId.Caption" Value="Schema oggetto" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntryPointId.Caption" Value="Punto di ingresso" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Event.Caption" Value="Evento" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Invoice.Caption" Value="Fattura" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="Attività completata" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.IsActivityCompleted.DisplayValue" Value="falso" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.IsRunning.Caption" Value="In esecuzione" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.KnowledgeBase.Caption" Value="Articolo Knowledge Base" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Module.Caption" Value="Modulo scheda" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Module.DisplayValue" Value="[#Lookup.Schema used in workspace (view) .Process page display module.eb89c336-08b9-4951-bffd-3f5abc433174#]" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Opportunity.Caption" Value="Opportunità" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Order.Caption" Value="Ordine" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OwnerId.Caption" Value="Responsabile" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OwnerId.DisplayValue" Value="[#System variable.Current user contact#]" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.PressedButtonCode.Caption" Value="Codice del bottone che l'utente ha cliccato" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Problem.Caption" Value="Problema" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Recommendation.Caption" Value="Raccomandazione" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Release.Caption" Value="Rilascio" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="Mostra pagina di esecuzione automaticamente" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="vero" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="falso" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.StartInPeriod.Caption" Value="Inizio esecuzione in (periodo di tempo)" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Template.Caption" Value="Modello" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Template.DisplayValue" Value="[#Lookup.Schema used in workspace (view) .Tabbed page with area on top.21620f25-166f-42f1-8b4d-224a959040a3#]" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Caption" Value="Titolo" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.DisplayValue" Value="Knowledge Base Article edit page" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Knowledge Base Article edit page" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Url.Caption" Value="Url" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Url.DisplayValue" Value="&quot;[Module]/[Page]/add&quot;" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.UseCardProcessModule.Caption" Value="Use standard page generator" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.UseCardProcessModule.DisplayValue" Value="falso" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Exist draft already or not?" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.DisplayValue" Value="vero" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="vero" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Origine dati dei filtri" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Colonne da leggere" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Numero di record da leggere" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Leggi per primo" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Numero di record" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Risultato della funzione (decimale)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Numero di record letti" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Tipo di risultato" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="read article data" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.DisplayValue" Value="vero" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="vero" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Origine dati dei filtri" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.EntityColumnMetaPathes.Caption" Value="Colonne da leggere" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.NumberOfRecords.Caption" Value="Numero di record da leggere" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ReadSomeTopRecords.Caption" Value="Leggi per primo" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCount.Caption" Value="Numero di record" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultFloatFunction.Caption" Value="Risultato della funzione (decimale)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultRowsCount.Caption" Value="Numero di record letti" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultType.Caption" Value="Tipo di risultato" />
+			<Item Name="Caption" Value="Create open article draft" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Corsia 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.Article.Caption" Value="Articolo" />
+			<Item Name="Parameters.Version.Caption" Value="Versione" />
+		</Items>
+	</Group>
+</Resources>

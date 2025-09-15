@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Knowledge Management Extension" />
+			<Item Name="LocalizableStrings.ChartWidget_gz456xk_title.Value" Value="New chart" />
+			<Item Name="LocalizableStrings.ChartWidget_sltt414_title.Value" Value="New chart" />
+		</Items>
+	</Group>
+</Resources>

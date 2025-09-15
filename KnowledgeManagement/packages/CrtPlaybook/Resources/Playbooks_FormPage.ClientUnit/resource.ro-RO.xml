@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Pagină de formulare Playbooks" />
+			<Item Name="LocalizableStrings.AttachmentAddButton_caption.Value" Value="Încarcă" />
+			<Item Name="LocalizableStrings.AttachmentRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.DynamicCase_label.Value" Value="Caz dinamic" />
+			<Item Name="LocalizableStrings.RelatedArticlesAddTagAction_caption.Value" Value="Add tag" />
+			<Item Name="LocalizableStrings.RelatedArticlesExpansionPanel_title.Value" Value="Articole similare" />
+			<Item Name="LocalizableStrings.RelatedArticlesExportDataMenuItem_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.RelatedArticlesExportToExcelBulkAction_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.RelatedArticlesImportDataMenuItem_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.RelatedArticlesList_DeleteBulkAction_caption.Value" Value="Delete" />
+			<Item Name="LocalizableStrings.RelatedArticlesListDS_DcmStageValue.Value" Value="Stage" />
+			<Item Name="LocalizableStrings.RelatedArticlesListDS_KnowledgeBase.Value" Value="Articol" />
+			<Item Name="LocalizableStrings.RelatedArticlesRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.RelatedArticlesRemoveTagsBulkAction_caption.Value" Value="Șterge tag" />
+			<Item Name="LocalizableStrings.RelatedArticlesSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.RelatedArticlesSettingsButton_caption.Value" Value="Actions" />
+		</Items>
+	</Group>
+</Resources>

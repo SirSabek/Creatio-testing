@@ -1,0 +1,24 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "4235050e-a58a-40d4-8267-74ce92b40f26",
+      "A2": "ArticleVersions_MiniPageAppearanceSettings",
+      "A5": "086523c2-1158-472e-8e86-24c1bc87f574",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "934551d2-2e0b-1dea-b0c7-962ccd94a422",
+      "B8": "8.1.4.2889",
+      "AD1": "b2085498-f97c-45ca-8062-29bbeb16298b",
+      "AD2": "ClientUnitSchemaManager",
+      "AD3": "AppearanceSettings",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "modalSettings": {
+    "size": 2
+  }
+}
+    }
+  }
+}

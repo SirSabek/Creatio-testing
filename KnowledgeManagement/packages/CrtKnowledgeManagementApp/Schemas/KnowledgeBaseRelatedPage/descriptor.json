@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "47b95dd1-8a16-4733-9262-95e7ec655967",
+    "Name": "KnowledgeBaseRelatedPage",
+    "ModifiedOnUtc": "\/Date(1757936359000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Knowledge base article (Page settings)",
+    "DependsOn": []
+  }
+}

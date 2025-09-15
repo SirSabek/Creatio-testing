@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActionButton_caption.Value" Value="Akcje" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="Nowy" />
+			<Item Name="LocalizableStrings.Button_Data_Import.Value" Value="Import" />
+			<Item Name="LocalizableStrings.Button_xmxpm40_caption.Value" Value="Nowy" />
+			<Item Name="LocalizableStrings.DefaultHeaderCaption.Value" Value="Tytuł strony" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderSubHead.Value" Value="Dodaj nowy rekord, aby wyglądał ładniej" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderTitle.Value" Value="Sekcja nie ma żadnych rekordów" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderSubHead.Value" Value="Wyczyść filtr lub zmień warunki" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderTitle.Value" Value="Brak rekordów pasujących do kryteriów filtru" />
+			<Item Name="LocalizableStrings.ListTitleCaption.Value" Value="Tytuł listy" />
+			<Item Name="LocalizableStrings.MenuItem_ExportToExcel_caption.Value" Value="Eksportuj do Excel" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="Excel" />
+			<Item Name="LocalizableStrings.OpenLandingDesignerCaption.Value" Value="Formularze i strony internetowe" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Odśwież" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Szukaj" />
+		</Items>
+	</Group>
+</Resources>

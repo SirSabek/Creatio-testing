@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Stranica popisa priručnika" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="Dodaj oznaku" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="Izbriši" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Izvoz u Excel" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="Makni oznaku" />
+			<Item Name="LocalizableStrings.MenuItem_DataImport_caption.Value" Value="Uvoz podataka" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_caption.Value" Value="Object" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_hint.Value" Value="Odaberite objekt priručnika " />
+			<Item Name="LocalizableStrings.PDS_DcmCase.Value" Value="Dinamički zahtjev" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Osvježi" />
+		</Items>
+	</Group>
+</Resources>

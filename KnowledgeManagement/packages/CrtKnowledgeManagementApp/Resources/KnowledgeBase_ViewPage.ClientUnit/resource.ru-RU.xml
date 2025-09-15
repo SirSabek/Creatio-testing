@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница просмотра записи Knowledge Base" />
+			<Item Name="LocalizableStrings.ActionEdit_caption.Value" Value="Редактировать" />
+			<Item Name="LocalizableStrings.ArticleActionsMenu_caption.Value" Value="Изменить" />
+			<Item Name="LocalizableStrings.Button_edit_caption.Value" Value="Изменить" />
+			<Item Name="LocalizableStrings.Button_vngo1oa_caption.Value" Value="Изменить" />
+			<Item Name="LocalizableStrings.Label_Author_caption.Value" Value="Автор" />
+			<Item Name="LocalizableStrings.Label_AuthorValue_caption.Value" Value="John Best" />
+			<Item Name="LocalizableStrings.Label_ChangeDate_caption.Value" Value="Изменено" />
+			<Item Name="LocalizableStrings.Label_ChangeDateValue_caption.Value" Value="6/5/2013 12:05 PM" />
+			<Item Name="LocalizableStrings.Label_e259z3k_caption.Value" Value="Изменено" />
+			<Item Name="LocalizableStrings.Label_e259z3kValue_caption.Value" Value="6/5/2013 12:05 PM" />
+			<Item Name="LocalizableStrings.Label_ecx9uxd_caption.Value" Value="6/5/2013 12:05 PM" />
+			<Item Name="LocalizableStrings.Label_k0kq9ni_caption.Value" Value="Тип" />
+			<Item Name="LocalizableStrings.Label_k0kq9niValue_caption.Value" Value="FAQ" />
+			<Item Name="LocalizableStrings.Label_qo5386l_caption.Value" Value="FAQ" />
+			<Item Name="LocalizableStrings.Label_RecordType_caption.Value" Value="Тип" />
+			<Item Name="LocalizableStrings.Label_RecordTypeValue_caption.Value" Value="FAQ" />
+			<Item Name="LocalizableStrings.Label_weryhio_caption.Value" Value="|" />
+			<Item Name="LocalizableStrings.Label_weryhioValue_caption.Value" Value="FAQ" />
+			<Item Name="LocalizableStrings.Label_yjnnfrz_caption.Value" Value="Тип" />
+		</Items>
+	</Group>
+</Resources>

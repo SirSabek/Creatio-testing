@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Adicionar os direitos da coluna na Base de Conhecimentos para o grupo de Todos os Empregados" />
+		</Items>
+	</Group>
+</Resources>

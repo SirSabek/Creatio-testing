@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9e14294e-7cb8-4cb5-8dc6-29e6663820d2",
+    "Name": "PlaybookStageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1757936362000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Playbook stage (Business rules)",
+    "DependsOn": []
+  }
+}

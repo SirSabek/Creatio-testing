@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9a61e937-f31a-4f26-8eb0-ba81bb70315e",
+    "Name": "PublishDraftToArticle",
+    "ModifiedOnUtc": "\/Date(1757936360000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Publish draft to article",
+    "DependsOn": []
+  }
+}

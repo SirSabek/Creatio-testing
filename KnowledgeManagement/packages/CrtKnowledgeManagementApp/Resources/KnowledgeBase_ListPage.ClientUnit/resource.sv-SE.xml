@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Knowledge Base list page" />
+			<Item Name="LocalizableStrings.AddButton_caption.Value" Value="Ny" />
+			<Item Name="LocalizableStrings.DataImportButton_caption.Value" Value="Import" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_AddTagsBulkAction_caption.Value" Value="Lägg till tagg" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_DeleteBulkAction_caption.Value" Value="Delete" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_ExportToExcelBulkAction_caption.Value" Value="Expotera till Excel" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_RemoveTagsBulkAction_caption.Value" Value="Remove tag" />
+			<Item Name="LocalizableStrings.PDS_ModifiedBy.Value" Value="Författare" />
+			<Item Name="LocalizableStrings.PDS_ModifiedOn.Value" Value="Senast uppdaterad" />
+			<Item Name="LocalizableStrings.PDS_Name.Value" Value="Artikel" />
+		</Items>
+	</Group>
+</Resources>

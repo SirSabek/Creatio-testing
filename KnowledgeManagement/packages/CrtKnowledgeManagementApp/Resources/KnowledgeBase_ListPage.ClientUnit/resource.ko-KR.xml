@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="기술 자료 목록 페이지" />
+			<Item Name="LocalizableStrings.AddButton_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.DataImportButton_caption.Value" Value="Import" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_AddTagsBulkAction_caption.Value" Value="태그 추가" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_DeleteBulkAction_caption.Value" Value="삭제" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_ExportToExcelBulkAction_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_RemoveTagsBulkAction_caption.Value" Value="태그 제거" />
+			<Item Name="LocalizableStrings.PDS_ModifiedBy.Value" Value="작가" />
+			<Item Name="LocalizableStrings.PDS_ModifiedOn.Value" Value="마지막 업데이트는 ()입니다" />
+			<Item Name="LocalizableStrings.PDS_Name.Value" Value="Article" />
+		</Items>
+	</Group>
+</Resources>

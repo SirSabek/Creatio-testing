@@ -1,0 +1,58 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "9e14294e-7cb8-4cb5-8dc6-29e6663820d2",
+      "A2": "PlaybookStageBusinessRule",
+      "A5": "c503936b-c83b-471a-b8f6-07dcf9cbe2ee",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "23bf62a7-f480-80cd-7ed4-0284df677bd5",
+      "B8": "8.2.2.1565",
+      "AD1": "240d99cd-6e16-4d68-9674-0d3e1c72a7fd",
+      "AD2": "EntitySchemaManager",
+      "AD3": "BusinessRule",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "JI0": "Terrasoft.Core.BusinessRules.BusinessRules",
+        "BRS1": [
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "32cc5b06-ac23-7298-dcf8-261ba54d6729",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "08318095-796c-6eb9-5056-fc50deea2f57",
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetFilter",
+                    "UId": "c2c96756-ffaa-719e-332f-af7845cf5e4b",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "2d8cde17-d240-7a0d-77eb-e06bc848c847",
+                      "BRX1": "KnowledgeBase"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "512e4a9d-bc79-a01d-6a9f-529cc5ee7ae0",
+                      "BVE1": "{\"items\":{\"b9e849ee-7fbf-4e44-8800-a4a8ea555b9d\":{\"filterType\":4,\"comparisonType\":4,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"Status\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"ArticlePublicationStatus\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Draft\",\"Id\":\"79a2f41d-4a2a-4b31-9e8a-9c91eb91a743\",\"value\":\"79a2f41d-4a2a-4b31-9e8a-9c91eb91a743\",\"displayValue\":\"Draft\"}}},{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"In proofreading\",\"Id\":\"d250edcc-0de0-40da-9ccd-dcc0e8eb07a3\",\"value\":\"d250edcc-0de0-40da-9ccd-dcc0e8eb07a3\",\"displayValue\":\"In proofreading\"}}}]},\"a55d9ba4-92eb-4703-927d-8ff4f8c3a7ba\":{\"filterType\":2,\"comparisonType\":1,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"ParentArticle\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"KnowledgeBase\",\"isNull\":true}},\"logicalOperation\":0,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"KnowledgeBase\"}"
+                    }
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "a870c88e-c0d3-e63e-5495-35aca353d84c",
+                "BRT2": 2
+              }
+            ],
+            "BR3": "FilterKnowledgeBaseBusinessRule"
+          }
+        ]
+      }
+    }
+  }
+}

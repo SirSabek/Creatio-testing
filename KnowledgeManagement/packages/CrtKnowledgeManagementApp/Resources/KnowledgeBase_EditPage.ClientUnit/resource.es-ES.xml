@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Página de edición del artículo de la base de conocimiento" />
+			<Item Name="LocalizableStrings.addRecord_u9rrs6z_caption.Value" Value="Añadir nuevo" />
+			<Item Name="LocalizableStrings.ExportedNoficationText_caption.Value" Value="Este artículo se exporta a Copilot para ayudar a resolver los casos más rápido" />
+			<Item Name="LocalizableStrings.ImageInput_oz7tq48_label.Value" Value="Imagen a cargar" />
+			<Item Name="LocalizableStrings.Label_fbdv5hn_caption.Value" Value="Etiqueta" />
+		</Items>
+	</Group>
+</Resources>

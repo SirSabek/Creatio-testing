@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Knowledge article publishing" />
+			<Item Name="NotificationCaption.Caption" Value="프로세스 인스턴스 캡션" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Stages.Stage1.Caption" Value="원고" />
+			<Item Name="Stages.Stage2.Caption" Value="In proofreading" />
+			<Item Name="Stages.Stage3.Caption" Value="Published" />
+		</Items>
+	</Group>
+</Resources>

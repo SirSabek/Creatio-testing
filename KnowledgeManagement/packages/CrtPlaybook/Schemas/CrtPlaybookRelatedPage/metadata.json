@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "4ad25e68-0ade-44f5-8441-0db7a0531792",
+      "A2": "CrtPlaybookRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "23bf62a7-f480-80cd-7ed4-0284df677bd5",
+      "B8": "0.0.0.0",
+      "AD1": "0edefc78-87af-4c32-8fe6-2cb5730baa26",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "b6f19023-39ef-71ef-2894-891945a3c21d",
+      "PageSchemaUId": "7027fe9d-a25c-4de1-bdc6-297a8a678b2c",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActionButton_caption.Value" Value="Ações" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.Button_Data_Import.Value" Value="Importar" />
+			<Item Name="LocalizableStrings.Button_xmxpm40_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.DefaultHeaderCaption.Value" Value="Título da página" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderSubHead.Value" Value="Adicione um novo registro para tornar mais elegante" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderTitle.Value" Value="A seção não possui registros" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderSubHead.Value" Value="Limpar o filtro ou alterar as suas condições" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderTitle.Value" Value="Não existem registros correspondentes aos critérios do filtro" />
+			<Item Name="LocalizableStrings.ListTitleCaption.Value" Value="Título da lista" />
+			<Item Name="LocalizableStrings.MenuItem_ExportToExcel_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="Excel" />
+			<Item Name="LocalizableStrings.OpenLandingDesignerCaption.Value" Value="Web forms and pages" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Atualizar" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Pesquisar" />
+		</Items>
+	</Group>
+</Resources>

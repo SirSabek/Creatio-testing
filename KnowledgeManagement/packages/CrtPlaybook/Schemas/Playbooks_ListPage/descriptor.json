@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "207cd290-d9b7-40c3-92db-2776d22a8335",
+    "Name": "Playbooks_ListPage",
+    "ModifiedOnUtc": "\/Date(1757936362000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Playbooks list page",
+    "DependsOn": []
+  }
+}

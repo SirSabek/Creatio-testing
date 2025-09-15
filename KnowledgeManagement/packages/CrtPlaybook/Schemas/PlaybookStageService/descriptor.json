@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b6e517a7-379c-46ce-a97a-0a12d956088e",
+    "Name": "PlaybookStageService",
+    "ModifiedOnUtc": "\/Date(1713530553000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "PlaybookStageService",
+    "DependsOn": []
+  }
+}

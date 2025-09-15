@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "9f6416fd-de6a-386c-9806-446f7970c0d5",
+    "Name": "UsrKnowledgeManagementExtension",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1757936583000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrKnowledgeManagementExtension.csproj",
+    "DependsOn": [
+      {
+        "UId": "408fe390-2c3e-4702-5703-80e181a174b3",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtKnowledgeManagementApp",
+        "Type": 1
+      }
+    ]
+  }
+}

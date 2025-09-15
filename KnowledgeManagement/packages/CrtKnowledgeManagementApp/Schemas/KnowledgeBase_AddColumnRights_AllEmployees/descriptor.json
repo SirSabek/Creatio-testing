@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "04df470b-c991-4d7b-a1ab-7cdce915d19a",
+    "Name": "KnowledgeBase_AddColumnRights_AllEmployees",
+    "ModifiedOnUtc": "\/Date(1757936359000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Add column rights on KnowledgeBase for All Employees group",
+    "DependsOn": []
+  }
+}

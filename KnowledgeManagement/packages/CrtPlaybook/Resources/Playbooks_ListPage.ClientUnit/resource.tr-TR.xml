@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Playbooks list page" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="Add tag" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="Sil" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Excel'e Aktar" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="Remove tag" />
+			<Item Name="LocalizableStrings.MenuItem_DataImport_caption.Value" Value="Veri içe aktarma" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_caption.Value" Value="Nesne" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_hint.Value" Value="Select playbook object " />
+			<Item Name="LocalizableStrings.PDS_DcmCase.Value" Value="Dynamic case" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Yenile" />
+		</Items>
+	</Group>
+</Resources>

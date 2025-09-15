@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Strona listy bazy wiedzy" />
+			<Item Name="LocalizableStrings.AddButton_caption.Value" Value="Nowy" />
+			<Item Name="LocalizableStrings.DataImportButton_caption.Value" Value="Import" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_AddTagsBulkAction_caption.Value" Value="Dodaj tag" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_DeleteBulkAction_caption.Value" Value="Delete" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_ExportToExcelBulkAction_caption.Value" Value="Eksportuj do Excel" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_RemoveTagsBulkAction_caption.Value" Value="Usuń tag" />
+			<Item Name="LocalizableStrings.PDS_ModifiedBy.Value" Value="Zgłaszający" />
+			<Item Name="LocalizableStrings.PDS_ModifiedOn.Value" Value="Ostatnia aktualizacja" />
+			<Item Name="LocalizableStrings.PDS_Name.Value" Value="Artykuł" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Faqja e modifikimit të artikullit Baza e njohurive" />
+			<Item Name="LocalizableStrings.addRecord_u9rrs6z_caption.Value" Value="Shto të re" />
+			<Item Name="LocalizableStrings.ExportedNoficationText_caption.Value" Value="Ky artikull eksportohet te Copilot për të ndihmuar në zgjidhjen më të shpejtë të rasteve" />
+			<Item Name="LocalizableStrings.ImageInput_oz7tq48_label.Value" Value="Image to upload" />
+			<Item Name="LocalizableStrings.Label_fbdv5hn_caption.Value" Value="Label" />
+		</Items>
+	</Group>
+</Resources>

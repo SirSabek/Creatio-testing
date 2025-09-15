@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "240d99cd-6e16-4d68-9674-0d3e1c72a7fd",
+    "Name": "PlaybookStage",
+    "ModifiedOnUtc": "\/Date(1757936362000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Playbook stage",
+    "DependsOn": []
+  }
+}

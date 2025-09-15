@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.b34ab99b-df52-d1ea-c01d-6b112fbb1fc2.Caption" Value="Hide edit menu for published versions" />
+			<Item Name="Caption" Value="Knowledge Base Article view page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

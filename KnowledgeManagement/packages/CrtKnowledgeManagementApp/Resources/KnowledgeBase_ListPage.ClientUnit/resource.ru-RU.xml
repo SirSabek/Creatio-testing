@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница с реестром Knowledge Base" />
+			<Item Name="LocalizableStrings.AddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.DataImportButton_caption.Value" Value="Импорт" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_AddTagsBulkAction_caption.Value" Value="Добавить тег" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_DeleteBulkAction_caption.Value" Value="Удалить" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_ExportToExcelBulkAction_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.KnowledgeBaseArticlesList_RemoveTagsBulkAction_caption.Value" Value="Убрать тег" />
+			<Item Name="LocalizableStrings.PDS_ModifiedBy.Value" Value="Автор" />
+			<Item Name="LocalizableStrings.PDS_ModifiedOn.Value" Value="Обновлено" />
+			<Item Name="LocalizableStrings.PDS_Name.Value" Value="Статья" />
+		</Items>
+	</Group>
+</Resources>

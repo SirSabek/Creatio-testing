@@ -1,0 +1,16 @@
+﻿{
+  "SqlScript": {
+    "UId": "62bd38e4-b7d8-4893-b1ed-9e2462bc4e98",
+    "Name": "SysEntitySchemaOperationDefRightsKnowledgeBaseOracle",
+    "DBEngineType": 1,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1722852445000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": [
+      {
+        "UId": "87d184d7-1817-482a-a40e-8bb414658c41",
+        "Name": "tsp_AddSysEntityOperationDefaultRights"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="プレイブックリストページ" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="タグの追加" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="削除" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="タグの削除" />
+			<Item Name="LocalizableStrings.MenuItem_DataImport_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_caption.Value" Value="オブジェクト" />
+			<Item Name="LocalizableStrings.ObjectQuickFilter_config_hint.Value" Value="プレイブックオブジェクトを選択 " />
+			<Item Name="LocalizableStrings.PDS_DcmCase.Value" Value="ダイナミックケース" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Refresh" />
+		</Items>
+	</Group>
+</Resources>

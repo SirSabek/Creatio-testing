@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ActionButton_caption.Value" Value="פעולות" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="חדש" />
+			<Item Name="LocalizableStrings.Button_Data_Import.Value" Value="יבוא" />
+			<Item Name="LocalizableStrings.Button_xmxpm40_caption.Value" Value="חדש" />
+			<Item Name="LocalizableStrings.DefaultHeaderCaption.Value" Value="כותרת הדף" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderSubHead.Value" Value="הוסף רשומה חדשה כדי לשפר את המראה" />
+			<Item Name="LocalizableStrings.EmptySectionPlaceholderTitle.Value" Value="אין רשומות להצגה" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderSubHead.Value" Value="נקה את המסנן או שנה את התנאים שלו" />
+			<Item Name="LocalizableStrings.FilteredEmptySectionPlaceholderTitle.Value" Value="אין רשומות שמתאימות לקריטריונים של המסנן" />
+			<Item Name="LocalizableStrings.ListTitleCaption.Value" Value="כותרת הרשימה" />
+			<Item Name="LocalizableStrings.MenuItem_ExportToExcel_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="אקסל" />
+			<Item Name="LocalizableStrings.OpenLandingDesignerCaption.Value" Value="טפסים ודפים באינטרנט" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="חפש" />
+		</Items>
+	</Group>
+</Resources>

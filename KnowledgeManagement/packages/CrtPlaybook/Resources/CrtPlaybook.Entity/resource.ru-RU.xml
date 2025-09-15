@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Объект Playbook" />
+			<Item Name="Columns.DcmCase.Caption" Value="Динамический кейс" />
+			<Item Name="Columns.Name.Caption" Value="Название" />
+			<Item Name="Columns.Object.Caption" Value="Объект" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Пул 1" />
+		</Items>
+	</Group>
+</Resources>

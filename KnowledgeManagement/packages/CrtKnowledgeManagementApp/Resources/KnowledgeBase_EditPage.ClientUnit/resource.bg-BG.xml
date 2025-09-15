@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница за редакция на статия от Базата знания" />
+			<Item Name="LocalizableStrings.addRecord_u9rrs6z_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.ExportedNoficationText_caption.Value" Value="Тази статия се експортира в Copilot, за да помогне за по-бързото разрешаване на случаите" />
+			<Item Name="LocalizableStrings.ImageInput_oz7tq48_label.Value" Value="Изображение за качване" />
+			<Item Name="LocalizableStrings.Label_fbdv5hn_caption.Value" Value="Етикет" />
+		</Items>
+	</Group>
+</Resources>
