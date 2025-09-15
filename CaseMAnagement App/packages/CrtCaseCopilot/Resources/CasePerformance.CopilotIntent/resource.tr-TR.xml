@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="tr-TR">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Vaka performansı" />
-			<Item Name="Description" Value="Destek durumunun performans analizi raporu oluşturun" />
-		</Items>
-	</Group>
-</Resources>

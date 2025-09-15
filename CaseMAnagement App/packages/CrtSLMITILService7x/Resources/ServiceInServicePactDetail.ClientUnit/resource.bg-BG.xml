@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="bg-BG">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Детайлна схема - Услуги в секция Договор за услуги" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="Услуги" />
-		</Items>
-	</Group>
-</Resources>

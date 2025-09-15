@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="lv-LV">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Lauka vērtības veids &quot;E-pasta adrese vai domēns&quot;" />
-			<Item Name="Columns.Code.Caption" Value="Kods" />
-		</Items>
-	</Group>
-</Resources>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="pl-PL">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="&quot;Zgłoszenie&quot; w sekcji &quot;Pakty serwisowe&quot; szczegóły" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="Zgłoszenia" />
-		</Items>
-	</Group>
-</Resources>

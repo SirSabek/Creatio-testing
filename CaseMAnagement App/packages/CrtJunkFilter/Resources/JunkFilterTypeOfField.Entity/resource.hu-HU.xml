@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="hu-HU">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="A mezőérték típusa &quot;E-mail-cím vagy tartomány&quot;" />
-			<Item Name="Columns.Code.Caption" Value="Kód" />
-		</Items>
-	</Group>
-</Resources>

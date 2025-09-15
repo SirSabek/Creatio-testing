@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="ro-RO">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="&quot;Cazul&quot; în secțiunea &quot;Serviciu Pacts&quot; detalii" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="Cazuri" />
-		</Items>
-	</Group>
-</Resources>

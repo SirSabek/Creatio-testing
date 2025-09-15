@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="uk-UA">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Схема деталі &quot;Звернення&quot; в розділі &quot;Сервісні договору&quot;" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="Звернення" />
-		</Items>
-	</Group>
-</Resources>

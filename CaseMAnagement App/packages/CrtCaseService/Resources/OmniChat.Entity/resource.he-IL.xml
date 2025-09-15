@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="he-IL">
-	<Group Type="String">
-		<Items>
-			<Item Name="Columns.Case.Caption" Value="מקרה" />
-			<Item Name="Columns.Case.Description" Value="המקרה מחובר לשיחה" />
-		</Items>
-	</Group>
-</Resources>

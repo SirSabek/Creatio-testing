@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="it-IT">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="CasePortalService" />
-			<Item Name="LocalizableStrings.CancelCaseError.Value" Value="Non è possibile completare questa azione: lo stato del case è stato cambiato" />
-		</Items>
-	</Group>
-</Resources>

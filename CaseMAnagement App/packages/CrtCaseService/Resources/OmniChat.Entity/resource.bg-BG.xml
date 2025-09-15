@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="bg-BG">
-	<Group Type="String">
-		<Items>
-			<Item Name="Columns.Case.Caption" Value="Случай" />
-			<Item Name="Columns.Case.Description" Value="Случай свързан с чат" />
-		</Items>
-	</Group>
-</Resources>

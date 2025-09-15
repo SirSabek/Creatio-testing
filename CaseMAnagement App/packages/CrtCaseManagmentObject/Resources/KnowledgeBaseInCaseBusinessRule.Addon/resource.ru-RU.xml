@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="ru-RU">
-	<Group Type="String">
-		<Items>
-			<Item Name="AddonConfig.Rules.1eda64d7-23d0-8c79-fbc1-a90208ef297b.Caption" Value="База знаний: Добавлять фильтр по статусу и родительской статье" />
-			<Item Name="Caption" Value="Knowledge base article in case (Business rules)" />
-		</Items>
-	</Group>
-</Resources>

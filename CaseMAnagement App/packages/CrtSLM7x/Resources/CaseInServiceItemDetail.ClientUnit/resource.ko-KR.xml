@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="ko-KR">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="상세 스키마 - &quot;서비스&quot; 섹션의 &quot;케이스&quot;" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="케이스" />
-		</Items>
-	</Group>
-</Resources>

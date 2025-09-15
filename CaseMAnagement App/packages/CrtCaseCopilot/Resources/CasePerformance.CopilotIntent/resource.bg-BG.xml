@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="bg-BG">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Изпълнение на случая" />
-			<Item Name="Description" Value="Генерирай отчет за анализ на ефективността на случай по поддръжка" />
-		</Items>
-	</Group>
-</Resources>

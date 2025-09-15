@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="th-TH">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="ต้นกำเนิดของเคส" />
-			<Item Name="Columns.Image.Caption" Value="ไอคอนของต้นกำเนิด" />
-		</Items>
-	</Group>
-</Resources>

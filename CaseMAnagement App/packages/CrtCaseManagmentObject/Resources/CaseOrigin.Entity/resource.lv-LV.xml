@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="lv-LV">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Lietas izcelsme" />
-			<Item Name="Columns.Image.Caption" Value="Izcelsmes ikona" />
-		</Items>
-	</Group>
-</Resources>

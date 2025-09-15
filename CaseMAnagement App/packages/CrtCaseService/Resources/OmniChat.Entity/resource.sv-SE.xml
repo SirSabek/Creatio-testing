@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="sv-SE">
-	<Group Type="String">
-		<Items>
-			<Item Name="Columns.Case.Caption" Value="Case" />
-			<Item Name="Columns.Case.Description" Value="Ärende kopplat till chatt" />
-		</Items>
-	</Group>
-</Resources>

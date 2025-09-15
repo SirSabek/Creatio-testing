@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="vi-VN">
-	<Group Type="String">
-		<Items>
-			<Item Name="Columns.Case.Caption" Value="Trường hợp" />
-			<Item Name="Columns.Case.Description" Value="Trường hợp đã liên kết với trò chuyện" />
-		</Items>
-	</Group>
-</Resources>

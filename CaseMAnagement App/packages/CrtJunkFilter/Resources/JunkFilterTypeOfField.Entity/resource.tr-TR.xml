@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="tr-TR">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Alan Değeri Türü &quot;E-posta adresi veya Etki Alanı&quot;" />
-			<Item Name="Columns.Code.Caption" Value="Code" />
-		</Items>
-	</Group>
-</Resources>

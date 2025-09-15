@@ -1,8 +1,0 @@
-.application/
-.nuget/
-.solution/
-.vscode/
-tasks/
-
-.gitlab-ci.yml
-Jenkinsfile 

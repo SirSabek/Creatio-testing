@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="uk-UA">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Тип значення поля Email чи Домен" />
-			<Item Name="Columns.Code.Caption" Value="Код" />
-		</Items>
-	</Group>
-</Resources>

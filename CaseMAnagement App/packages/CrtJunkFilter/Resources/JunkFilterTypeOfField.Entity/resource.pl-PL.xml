@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="pl-PL">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Rodzaj wartości pola &quot;Adres e-mail lub domena&quot;" />
-			<Item Name="Columns.Code.Caption" Value="Kod" />
-		</Items>
-	</Group>
-</Resources>

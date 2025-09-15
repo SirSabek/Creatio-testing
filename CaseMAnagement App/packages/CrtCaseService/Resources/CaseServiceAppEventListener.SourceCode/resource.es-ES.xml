@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="es-ES">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value=" Una clase que las características del servicio de configuración al iniciar la aplicación " />
-		</Items>
-	</Group>
-</Resources>

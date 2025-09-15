@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="es-ES">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Rendimiento del caso" />
-			<Item Name="Description" Value="Generar informe de análisis de rendimiento del caso de soporte" />
-		</Items>
-	</Group>
-</Resources>

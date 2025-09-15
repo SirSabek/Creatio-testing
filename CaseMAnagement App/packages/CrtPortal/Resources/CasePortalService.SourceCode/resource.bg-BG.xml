@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="bg-BG">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="CasePortalService" />
-			<Item Name="LocalizableStrings.CancelCaseError.Value" Value="Не може да завършиш това действие: статусът на случая е променен" />
-		</Items>
-	</Group>
-</Resources>

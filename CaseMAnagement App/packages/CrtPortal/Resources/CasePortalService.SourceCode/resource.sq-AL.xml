@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="sq-AL">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="CasePortalService" />
-			<Item Name="LocalizableStrings.CancelCaseError.Value" Value="Nuk mund ta kryesh këtë veprim: statusi i çështjes është ndryshuar" />
-		</Items>
-	</Group>
-</Resources>

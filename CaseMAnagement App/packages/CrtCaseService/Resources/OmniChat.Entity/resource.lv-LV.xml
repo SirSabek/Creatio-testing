@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="lv-LV">
-	<Group Type="String">
-		<Items>
-			<Item Name="Columns.Case.Caption" Value="Lieta" />
-			<Item Name="Columns.Case.Description" Value="Lieta saistīta ar tērzēšanu" />
-		</Items>
-	</Group>
-</Resources>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="he-IL">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="&quot;מקרה&quot; בפרטי &quot;חוזי שירות&quot;" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="מקרים" />
-		</Items>
-	</Group>
-</Resources>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="fr-FR">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="CasePortalService" />
-			<Item Name="LocalizableStrings.CancelCaseError.Value" Value="Vous ne pouvez pas réaliser cette action: le statut du cas a été modifié" />
-		</Items>
-	</Group>
-</Resources>

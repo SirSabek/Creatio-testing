@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="ar-SA">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="تفاصيل المخططات - &quot;الحالات&quot; في &quot;قسم&quot; الخدمات" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="الحالات" />
-		</Items>
-	</Group>
-</Resources>

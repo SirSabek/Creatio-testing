@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="hr-HR">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Razlog za zatvaranje" />
-			<Item Name="EventsProcessSchema.Caption" Value="Poslovni proces" />
-		</Items>
-	</Group>
-</Resources>

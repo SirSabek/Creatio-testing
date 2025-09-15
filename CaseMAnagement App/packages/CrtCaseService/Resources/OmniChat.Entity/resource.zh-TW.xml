@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="zh-TW">
-	<Group Type="String">
-		<Items>
-			<Item Name="Columns.Case.Caption" Value="Case" />
-			<Item Name="Columns.Case.Description" Value="案例已连接到聊天" />
-		</Items>
-	</Group>
-</Resources>

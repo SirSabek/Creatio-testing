@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="ro-RO">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Rezumați cazul" />
-			<Item Name="Description" Value="Generați un rezumat al cazului de suport" />
-		</Items>
-	</Group>
-</Resources>

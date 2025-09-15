@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="zh-TW">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="外部個案新增頁面（AppearanceSettings）" />
-		</Items>
-	</Group>
-</Resources>

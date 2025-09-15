@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="ja-JP">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="スキーマ詳細- サービス契約セクション" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="サービス契約" />
-		</Items>
-	</Group>
-</Resources>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="tr-TR">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Detay Şeması - Hizmet Sözleşmesinde Hizmetler Bölümü" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="Servisler" />
-		</Items>
-	</Group>
-</Resources>

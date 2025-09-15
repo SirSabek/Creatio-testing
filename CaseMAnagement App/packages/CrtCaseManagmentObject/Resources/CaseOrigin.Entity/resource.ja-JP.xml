@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="ja-JP">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="案件の起点" />
-			<Item Name="Columns.Image.Caption" Value="起点アイコン" />
-		</Items>
-	</Group>
-</Resources>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="pl-PL">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Szczegółowy schemat - &quot;Sprawy&quot; w sekcji &quot;Usługi&quot;" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="Zgłoszenia" />
-		</Items>
-	</Group>
-</Resources>

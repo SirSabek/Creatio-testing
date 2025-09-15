@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="ro-RO">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Schema detaliu- Servicii in sectiunea contract service" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="Servicii" />
-		</Items>
-	</Group>
-</Resources>

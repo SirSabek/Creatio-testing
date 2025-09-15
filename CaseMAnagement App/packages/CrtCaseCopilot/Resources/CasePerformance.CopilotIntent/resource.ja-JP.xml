@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="ja-JP">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="ケースパフォーマンス" />
-			<Item Name="Description" Value="サポート ケースのパフォーマンス分析レポートを生成する" />
-		</Items>
-	</Group>
-</Resources>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="ja-JP">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="案件の概要" />
-			<Item Name="Description" Value="サポートケースの概要を生成します" />
-		</Items>
-	</Group>
-</Resources>

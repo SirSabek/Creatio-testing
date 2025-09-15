@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="it-IT">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Schema dettaglio - &quot;Cases&quot; in &quot;Services&quot; section" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="Casi" />
-		</Items>
-	</Group>
-</Resources>

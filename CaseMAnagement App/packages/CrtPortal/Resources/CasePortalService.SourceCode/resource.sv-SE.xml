@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="sv-SE">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="CasePortalService" />
-			<Item Name="LocalizableStrings.CancelCaseError.Value" Value="Du kan inte slutföra denna åtgärd: Ärendeets status har ändrats" />
-		</Items>
-	</Group>
-</Resources>

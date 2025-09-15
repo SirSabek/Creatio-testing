@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="ko-KR">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Detail schema - Services in service contract section" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="서비스" />
-		</Items>
-	</Group>
-</Resources>

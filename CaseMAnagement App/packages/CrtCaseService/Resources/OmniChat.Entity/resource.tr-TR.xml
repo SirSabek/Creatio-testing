@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="tr-TR">
-	<Group Type="String">
-		<Items>
-			<Item Name="Columns.Case.Caption" Value="Vaka" />
-			<Item Name="Columns.Case.Description" Value="Sohbete bağlı dava" />
-		</Items>
-	</Group>
-</Resources>

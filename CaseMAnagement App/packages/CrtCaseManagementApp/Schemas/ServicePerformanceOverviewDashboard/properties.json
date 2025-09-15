@@ -1,8 +1,0 @@
-﻿{
-  "Properties": {
-    "CreatedInVersion": "8.3.0.1883",
-    "Group": "DashboardPage",
-    "OptionalProperties": "{\"DashboardsClientUnitSchemaUId\":\"7299090b-87c8-4062-8897-74497f40a7eb\",\"DashboardsElementName\":\"Dashboards\",\"DashboardsEntitySchemaName\":\"Case\"}",
-    "SchemaType": "AngularSchema"
-  }
-}

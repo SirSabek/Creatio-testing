@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="bg-BG">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Тип на стойността на полето &quot;Имейл адрес или домейн&quot;" />
-			<Item Name="Columns.Code.Caption" Value="Код" />
-		</Items>
-	</Group>
-</Resources>

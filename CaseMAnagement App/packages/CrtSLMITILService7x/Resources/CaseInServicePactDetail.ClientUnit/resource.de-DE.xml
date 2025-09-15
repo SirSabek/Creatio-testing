@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="de-DE">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="&quot;Fall&quot; im Abschnitt &quot;Service-Pakte&quot; Detail" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="Fälle" />
-		</Items>
-	</Group>
-</Resources>

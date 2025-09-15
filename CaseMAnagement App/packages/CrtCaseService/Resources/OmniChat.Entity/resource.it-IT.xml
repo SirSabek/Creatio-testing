@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="it-IT">
-	<Group Type="String">
-		<Items>
-			<Item Name="Columns.Case.Caption" Value="Caso" />
-			<Item Name="Columns.Case.Description" Value="Caso connesso alla chat" />
-		</Items>
-	</Group>
-</Resources>

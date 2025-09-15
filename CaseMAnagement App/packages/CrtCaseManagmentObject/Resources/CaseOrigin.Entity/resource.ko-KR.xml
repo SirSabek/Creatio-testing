@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="ko-KR">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="Case origin" />
-			<Item Name="Columns.Image.Caption" Value="원산지 아이콘" />
-		</Items>
-	</Group>
-</Resources>

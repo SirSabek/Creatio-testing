@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="hu-HU">
-	<Group Type="String">
-		<Items>
-			<Item Name="Caption" Value="&quot;Tok&quot; a &quot;Szolgáltatási szerződések&quot; Részlet" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="Eset" />
-		</Items>
-	</Group>
-</Resources>
