@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="Ad campaign" />
+			<Item Name="Columns.Channel.Caption" Value="ช่องทาง" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="ความจำเป็นของลูกค้า" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="อีเมลไม่ถูกต้อง" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Lead conversion score" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="วิธีลงทะเบียน" />
+			<Item Name="Columns.Source.Caption" Value="แหล่งข้อมูล" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="ออบเจกต์รอง" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="ค่าเริ่มต้นสำหรับคอลัมน์ออบเจ็กต์หลัก" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="ตัวกรองสำหรับการลบบันทึก" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="การเชื่อมต่อระหว่างคอลัมน์ของ ออบเจ็กตฺหลักและออบเจ็กต์รอง" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="ตัวกรองในการเลือกหลายๆแถว" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="ฟิลดทั้งหมดจำเป็น" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="ฟิลด์ที่จำเป็นในออบเจ็กต์รอง" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="ตัวกรองในการเลือกแถวเดียว" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

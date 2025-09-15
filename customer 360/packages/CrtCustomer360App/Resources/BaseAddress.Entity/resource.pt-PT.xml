@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.FullAddress.Caption" Value="Endereço completo" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_889eb80e39ac4b74a6fc59e7d663566a.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_889eb80e39ac4b74a6fc59e7d663566a.Lanes.Lane_bdeeeb665b6d44a2820e9921979a3fed.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

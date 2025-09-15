@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Kontaktet nga faqja" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Përzgjidh llogarinë" />
+			<Item Name="LocalizableStrings.AccountCategory_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountCategory_label.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountIndustry_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountIndustry_label.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountInfoExpansionPanel_title.Value" Value="Informacioni i llogarisë" />
+			<Item Name="LocalizableStrings.addRecord_e9kbl5o_caption.Value" Value="Shto të re" />
+			<Item Name="LocalizableStrings.addRecord_oz5z1xx_caption.Value" Value="Shto të re" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Adresat" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Eksporto në Exel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Importimi i të dhënave" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Rifresko" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Kërko" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.CareerAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.CareerExpansionPanel_title.Value" Value="Përvoja e punës" />
+			<Item Name="LocalizableStrings.CareerExportDataButton_caption.Value" Value="Eksporto në Exel" />
+			<Item Name="LocalizableStrings.CareerImportDataButton_caption.Value" Value="Importimi i të dhënave" />
+			<Item Name="LocalizableStrings.CareerRefreshButton_caption.Value" Value="Rifresko" />
+			<Item Name="LocalizableStrings.CareerSearchFilter_placeholder.Value" Value="Kërko" />
+			<Item Name="LocalizableStrings.CareerSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ContactCommunicationOptionsAddButton_caption.Value" Value="Add communication option" />
+			<Item Name="LocalizableStrings.Dear_placeholder.Value" Value="Vendos emrin ligjor" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Vendos email" />
+			<Item Name="LocalizableStrings.Gender_placeholder.Value" Value="Përzgjidh gjininë" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Informacioni i kontaktit" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Vendos titullin e punës" />
+			<Item Name="LocalizableStrings.Language_placeholder.Value" Value="Përzgjidh gjuhën" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Vendos numër telefoni" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Përzgjidh pronarin" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Titulli i faqes" />
+			<Item Name="LocalizableStrings.SalutationType_placeholder.Value" Value="Përzgjidh titullin" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Kohështrirja" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Kohështrirja" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Kohështrirja" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Përzgjidh llojin e kontaktit" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="広告キャンペーン" />
+			<Item Name="Columns.Channel.Caption" Value="チャネル" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="顧客ニーズ" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="Invalid email" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="リード変換スコア" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="登録方法" />
+			<Item Name="Columns.Source.Caption" Value="Source" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="従属オブジェクト" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="親オブジェクトカラムのデフォルト値" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="レコードを削除するためのフィルタ" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="親オブジェクトと下位オブジェクトの列間の接続" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="複数の行を選択するフィルタ" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="すべてのフィールドが必要です" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="下位オブジェクトの必須項目" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="単一行を選択するフィルタ" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

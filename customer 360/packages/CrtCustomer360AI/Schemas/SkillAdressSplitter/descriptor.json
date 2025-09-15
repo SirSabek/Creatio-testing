@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "03c740de-de7d-151a-61f7-5d61cb1b258b",
+    "Name": "SkillAdressSplitter",
+    "ModifiedOnUtc": "\/Date(1743421449000)\/",
+    "ManagerName": "CopilotIntentSchemaManager",
+    "Caption": "Adress splitter",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Névjegyalbum űrlaplap" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Select account" />
+			<Item Name="LocalizableStrings.AccountCategory_ariaLabel.Value" Value="Legördülő" />
+			<Item Name="LocalizableStrings.AccountCategory_label.Value" Value="Legördülő" />
+			<Item Name="LocalizableStrings.AccountIndustry_ariaLabel.Value" Value="Legördülő" />
+			<Item Name="LocalizableStrings.AccountIndustry_label.Value" Value="Legördülő" />
+			<Item Name="LocalizableStrings.AccountInfoExpansionPanel_title.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.addRecord_e9kbl5o_caption.Value" Value="Új hozzáadása" />
+			<Item Name="LocalizableStrings.addRecord_oz5z1xx_caption.Value" Value="Új hozzáadása" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="Új" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Címek" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Keresés" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Műveletek" />
+			<Item Name="LocalizableStrings.CareerAddButton_caption.Value" Value="Új" />
+			<Item Name="LocalizableStrings.CareerExpansionPanel_title.Value" Value="Elvárt szakmai tapasztalat" />
+			<Item Name="LocalizableStrings.CareerExportDataButton_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.CareerImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.CareerRefreshButton_caption.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.CareerSearchFilter_placeholder.Value" Value="Keresés" />
+			<Item Name="LocalizableStrings.CareerSettingsButton_caption.Value" Value="Műveletek" />
+			<Item Name="LocalizableStrings.ContactCommunicationOptionsAddButton_caption.Value" Value="Kommunikációs lehetőség hozzáadása" />
+			<Item Name="LocalizableStrings.Dear_placeholder.Value" Value="Adja meg a hivatalos nevet" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="E-mail megadása" />
+			<Item Name="LocalizableStrings.Gender_placeholder.Value" Value="Válassza ki a nemet" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Kapcsolat infó" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Adja meg a beosztást" />
+			<Item Name="LocalizableStrings.Language_placeholder.Value" Value="Nyelv kiválasztása" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Telefonszám megadása:" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Tulajdonos kiválasztása" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Lap cím" />
+			<Item Name="LocalizableStrings.SalutationType_placeholder.Value" Value="Cím kiválasztása" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Idővonal" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Idővonal" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Idővonal" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Válassza ki a kapcsolat típusát" />
+		</Items>
+	</Group>
+</Resources>

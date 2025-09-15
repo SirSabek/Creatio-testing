@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Mini contactpagina" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Select account" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="Nieuwe toevoegen" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="E-mailadres invoeren" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="Voornaam invoeren" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Functietitel invoeren" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Enter phone number" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="Achternaam invoeren" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Selecteer contacttype" />
+		</Items>
+	</Group>
+</Resources>

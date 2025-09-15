@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.66500527-730a-d38f-fcf6-2584dcc189e5.Caption" Value="Veikt elementus tikai lasāmus: Pilna adrese" />
+		</Items>
+	</Group>
+</Resources>

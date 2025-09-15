@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница записи Контрагенты" />
+			<Item Name="LocalizableStrings.AccountCategory_placeholder.Value" Value="Выберите категорию" />
+			<Item Name="LocalizableStrings.AccountCommunicationOptionsAddButton_caption.Value" Value="Добавить средство связи" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Адреса" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.AlternativeName_placeholder.Value" Value="Укажите альтернативное название" />
+			<Item Name="LocalizableStrings.AnnualRevenue_placeholder.Value" Value="Выберите годовой оборот" />
+			<Item Name="LocalizableStrings.ContactsAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.ContactsExpansionPanel_title.Value" Value="&#xA;Контакты контрагента" />
+			<Item Name="LocalizableStrings.ContactsExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.ContactsImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.ContactsRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.ContactsSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.ContactsSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.EmployeesNumber_placeholder.Value" Value="Выберите количество сотрудников" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Выберите отрасль" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Выберите ответственного" />
+			<Item Name="LocalizableStrings.Ownership_placeholder.Value" Value="Выберите форму собственности" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Укажите номер телефона" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Выберите основной контакт" />
+			<Item Name="LocalizableStrings.PrimaryContactExpansionPanel_title.Value" Value="Основной контакт" />
+			<Item Name="LocalizableStrings.RelationshipButton_caption.Value" Value="Взаимосвязи" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Выберите тип" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Укажите сайт" />
+		</Items>
+	</Group>
+</Resources>

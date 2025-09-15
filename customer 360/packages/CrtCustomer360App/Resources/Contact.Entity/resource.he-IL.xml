@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="קמפיין פרסומי" />
+			<Item Name="Columns.Channel.Caption" Value="ערוץ" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="צורך לקוח" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="דוא&quot;ל לא חוקי" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="יחס המרה של הפניות" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="שיטת רישום" />
+			<Item Name="Columns.Source.Caption" Value="מקור" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="אובייקט כפוף" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="ערכי ברירת מחדל עבור עמודות אובייקט אב" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="מסננים עבור מחיקת רשומות" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="חיבור בין עמודות של האב לבין אובייקטים כפופים" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="מסנן לבחירת מספר שורות" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="כל השדות נחוצים" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="שדות חובה באובייקט כפוף" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="מסנן לבחירת שורה בודדת" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

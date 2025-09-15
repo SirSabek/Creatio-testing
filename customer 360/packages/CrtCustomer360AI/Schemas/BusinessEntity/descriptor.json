@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e9342525-3747-4ea2-a07a-3c5647aab930",
+    "Name": "BusinessEntity",
+    "ModifiedOnUtc": "\/Date(1744827918000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Read Business Entity",
+    "DependsOn": []
+  }
+}

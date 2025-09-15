@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "605554f5-cbdc-49dc-98c2-b0c919c2f2eb",
+    "Name": "AddressType",
+    "ModifiedOnUtc": "\/Date(1757938479000)\/",
+    "Parent": {
+      "UId": "50837bfc-43ff-466b-94bb-de0847eecd1b",
+      "Name": "AddressType"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Address type",
+    "DependsOn": []
+  }
+}

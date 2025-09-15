@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MobileFUIAccountRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.AccountAddressDetailV2EmbeddedDetailAccount_caption.Value" Value="Адреси" />
+			<Item Name="LocalizableStrings.AccountCommunicationDetailEmbeddedDetailAccount_caption.Value" Value="Засоби зв'язку" />
+			<Item Name="LocalizableStrings.AccountContactsDetailV2EmbeddedDetailAccount_caption.Value" Value="Контакти" />
+			<Item Name="LocalizableStrings.AccountTimelineTab_caption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.infoColumnSetAccount_caption.Value" Value="Інформація про контрагента" />
+			<Item Name="LocalizableStrings.profileColumnSetAccount_caption.Value" Value="Профіль" />
+			<Item Name="LocalizableStrings.TabAttachments_caption.Value" Value="Файли" />
+			<Item Name="LocalizableStrings.TabFeed_caption.Value" Value="Стрічка" />
+		</Items>
+	</Group>
+</Resources>

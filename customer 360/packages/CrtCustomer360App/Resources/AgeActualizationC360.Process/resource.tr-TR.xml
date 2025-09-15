@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Mevcut işlemi devre dışı bırakın" />
+			<Item Name="BaseElements.StartTimerEvent1.Caption" Value="Cron'da başlayın" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Yaş gerçekleştirme işinin yeniden başlatılması" />
+			<Item Name="Caption" Value="Yaş gerçekleştirme C360" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Şerit 1" />
+			<Item Name="NotificationCaption.Caption" Value="İşlem örneği başlığı" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

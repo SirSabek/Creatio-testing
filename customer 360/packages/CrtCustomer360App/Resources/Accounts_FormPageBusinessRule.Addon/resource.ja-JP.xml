@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.4eb6b768-b3e6-8da1-3776-6a0f7550d3aa.Caption" Value="主要な連絡先情報の表示" />
+			<Item Name="Caption" Value="アカウントフォームページ (ビジネス ルール)" />
+		</Items>
+	</Group>
+</Resources>

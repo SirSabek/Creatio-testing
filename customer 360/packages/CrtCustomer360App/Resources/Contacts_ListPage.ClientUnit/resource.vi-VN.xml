@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Contacts list page" />
+			<Item Name="LocalizableStrings.ActionsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="New" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="Add tag" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="Xóa" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="Remove tag" />
+			<Item Name="LocalizableStrings.MenuItem_8m672s8_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.MenuItem_jv8r9nw_caption.Value" Value="Update contact age" />
+			<Item Name="LocalizableStrings.MenuItem_sy8z6b6_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Tìm kiếm" />
+		</Items>
+	</Group>
+</Resources>

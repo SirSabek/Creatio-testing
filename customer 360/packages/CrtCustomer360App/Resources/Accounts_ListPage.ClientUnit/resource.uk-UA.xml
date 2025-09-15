@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сторінка з реєстром Контрагенти" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="Додати тег" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="Видалити" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="Видалити тег" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Пошук" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Caption" Value="Read system setting with Bing Api key" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.AggregationColumnName.Caption" Value="ชื่อของคอลัมน์ฟังชั่นรวม" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.CanReadUncommitedData.Caption" Value="อ่านข้อมูลที่ไม่มีข้อผูกมัด" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.CanReadUncommitedData.DisplayValue" Value="จริง" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ConsiderTimeInFilter.Caption" Value="พิจารณาเวลาที่ใช้ในการกรอง" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ConsiderTimeInFilter.DisplayValue" Value="จริง" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.DataSourceFilters.Caption" Value="แหล่งข้อมูลของตัวกรอง" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.EntityColumnMetaPathes.Caption" Value="คอลัมน์ที่จะอ่าน" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.FunctionType.Caption" Value="ประเภทฟังชั่นราวม" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.IgnoreDisplayValues.Caption" Value="อย่าอ่านค่าที่แสดงของคอลัมน์การค้นหา" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.NumberOfRecords.Caption" Value="จำนวนของบันทึกที่จะอ่าน" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.OrderInfo.Caption" Value="ลำดับของคอลัมน์" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ReadSomeTopRecords.Caption" Value="อ่านก่อน" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultCompositeObjectList.Caption" Value="การรวบรวมบันทึก" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultCount.Caption" Value="จำนวนของบันทึก" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultEntity.Caption" Value="รายการแรกของคอลเลคชั่นที่ส่งผล" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultEntityCollection.Caption" Value="คอลเลกชั่นที่ส่งผล" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultRowsCount.Caption" Value="จำนวนของบันทึกที่อ่านแล้ว" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultType.Caption" Value="ประเภทของผลลัพธ์" />
+			<Item Name="Caption" Value="Check ApiKey" />
+			<Item Name="Description" Value="Check that Bing Api-key is filled in" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="ช่องทาง 1" />
+			<Item Name="NotificationCaption.Caption" Value="คำบรรยายอินสแตนซืกระบวนการ" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.BingApiKey.Caption" Value="Bing Api-Key" />
+			<Item Name="Parameters.BingApiKey.DisplayValue" Value="[#Read system setting with Bing Api key.First item of resulting collection.Text value#]" />
+		</Items>
+	</Group>
+</Resources>

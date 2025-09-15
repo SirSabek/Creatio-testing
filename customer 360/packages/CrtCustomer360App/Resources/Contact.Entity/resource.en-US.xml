@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="Ad campaign" />
+			<Item Name="Columns.Channel.Caption" Value="Channel" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Customer need" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="Invalid email" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Lead conversion score" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="Registration method" />
+			<Item Name="Columns.Source.Caption" Value="Source" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Subordinate object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Default values for parent object columns" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Filters for deleting records" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Connection between columns of parent and subordinate objects" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Filter to select several rows" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="All fields are required" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Required fields in subordinate object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Filter to select single row" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

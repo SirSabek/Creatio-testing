@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сторінка запису Контрагенти" />
+			<Item Name="LocalizableStrings.AccountCategory_placeholder.Value" Value="Оберіть категорію" />
+			<Item Name="LocalizableStrings.AccountCommunicationOptionsAddButton_caption.Value" Value="Додати засіб зв'язку" />
+			<Item Name="LocalizableStrings.addRecord_3bs3f03_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_fhp55rg_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Адреси" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.AlternativeName_placeholder.Value" Value="Вкажіть альтернативну назву" />
+			<Item Name="LocalizableStrings.AnnualRevenue_placeholder.Value" Value="Виберіть річний оборот" />
+			<Item Name="LocalizableStrings.ContactsAddButton_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.ContactsExpansionPanel_title.Value" Value="Контакти контрагента" />
+			<Item Name="LocalizableStrings.ContactsExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.ContactsImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.ContactsRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.ContactsSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.ContactsSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.EmployeesNumber_placeholder.Value" Value="Виберіть кількість співробітників" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Основна інформація" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Виберіть галузь" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Оберіть відповідального" />
+			<Item Name="LocalizableStrings.Ownership_placeholder.Value" Value="Виберіть форму власності" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Назва сторінки" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Вкажіть номер телефону" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Виберіть основний контакт" />
+			<Item Name="LocalizableStrings.PrimaryContactExpansionPanel_title.Value" Value="Основний контакт" />
+			<Item Name="LocalizableStrings.RelationshipButton_caption.Value" Value="Взаємозв'язки" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Оберіть тип" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Вкажіть сайт" />
+		</Items>
+	</Group>
+</Resources>

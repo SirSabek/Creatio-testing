@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="광고캠페인" />
+			<Item Name="Columns.Channel.Caption" Value="채널" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Customer need" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="잘못된 이메일" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="리드전환점수" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="등록방법" />
+			<Item Name="Columns.Source.Caption" Value="원천" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Subordinate object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Default values for parent object columns" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Filters for deleting records" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Connection between columns of parent and subordinate objects" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Filter to select several rows" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="All fields are required" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Required fields in subordinate object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Filter to select single row" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="Adres ekle" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Filtredeki zamanı göz önünde bulundurun" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Veri kaynağı filtreleri" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Nesne" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.FilterEntitySchemaId.Caption" Value="Nesne" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordAddMode.Caption" Value="Kayıt ekleme modu" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Caption" Value="Sütün değerlerini belirle" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordId.Caption" Value="Kayıt numarası oluşturuldu" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Hesap verilerini değiştir" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Filtredeki zamanı göz önünde bulundurun" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Veri kaynağı filtreleri" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Nesne" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.Caption" Value="Continue execution on errors" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Sütün değerlerini belirle" />
+			<Item Name="Caption" Value="Hesap Verilerini Güncelle" />
+			<Item Name="Description" Value="Hesap verilerini değiştirme işlevi" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Şerit 1" />
+			<Item Name="NotificationCaption.Caption" Value="İşlem örneği başlığı" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.AccountID.Caption" Value="AccountID" />
+			<Item Name="Parameters.AccountID.Sys_Description" Value="Creatio uygulamasında benzersiz tanımlayıcı hesap" />
+			<Item Name="Parameters.AlsoKnownAs.Caption" Value="Ayrıca şöyle bilinir" />
+			<Item Name="Parameters.AlsoKnownAs.Sys_Description" Value="Şirketin alternatif adı" />
+			<Item Name="Parameters.FullAddress.Caption" Value="FullAddress" />
+			<Item Name="Parameters.FullAddress.Sys_Description" Value="Ülke, şehir, posta kodu vb." />
+			<Item Name="Parameters.PhoneNumber.Caption" Value="telefon numarası" />
+			<Item Name="Parameters.PhoneNumber.Sys_Description" Value="Copmany'nin telefon numarası" />
+			<Item Name="Parameters.Web.Caption" Value="Web" />
+			<Item Name="Parameters.Web.Sys_Description" Value="Şirketin Web Sitesi Adresi" />
+		</Items>
+	</Group>
+</Resources>

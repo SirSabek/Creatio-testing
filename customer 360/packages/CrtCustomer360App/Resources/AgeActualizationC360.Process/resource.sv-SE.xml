@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Disable Current Process" />
+			<Item Name="BaseElements.StartTimerEvent1.Caption" Value="Start on cron" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Age actualization job restart" />
+			<Item Name="Caption" Value="Age Actualization C360" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Bana 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

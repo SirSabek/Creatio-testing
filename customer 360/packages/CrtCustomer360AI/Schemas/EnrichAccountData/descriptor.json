@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+    "Name": "EnrichAccountData",
+    "ModifiedOnUtc": "\/Date(1757938478000)\/",
+    "ManagerName": "CopilotIntentSchemaManager",
+    "Caption": "Enrich account data",
+    "DependsOn": []
+  }
+}

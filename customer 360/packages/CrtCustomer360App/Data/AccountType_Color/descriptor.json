@@ -1,0 +1,42 @@
+﻿{
+  "Descriptor": {
+    "UId": "40363824-e94e-4a21-d3a7-d89387ac7285",
+    "Name": "AccountType_Color",
+    "ModifiedOnUtc": "\/Date(1748869332000)\/",
+    "InstallType": 2,
+    "Schema": {
+      "UId": "3ae4a2bb-d3dc-48bf-8271-9ca91dcdeba1",
+      "Name": "AccountType"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "2348a68b-fc6b-b5ca-291f-1a74e5fd23a7",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Color",
+        "DataTypeValueUId": "dafb71f9-ee9f-4e0b-a4d7-37aa15987155"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b55eab27-b6b0-4c9e-87ce-fba5dd5bba1b",
+    "Name": "CheckBingApiKey",
+    "ModifiedOnUtc": "\/Date(1757938478000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Check ApiKey",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Kontakti mini lapa" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Select account" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="Pievienot jaunu" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Ievadiet e-pastu" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="Ievadiet vārdu" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Ievadiet amata nosaukumu" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Ievadiet tālruņa numuru" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="Ievadiet uzvārdu" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Izvēlieties kontakta veidu" />
+		</Items>
+	</Group>
+</Resources>

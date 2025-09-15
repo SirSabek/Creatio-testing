@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Caption" Value="Bing API anahtarıyla sistem ayarını okuyun" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.AggregationColumnName.Caption" Value="Toplam işlev sütununun adı" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.CanReadUncommitedData.Caption" Value="Taahhüt edilmemiş verileri oku" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ConsiderTimeInFilter.Caption" Value="Filtredeki zamanı göz önünde bulundurun" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.DataSourceFilters.Caption" Value="Veri kaynaklarının filtreleri" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.EntityColumnMetaPathes.Caption" Value="Okunacak sütun sayısı" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.FunctionType.Caption" Value="Toplu işlev türü" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.IgnoreDisplayValues.Caption" Value="Arama sütunlarının görüntülenen değerlerini okumayın" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.NumberOfRecords.Caption" Value="Okunacak kayıt sayısı" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ReadSomeTopRecords.Caption" Value="Önce oku" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultCompositeObjectList.Caption" Value="Kayıtların koleksiyonu" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultDateTimeFunction.Caption" Value="Fonksiyon sonucu(Tarih/Zaman)" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultEntity.Caption" Value="Ortaya çıkan koleksiyonun ilk öğesi" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultEntityCollection.Caption" Value="Sonuçlanan koleksiyon" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultFloatFunction.Caption" Value="Fonksiyon sonucu(Ondalık)" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultIntegerFunction.Caption" Value="Fonksiyon sonucu(tamsayı)" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultType.Caption" Value="Sonuç tipi" />
+			<Item Name="Caption" Value="Apikey'i kontrol et" />
+			<Item Name="Description" Value="Bing api anahtarının doldurulduğunu kontrol edin" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Şerit 1" />
+			<Item Name="NotificationCaption.Caption" Value="İşlem örneği başlığı" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.BingApiKey.Caption" Value="Bing api anahtarı" />
+			<Item Name="Parameters.BingApiKey.DisplayValue" Value="[#Read system setting with Bing Api key.First item of resulting collection.Text value#]" />
+		</Items>
+	</Group>
+</Resources>

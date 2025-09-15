@@ -17,13 +17,6 @@
         "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
       },
       {
-        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-        "IsForceUpdate": false,
-        "IsKey": true,
-        "ColumnName": "Id",
-        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
-      },
-      {
         "ColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
         "IsForceUpdate": false,
         "IsKey": false,
@@ -36,6 +29,13 @@
         "IsKey": false,
         "ColumnName": "SysModule",
         "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
       }
     ]
   }

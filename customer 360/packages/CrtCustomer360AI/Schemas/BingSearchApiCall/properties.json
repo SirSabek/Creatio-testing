@@ -1,0 +1,7 @@
+﻿{
+  "Properties": {
+    "BaseUri": "https://api.bing.microsoft.com",
+    "CreatedInVersion": "8.2.1.4209",
+    "Type": "Rest"
+  }
+}

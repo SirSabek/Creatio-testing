@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MobileFUIAccountRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.AccountAddressDetailV2EmbeddedDetailAccount_caption.Value" Value="Indirizzi" />
+			<Item Name="LocalizableStrings.AccountCommunicationDetailEmbeddedDetailAccount_caption.Value" Value="Opzioni di comunicazione" />
+			<Item Name="LocalizableStrings.AccountContactsDetailV2EmbeddedDetailAccount_caption.Value" Value="Contatti" />
+			<Item Name="LocalizableStrings.AccountTimelineTab_caption.Value" Value="Linea temporale" />
+			<Item Name="LocalizableStrings.infoColumnSetAccount_caption.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.profileColumnSetAccount_caption.Value" Value="Profilo" />
+			<Item Name="LocalizableStrings.TabAttachments_caption.Value" Value="Allegati" />
+			<Item Name="LocalizableStrings.TabFeed_caption.Value" Value="Feed" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.WebService1.Caption" Value="https://api.bing.microsoft.com 1" />
+			<Item Name="BaseElements.WebService1.Parameters.MItems_Out.Caption" Value="RankingResponse Mainline Items" />
+			<Item Name="BaseElements.WebService1.Parameters.MItems_Out.IAType_Out.Caption" Value="AnswerType" />
+			<Item Name="BaseElements.WebService1.Parameters.MItems_Out.IRIndex_Out.Caption" Value="ResultIndex" />
+			<Item Name="BaseElements.WebService1.Parameters.MItems_Out.VId2_Out.Caption" Value="Value Id" />
+			<Item Name="BaseElements.WebService1.Parameters.OcpApimSubscriptionKey_In.Caption" Value="Ocp-Apim-Subscription-Key" />
+			<Item Name="BaseElements.WebService1.Parameters.QCOQuery_Out.Caption" Value="QueryContext OriginalQuery" />
+			<Item Name="BaseElements.WebService1.Parameters.query_In.Caption" Value="q" />
+			<Item Name="BaseElements.WebService1.Parameters.query_In.DisplayValue" Value="[#SearchQuery#]" />
+			<Item Name="BaseElements.WebService1.Parameters.RequestBody.Caption" Value="请求主体" />
+			<Item Name="BaseElements.WebService1.Parameters.Response.Caption" Value="回應正文" />
+			<Item Name="BaseElements.WebService1.Parameters.StatusCode.Caption" Value="Http 狀態碼" />
+			<Item Name="BaseElements.WebService1.Parameters.Success.Caption" Value="成功" />
+			<Item Name="BaseElements.WebService1.Parameters.type_Out.Caption" Value="_type" />
+			<Item Name="BaseElements.WebService1.Parameters.VId1_Out.Caption" Value="Videos Id" />
+			<Item Name="BaseElements.WebService1.Parameters.VIFFriendly1_Out.Caption" Value="Videos IsFamilyFriendly" />
+			<Item Name="BaseElements.WebService1.Parameters.VRLink_Out.Caption" Value="Videos ReadLink" />
+			<Item Name="BaseElements.WebService1.Parameters.VWSUrl_Out.Caption" Value="Videos WebSearchUrl" />
+			<Item Name="BaseElements.WebService1.Parameters.WPTEMatches_Out.Caption" Value="WebPages TotalEstimatedMatches" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.Caption" Value="WebPages Value" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.PIOPHeight_Out.Caption" Value="PrimaryImageOfPage Height" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.PIOPIId_Out.Caption" Value="PrimaryImageOfPage ImageId" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.PIOPSHeight_Out.Caption" Value="PrimaryImageOfPage SourceHeight" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.PIOPSWidth_Out.Caption" Value="PrimaryImageOfPage SourceWidth" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.PIOPTUrl_Out.Caption" Value="PrimaryImageOfPage ThumbnailUrl" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.PIOPWidth_Out.Caption" Value="PrimaryImageOfPage Width" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VCPUrl_Out.Caption" Value="CachedPageUrl" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VDLCrawled_Out.Caption" Value="DateLastCrawled" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VDLinks_Out.Caption" Value="DeepLinks" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VDLinks_Out.DLName_Out.Caption" Value="Name" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VDLinks_Out.DLSnippet_Out.Caption" Value="Snippet" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VDLinks_Out.DLUrl_Out.Caption" Value="Url" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VDPFText_Out.Caption" Value="DatePublishedFreshnessText" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VDPublished_Out.Caption" Value="DatePublished" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VDUrl_Out.Caption" Value="DisplayUrl" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VId_Out.Caption" Value="Id" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VIFFriendly_Out.Caption" Value="IsFamilyFriendly" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VINavigational_Out.Caption" Value="IsNavigational" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VLanguage_Out.Caption" Value="Language" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VName_Out.Caption" Value="Name" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VNCache_Out.Caption" Value="NoCache" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VSName_Out.Caption" Value="SiteName" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VSnippet_Out.Caption" Value="Snippet" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VTUrl_Out.Caption" Value="ThumbnailUrl" />
+			<Item Name="BaseElements.WebService1.Parameters.WPValue_Out.VUrl_Out.Caption" Value="Url" />
+			<Item Name="BaseElements.WebService1.Parameters.WPWSUrl_Out.Caption" Value="WebPages WebSearchUrl" />
+			<Item Name="Caption" Value="Bing Search" />
+			<Item Name="Description" Value="Searching data in internet" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="第一行" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.SearchQuery.Caption" Value="SearchQuery" />
+			<Item Name="Parameters.SearchQuery.DisplayValue" Value="Creatio" />
+			<Item Name="Parameters.SearchQuery.Sys_Description" Value="Query for search information" />
+			<Item Name="Parameters.SearchQuery.Value" Value="Creatio" />
+			<Item Name="Parameters.WebService1Results1.Caption" Value="https://api.bing.microsoft.com 1Parameter 1" />
+			<Item Name="Parameters.WebService1Results1.WebService1DLName_Out.Caption" Value="Name" />
+			<Item Name="Parameters.WebService1Results1.WebService1DLName_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:DeepLinks:Name#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1DLSnippet_Out.Caption" Value="Snippet" />
+			<Item Name="Parameters.WebService1Results1.WebService1DLSnippet_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:DeepLinks:Snippet#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1DLUrl_Out.Caption" Value="Url" />
+			<Item Name="Parameters.WebService1Results1.WebService1DLUrl_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:DeepLinks:Url#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1IAType_Out.Caption" Value="AnswerType" />
+			<Item Name="Parameters.WebService1Results1.WebService1IAType_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.RankingResponse Mainline Items:AnswerType#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1IRIndex_Out.Caption" Value="ResultIndex" />
+			<Item Name="Parameters.WebService1Results1.WebService1IRIndex_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.RankingResponse Mainline Items:ResultIndex#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1PIOPHeight_Out.Caption" Value="PrimaryImageOfPage Height" />
+			<Item Name="Parameters.WebService1Results1.WebService1PIOPHeight_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:PrimaryImageOfPage Height#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1PIOPIId_Out.Caption" Value="PrimaryImageOfPage ImageId" />
+			<Item Name="Parameters.WebService1Results1.WebService1PIOPIId_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:PrimaryImageOfPage ImageId#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1PIOPSHeight_Out.Caption" Value="PrimaryImageOfPage SourceHeight" />
+			<Item Name="Parameters.WebService1Results1.WebService1PIOPSHeight_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:PrimaryImageOfPage SourceHeight#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1PIOPSWidth_Out.Caption" Value="PrimaryImageOfPage SourceWidth" />
+			<Item Name="Parameters.WebService1Results1.WebService1PIOPSWidth_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:PrimaryImageOfPage SourceWidth#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1PIOPTUrl_Out.Caption" Value="PrimaryImageOfPage ThumbnailUrl" />
+			<Item Name="Parameters.WebService1Results1.WebService1PIOPTUrl_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:PrimaryImageOfPage ThumbnailUrl#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1PIOPWidth_Out.Caption" Value="PrimaryImageOfPage Width" />
+			<Item Name="Parameters.WebService1Results1.WebService1PIOPWidth_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:PrimaryImageOfPage Width#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1QCOQuery_Out.Caption" Value="QueryContext OriginalQuery" />
+			<Item Name="Parameters.WebService1Results1.WebService1QCOQuery_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.QueryContext OriginalQuery#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1Response.Caption" Value="回應正文" />
+			<Item Name="Parameters.WebService1Results1.WebService1Response.DisplayValue" Value="[#https://api.bing.microsoft.com 1.Response body#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1StatusCode.Caption" Value="Http 狀態碼" />
+			<Item Name="Parameters.WebService1Results1.WebService1StatusCode.DisplayValue" Value="[#https://api.bing.microsoft.com 1.Http status code#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1Success.Caption" Value="成功" />
+			<Item Name="Parameters.WebService1Results1.WebService1Success.DisplayValue" Value="[#https://api.bing.microsoft.com 1.Success#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1type_Out.Caption" Value="_type" />
+			<Item Name="Parameters.WebService1Results1.WebService1type_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1._type#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VCPUrl_Out.Caption" Value="CachedPageUrl" />
+			<Item Name="Parameters.WebService1Results1.WebService1VCPUrl_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:CachedPageUrl#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VDLCrawled_Out.Caption" Value="DateLastCrawled" />
+			<Item Name="Parameters.WebService1Results1.WebService1VDLCrawled_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:DateLastCrawled#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VDPFText_Out.Caption" Value="DatePublishedFreshnessText" />
+			<Item Name="Parameters.WebService1Results1.WebService1VDPFText_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:DatePublishedFreshnessText#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VDPublished_Out.Caption" Value="DatePublished" />
+			<Item Name="Parameters.WebService1Results1.WebService1VDPublished_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:DatePublished#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VDUrl_Out.Caption" Value="DisplayUrl" />
+			<Item Name="Parameters.WebService1Results1.WebService1VDUrl_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:DisplayUrl#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VId_Out.Caption" Value="Id" />
+			<Item Name="Parameters.WebService1Results1.WebService1VId_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:Id#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VId2_Out.Caption" Value="Value Id" />
+			<Item Name="Parameters.WebService1Results1.WebService1VId2_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.RankingResponse Mainline Items:Value Id#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VIFFriendly_Out.Caption" Value="IsFamilyFriendly" />
+			<Item Name="Parameters.WebService1Results1.WebService1VIFFriendly_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:IsFamilyFriendly#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VINavigational_Out.Caption" Value="IsNavigational" />
+			<Item Name="Parameters.WebService1Results1.WebService1VINavigational_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:IsNavigational#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VLanguage_Out.Caption" Value="Language" />
+			<Item Name="Parameters.WebService1Results1.WebService1VLanguage_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:Language#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VName_Out.Caption" Value="Name" />
+			<Item Name="Parameters.WebService1Results1.WebService1VName_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:Name#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VNCache_Out.Caption" Value="NoCache" />
+			<Item Name="Parameters.WebService1Results1.WebService1VNCache_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:NoCache#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VSName_Out.Caption" Value="SiteName" />
+			<Item Name="Parameters.WebService1Results1.WebService1VSName_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:SiteName#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VSnippet_Out.Caption" Value="Snippet" />
+			<Item Name="Parameters.WebService1Results1.WebService1VSnippet_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:Snippet#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VTUrl_Out.Caption" Value="ThumbnailUrl" />
+			<Item Name="Parameters.WebService1Results1.WebService1VTUrl_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:ThumbnailUrl#]" />
+			<Item Name="Parameters.WebService1Results1.WebService1VUrl_Out.Caption" Value="Url" />
+			<Item Name="Parameters.WebService1Results1.WebService1VUrl_Out.DisplayValue" Value="[#https://api.bing.microsoft.com 1.WebPages Value:Url#]" />
+		</Items>
+	</Group>
+</Resources>

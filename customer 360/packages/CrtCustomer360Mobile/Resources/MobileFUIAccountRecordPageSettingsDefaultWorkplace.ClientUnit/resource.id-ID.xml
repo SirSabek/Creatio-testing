@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MobileFUIAccountRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.AccountAddressDetailV2EmbeddedDetailAccount_caption.Value" Value="Alamat" />
+			<Item Name="LocalizableStrings.AccountCommunicationDetailEmbeddedDetailAccount_caption.Value" Value="Opsi komunikasi" />
+			<Item Name="LocalizableStrings.AccountContactsDetailV2EmbeddedDetailAccount_caption.Value" Value="Contacts" />
+			<Item Name="LocalizableStrings.AccountTimelineTab_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.infoColumnSetAccount_caption.Value" Value="Info akun" />
+			<Item Name="LocalizableStrings.profileColumnSetAccount_caption.Value" Value="Profil" />
+			<Item Name="LocalizableStrings.TabAttachments_caption.Value" Value="Lampiran" />
+			<Item Name="LocalizableStrings.TabFeed_caption.Value" Value="Feed" />
+		</Items>
+	</Group>
+</Resources>

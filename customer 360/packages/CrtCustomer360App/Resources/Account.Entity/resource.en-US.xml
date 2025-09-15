@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Column1.Caption" Value="Products Offered" />
+			<Item Name="Columns.Column2.Caption" Value="How They Make Money" />
+			<Item Name="Columns.Column3.Caption" Value="Insights" />
+			<Item Name="Columns.Column4.Caption" Value="Competitors" />
+			<Item Name="Columns.Column5.Caption" Value="Products Offered" />
+			<Item Name="Columns.Column6.Caption" Value="How They Make Money" />
+			<Item Name="Columns.Column7.Caption" Value="Insights" />
+			<Item Name="Columns.Column8.Caption" Value="Competitors" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Lead conversion score" />
+			<Item Name="Columns.PriceList.Caption" Value="Price list" />
+		</Items>
+	</Group>
+</Resources>

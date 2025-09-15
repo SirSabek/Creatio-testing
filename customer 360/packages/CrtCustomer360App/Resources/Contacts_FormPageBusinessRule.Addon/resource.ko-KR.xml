@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.b4c1d25e-290c-fd49-3398-6dced7bc20d3.Caption" Value="계정 정보에 대한 가시성" />
+			<Item Name="Caption" Value="연락처 폼페이지(업무규칙)" />
+		</Items>
+	</Group>
+</Resources>

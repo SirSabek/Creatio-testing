@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="עמוד רשימת חשבונות" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="הוסף תווית" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="מחק" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="הסר תגית" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="חפש" />
+		</Items>
+	</Group>
+</Resources>

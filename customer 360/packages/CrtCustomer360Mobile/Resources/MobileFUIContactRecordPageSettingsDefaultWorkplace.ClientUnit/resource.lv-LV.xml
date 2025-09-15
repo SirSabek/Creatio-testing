@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MobileFUIContactRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.ContactAddressDetailV2EmbeddedDetailContact_caption.Value" Value="Addresses" />
+			<Item Name="LocalizableStrings.ContactCareerDetailV2EmbeddedDetailContact_caption.Value" Value="Darba pieredze" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailEmbeddedDetailContact_caption.Value" Value="Communication options" />
+			<Item Name="LocalizableStrings.ContactTimelineTab_caption.Value" Value="Laika skala" />
+			<Item Name="LocalizableStrings.infoColumnSetContact_caption.Value" Value="Contact info" />
+			<Item Name="LocalizableStrings.primaryColumnSetContact_caption.Value" Value="Primārās kolonnas komplekts" />
+			<Item Name="LocalizableStrings.profileColumnSetContact_caption.Value" Value="Profils" />
+			<Item Name="LocalizableStrings.TabAttachments_caption.Value" Value="Pielikumi" />
+			<Item Name="LocalizableStrings.TabFeed_caption.Value" Value="Lente" />
+		</Items>
+	</Group>
+</Resources>

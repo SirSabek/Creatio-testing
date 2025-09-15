@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Az aktuális folyamat letiltása" />
+			<Item Name="BaseElements.StartTimerEvent1.Caption" Value="Indítsa el a cront" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Életkor-aktualizálási feladat újraindítása" />
+			<Item Name="Caption" Value="Életkor aktualizálása C360" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="1. sáv" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

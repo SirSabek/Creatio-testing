@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2a450d91-090d-4f8c-92b9-ea7bcd4b0a4d"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "663ac580-d6a3-44db-88d1-2b514c3a8151",
+          "DisplayValue": "Customer 360"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "ee586f85-5e21-4247-9ab2-1d906f0f0b46",
+          "DisplayValue": "Accounts"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 28
+        }
+      ]
+    }
+  ]
+}

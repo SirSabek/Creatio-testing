@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ee73c18f-ceec-486f-a7a5-6acbb9f6fae0",
+    "Name": "Accounts_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1757938479000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Accounts form page (Business rules)",
+    "DependsOn": []
+  }
+}

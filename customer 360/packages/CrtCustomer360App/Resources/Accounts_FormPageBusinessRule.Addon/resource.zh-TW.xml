@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.4eb6b768-b3e6-8da1-3776-6a0f7550d3aa.Caption" Value="主要联系人信息的可见性" />
+			<Item Name="Caption" Value="账户表单页面 (业务规则)" />
+		</Items>
+	</Group>
+</Resources>

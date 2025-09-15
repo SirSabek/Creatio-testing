@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="联系人，编辑页面" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="选择帐户" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="輸入電子郵件" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="输入名字" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="輸入職稱" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="输入电话号码" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="输入名字 " />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="选择联系人" />
+		</Items>
+	</Group>
+</Resources>

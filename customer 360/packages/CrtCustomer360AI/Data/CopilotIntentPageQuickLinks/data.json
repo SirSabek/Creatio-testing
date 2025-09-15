@@ -1,0 +1,36 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0cb2fb45-b11a-4cd5-855b-1201bc257861"
+        },
+        {
+          "SchemaColumnUId": "abce90b9-1401-3ac3-18c6-abfcd3ca10b3",
+          "Value": "EnrichAccountData"
+        },
+        {
+          "SchemaColumnUId": "c110d2f0-8972-53bd-8071-a349512215c9",
+          "Value": "Accounts_FormPage"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ee037aff-0e4e-46c8-8b86-f3ec623e42b0"
+        },
+        {
+          "SchemaColumnUId": "abce90b9-1401-3ac3-18c6-abfcd3ca10b3",
+          "Value": "EnrichAccountData"
+        },
+        {
+          "SchemaColumnUId": "c110d2f0-8972-53bd-8071-a349512215c9",
+          "Value": "MobileFUIAccountRecordPageSettingsDefaultWorkplace"
+        }
+      ]
+    }
+  ]
+}

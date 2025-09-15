@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "518cbdb1-5788-407c-aae2-15069c5c9a1e",
+    "Name": "BingSearchProcess",
+    "ModifiedOnUtc": "\/Date(1757938478000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Bing Search",
+    "DependsOn": []
+  }
+}

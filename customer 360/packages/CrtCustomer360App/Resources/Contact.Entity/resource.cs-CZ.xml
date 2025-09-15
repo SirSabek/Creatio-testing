@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="Ad campaign" />
+			<Item Name="Columns.Channel.Caption" Value="Kanál" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Zájem klienta" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="Chybný e-mail" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Skóre konverze leadu" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="Způsob registrace" />
+			<Item Name="Columns.Source.Caption" Value="Zdroj" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Podřízený objekt" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Výchozí hodnoty pro sloupce rodičovského objektu" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Filtry pro mazání záznamů" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Spojitost mezí sloupci rodičovského a podřízeného objektu" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Filtr pro volbu několika řádků" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="Všechna pole jsou povinná" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Povinné filtry v podřízeném objektu" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Filtr pro volbu jednotlivého řádku" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

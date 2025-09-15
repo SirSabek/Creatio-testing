@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Мини-карточка Контакты" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Выберите контрагента" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Укажите email" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="Укажите имя" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Укажите должность" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Укажите номер телефона" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="Укажите фамилию" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Выберите тип контакта" />
+		</Items>
+	</Group>
+</Resources>

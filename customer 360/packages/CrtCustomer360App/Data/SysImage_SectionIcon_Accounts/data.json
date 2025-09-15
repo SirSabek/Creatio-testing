@@ -1,0 +1,40 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ef44e4b0-6240-4b54-b234-169477d6febf"
+        },
+        {
+          "SchemaColumnUId": "08ccfffd-cb3e-47c3-9729-1d043a5812e4",
+          "Value": "\/Date(1665472382247+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "1e236958-f206-4fde-8a0e-6783fc223424",
+          "Value": "PHN2ZyBpZD0iQ29tcG9uZW50XzM5Nl8zIiBkYXRhLW5hbWU9IkNvbXBvbmVudCAzOTYg4oCTIDMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjM4IiBoZWlnaHQ9IjM4IiB2aWV3Qm94PSIwIDAgMzggMzgiPgogIDxwYXRoIGlkPSJQYXRoXzY1IiBkYXRhLW5hbWU9IlBhdGggNjUiIGQ9Ik05NTItMzQ3djNoNHYxaC00djJoNHYxaC00djJoNHYxaC00djJoNHYxaC00djVoN3YtMThaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtOTI4IDM1OSkiIGZpbGw9IiNmZmYiLz4KICA8cGF0aCBpZD0iUGF0aF82NiIgZGF0YS1uYW1lPSJQYXRoIDY2IiBkPSJNOTM2LTM1MXYyMmgxNXYtMjJIOTM2bTYsMTdoLTN2LTFoM3YxbTAtNGgtM3YtMWgzdjFtMC00aC0zdi0xaDN2MW0wLTRoLTN2LTFoM3YxbTYsMTJoLTN2LTFoM3YxbTAtNGgtM3YtMWgzdjFtMC00aC0zdi0xaDN2MW0wLTRoLTN2LTFoM3YxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtOTI4IDM1OSkiIGZpbGw9IiNmZmYiLz4KICA8cmVjdCBpZD0iUmVjdGFuZ2xlXzIwIiBkYXRhLW5hbWU9IlJlY3RhbmdsZSAyMCIgd2lkdGg9IjM4IiBoZWlnaHQ9IjM4IiBmaWxsPSJub25lIi8+Cjwvc3ZnPgo="
+        },
+        {
+          "SchemaColumnUId": "90801d7c-a189-4afe-9c3a-a202fbf242d8",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "aebb8105-4a48-883c-e068-74ad2ab797a7",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b3cd8485-7bd8-4b70-b2dd-bc41e45e9992",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "be95e737-14e9-4253-b0c4-e280da05434d",
+          "Value": "image/svg+xml"
+        },
+        {
+          "SchemaColumnUId": "d245dcaf-23bd-4b73-8718-26fdf38b443b",
+          "Value": "SectionIcon_Account.svg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="契約リストページ" />
+			<Item Name="LocalizableStrings.ActionsButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="新規" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="タグの追加" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="削除" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="タグの削除" />
+			<Item Name="LocalizableStrings.MenuItem_8m672s8_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.MenuItem_jv8r9nw_caption.Value" Value="連絡先の年齢を更新" />
+			<Item Name="LocalizableStrings.MenuItem_sy8z6b6_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="検索" />
+		</Items>
+	</Group>
+</Resources>

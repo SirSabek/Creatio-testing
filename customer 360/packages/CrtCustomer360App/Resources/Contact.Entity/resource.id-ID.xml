@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="Kampanye iklan" />
+			<Item Name="Columns.Channel.Caption" Value="Channel" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Customer need" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="Email salah" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Skor konversi prospek" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="Metode registrasi" />
+			<Item Name="Columns.Source.Caption" Value="Source" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Objek subordinat" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Nilai default kolom objek induk" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Filter untuk penghapusan record" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Koneksi antara kolom induk dan objek bawahan" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Filter untuk memilih beberapa row" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="Semua field dibutuhkan" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Field diperlukan pada objek subordinat" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Filter memilih row tunggal" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

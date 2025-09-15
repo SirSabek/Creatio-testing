@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "733cd2f8-dd9e-dc90-f1ce-70437961409c",
+    "Name": "SalesAIAssistant",
+    "ModifiedOnUtc": "\/Date(1757938478000)\/",
+    "ManagerName": "CopilotIntentSchemaManager",
+    "Caption": "Sales AI assistant",
+    "DependsOn": []
+  }
+}

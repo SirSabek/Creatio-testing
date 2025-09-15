@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "31d7920b-a964-4c95-a8fd-5b1927359f6e",
+    "Name": "BaseAddressEventListener",
+    "ModifiedOnUtc": "\/Date(1665498497000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "BaseAddressEventListener",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="联系人，编辑页面" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="选择帐户" />
+			<Item Name="LocalizableStrings.AccountCategory_ariaLabel.Value" Value="下拉列表" />
+			<Item Name="LocalizableStrings.AccountCategory_label.Value" Value="下拉列表" />
+			<Item Name="LocalizableStrings.AccountIndustry_ariaLabel.Value" Value="下拉列表" />
+			<Item Name="LocalizableStrings.AccountIndustry_label.Value" Value="下拉列表" />
+			<Item Name="LocalizableStrings.AccountInfoExpansionPanel_title.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.addRecord_e9kbl5o_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_oz5z1xx_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Addresses" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.CareerAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.CareerExpansionPanel_title.Value" Value="工作经历" />
+			<Item Name="LocalizableStrings.CareerExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.CareerImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.CareerRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.CareerSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.CareerSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ContactCommunicationOptionsAddButton_caption.Value" Value="Add communication option" />
+			<Item Name="LocalizableStrings.Dear_placeholder.Value" Value="輸入合法名稱" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="輸入電子郵件" />
+			<Item Name="LocalizableStrings.Gender_placeholder.Value" Value="选择性别" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Contact info" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="輸入職稱" />
+			<Item Name="LocalizableStrings.Language_placeholder.Value" Value="選擇語言" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="输入电话号码" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="销售所有者" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="页面标题" />
+			<Item Name="LocalizableStrings.SalutationType_placeholder.Value" Value="选择标题" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="选择联系人" />
+		</Items>
+	</Group>
+</Resources>

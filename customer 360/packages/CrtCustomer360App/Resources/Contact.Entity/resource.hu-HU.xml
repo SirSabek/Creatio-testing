@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="Reklámkampány" />
+			<Item Name="Columns.Channel.Caption" Value="Csatorna" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Vevői igény" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="Érvénytelen e-mail cím" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Lead konverziós pontszáma" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="Registration method" />
+			<Item Name="Columns.Source.Caption" Value="Forrás" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Alárendelt objektum" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="A szülőobjektum-oszlopok alapértelmezett értékei" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Szűrők rekordok törléséhez" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="A szülő- és alárendelt objektumok oszlopai közötti kapcsolat" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Szűrés több sor kijelöléséhez" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="Minden mező kitöltése kötelező" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Kötelező mezők alárendelt objektumban" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Szűrés egyetlen sor kiválasztásához" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

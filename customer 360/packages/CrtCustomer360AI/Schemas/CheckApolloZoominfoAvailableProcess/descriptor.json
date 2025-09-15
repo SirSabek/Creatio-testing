@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "40615b95-7319-4d11-a333-59f2d30b9035",
+    "Name": "CheckApolloZoominfoAvailableProcess",
+    "ModifiedOnUtc": "\/Date(1757938478000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Check Apollo, Zoominfo available",
+    "DependsOn": []
+  }
+}

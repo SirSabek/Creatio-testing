@@ -1,0 +1,18 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "663ac580-d6a3-44db-88d1-2b514c3a8151"
+        },
+        {
+          "SchemaColumnUId": "215e82ee-20b0-4aa2-af3b-ff06cbc6da52",
+          "ColumnName": "Name",
+          "Value": "Customer 360"
+        }
+      ]
+    }
+  ]
+}

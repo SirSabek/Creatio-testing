@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MobileFUIContactRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.ContactAddressDetailV2EmbeddedDetailContact_caption.Value" Value="כתובות" />
+			<Item Name="LocalizableStrings.ContactCareerDetailV2EmbeddedDetailContact_caption.Value" Value="נסיון תעסוקתי" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailEmbeddedDetailContact_caption.Value" Value="אפשרויות תקשורת" />
+			<Item Name="LocalizableStrings.ContactTimelineTab_caption.Value" Value="ציר זמן" />
+			<Item Name="LocalizableStrings.infoColumnSetContact_caption.Value" Value="מידע אודות איש הקשר" />
+			<Item Name="LocalizableStrings.primaryColumnSetContact_caption.Value" Value="סט עמודות ראשי" />
+			<Item Name="LocalizableStrings.profileColumnSetContact_caption.Value" Value="פרופיל" />
+			<Item Name="LocalizableStrings.TabAttachments_caption.Value" Value="הצמדה" />
+			<Item Name="LocalizableStrings.TabFeed_caption.Value" Value="לוח הודעות" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Mini stranica kontakta" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Odaberi korisnika" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="Dodaj novi" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Unesite e-poštu" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="Unesite ime" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Unesite naziv radnog mjesta" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Unesite broj telefona" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="Unesite prezime" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Odaberite vrstu kontakta" />
+		</Items>
+	</Group>
+</Resources>

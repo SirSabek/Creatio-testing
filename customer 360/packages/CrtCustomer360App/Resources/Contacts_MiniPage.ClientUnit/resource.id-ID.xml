@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Kontak halaman mini" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Pilih akun" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Masukkan email" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="Masukkan nama depan" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Masukkan judul pekerjaan" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Masukkan nomor telepon" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="Masukkan nama terakhir" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Pilih tipe kontak" />
+		</Items>
+	</Group>
+</Resources>

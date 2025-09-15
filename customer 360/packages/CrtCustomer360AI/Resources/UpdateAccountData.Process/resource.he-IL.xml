@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="הוסף כתובת" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="האם לשקול זמן בסינון" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.DataSourceFilters.Caption" Value="סינון מקור נתונים" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.EntitySchemaId.Caption" Value="אובייקט" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.FilterEntitySchemaId.Caption" Value="אובייקט" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordAddMode.Caption" Value="מצב הוספת רשומה" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Caption" Value="הגדר ערכי עמודה" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordId.Caption" Value="מזהה הרשומה שנוצרה" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="שנה נתוני חשבון" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="שקול זמן במסנן" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="סינון מקור נתונים" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="אובייקט" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.Caption" Value="המשך ביצוע בשגיאות" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="אם האובייקט עומד בתנאים הבאים" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="הגדר ערכי עמודה" />
+			<Item Name="Caption" Value="עדכן את הנתונים של החשבון" />
+			<Item Name="Description" Value="פונקציה לשינוי נתוני חשבון" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="סט נתיב 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="נתיב 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance title" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#שם תהליך#]" />
+			<Item Name="Parameters.AccountID.Caption" Value="AccountID" />
+			<Item Name="Parameters.AccountID.Sys_Description" Value="מזהה ייחודי של חשבון באפליקציית Creatio" />
+			<Item Name="Parameters.AlsoKnownAs.Caption" Value="ידוע גם בשם" />
+			<Item Name="Parameters.AlsoKnownAs.Sys_Description" Value="שם חלופי של החברה" />
+			<Item Name="Parameters.FullAddress.Caption" Value="FullAddress" />
+			<Item Name="Parameters.FullAddress.Sys_Description" Value="כתובת מלאה של משרד החברה כולל מדינה, עיר, מיקוד וכו'" />
+			<Item Name="Parameters.PhoneNumber.Caption" Value="מספר טלפון" />
+			<Item Name="Parameters.PhoneNumber.Sys_Description" Value="מספר הטלפון של החברה" />
+			<Item Name="Parameters.Web.Caption" Value="אינטרנט" />
+			<Item Name="Parameters.Web.Sys_Description" Value="כתובת אתר החברה" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Stranica obrasca za račune" />
+			<Item Name="LocalizableStrings.AccountCategory_placeholder.Value" Value="Odaberi kategoriju" />
+			<Item Name="LocalizableStrings.AccountCommunicationOptionsAddButton_caption.Value" Value="Dodaj mogućnost komunikacije" />
+			<Item Name="LocalizableStrings.addRecord_3bs3f03_caption.Value" Value="Dodaj novi" />
+			<Item Name="LocalizableStrings.addRecord_fhp55rg_caption.Value" Value="Dodaj novi" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Addresses" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Izvoz u Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Uvoz podataka" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Osvježi" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Pretraži" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Akcije" />
+			<Item Name="LocalizableStrings.AlternativeName_placeholder.Value" Value="Unesite drugi naziv" />
+			<Item Name="LocalizableStrings.AnnualRevenue_placeholder.Value" Value="Odaberite prihod" />
+			<Item Name="LocalizableStrings.ContactsAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.ContactsExpansionPanel_title.Value" Value="Contacts" />
+			<Item Name="LocalizableStrings.ContactsExportDataButton_caption.Value" Value="Izvoz u Excel" />
+			<Item Name="LocalizableStrings.ContactsImportDataButton_caption.Value" Value="Uvoz podataka" />
+			<Item Name="LocalizableStrings.ContactsRefreshButton_caption.Value" Value="Osvježi" />
+			<Item Name="LocalizableStrings.ContactsSearchFilter_placeholder.Value" Value="Pretraži" />
+			<Item Name="LocalizableStrings.ContactsSettingsButton_caption.Value" Value="Akcije" />
+			<Item Name="LocalizableStrings.EmployeesNumber_placeholder.Value" Value="Odaberite broj zaposlenika" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Informacije o korisniku" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Odaberi granu industrije" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Odaberite vlasnika" />
+			<Item Name="LocalizableStrings.Ownership_placeholder.Value" Value="Odaberi entitet" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Naslov stranice" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Unesite broj telefona" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Odaberi primarni kontakt" />
+			<Item Name="LocalizableStrings.PrimaryContactExpansionPanel_title.Value" Value="Primary contact" />
+			<Item Name="LocalizableStrings.RelationshipButton_caption.Value" Value="Veze" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Vremenska crta" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Vremenska crta" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Vremenska crta" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Odaberite vrstu" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Ulazak na web" />
+		</Items>
+	</Group>
+</Resources>

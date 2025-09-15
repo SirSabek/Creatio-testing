@@ -1,0 +1,528 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ServiceSchemaManager",
+      "UId": "505a9338-4878-46a2-a099-ffb433b8b591",
+      "A2": "BingSearchApiCall",
+      "A5": "0dc19eae-c6e0-4718-8924-7de582d1e9de",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "c1a044a2-cb8c-9387-837b-d9ae9183cd47",
+      "B8": "8.2.1.4209",
+      "IQ1": "https://api.bing.microsoft.com",
+      "IQ2": 1,
+      "IQ7": [],
+      "IQ4": [
+        {
+          "UId": "2a5fe9c2-1df5-4e11-9a78-6672ad682872",
+          "A2": "Search",
+          "A3": "505a9338-4878-46a2-a099-ffb433b8b591",
+          "A4": "505a9338-4878-46a2-a099-ffb433b8b591",
+          "IR3": 5000,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "eb9b5fc6-60e8-4cd2-8821-668f6e0728d4",
+                "A2": "query",
+                "IU1": "q",
+                "IU2": "Text",
+                "IU7": true,
+                "IU8": "item",
+                "IU4": 3,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "02f56340-4c6d-49be-9e16-f77555aad258",
+                "A2": "OcpApimSubscriptionKey",
+                "IU1": "Ocp-Apim-Subscription-Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 4,
+                "IU5": {
+                  "IV1": "BingSearchApiKey",
+                  "IV2": 2
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/v7.0/search"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "d78446cb-83f8-4bfe-954a-aaa918b8884e",
+                "A2": "type",
+                "IU1": "$._type",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "c2549dfb-fe6a-4eaa-8676-791846a12949",
+                "A2": "QCOQuery",
+                "IU1": "$.queryContext.originalQuery",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "15619484-7bbf-4c31-a773-2be27cecacf2",
+                "A2": "WPWSUrl",
+                "IU1": "$.webPages.webSearchUrl",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "51957e8e-048c-4ef7-94df-def6c87abcae",
+                "A2": "WPTEMatches",
+                "IU1": "$.webPages.totalEstimatedMatches",
+                "IU2": "Integer",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "6e8ae75e-7dc6-43bb-a91a-659aa471c124",
+                "A2": "WPValue",
+                "IU1": "$.webPages.value",
+                "IU2": "Object",
+                "IU3": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": [
+                  {
+                    "UId": "654ac8b2-c3ac-408d-be83-0c383055fc68",
+                    "A2": "VId",
+                    "IU1": "id",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "df86aea5-eec6-47dc-bf35-97f71a9de56e",
+                    "A2": "VName",
+                    "IU1": "name",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "8845b63e-686c-4d3d-87b8-3e2ea95acc9c",
+                    "A2": "VUrl",
+                    "IU1": "url",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "3c7aee96-cc80-4fd2-946a-c685b181ed04",
+                    "A2": "VIFFriendly",
+                    "IU1": "isFamilyFriendly",
+                    "IU2": "Boolean",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "aecf6f43-8e65-4399-ac25-bd94b2921034",
+                    "A2": "VDUrl",
+                    "IU1": "displayUrl",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "6c07d735-fd79-4333-90c9-9490622b4e7a",
+                    "A2": "VSnippet",
+                    "IU1": "snippet",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "4823f0b4-9170-4619-a434-ab51b9701bee",
+                    "A2": "VDLinks",
+                    "IU1": "deepLinks",
+                    "IU2": "Object",
+                    "IU3": true,
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": [
+                      {
+                        "UId": "fd359e37-c6dc-47b9-992d-657483898079",
+                        "A2": "DLName",
+                        "IU1": "name",
+                        "IU2": "Text",
+                        "IU8": "item",
+                        "IU4": 1,
+                        "IU5": {
+                          "IV1": "null"
+                        },
+                        "IU6": []
+                      },
+                      {
+                        "UId": "d19e185a-9c9d-46e8-87c3-5470a8d656b3",
+                        "A2": "DLUrl",
+                        "IU1": "url",
+                        "IU2": "Text",
+                        "IU8": "item",
+                        "IU4": 1,
+                        "IU5": {
+                          "IV1": "null"
+                        },
+                        "IU6": []
+                      },
+                      {
+                        "UId": "a8fe100c-b70b-4029-918a-f6d65864b111",
+                        "A2": "DLSnippet",
+                        "IU1": "snippet",
+                        "IU2": "Text",
+                        "IU8": "item",
+                        "IU4": 1,
+                        "IU5": {
+                          "IV1": "null"
+                        },
+                        "IU6": []
+                      }
+                    ]
+                  },
+                  {
+                    "UId": "ad25f4fd-fd77-497b-9386-c0678350d400",
+                    "A2": "VDLCrawled",
+                    "IU1": "dateLastCrawled",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "2e979480-7afa-49a3-bbea-64dc0a1568d5",
+                    "A2": "VCPUrl",
+                    "IU1": "cachedPageUrl",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "de39b922-53e1-4c11-8f00-14175b0b37ca",
+                    "A2": "VLanguage",
+                    "IU1": "language",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "6baf5e03-0b17-4c13-9d01-1243785878f0",
+                    "A2": "VINavigational",
+                    "IU1": "isNavigational",
+                    "IU2": "Boolean",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "8d21461e-465c-46bf-8335-01b683b04451",
+                    "A2": "VNCache",
+                    "IU1": "noCache",
+                    "IU2": "Boolean",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "88d66335-2166-417c-8d89-ac1ebe3c53a2",
+                    "A2": "VSName",
+                    "IU1": "siteName",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "c3938708-7df6-4f0a-a020-849cc341abb3",
+                    "A2": "VTUrl",
+                    "IU1": "thumbnailUrl",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "7f513260-9632-46ec-8769-84dccba6f092",
+                    "A2": "PIOPTUrl",
+                    "IU1": "primaryImageOfPage.thumbnailUrl",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "45ea3f8b-f761-47d6-ac4c-31bcb1f9567c",
+                    "A2": "PIOPWidth",
+                    "IU1": "primaryImageOfPage.width",
+                    "IU2": "Integer",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "9d17d217-ffe3-4996-bf30-18078eb46569",
+                    "A2": "PIOPHeight",
+                    "IU1": "primaryImageOfPage.height",
+                    "IU2": "Integer",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "0f3b51c9-8c5a-40b2-b47c-d21b39b6ceea",
+                    "A2": "PIOPSWidth",
+                    "IU1": "primaryImageOfPage.sourceWidth",
+                    "IU2": "Integer",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "2ac54fcd-db96-4241-95c3-b97c7552ebf7",
+                    "A2": "PIOPSHeight",
+                    "IU1": "primaryImageOfPage.sourceHeight",
+                    "IU2": "Integer",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "58c09ab0-b855-4512-be4d-a76fa7e79558",
+                    "A2": "PIOPIId",
+                    "IU1": "primaryImageOfPage.imageId",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "02c128ac-6bfd-411e-9afe-fbfaaf4ec708",
+                    "A2": "VDPublished",
+                    "IU1": "datePublished",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "3b75edf2-659c-4b40-9f43-6e06ac27bd6a",
+                    "A2": "VDPFText",
+                    "IU1": "datePublishedFreshnessText",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  }
+                ]
+              },
+              {
+                "UId": "3ae9f668-4144-478b-8f19-66f5683802f8",
+                "A2": "VId1",
+                "IU1": "$.videos.id",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "c5a645a1-cf6e-4507-8641-e141f4717b61",
+                "A2": "VRLink",
+                "IU1": "$.videos.readLink",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "5a1508fe-f7e8-420d-a425-3e521b0f7195",
+                "A2": "VWSUrl",
+                "IU1": "$.videos.webSearchUrl",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "498f4f64-a637-447f-b899-b04a4bc5913b",
+                "A2": "VIFFriendly1",
+                "IU1": "$.videos.isFamilyFriendly",
+                "IU2": "Boolean",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "4121ff53-8efc-4e7b-94db-4464acc9631f",
+                "A2": "MItems",
+                "IU1": "$.rankingResponse.mainline.items",
+                "IU2": "Object",
+                "IU3": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": [
+                  {
+                    "UId": "01ac18da-137b-4518-9498-8e7ce2e186e6",
+                    "A2": "IAType",
+                    "IU1": "answerType",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "51c45e34-c6b8-46aa-986e-f8e8b3344fa8",
+                    "A2": "IRIndex",
+                    "IU1": "resultIndex",
+                    "IU2": "Integer",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "30996299-a103-42b4-9554-00cf7c8b6a89",
+                    "A2": "VId2",
+                    "IU1": "value.id",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

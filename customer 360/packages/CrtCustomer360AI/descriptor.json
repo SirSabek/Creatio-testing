@@ -1,0 +1,19 @@
+﻿{
+  "Descriptor": {
+    "UId": "c1a044a2-cb8c-9387-837b-d9ae9183cd47",
+    "PackageVersion": "7.8.0",
+    "Name": "CrtCustomer360AI",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1746541454000)\/",
+    "Maintainer": "Creatio",
+    "ProjectPath": "Files/CrtCustomer360AI.csproj",
+    "DependsOn": [
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="Ad campaign" />
+			<Item Name="Columns.Channel.Caption" Value="Tin tức ESN" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Nhu cầu khách hàng" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="Invalid email" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Lead conversion score" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="Registration method" />
+			<Item Name="Columns.Source.Caption" Value="Nguồn" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Đối tượng phụ" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Các giá trị mặc định cho các cột đối tượng mẹ" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Các bộ lọc cho các bản ghi đang xóa" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Sự kết nối giữa các cột mẹ và các đối tượng phụ" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Lọc để chọn nhiều hàng" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="Bắt buộc điền vào tất cả các trường" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Các trường bắt buộc trong đối tượng phụ" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Lọc để chọn 1 hàng" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

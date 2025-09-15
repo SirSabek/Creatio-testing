@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f9372ea2-c744-42e5-ab0b-da732ea43125",
+    "Name": "MobileFUIAccountGridPageSettingsDefaultWorkplace",
+    "ModifiedOnUtc": "\/Date(1757938482000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "MobileFUIAccountGridPageSettingsDefaultWorkplace",
+    "DependsOn": []
+  }
+}

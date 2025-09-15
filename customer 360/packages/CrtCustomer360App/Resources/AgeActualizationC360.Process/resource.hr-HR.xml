@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Onemogući trenutni proces" />
+			<Item Name="BaseElements.StartTimerEvent1.Caption" Value="Počnite na cronu" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Ponovno pokretanje posla aktualizacije dobi" />
+			<Item Name="Caption" Value="Aktualizacija dobi C360" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Traka 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

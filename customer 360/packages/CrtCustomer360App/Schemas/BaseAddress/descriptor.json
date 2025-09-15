@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "77d7cf2b-42c7-4be0-9e11-0058145972a2",
+    "Name": "BaseAddress",
+    "ModifiedOnUtc": "\/Date(1757938479000)\/",
+    "Parent": {
+      "UId": "400e8687-9616-480d-9d81-61de0235cc86",
+      "Name": "BaseAddress"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Base address",
+    "DependsOn": []
+  }
+}

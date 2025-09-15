@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница с реестром Контакты" />
+			<Item Name="LocalizableStrings.ActionsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="Добавить тег" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="Удалить" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="Убрать тег" />
+			<Item Name="LocalizableStrings.MenuItem_8m672s8_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.MenuItem_ShowDuplicateContacts_caption.Value" Value="Перейти к дублям" />
+			<Item Name="LocalizableStrings.MenuItem_sy8z6b6_caption.Value" Value="Импорт данных" />
+		</Items>
+	</Group>
+</Resources>

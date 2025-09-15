@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5b0dab63-891b-4e06-99d4-be3984fcfa3e",
+    "Name": "Contacts_MiniPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1757938479000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Contacts mini page (Business rules)",
+    "DependsOn": []
+  }
+}

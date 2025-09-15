@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="Voeg adres toe" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="waar" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Gegevensbron filters" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.FilterEntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordAddMode.Caption" Value="Record adding mode" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Caption" Value="Stel kolomwaarden in" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordId.Caption" Value="Record-ID gemaakt" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Wijzig accountgegevens" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="waar" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Gegevensbron filters" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.Caption" Value="Continue execution on errors" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.DisplayValue" Value="waar" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="waar" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Stel kolomwaarden in" />
+			<Item Name="Caption" Value="Accountgegevens bijwerken" />
+			<Item Name="Description" Value="Functie voor het wijzigen van accountgegevens" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Laan 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.AccountID.Caption" Value="AccountID" />
+			<Item Name="Parameters.AccountID.Sys_Description" Value="Unieke identificator van het account in de Creatio-applicatie" />
+			<Item Name="Parameters.AlsoKnownAs.Caption" Value="Ook bekend als" />
+			<Item Name="Parameters.AlsoKnownAs.Sys_Description" Value="Alternatieve naam van het bedrijf" />
+			<Item Name="Parameters.FullAddress.Caption" Value="FullAddress" />
+			<Item Name="Parameters.FullAddress.Sys_Description" Value="Volledig adres van het bedrijfsbureau inclusief land, stad, postcode, enz." />
+			<Item Name="Parameters.PhoneNumber.Caption" Value="telefoonnummer" />
+			<Item Name="Parameters.PhoneNumber.Sys_Description" Value="telefoonnummer van het bedrijf" />
+			<Item Name="Parameters.Web.Caption" Value="Website" />
+			<Item Name="Parameters.Web.Sys_Description" Value="website-adres van het bedrijf" />
+		</Items>
+	</Group>
+</Resources>

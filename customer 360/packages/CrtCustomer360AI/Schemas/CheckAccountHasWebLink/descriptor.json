@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b2dc4c74-61a1-42f3-8a7b-93301bbb409f",
+    "Name": "CheckAccountHasWebLink",
+    "ModifiedOnUtc": "\/Date(1757938478000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Check account has weblink",
+    "DependsOn": []
+  }
+}

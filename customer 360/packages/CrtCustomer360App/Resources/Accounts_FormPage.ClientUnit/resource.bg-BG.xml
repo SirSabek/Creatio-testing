@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Юридически Лица, страница с формуляр" />
+			<Item Name="LocalizableStrings.AccountCategory_placeholder.Value" Value="Избери категория" />
+			<Item Name="LocalizableStrings.AccountCommunicationOptionsAddButton_caption.Value" Value="Добави опция за комуникация" />
+			<Item Name="LocalizableStrings.addRecord_3bs3f03_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fhp55rg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Addresses" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Импортиране на данни" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.AlternativeName_placeholder.Value" Value="Въведи друго име" />
+			<Item Name="LocalizableStrings.AnnualRevenue_placeholder.Value" Value="Избери приходи" />
+			<Item Name="LocalizableStrings.ContactsAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.ContactsExpansionPanel_title.Value" Value="Contacts" />
+			<Item Name="LocalizableStrings.ContactsExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.ContactsImportDataButton_caption.Value" Value="Импортиране на данни" />
+			<Item Name="LocalizableStrings.ContactsRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.ContactsSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.ContactsSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.EmployeesNumber_placeholder.Value" Value="Избери брой служители" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Избери индустрия" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Избери собственик" />
+			<Item Name="LocalizableStrings.Ownership_placeholder.Value" Value="Избери обект" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Заглавие на страница" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Въведи телефонен номер" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Избери основен контакт" />
+			<Item Name="LocalizableStrings.PrimaryContactExpansionPanel_title.Value" Value="Първичен контакт" />
+			<Item Name="LocalizableStrings.RelationshipButton_caption.Value" Value="Връзки" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Select type" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Въведи web" />
+		</Items>
+	</Group>
+</Resources>

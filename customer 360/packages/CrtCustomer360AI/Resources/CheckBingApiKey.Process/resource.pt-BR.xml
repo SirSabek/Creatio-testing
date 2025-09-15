@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Caption" Value="Ler as configurações do sistema com chave da API Bing" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.AggregationColumnName.Caption" Value="Nome da coluna de função agregada" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.CanReadUncommitedData.Caption" Value="Ler os dados não confirmados" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.CanReadUncommitedData.DisplayValue" Value="verdadeiro" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ConsiderTimeInFilter.Caption" Value="Considerar o tempo nos filtros" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ConsiderTimeInFilter.DisplayValue" Value="verdadeiro" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.DataSourceFilters.Caption" Value="Fonte de dados dos filtros" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.EntityColumnMetaPathes.Caption" Value="Colunas a serem lidas" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.FunctionType.Caption" Value="Tipo de função agregada" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.IgnoreDisplayValues.Caption" Value="Não ler os valores exibidos das colunas da pesquisa" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.NumberOfRecords.Caption" Value="Número de registros a serem lidos" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.OrderInfo.Caption" Value="Ordem das colunas" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ReadSomeTopRecords.Caption" Value="Ler o primeiro" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultCompositeObjectList.Caption" Value="Coleção de registros" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultCount.Caption" Value="Número de registros" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultDateTimeFunction.Caption" Value="Resultado da função (Data/Hora)" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultEntity.Caption" Value="Primeiro item da coleção resultante" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultEntityCollection.Caption" Value="Coleção resultante" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultFloatFunction.Caption" Value="Resultado da função (Decimal)" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultIntegerFunction.Caption" Value="Resultado da função (Inteiro)" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultRowsCount.Caption" Value="Número de registros lidos" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultType.Caption" Value="Tipo de resultado" />
+			<Item Name="Caption" Value="Verificar a ApiKey" />
+			<Item Name="Description" Value="Verificar se a Chave da API Bing está preenchida" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Faixa 1" />
+			<Item Name="NotificationCaption.Caption" Value="Legenda da instância do processo" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.BingApiKey.Caption" Value="Chave da API Bing" />
+			<Item Name="Parameters.BingApiKey.DisplayValue" Value="[#Read system setting with Bing Api key.First item of resulting collection.Text value#]" />
+		</Items>
+	</Group>
+</Resources>

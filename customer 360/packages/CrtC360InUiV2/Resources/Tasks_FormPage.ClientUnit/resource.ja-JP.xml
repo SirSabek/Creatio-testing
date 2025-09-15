@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_1g27yyy_caption.Value" Value="新規追加" />
+			<Item Name="LocalizableStrings.addRecord_d7tgh1o_caption.Value" Value="新規追加" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Página da lista de contas" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="Adicionar uma etiqueta" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="Excluir" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="Remover a etiqueta" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="Importação de dados" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Atualizar" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Pesquisar" />
+		</Items>
+	</Group>
+</Resources>

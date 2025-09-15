@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Caption" Value="Čitaj sistemsko podešavanje s Bing API ključem" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.AggregationColumnName.Caption" Value="Naziv stupca agregatne funkcije" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.CanReadUncommitedData.Caption" Value="Pročitaj neizvršene podatke" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.CanReadUncommitedData.DisplayValue" Value="točno" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ConsiderTimeInFilter.DisplayValue" Value="točno" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.DataSourceFilters.Caption" Value="Izvor podataka filtera" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.EntityColumnMetaPathes.Caption" Value="Stupci za čitanje" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.FunctionType.Caption" Value="Vrsta agregatne funkcije" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.IgnoreDisplayValues.Caption" Value="Nemojte čitati prikazane vrijednosti stupaca pretraživanja" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.NumberOfRecords.Caption" Value="Broj zapisa za čitanje" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.OrderInfo.Caption" Value="Redoslijed stupaca" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ReadSomeTopRecords.Caption" Value="Pročitaj prvo" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultCompositeObjectList.Caption" Value="Zbirka zapisa" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultCount.Caption" Value="Broj zapisa" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultDateTimeFunction.Caption" Value="Rezultat funkcije (Datum/Vrijeme)" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultFloatFunction.Caption" Value="Rezultat funkcije (Decimalni)" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultRowsCount.Caption" Value="Broj pročitanih zapisa" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultType.Caption" Value="Vrsta rezultata" />
+			<Item Name="Caption" Value="Provjerite ApiKey" />
+			<Item Name="Description" Value="Provjerite da je Bing Api-key popunjen" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Traka 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.BingApiKey.Caption" Value="Bing Api-Ključ" />
+			<Item Name="Parameters.BingApiKey.DisplayValue" Value="[#Read system setting with Bing Api key.First item of resulting collection.Text value#]" />
+		</Items>
+	</Group>
+</Resources>

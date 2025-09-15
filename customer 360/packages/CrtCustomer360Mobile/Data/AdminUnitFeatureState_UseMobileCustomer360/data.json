@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c4ba2653-fe32-4492-a085-59b8a587ae86"
+        },
+        {
+          "SchemaColumnUId": "631177f9-f983-4787-a7aa-ced1b24ba918",
+          "Value": "629e1ff5-f4b6-4d41-9621-5636e0c4be3c",
+          "DisplayValue": "UseMobileCustomer360"
+        },
+        {
+          "SchemaColumnUId": "82b72e0d-42a3-4857-8445-0279b66e7e2c",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "9ba728be-e5cd-451d-a74a-c4a047c374b3",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        }
+      ]
+    }
+  ]
+}

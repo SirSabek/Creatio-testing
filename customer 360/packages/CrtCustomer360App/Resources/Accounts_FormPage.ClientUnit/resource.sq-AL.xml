@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Faqja e formës së llogarive" />
+			<Item Name="LocalizableStrings.AccountCategory_placeholder.Value" Value="Përzgjidh kategorinë" />
+			<Item Name="LocalizableStrings.AccountCommunicationOptionsAddButton_caption.Value" Value="Add communication option" />
+			<Item Name="LocalizableStrings.addRecord_3bs3f03_caption.Value" Value="Shto të re" />
+			<Item Name="LocalizableStrings.addRecord_fhp55rg_caption.Value" Value="Shto të re" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Adresat" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Eksporto në Exel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Importimi i të dhënave" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Rifresko" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Kërko" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.AlternativeName_placeholder.Value" Value="Vendos emër tjetër" />
+			<Item Name="LocalizableStrings.AnnualRevenue_placeholder.Value" Value="Zgjidh të ardhurat" />
+			<Item Name="LocalizableStrings.ContactsAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.ContactsExpansionPanel_title.Value" Value="Kontaktet" />
+			<Item Name="LocalizableStrings.ContactsExportDataButton_caption.Value" Value="Eksporto në Exel" />
+			<Item Name="LocalizableStrings.ContactsImportDataButton_caption.Value" Value="Importimi i të dhënave" />
+			<Item Name="LocalizableStrings.ContactsRefreshButton_caption.Value" Value="Rifresko" />
+			<Item Name="LocalizableStrings.ContactsSearchFilter_placeholder.Value" Value="Kërko" />
+			<Item Name="LocalizableStrings.ContactsSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.EmployeesNumber_placeholder.Value" Value="Zgjidh numrin e punonjësve" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Informacioni i llogarisë" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Përzgjidh industrinë" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Përzgjidh pronarin" />
+			<Item Name="LocalizableStrings.Ownership_placeholder.Value" Value="Përzgjidh entitetin" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Titulli i faqes" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Vendos numër telefoni" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Përzgjidh kontaktin parësor" />
+			<Item Name="LocalizableStrings.PrimaryContactExpansionPanel_title.Value" Value="Kontakti parësor" />
+			<Item Name="LocalizableStrings.RelationshipButton_caption.Value" Value="Marrëdhëniet" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Kohështrirja" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Kohështrirja" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Kohështrirja" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Përzgjidh llojin" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Vendos rrjetin" />
+		</Items>
+	</Group>
+</Resources>

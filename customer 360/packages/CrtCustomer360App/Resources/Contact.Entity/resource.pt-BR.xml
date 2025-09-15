@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="Campanha de anúncios" />
+			<Item Name="Columns.Channel.Caption" Value="Canal" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Necessidades do cliente" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="E-mail inválido" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Pontuação de conversão de Leads" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="Método de inscrição" />
+			<Item Name="Columns.Source.Caption" Value="Fonte" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Objeto subordinado" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Valores padrão para as colunas do objeto pai" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Filtros para a exclusão dos registros" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Conexão entre colunas de objetos pai e subordinados" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Filtro para selecionar várias linhas" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="Todos os campos são requeridos" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Campos requeridos no objeto subordinado" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Filtro para selecionar uma única linha" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

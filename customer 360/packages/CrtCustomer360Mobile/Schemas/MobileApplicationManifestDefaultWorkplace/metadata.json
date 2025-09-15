@@ -1,0 +1,7 @@
+= MetaData.Schema.UId "4e3a5743-4bef-460d-9496-52f6bd168b19"
+= MetaData.Schema.B6 "379003f3-74dc-4305-c4de-04f43be2bfb0"
++ MetaData.Schema.B7 true
+= MetaData.Schema.HD1 "2a46e6b2-9ff1-4b56-9e6b-fe3cb1afc109"
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.NONE,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schemaDifferences:function(){{\n{1}\n}}}};}});"
+- MetaData.Schema.HD4
++ MetaData.Schema.B7 true

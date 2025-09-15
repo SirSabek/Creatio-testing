@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "379003f3-74dc-4305-c4de-04f43be2bfb0",
+    "PackageVersion": "7.8.0",
+    "Name": "CrtCustomer360Mobile",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1732030532000)\/",
+    "Maintainer": "Creatio",
+    "ProjectPath": "Files/CrtCustomer360Mobile.csproj",
+    "DependsOn": [
+      {
+        "UId": "7ecd2886-795a-4933-9ffb-5358f353a555",
+        "PackageVersion": "7.8.0",
+        "Name": "Mobile"
+      }
+    ]
+  }
+}

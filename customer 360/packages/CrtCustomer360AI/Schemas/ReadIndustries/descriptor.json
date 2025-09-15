@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "00d66ae8-2ab8-44b2-a2fd-8dfef94f712b",
+    "Name": "ReadIndustries",
+    "ModifiedOnUtc": "\/Date(1743422822000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Read Industries",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Аналитика контактов" />
+			<Item Name="LocalizableStrings.ContactsByJobTitleWidget_series_0.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.ContactsByJobTitleWidget_title.Value" Value="Контакты по должностям" />
+			<Item Name="LocalizableStrings.ContactsByPreferredLanguageWidget_label.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.ContactsByPreferredLanguageWidget_title.Value" Value="Контакты по языку общения" />
+			<Item Name="LocalizableStrings.ContactsByTypeWidget_series_0.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.ContactsByTypeWidget_title.Value" Value=" Контакты по типам" />
+			<Item Name="LocalizableStrings.ContactsWithoutAccountWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.ContactsWithoutAccountWidget_title.Value" Value="Контакты без контрагента" />
+			<Item Name="LocalizableStrings.ContactsWithoutCommunicationOptionWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.ContactsWithoutCommunicationOptionWidget_title.Value" Value="Контакты без средства связи" />
+			<Item Name="LocalizableStrings.NewContactsThisMonthWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.NewContactsThisMonthWidget_title.Value" Value="Новые контакты за текущий месяц" />
+			<Item Name="LocalizableStrings.NumberOfContactsWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.NumberOfContactsWidget_title.Value" Value=" Количество контактов" />
+		</Items>
+	</Group>
+</Resources>

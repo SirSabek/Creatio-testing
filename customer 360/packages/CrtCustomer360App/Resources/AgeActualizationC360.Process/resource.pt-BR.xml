@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Desativar o Processo Atual" />
+			<Item Name="BaseElements.StartTimerEvent1.Caption" Value="Iniciar no Cron" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Reinício do job de atualização das idades" />
+			<Item Name="Caption" Value="Atualização das Idades C360" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Faixa 1" />
+			<Item Name="NotificationCaption.Caption" Value="Legenda da instância do processo" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

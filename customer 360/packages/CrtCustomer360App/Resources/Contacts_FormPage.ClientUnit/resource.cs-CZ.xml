@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Contacts form page" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Zvolit firmu" />
+			<Item Name="LocalizableStrings.AccountCategory_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountCategory_label.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountIndustry_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountIndustry_label.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountInfoExpansionPanel_title.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.addRecord_e9kbl5o_caption.Value" Value="Přidat nový" />
+			<Item Name="LocalizableStrings.addRecord_oz5z1xx_caption.Value" Value="Přidat nový" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="Nový" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Addresses" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Export do Excelu" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Akce" />
+			<Item Name="LocalizableStrings.CareerAddButton_caption.Value" Value="Nový" />
+			<Item Name="LocalizableStrings.CareerExpansionPanel_title.Value" Value="Zaměstnání" />
+			<Item Name="LocalizableStrings.CareerExportDataButton_caption.Value" Value="Export do Excelu" />
+			<Item Name="LocalizableStrings.CareerImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.CareerRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.CareerSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.CareerSettingsButton_caption.Value" Value="Akce" />
+			<Item Name="LocalizableStrings.ContactCommunicationOptionsAddButton_caption.Value" Value="Add communication option" />
+			<Item Name="LocalizableStrings.Dear_placeholder.Value" Value="Enter legal name" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Zadejte e-mail" />
+			<Item Name="LocalizableStrings.Gender_placeholder.Value" Value="Select gender" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Contact info" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Zadejte pracovní pozici" />
+			<Item Name="LocalizableStrings.Language_placeholder.Value" Value="Select language" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Zadejte telefonní číslo" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Zvolit vlastníka" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Page title" />
+			<Item Name="LocalizableStrings.SalutationType_placeholder.Value" Value="Select title" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Časová osa" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Časová osa" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Časová osa" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Vyberte typ kontaktu" />
+		</Items>
+	</Group>
+</Resources>

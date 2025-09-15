@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "680ab496-8f70-406d-8c48-ebc1f780718c",
+    "Name": "AccountAddressEventListener",
+    "ModifiedOnUtc": "\/Date(1665498467000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "AccountAddressEventListener",
+    "DependsOn": []
+  }
+}

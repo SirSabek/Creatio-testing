@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.b4c1d25e-290c-fd49-3398-6dced7bc20d3.Caption" Value="Відображення інформації про Контрагент" />
+			<Item Name="Caption" Value="Сторінка запису Контакти (Бізнес-правила)" />
+		</Items>
+	</Group>
+</Resources>

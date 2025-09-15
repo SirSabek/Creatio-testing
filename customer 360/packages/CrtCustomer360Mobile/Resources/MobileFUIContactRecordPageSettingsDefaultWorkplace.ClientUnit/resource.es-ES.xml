@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MobileFUIContactRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.ContactAddressDetailV2EmbeddedDetailContact_caption.Value" Value="Direcciones" />
+			<Item Name="LocalizableStrings.ContactCareerDetailV2EmbeddedDetailContact_caption.Value" Value="Experiencia laboral" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailEmbeddedDetailContact_caption.Value" Value="Opciones de comunicación" />
+			<Item Name="LocalizableStrings.ContactTimelineTab_caption.Value" Value="Cronología" />
+			<Item Name="LocalizableStrings.infoColumnSetContact_caption.Value" Value="Información de contacto" />
+			<Item Name="LocalizableStrings.primaryColumnSetContact_caption.Value" Value="Conjunto de columnas principales" />
+			<Item Name="LocalizableStrings.profileColumnSetContact_caption.Value" Value="Perfil" />
+			<Item Name="LocalizableStrings.TabAttachments_caption.Value" Value="Archivos adjuntos" />
+			<Item Name="LocalizableStrings.TabFeed_caption.Value" Value="Alimentación ESN" />
+		</Items>
+	</Group>
+</Resources>

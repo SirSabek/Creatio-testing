@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Strona formularza kontaktów" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Wybierz Kontrahenta" />
+			<Item Name="LocalizableStrings.AccountCategory_ariaLabel.Value" Value="Lista rozwijana" />
+			<Item Name="LocalizableStrings.AccountCategory_label.Value" Value="Lista rozwijana" />
+			<Item Name="LocalizableStrings.AccountIndustry_ariaLabel.Value" Value="Lista rozwijana" />
+			<Item Name="LocalizableStrings.AccountIndustry_label.Value" Value="Lista rozwijana" />
+			<Item Name="LocalizableStrings.AccountInfoExpansionPanel_title.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.addRecord_e9kbl5o_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_oz5z1xx_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="Nowy" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Adresy" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Eksportuj do Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Odśwież" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Szukaj" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Akcje" />
+			<Item Name="LocalizableStrings.CareerAddButton_caption.Value" Value="Nowy" />
+			<Item Name="LocalizableStrings.CareerExpansionPanel_title.Value" Value="Doświadczenie zawodowe" />
+			<Item Name="LocalizableStrings.CareerExportDataButton_caption.Value" Value="Eksportuj do Excel" />
+			<Item Name="LocalizableStrings.CareerImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.CareerRefreshButton_caption.Value" Value="Odśwież" />
+			<Item Name="LocalizableStrings.CareerSearchFilter_placeholder.Value" Value="Szukaj" />
+			<Item Name="LocalizableStrings.CareerSettingsButton_caption.Value" Value="Akcje" />
+			<Item Name="LocalizableStrings.ContactCommunicationOptionsAddButton_caption.Value" Value="Dodaj opcje komunikacji" />
+			<Item Name="LocalizableStrings.Dear_placeholder.Value" Value="Wprowadź nazwę prawną" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Wprowadź adres e-mail" />
+			<Item Name="LocalizableStrings.Gender_placeholder.Value" Value="Wybierz płeć" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Informacje kontaktowe" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Wprowadź tytuł" />
+			<Item Name="LocalizableStrings.Language_placeholder.Value" Value="Wybierz język" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Wprowadź numer telefonu" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Wybierz właściciela" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Tytuł strony" />
+			<Item Name="LocalizableStrings.SalutationType_placeholder.Value" Value="Wybierz tytuł" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Oś czasu" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Oś czasu" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Oś czasu" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Wybierz typ kontaktu" />
+		</Items>
+	</Group>
+</Resources>

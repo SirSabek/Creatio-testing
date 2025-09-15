@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Bing căutare webservice" />
+			<Item Name="ServiceMethods.Search.Caption" Value="Search" />
+			<Item Name="ServiceMethods.Search.Request.Parameters.OcpApimSubscriptionKey.Caption" Value="Ocp-Apim-Subscription-Key" />
+			<Item Name="ServiceMethods.Search.Request.Parameters.query.Caption" Value="q" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.MItems.Caption" Value="RankingResponse Mainline Items" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.MItems.ItemProperties.IAType.Caption" Value="AnswerType" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.MItems.ItemProperties.IRIndex.Caption" Value="ResultIndex" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.MItems.ItemProperties.VId2.Caption" Value="Value Id" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.QCOQuery.Caption" Value="QueryContext OriginalQuery" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.type.Caption" Value="_type" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.VId1.Caption" Value="Videos Id" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.VIFFriendly1.Caption" Value="Videos IsFamilyFriendly" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.VRLink.Caption" Value="Videos ReadLink" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.VWSUrl.Caption" Value="Videos WebSearchUrl" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPTEMatches.Caption" Value="WebPages TotalEstimatedMatches" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.Caption" Value="WebPages Value" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.PIOPHeight.Caption" Value="PrimaryImageOfPage Height" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.PIOPIId.Caption" Value="PrimaryImageOfPage ImageId" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.PIOPSHeight.Caption" Value="PrimaryImageOfPage SourceHeight" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.PIOPSWidth.Caption" Value="PrimaryImageOfPage SourceWidth" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.PIOPTUrl.Caption" Value="PrimaryImageOfPage ThumbnailUrl" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.PIOPWidth.Caption" Value="PrimaryImageOfPage Width" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VCPUrl.Caption" Value="CachedPageUrl" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VDLCrawled.Caption" Value="DateLastCrawled" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VDLinks.Caption" Value="DeepLinks" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VDLinks.ItemProperties.DLName.Caption" Value="Nume" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VDLinks.ItemProperties.DLSnippet.Caption" Value="Snippet" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VDLinks.ItemProperties.DLUrl.Caption" Value="Url" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VDPFText.Caption" Value="DatePublishedFreshnessText" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VDPublished.Caption" Value="DatePublished" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VDUrl.Caption" Value="DisplayUrl" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VId.Caption" Value="Id" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VIFFriendly.Caption" Value="IsFamilyFriendly" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VINavigational.Caption" Value="IsNavigational" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VLanguage.Caption" Value="Language" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VName.Caption" Value="Nume" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VNCache.Caption" Value="NoCache" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VSName.Caption" Value="SiteName" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VSnippet.Caption" Value="Snippet" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VTUrl.Caption" Value="ThumbnailUrl" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPValue.ItemProperties.VUrl.Caption" Value="Url" />
+			<Item Name="ServiceMethods.Search.Response.Parameters.WPWSUrl.Caption" Value="WebPages WebSearchUrl" />
+		</Items>
+	</Group>
+</Resources>

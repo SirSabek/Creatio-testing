@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Mini pagină Contacte" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Selectati cont" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Introduceți e-mailul" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="Introduceți prenumele" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Introduceți titlul postului" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Introduceți numărul de telefon" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="Introduceți numele" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Selectați tipul de contact" />
+		</Items>
+	</Group>
+</Resources>

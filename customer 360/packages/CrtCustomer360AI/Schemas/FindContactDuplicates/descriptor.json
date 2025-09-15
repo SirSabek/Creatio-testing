@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a9138b0e-6691-4fa9-b6f3-dc3cf211587b",
+    "Name": "FindContactDuplicates",
+    "ModifiedOnUtc": "\/Date(1748271054000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Find Contact duplicates",
+    "DependsOn": []
+  }
+}

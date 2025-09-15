@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d3ec8897-953b-4a21-bb67-92f3a8bd0dee",
+    "Name": "Contacts_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1757938479000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Contacts form page (Business rules)",
+    "DependsOn": []
+  }
+}

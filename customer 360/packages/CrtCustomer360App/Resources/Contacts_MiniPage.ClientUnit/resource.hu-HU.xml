@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Kapcsolatok mini oldal" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Select account" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="Új hozzáadása" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="E-mail megadása" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="Adja meg a keresztnevet" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Adja meg a beosztást" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Telefonszám megadása:" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="Kérem, írja be a vezetéknevét" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Válassza ki a kapcsolat típusát" />
+		</Items>
+	</Group>
+</Resources>

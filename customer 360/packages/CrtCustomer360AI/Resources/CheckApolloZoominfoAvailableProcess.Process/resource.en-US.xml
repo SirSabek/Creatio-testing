@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Caption" Value="Apollo API key" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ApolloKeyReadDataUserTask.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Caption" Value="Check Apollo" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.EntityColumnMetaPathes.DisplayValue" Value="ae0e45ca-c495-4fe7-a39d-3ab7278e1617" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.NumberOfRecords.DisplayValue" Value="50" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.OrderInfo.DisplayValue" Value="Name:1:1" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ReadSomeTopRecords.DisplayValue" Value="true" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.CheckApolloReadDataUserTask.Parameters.ResultType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Is Apollo available" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="Is Zoominfo available" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Caption" Value="Check Zoominfo" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.FunctionType.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.NumberOfRecords.DisplayValue" Value="50" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ReadSomeTopRecords.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.ZoominfoReadDataUserTask.Parameters.ResultType.DisplayValue" Value="0" />
+			<Item Name="Caption" Value="Check Apollo, Zoominfo available" />
+			<Item Name="Description" Value="Check if Apollo and ZoomInfo connectors are available" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.ApolloConnectorAvailable.Caption" Value="Is Apollo connector available" />
+			<Item Name="Parameters.ApolloConnectorAvailable.DisplayValue" Value="[#Boolean value.False#]" />
+			<Item Name="Parameters.ZoominfoConnectorAvailable.Caption" Value="Is Zoominfo connector available" />
+			<Item Name="Parameters.ZoominfoConnectorAvailable.DisplayValue" Value="[#Boolean value.False#]" />
+		</Items>
+	</Group>
+</Resources>

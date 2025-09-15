@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Caption" Value="קרא הגדרת מערכת עם מפתח Bing Api" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.AggregationColumnName.Caption" Value="שם עמודת פונקציית אגירה" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.CanReadUncommitedData.Caption" Value="קרא נתונים שאינם מאושרים" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.CanReadUncommitedData.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ConsiderTimeInFilter.Caption" Value="שקול זמן במסנן" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ConsiderTimeInFilter.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.DataSourceFilters.Caption" Value="מקור נתונים של פילטרים" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.EntityColumnMetaPathes.Caption" Value="עמודות לקרוא" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.FunctionType.Caption" Value="סוג פונקציה מצטברת" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.IgnoreDisplayValues.Caption" Value="אל תקרא ערכים המוצגים של עמודות חיפוש" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.NumberOfRecords.Caption" Value="מספר רשומות לקריאה" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.OrderInfo.Caption" Value="סדר עמודות" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ReadSomeTopRecords.Caption" Value="קרא ראשון" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultCompositeObjectList.Caption" Value="אוסף רשומות" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultCount.Caption" Value="מספר רשומות" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultEntity.Caption" Value="פריט ראשון באוסף התוצאות" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultEntityCollection.Caption" Value="אוסף תוצאות" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultRowsCount.Caption" Value="מספר הרשומות שנקראו" />
+			<Item Name="BaseElements.ReadSystemSettingsBingApi.Parameters.ResultType.Caption" Value="Result type" />
+			<Item Name="Caption" Value="בדוק ApiKey" />
+			<Item Name="Description" Value="בדוק שהמפתח Api-key של Bing מלא" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="סט נתיב 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="נתיב 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance title" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#שם תהליך#]" />
+			<Item Name="Parameters.BingApiKey.Caption" Value="מפתח Api של Bing" />
+			<Item Name="Parameters.BingApiKey.DisplayValue" Value="[#קרא הגדרת מערכת עם מפתח Bing Api.פריט ראשון באוסף התוצאות.ערך טקסט#]" />
+		</Items>
+	</Group>
+</Resources>

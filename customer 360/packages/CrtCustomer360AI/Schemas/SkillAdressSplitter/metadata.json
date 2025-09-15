@@ -1,0 +1,62 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "CopilotIntentSchemaManager",
+      "UId": "03c740de-de7d-151a-61f7-5d61cb1b258b",
+      "A2": "SkillAdressSplitter",
+      "A5": "f4cea815-b5cd-4b3d-ae47-099332b5f9fb",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "c1a044a2-cb8c-9387-837b-d9ae9183cd47",
+      "B8": "8.2.1.5405",
+      "CIS1": "Your task is separate full address to Country, City, Address",
+      "CIS5": "AI skill for separate full address to Country, City, Address",
+      "CIS4": 1,
+      "CIS3": [],
+      "CIS6": [
+        {
+          "UId": "ba3b6aa7-2944-7da7-621d-11e602fb4b6f",
+          "A2": "FullAddress",
+          "A3": "03c740de-de7d-151a-61f7-5d61cb1b258b",
+          "A4": "03c740de-de7d-151a-61f7-5d61cb1b258b",
+          "A5": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+          "CISP1": "5ca35f10-a101-4c67-a96a-383da6afacfc",
+          "CISP3": "null"
+        }
+      ],
+      "CIS7": [
+        {
+          "UId": "ef06c8e2-832d-2637-ed52-836a9ab42df0",
+          "A2": "Country",
+          "A3": "03c740de-de7d-151a-61f7-5d61cb1b258b",
+          "A4": "03c740de-de7d-151a-61f7-5d61cb1b258b",
+          "A5": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+          "CISP1": "5ca35f10-a101-4c67-a96a-383da6afacfc",
+          "CISP3": "Output Country parameter"
+        },
+        {
+          "UId": "9576f011-1c4d-c353-9153-8e5a0cd01327",
+          "A2": "City",
+          "A3": "03c740de-de7d-151a-61f7-5d61cb1b258b",
+          "A4": "03c740de-de7d-151a-61f7-5d61cb1b258b",
+          "A5": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+          "CISP1": "5ca35f10-a101-4c67-a96a-383da6afacfc",
+          "CISP3": "Output City parameter"
+        },
+        {
+          "UId": "8f60f984-aa7a-8b67-6ab1-f1ad0a27c8c7",
+          "A2": "Address",
+          "A3": "03c740de-de7d-151a-61f7-5d61cb1b258b",
+          "A4": "03c740de-de7d-151a-61f7-5d61cb1b258b",
+          "A5": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+          "CISP1": "5ca35f10-a101-4c67-a96a-383da6afacfc",
+          "CISP3": "Output Address parameter"
+        }
+      ],
+      "CIS8": {
+        "SFC": true
+      }
+    }
+  }
+}

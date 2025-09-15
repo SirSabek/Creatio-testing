@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="Рекламна кампания" />
+			<Item Name="Columns.Channel.Caption" Value="Канал" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Клиентска необходимост" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="Невалиден имейл" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Оценка на преобразуване на нужда" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="Метод на регистрация" />
+			<Item Name="Columns.Source.Caption" Value="Източник" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Подчинен обект" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Стойности по подразбиране за колони на родителски обект" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Филтри за изтриване на записи" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Връзка между колони на родителски и подчинени обекти" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Филтрирай, за да избереш няколко реда" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="Всички полета са задължителни" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Задължителни полета в подчинен обект" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Филтрирай, за да избереш един ред" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Account-uri de pe pagină" />
+			<Item Name="LocalizableStrings.AccountCategory_placeholder.Value" Value="Selecteaza categorie" />
+			<Item Name="LocalizableStrings.AccountCommunicationOptionsAddButton_caption.Value" Value="Adăugare opțiune de comunicare" />
+			<Item Name="LocalizableStrings.addRecord_3bs3f03_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fhp55rg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Adrese" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.AlternativeName_placeholder.Value" Value="Introduceți alt nume" />
+			<Item Name="LocalizableStrings.AnnualRevenue_placeholder.Value" Value="Selectați venitul" />
+			<Item Name="LocalizableStrings.ContactsAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.ContactsExpansionPanel_title.Value" Value="Contacte" />
+			<Item Name="LocalizableStrings.ContactsExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.ContactsImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.ContactsRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.ContactsSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.ContactsSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.EmployeesNumber_placeholder.Value" Value="Selectați numărul angajaților" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Selectați industria" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Select owner" />
+			<Item Name="LocalizableStrings.Ownership_placeholder.Value" Value="Selectați entitatea" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Page title" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Introduceți numărul de telefon" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Selectaţi contactul principal" />
+			<Item Name="LocalizableStrings.PrimaryContactExpansionPanel_title.Value" Value="Primary contact" />
+			<Item Name="LocalizableStrings.RelationshipButton_caption.Value" Value="Relații" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Select type" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Introduceți web" />
+		</Items>
+	</Group>
+</Resources>

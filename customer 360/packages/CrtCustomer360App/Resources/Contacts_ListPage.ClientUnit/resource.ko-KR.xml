@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Contacts list page" />
+			<Item Name="LocalizableStrings.ActionsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.AddButton.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="태그 추가" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="삭제" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="태그 제거" />
+			<Item Name="LocalizableStrings.MenuItem_8m672s8_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.MenuItem_jv8r9nw_caption.Value" Value="Update contact age" />
+			<Item Name="LocalizableStrings.MenuItem_sy8z6b6_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="검색" />
+		</Items>
+	</Group>
+</Resources>

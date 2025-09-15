@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.4eb6b768-b3e6-8da1-3776-6a0f7550d3aa.Caption" Value="Birincil iletişim bilgileri için görünürlük" />
+			<Item Name="Caption" Value="Hesaplar Form Sayfası (İş Kuralları)" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,378 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0f95fdd9-29bb-47da-b5f6-3177f8cdd67c"
+        },
+        {
+          "SchemaColumnUId": "0c715ab8-cf10-44ce-b83e-7d287053d3a1",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2739c1c8-709b-477a-bf07-f85fc4c70d31",
+          "Value": "tsp_FindContactDuplicateByNameAndWeb"
+        },
+        {
+          "SchemaColumnUId": "931042d0-27db-46dd-b76f-9316a51f2af2",
+          "Value": "{\"filters\": [{\"schemaName\": \"Contact\", \"columnName\": \"Name\"}, {\"schemaName\": \"ContactCommunication\", \"type\": \"cadd142e-4b2d-e011-ac0a-00155d043205\", \"rootSchemaColumns\": [\"Web\"]}]}"
+        },
+        {
+          "SchemaColumnUId": "c5b7aaf3-72ad-43e0-bcbf-bfac66d50e2a",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "dfa9bd8a-dbc4-405a-9c29-701dc6bc6599",
+          "Value": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+          "DisplayValue": "Contact"
+        },
+        {
+          "SchemaColumnUId": "ee552907-b04c-4a84-9320-7370ea59ebdd",
+          "Value": false
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "142cbfa3-ad31-454c-a14c-87feb06def66"
+        },
+        {
+          "SchemaColumnUId": "0c715ab8-cf10-44ce-b83e-7d287053d3a1",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2739c1c8-709b-477a-bf07-f85fc4c70d31",
+          "Value": "tsp_FindAccountDuplicateByName"
+        },
+        {
+          "SchemaColumnUId": "931042d0-27db-46dd-b76f-9316a51f2af2",
+          "Value": "{\"filters\": [{\"schemaName\": \"Account\", \"columnName\": \"Name\"}]}"
+        },
+        {
+          "SchemaColumnUId": "c5b7aaf3-72ad-43e0-bcbf-bfac66d50e2a",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "dfa9bd8a-dbc4-405a-9c29-701dc6bc6599",
+          "Value": "25d7c1ab-1de0-4501-b402-02e0e5a72d6e",
+          "DisplayValue": "Account"
+        },
+        {
+          "SchemaColumnUId": "ee552907-b04c-4a84-9320-7370ea59ebdd",
+          "Value": true
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "446b38fa-b53d-408c-8424-f99f866ce0dd"
+        },
+        {
+          "SchemaColumnUId": "0c715ab8-cf10-44ce-b83e-7d287053d3a1",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2739c1c8-709b-477a-bf07-f85fc4c70d31",
+          "Value": "tsp_FindAccountDuplicateByNamePhoneAndSms"
+        },
+        {
+          "SchemaColumnUId": "931042d0-27db-46dd-b76f-9316a51f2af2",
+          "Value": "{\"filters\": [{\"schemaName\": \"Account\", \"columnName\": \"Name\"}, {\"schemaName\": \"AccountCommunication\", \"type\": \"e037f25a-d7bc-df11-b00f-001d60e938c6\", \"rootSchemaColumns\": [\"Phone\", \"AdditionalPhone\"]}]}"
+        },
+        {
+          "SchemaColumnUId": "c5b7aaf3-72ad-43e0-bcbf-bfac66d50e2a",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "dfa9bd8a-dbc4-405a-9c29-701dc6bc6599",
+          "Value": "25d7c1ab-1de0-4501-b402-02e0e5a72d6e",
+          "DisplayValue": "Account"
+        },
+        {
+          "SchemaColumnUId": "ee552907-b04c-4a84-9320-7370ea59ebdd",
+          "Value": false
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7ae56427-c378-48a5-afa0-6ce8e5c01e6c"
+        },
+        {
+          "SchemaColumnUId": "0c715ab8-cf10-44ce-b83e-7d287053d3a1",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2739c1c8-709b-477a-bf07-f85fc4c70d31",
+          "Value": "tsp_FindAccountDuplicateByWeb"
+        },
+        {
+          "SchemaColumnUId": "931042d0-27db-46dd-b76f-9316a51f2af2",
+          "Value": "{\"filters\": [{\"schemaName\": \"AccountCommunication\", \"type\": \"cadd142e-4b2d-e011-ac0a-00155d043205\", \"rootSchemaColumns\": [\"Web\"]}]}"
+        },
+        {
+          "SchemaColumnUId": "c5b7aaf3-72ad-43e0-bcbf-bfac66d50e2a",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "dfa9bd8a-dbc4-405a-9c29-701dc6bc6599",
+          "Value": "25d7c1ab-1de0-4501-b402-02e0e5a72d6e",
+          "DisplayValue": "Account"
+        },
+        {
+          "SchemaColumnUId": "ee552907-b04c-4a84-9320-7370ea59ebdd",
+          "Value": false
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "93994842-3969-4685-b7a5-e2945cb0f9e5"
+        },
+        {
+          "SchemaColumnUId": "0c715ab8-cf10-44ce-b83e-7d287053d3a1",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2739c1c8-709b-477a-bf07-f85fc4c70d31",
+          "Value": "tsp_FindContactDuplicateByEmail"
+        },
+        {
+          "SchemaColumnUId": "931042d0-27db-46dd-b76f-9316a51f2af2",
+          "Value": "{\"filters\": [{\"schemaName\": \"ContactCommunication\", \"type\": \"ea350dd6-66cc-df11-9b2a-001d60e938c6\", \"rootSchemaColumns\": [\"Email\"]}]}"
+        },
+        {
+          "SchemaColumnUId": "c5b7aaf3-72ad-43e0-bcbf-bfac66d50e2a",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "dfa9bd8a-dbc4-405a-9c29-701dc6bc6599",
+          "Value": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+          "DisplayValue": "Contact"
+        },
+        {
+          "SchemaColumnUId": "ee552907-b04c-4a84-9320-7370ea59ebdd",
+          "Value": false
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b1536855-c180-4d39-8581-94dd00236bdf"
+        },
+        {
+          "SchemaColumnUId": "0c715ab8-cf10-44ce-b83e-7d287053d3a1",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2739c1c8-709b-477a-bf07-f85fc4c70d31",
+          "Value": "tsp_FindContactDuplicateByName"
+        },
+        {
+          "SchemaColumnUId": "931042d0-27db-46dd-b76f-9316a51f2af2",
+          "Value": "{\"filters\": [{\"schemaName\": \"Contact\", \"columnName\": \"Name\"}]}"
+        },
+        {
+          "SchemaColumnUId": "c5b7aaf3-72ad-43e0-bcbf-bfac66d50e2a",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "dfa9bd8a-dbc4-405a-9c29-701dc6bc6599",
+          "Value": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+          "DisplayValue": "Contact"
+        },
+        {
+          "SchemaColumnUId": "ee552907-b04c-4a84-9320-7370ea59ebdd",
+          "Value": true
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "bf66facc-c8c7-476f-9be3-68b3b6434ca3"
+        },
+        {
+          "SchemaColumnUId": "0c715ab8-cf10-44ce-b83e-7d287053d3a1",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2739c1c8-709b-477a-bf07-f85fc4c70d31",
+          "Value": "tsp_FindContactDuplicateByPhoneAndSms"
+        },
+        {
+          "SchemaColumnUId": "931042d0-27db-46dd-b76f-9316a51f2af2",
+          "Value": "{\"filters\": [{\"schemaName\": \"ContactCommunication\", \"type\": \"e037f25a-d7bc-df11-b00f-001d60e938c6\", \"rootSchemaColumns\": [\"Phone\", \"MobilePhone\"]}]}"
+        },
+        {
+          "SchemaColumnUId": "c5b7aaf3-72ad-43e0-bcbf-bfac66d50e2a",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "dfa9bd8a-dbc4-405a-9c29-701dc6bc6599",
+          "Value": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+          "DisplayValue": "Contact"
+        },
+        {
+          "SchemaColumnUId": "ee552907-b04c-4a84-9320-7370ea59ebdd",
+          "Value": false
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d3607fd4-8303-40ae-b66e-000000000001"
+        },
+        {
+          "SchemaColumnUId": "0c715ab8-cf10-44ce-b83e-7d287053d3a1",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2739c1c8-709b-477a-bf07-f85fc4c70d31",
+          "Value": "tsp_FindContactDuplicateByNameAndEmail"
+        },
+        {
+          "SchemaColumnUId": "931042d0-27db-46dd-b76f-9316a51f2af2",
+          "Value": "{\"filters\": [{\"schemaName\": \"Contact\", \"columnName\": \"Name\"}, {\"schemaName\": \"ContactCommunication\", \"type\": \"ea350dd6-66cc-df11-9b2a-001d60e938c6\", \"rootSchemaColumns\": [\"Email\"]}]}"
+        },
+        {
+          "SchemaColumnUId": "c5b7aaf3-72ad-43e0-bcbf-bfac66d50e2a",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "dfa9bd8a-dbc4-405a-9c29-701dc6bc6599",
+          "Value": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+          "DisplayValue": "Contact"
+        },
+        {
+          "SchemaColumnUId": "ee552907-b04c-4a84-9320-7370ea59ebdd",
+          "Value": false
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d3607fd4-8303-40ae-b66e-000000000002"
+        },
+        {
+          "SchemaColumnUId": "0c715ab8-cf10-44ce-b83e-7d287053d3a1",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2739c1c8-709b-477a-bf07-f85fc4c70d31",
+          "Value": "tsp_FindContactDuplicateByNamePhoneAndSms"
+        },
+        {
+          "SchemaColumnUId": "931042d0-27db-46dd-b76f-9316a51f2af2",
+          "Value": "{\"filters\": [{\"schemaName\": \"Contact\", \"columnName\": \"Name\"}, {\"schemaName\": \"ContactCommunication\", \"type\": \"e037f25a-d7bc-df11-b00f-001d60e938c6\", \"rootSchemaColumns\": [\"Phone\", \"MobilePhone\"]}]}"
+        },
+        {
+          "SchemaColumnUId": "c5b7aaf3-72ad-43e0-bcbf-bfac66d50e2a",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "dfa9bd8a-dbc4-405a-9c29-701dc6bc6599",
+          "Value": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+          "DisplayValue": "Contact"
+        },
+        {
+          "SchemaColumnUId": "ee552907-b04c-4a84-9320-7370ea59ebdd",
+          "Value": false
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d3607fd4-8303-40ae-b66e-000000000003"
+        },
+        {
+          "SchemaColumnUId": "0c715ab8-cf10-44ce-b83e-7d287053d3a1",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2739c1c8-709b-477a-bf07-f85fc4c70d31",
+          "Value": "tsp_FindAccountDuplicateByNameEmailAndCity"
+        },
+        {
+          "SchemaColumnUId": "931042d0-27db-46dd-b76f-9316a51f2af2",
+          "Value": "{\"filters\": [{\"schemaName\": \"Account\", \"columnName\": \"Name\"}, {\"schemaName\": \"AccountCommunication\", \"type\": \"ea350dd6-66cc-df11-9b2a-001d60e938c6\", \"rootSchemaColumns\": [\"Email\"]}, {\"schemaName\": \"AccountAddress\", \"columnName\": \"City\", \"rootSchemaColumns\": [\"City\"]}]}"
+        },
+        {
+          "SchemaColumnUId": "c5b7aaf3-72ad-43e0-bcbf-bfac66d50e2a",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "dfa9bd8a-dbc4-405a-9c29-701dc6bc6599",
+          "Value": "25d7c1ab-1de0-4501-b402-02e0e5a72d6e",
+          "DisplayValue": "Account"
+        },
+        {
+          "SchemaColumnUId": "ee552907-b04c-4a84-9320-7370ea59ebdd",
+          "Value": false
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d3607fd4-8303-40ae-b66e-000000000004"
+        },
+        {
+          "SchemaColumnUId": "0c715ab8-cf10-44ce-b83e-7d287053d3a1",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2739c1c8-709b-477a-bf07-f85fc4c70d31",
+          "Value": "tsp_FindAccountDuplicateByNamePhoneSmsAndCity"
+        },
+        {
+          "SchemaColumnUId": "931042d0-27db-46dd-b76f-9316a51f2af2",
+          "Value": "{\"filters\": [{\"schemaName\": \"Account\", \"columnName\": \"Name\"}, {\"schemaName\": \"AccountCommunication\", \"type\": \"e037f25a-d7bc-df11-b00f-001d60e938c6\", \"rootSchemaColumns\": [\"Phone\", \"AdditionalPhone\"]}, {\"schemaName\": \"AccountAddress\", \"columnName\": \"City\", \"rootSchemaColumns\": [\"City\"]}]}"
+        },
+        {
+          "SchemaColumnUId": "c5b7aaf3-72ad-43e0-bcbf-bfac66d50e2a",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "dfa9bd8a-dbc4-405a-9c29-701dc6bc6599",
+          "Value": "25d7c1ab-1de0-4501-b402-02e0e5a72d6e",
+          "DisplayValue": "Account"
+        },
+        {
+          "SchemaColumnUId": "ee552907-b04c-4a84-9320-7370ea59ebdd",
+          "Value": false
+        }
+      ]
+    }
+  ]
+}

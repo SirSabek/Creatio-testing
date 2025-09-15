@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2fec6d84-4c19-e72c-33da-9cb2edf96957",
+    "Name": "SkillIndustriesCollection",
+    "ModifiedOnUtc": "\/Date(1744808497000)\/",
+    "ManagerName": "CopilotIntentSchemaManager",
+    "Caption": "MatchlIndustriesCollection",
+    "DependsOn": []
+  }
+}

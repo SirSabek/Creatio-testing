@@ -1,0 +1,36 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0e5675de-5266-4275-a36d-c8f126af6852"
+        },
+        {
+          "SchemaColumnUId": "1e236958-f206-4fde-8a0e-6783fc223424",
+          "Value": "PHN2ZyBpZD0iQ29tcG9uZW50XzM5N18zIiBkYXRhLW5hbWU9IkNvbXBvbmVudCAzOTcg4oCTIDMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjM4IiBoZWlnaHQ9IjM4IiB2aWV3Qm94PSIwIDAgMzggMzgiPgogIDxyZWN0IGlkPSJSZWN0YW5nbGVfMjEiIGRhdGEtbmFtZT0iUmVjdGFuZ2xlIDIxIiB3aWR0aD0iMzgiIGhlaWdodD0iMzgiIGZpbGw9Im5vbmUiLz4KICA8ZyBpZD0iR3JvdXBfMzEiIGRhdGEtbmFtZT0iR3JvdXAgMzEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgLTEpIj4KICAgIDxwYXRoIGlkPSJQYXRoXzY3IiBkYXRhLW5hbWU9IlBhdGggNjciIGQ9Ik05NTMuMy00MDguMmMwLTQuOS00LjItOC05LjMtOHMtOS4zLDMuMS05LjMsOGgxOC42IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtOTI1IDQzNykiIGZpbGw9IiNmZmYiLz4KICAgIDxjaXJjbGUgaWQ9IkVsbGlwc2VfMTAiIGRhdGEtbmFtZT0iRWxsaXBzZSAxMCIgY3g9IjQuOSIgY3k9IjQuOSIgcj0iNC45IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNC4xIDkuMikiIGZpbGw9IiNmZmYiLz4KICA8L2c+Cjwvc3ZnPgo="
+        },
+        {
+          "SchemaColumnUId": "90801d7c-a189-4afe-9c3a-a202fbf242d8",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "aebb8105-4a48-883c-e068-74ad2ab797a7",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b3cd8485-7bd8-4b70-b2dd-bc41e45e9992",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "be95e737-14e9-4253-b0c4-e280da05434d",
+          "Value": "image/svg+xml"
+        },
+        {
+          "SchemaColumnUId": "d245dcaf-23bd-4b73-8718-26fdf38b443b",
+          "Value": "SectionIcon_Contact.svg"
+        }
+      ]
+    }
+  ]
+}

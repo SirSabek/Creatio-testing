@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.ca024c10-4195-4c2b-fe8e-c8f0e589e2b1.Caption" Value="שפה מועדפת" />
+			<Item Name="Caption" Value="יצירת קשר (כללים עסקיים)" />
+		</Items>
+	</Group>
+</Resources>

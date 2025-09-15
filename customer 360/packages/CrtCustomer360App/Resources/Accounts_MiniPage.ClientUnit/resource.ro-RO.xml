@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Mini pagină Conturi" />
+			<Item Name="LocalizableStrings.addRecord_9l08qec_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_hdsf7rh_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_u32tduv_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Selectați industria" />
+			<Item Name="LocalizableStrings.Name_placeholder.Value" Value="Introduceți numele contului" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Introduceți numărul de telefon" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Selectaţi contactul principal" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Select type" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Introduceți web" />
+		</Items>
+	</Group>
+</Resources>

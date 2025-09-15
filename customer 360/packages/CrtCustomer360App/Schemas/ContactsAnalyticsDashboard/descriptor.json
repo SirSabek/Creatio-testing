@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f40ac837-7726-4b93-b766-80ea773cec54",
+    "Name": "ContactsAnalyticsDashboard",
+    "ModifiedOnUtc": "\/Date(1757938479000)\/",
+    "Parent": {
+      "UId": "eb4d4a67-25d8-fcfa-7851-c4c91efb7b9c",
+      "Name": "BaseDashboardTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Contacts analytics",
+    "DependsOn": []
+  }
+}

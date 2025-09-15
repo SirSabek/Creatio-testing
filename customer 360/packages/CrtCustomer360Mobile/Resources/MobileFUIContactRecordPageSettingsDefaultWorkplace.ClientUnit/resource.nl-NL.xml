@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MobileFUIContactRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.ContactAddressDetailV2EmbeddedDetailContact_caption.Value" Value="Addresses" />
+			<Item Name="LocalizableStrings.ContactCareerDetailV2EmbeddedDetailContact_caption.Value" Value="Werkervaring" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailEmbeddedDetailContact_caption.Value" Value="Communicatie opties" />
+			<Item Name="LocalizableStrings.ContactTimelineTab_caption.Value" Value="Tijdlijn" />
+			<Item Name="LocalizableStrings.infoColumnSetContact_caption.Value" Value="Contact informatie" />
+			<Item Name="LocalizableStrings.primaryColumnSetContact_caption.Value" Value="Primaire kolomset" />
+			<Item Name="LocalizableStrings.profileColumnSetContact_caption.Value" Value="Profiel" />
+			<Item Name="LocalizableStrings.TabAttachments_caption.Value" Value="Bijlagen" />
+			<Item Name="LocalizableStrings.TabFeed_caption.Value" Value="Feed" />
+		</Items>
+	</Group>
+</Resources>

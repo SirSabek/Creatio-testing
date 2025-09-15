@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e785a54d-7cc8-467f-9768-958ff8ad34d2",
+    "Name": "Contacts_FormPage",
+    "ModifiedOnUtc": "\/Date(1757938479000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Contacts form page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0ddf9384-63d2-4e5e-8aeb-b10eb3d45f49",
+    "Name": "AccountAddressBusinessRule",
+    "ModifiedOnUtc": "\/Date(1669029506000)\/",
+    "Parent": {
+      "UId": "97376e01-6bb8-4cdf-a7d4-face0ff7bebe",
+      "Name": "AccountAddressBusinessRule"
+    },
+    "ExtendParent": true,
+    "ManagerName": "AddonSchemaManager",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Pagina formularului de contacte" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Selectati cont" />
+			<Item Name="LocalizableStrings.AccountCategory_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountCategory_label.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountIndustry_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountIndustry_label.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountInfoExpansionPanel_title.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.addRecord_e9kbl5o_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_oz5z1xx_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Adrese" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.CareerAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.CareerExpansionPanel_title.Value" Value="Job experience" />
+			<Item Name="LocalizableStrings.CareerExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.CareerImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.CareerRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.CareerSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.CareerSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ContactCommunicationOptionsAddButton_caption.Value" Value="Adăugare opțiune de comunicare" />
+			<Item Name="LocalizableStrings.Dear_placeholder.Value" Value="Introduceți numele legal" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Introduceți e-mailul" />
+			<Item Name="LocalizableStrings.Gender_placeholder.Value" Value="Selectați genul" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Contact info" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Introduceți titlul postului" />
+			<Item Name="LocalizableStrings.Language_placeholder.Value" Value="Selectați limba" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Introduceți numărul de telefon" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Select owner" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Page title" />
+			<Item Name="LocalizableStrings.SalutationType_placeholder.Value" Value="Selectaţi titlul" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Selectați tipul de contact" />
+		</Items>
+	</Group>
+</Resources>

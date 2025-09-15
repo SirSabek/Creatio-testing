@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="Reklāmas kampaņa" />
+			<Item Name="Columns.Channel.Caption" Value="Kanāls" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Customer need" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="Nederīgs e-pasts" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Potenciālo klientu konversijas rezultāts" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="Reģistrācijas metode" />
+			<Item Name="Columns.Source.Caption" Value="Source" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Padotais objekts" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Noklusējuma vērtības vecāka objekta kolonnām" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Filtri ierakstu dzēšanai" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Saistība starp galveno un pakārtoto objektu kolonnām" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Filtrs vairāku rindu atlasei" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="Visi lauki ir obligāti" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Obligātie lauki pakārtotajā objektā" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Filtrs vienas rindas atlasei" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

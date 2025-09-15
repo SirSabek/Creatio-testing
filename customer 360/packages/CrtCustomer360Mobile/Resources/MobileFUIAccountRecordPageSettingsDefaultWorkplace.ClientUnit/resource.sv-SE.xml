@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MobileFUIAccountRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.AccountAddressDetailV2EmbeddedDetailAccount_caption.Value" Value="Adresser" />
+			<Item Name="LocalizableStrings.AccountCommunicationDetailEmbeddedDetailAccount_caption.Value" Value="Kommunikationsalternativ" />
+			<Item Name="LocalizableStrings.AccountContactsDetailV2EmbeddedDetailAccount_caption.Value" Value="Kontakter" />
+			<Item Name="LocalizableStrings.AccountTimelineTab_caption.Value" Value="Tidslinje" />
+			<Item Name="LocalizableStrings.infoColumnSetAccount_caption.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.profileColumnSetAccount_caption.Value" Value="Profil" />
+			<Item Name="LocalizableStrings.TabAttachments_caption.Value" Value="Bilagor" />
+			<Item Name="LocalizableStrings.TabFeed_caption.Value" Value="Flöde" />
+		</Items>
+	</Group>
+</Resources>

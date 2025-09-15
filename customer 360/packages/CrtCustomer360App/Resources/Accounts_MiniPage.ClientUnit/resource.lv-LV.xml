@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Personas minilapa" />
+			<Item Name="LocalizableStrings.addRecord_9l08qec_caption.Value" Value="Pievienot jaunu" />
+			<Item Name="LocalizableStrings.addRecord_hdsf7rh_caption.Value" Value="Pievienot jaunu" />
+			<Item Name="LocalizableStrings.addRecord_u32tduv_caption.Value" Value="Pievienot jaunu" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Atlasiet nozari" />
+			<Item Name="LocalizableStrings.Name_placeholder.Value" Value="Ievadiet personas nosaukumu" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Ievadiet tālruņa numuru" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Izvēlieties primāro kontaktu" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Izvēlēties veidu" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Ievadiet tīmekļa vietni" />
+		</Items>
+	</Group>
+</Resources>

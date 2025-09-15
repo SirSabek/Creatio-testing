@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Strona listy Kont" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="Dodaj tag" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="Delete" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Eksportuj do Excel" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="Usuń tag" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Odśwież" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Szukaj" />
+		</Items>
+	</Group>
+</Resources>

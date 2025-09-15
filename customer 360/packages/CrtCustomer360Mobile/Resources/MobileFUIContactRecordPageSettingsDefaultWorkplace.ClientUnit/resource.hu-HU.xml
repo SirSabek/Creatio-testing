@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MobileFUIContactRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.ContactAddressDetailV2EmbeddedDetailContact_caption.Value" Value="Címek" />
+			<Item Name="LocalizableStrings.ContactCareerDetailV2EmbeddedDetailContact_caption.Value" Value="Elvárt szakmai tapasztalat" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailEmbeddedDetailContact_caption.Value" Value="Kommunikációs lehetőségek" />
+			<Item Name="LocalizableStrings.ContactTimelineTab_caption.Value" Value="Idővonal" />
+			<Item Name="LocalizableStrings.infoColumnSetContact_caption.Value" Value="Kapcsolat infó" />
+			<Item Name="LocalizableStrings.primaryColumnSetContact_caption.Value" Value="Elsődleges oszlopkészlet" />
+			<Item Name="LocalizableStrings.profileColumnSetContact_caption.Value" Value="Profil" />
+			<Item Name="LocalizableStrings.TabAttachments_caption.Value" Value="Csatolmányok" />
+			<Item Name="LocalizableStrings.TabFeed_caption.Value" Value="Hírfolyam" />
+		</Items>
+	</Group>
+</Resources>

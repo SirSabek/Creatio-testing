@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Számlák űrlapoldal" />
+			<Item Name="LocalizableStrings.AccountCategory_placeholder.Value" Value="Kategória kiválasztása" />
+			<Item Name="LocalizableStrings.AccountCommunicationOptionsAddButton_caption.Value" Value="Kommunikációs lehetőség hozzáadása" />
+			<Item Name="LocalizableStrings.addRecord_3bs3f03_caption.Value" Value="Új hozzáadása" />
+			<Item Name="LocalizableStrings.addRecord_fhp55rg_caption.Value" Value="Új hozzáadása" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="Új" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Címek" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Keresés" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Műveletek" />
+			<Item Name="LocalizableStrings.AlternativeName_placeholder.Value" Value="Adjon meg más nevet" />
+			<Item Name="LocalizableStrings.AnnualRevenue_placeholder.Value" Value="Válassza ki a bevételt" />
+			<Item Name="LocalizableStrings.ContactsAddButton_caption.Value" Value="Új" />
+			<Item Name="LocalizableStrings.ContactsExpansionPanel_title.Value" Value="Contacts" />
+			<Item Name="LocalizableStrings.ContactsExportDataButton_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.ContactsImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.ContactsRefreshButton_caption.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.ContactsSearchFilter_placeholder.Value" Value="Keresés" />
+			<Item Name="LocalizableStrings.ContactsSettingsButton_caption.Value" Value="Műveletek" />
+			<Item Name="LocalizableStrings.EmployeesNumber_placeholder.Value" Value="Válassza ki az alkalmazottak számát" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Válassza ki az ipart" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Tulajdonos kiválasztása" />
+			<Item Name="LocalizableStrings.Ownership_placeholder.Value" Value="Entitás kiválasztása" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Lap cím" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Telefonszám megadása:" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Válassza ki az elsődleges kapcsolattartót" />
+			<Item Name="LocalizableStrings.PrimaryContactExpansionPanel_title.Value" Value="Primary contact" />
+			<Item Name="LocalizableStrings.RelationshipButton_caption.Value" Value="Kapcsolatok" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Idővonal" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Idővonal" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Idővonal" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Típus kiválasztása" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Enter web" />
+		</Items>
+	</Group>
+</Resources>

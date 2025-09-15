@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="账户列表页面" />
+			<Item Name="LocalizableStrings.AccountCategory_placeholder.Value" Value="选择类别" />
+			<Item Name="LocalizableStrings.AccountCommunicationOptionsAddButton_caption.Value" Value="Add communication option" />
+			<Item Name="LocalizableStrings.addRecord_3bs3f03_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fhp55rg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Addresses" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.AlternativeName_placeholder.Value" Value="输入其他名称" />
+			<Item Name="LocalizableStrings.AnnualRevenue_placeholder.Value" Value="选择值" />
+			<Item Name="LocalizableStrings.ContactsAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.ContactsExpansionPanel_title.Value" Value="Contacts" />
+			<Item Name="LocalizableStrings.ContactsExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.ContactsImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.ContactsRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.ContactsSearchFilter_placeholder.Value" Value="搜索" />
+			<Item Name="LocalizableStrings.ContactsSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.EmployeesNumber_placeholder.Value" Value="选择员工号码" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="选择工业" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="销售所有者" />
+			<Item Name="LocalizableStrings.Ownership_placeholder.Value" Value="选择实体" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="页面标题" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="输入电话号码" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="选择主要联系人" />
+			<Item Name="LocalizableStrings.PrimaryContactExpansionPanel_title.Value" Value="联络人" />
+			<Item Name="LocalizableStrings.RelationshipButton_caption.Value" Value="关系" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="选择类型" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="输入网络" />
+		</Items>
+	</Group>
+</Resources>

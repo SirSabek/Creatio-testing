@@ -1,0 +1,40 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b0bf1cf2-7c44-462b-bffb-f3db3a65062f"
+        },
+        {
+          "SchemaColumnUId": "08ccfffd-cb3e-47c3-9729-1d043a5812e4",
+          "Value": "\/Date(1669382853858)\/"
+        },
+        {
+          "SchemaColumnUId": "1e236958-f206-4fde-8a0e-6783fc223424",
+          "Value": "PHN2ZyB3aWR0aD0iMzMiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMyAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcuMzQ4NyAyN0M2LjQ3MjI4IDI3IDUuNzYxOCAyNi4yOTQ5IDUuNzYxOCAyNS40MjUzVjI0LjQzODdDNS43NjE4IDIzLjA4IDYuMzA1NTQgMjEuNzc3MSA3LjI3MzQgMjAuODE2NEM4LjI0MTI3IDE5Ljg1NTcgOS40NTYxIDE5LjIxODIgMTAuODI0OSAxOS4yMTgyTDIxLjEzMjggMTkuMjE4MkMyMi41MDE1IDE5LjIxODIgMjMuOTEyMSAxOS44NTU3IDI0Ljg4IDIwLjgxNjRDMjUuODQ3OSAyMS43NzcxIDI2LjM5MTYgMjMuMDggMjYuMzkxNiAyNC40Mzg3TDI2LjM5MSAyNS40MjYyQzI2LjM5MDUgMjYuMjk1NSAyNS42ODAxIDI3IDI0LjgwNDEgMjdINy4zNDg3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjA3NjYgMTUuMjQ1MkMxMy4yMjYzIDE1LjI0NTIgMTAuOTE1NiAxMi45NTE4IDEwLjkxNTYgMTAuMTIyNkMxMC45MTU2IDcuMjkzNDUgMTMuMjI2MyA0Ljk5OTk3IDE2LjA3NjYgNC45OTk5N0MxOC45MjY5IDQuOTk5OTcgMjEuMjM3NSA3LjI5MzQ1IDIxLjIzNzUgMTAuMTIyNkMyMS4yMzc1IDEyLjk1MTggMTguOTI2OSAxNS4yNDUyIDE2LjA3NjYgMTUuMjQ1MloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo="
+        },
+        {
+          "SchemaColumnUId": "90801d7c-a189-4afe-9c3a-a202fbf242d8",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "aebb8105-4a48-883c-e068-74ad2ab797a7",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b3cd8485-7bd8-4b70-b2dd-bc41e45e9992",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "be95e737-14e9-4253-b0c4-e280da05434d",
+          "Value": "image/svg+xml"
+        },
+        {
+          "SchemaColumnUId": "d245dcaf-23bd-4b73-8718-26fdf38b443b",
+          "Value": "Icon%20_%20Contacts%20-%2032x32%20_%20solid.svg"
+        }
+      ]
+    }
+  ]
+}

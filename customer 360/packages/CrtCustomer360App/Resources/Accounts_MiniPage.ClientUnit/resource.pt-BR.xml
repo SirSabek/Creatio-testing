@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Mini-página de contas" />
+			<Item Name="LocalizableStrings.addRecord_9l08qec_caption.Value" Value="Adicionar novo" />
+			<Item Name="LocalizableStrings.addRecord_hdsf7rh_caption.Value" Value="Adicionar novo" />
+			<Item Name="LocalizableStrings.addRecord_u32tduv_caption.Value" Value="Adicionar novo" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Selecionar a indústria" />
+			<Item Name="LocalizableStrings.Name_placeholder.Value" Value="Inserir o nome da conta" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Inserir o número do telefone" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Selecionar o contato primário" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Selecionar o tipo" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Inserir o website" />
+		</Items>
+	</Group>
+</Resources>

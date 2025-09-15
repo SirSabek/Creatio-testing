@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Міні картка Контакти" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Виберіть контрагента" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Вкажіть email" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="Введіть ім'я" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Вкажіть посаду" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Вкажіть номер телефону" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="Введіть прізвище" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Виберіть тип контакту" />
+		</Items>
+	</Group>
+</Resources>

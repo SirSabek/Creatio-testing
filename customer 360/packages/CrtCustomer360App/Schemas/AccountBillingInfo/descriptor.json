@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "93153f13-9302-4f77-8038-eb2a8a00f5f0",
+    "Name": "AccountBillingInfo",
+    "ModifiedOnUtc": "\/Date(1757938479000)\/",
+    "Parent": {
+      "UId": "4f0e44ce-343c-45b6-ae14-ff0533d4add9",
+      "Name": "AccountBillingInfo"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Banking details",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Hesaplar Listesi Sayfası" />
+			<Item Name="LocalizableStrings.DataTable_AddTagsBulkAction_caption.Value" Value="Add tag" />
+			<Item Name="LocalizableStrings.DataTable_DeleteBulkAction_caption.Value" Value="Sil" />
+			<Item Name="LocalizableStrings.DataTable_ExportToExcelBulkAction_caption.Value" Value="Excel'e Aktar" />
+			<Item Name="LocalizableStrings.DataTable_RemoveTagsBulkAction_caption.Value" Value="Remove tag" />
+			<Item Name="LocalizableStrings.MenuItem_ImportFromExcel_caption.Value" Value="Veri içe aktarma" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Yenile" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Ara" />
+		</Items>
+	</Group>
+</Resources>

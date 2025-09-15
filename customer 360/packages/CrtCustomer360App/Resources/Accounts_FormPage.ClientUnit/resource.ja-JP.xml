@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="アカウントフォームページ" />
+			<Item Name="LocalizableStrings.AccountCategory_placeholder.Value" Value="Select category" />
+			<Item Name="LocalizableStrings.AccountCommunicationOptionsAddButton_caption.Value" Value="通信オプションを追加" />
+			<Item Name="LocalizableStrings.addRecord_3bs3f03_caption.Value" Value="新規追加" />
+			<Item Name="LocalizableStrings.addRecord_fhp55rg_caption.Value" Value="新規追加" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="新規" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="住所" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.AlternativeName_placeholder.Value" Value="他の名前を入力してください" />
+			<Item Name="LocalizableStrings.AnnualRevenue_placeholder.Value" Value="収益を選択してください" />
+			<Item Name="LocalizableStrings.ContactsAddButton_caption.Value" Value="新規" />
+			<Item Name="LocalizableStrings.ContactsExpansionPanel_title.Value" Value="Contacts" />
+			<Item Name="LocalizableStrings.ContactsExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.ContactsImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.ContactsRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.ContactsSearchFilter_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.ContactsSettingsButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.EmployeesNumber_placeholder.Value" Value="従業員番号を選択" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Select industry" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Select owner" />
+			<Item Name="LocalizableStrings.Ownership_placeholder.Value" Value="Select entity" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="ページタイトル" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="電話番号を入力してください" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Select primary contact" />
+			<Item Name="LocalizableStrings.PrimaryContactExpansionPanel_title.Value" Value="代表連絡先" />
+			<Item Name="LocalizableStrings.RelationshipButton_caption.Value" Value="関係" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="タイムライン" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="タイムライン" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="タイムライン" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Select type" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Enter web" />
+		</Items>
+	</Group>
+</Resources>

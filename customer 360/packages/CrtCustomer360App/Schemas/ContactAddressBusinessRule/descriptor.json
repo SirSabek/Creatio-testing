@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "72174ae3-8540-45e3-8a19-2ead21dd1ba2",
+    "Name": "ContactAddressBusinessRule",
+    "ModifiedOnUtc": "\/Date(1669029449000)\/",
+    "Parent": {
+      "UId": "97376e01-6bb8-4cdf-a7d4-face0ff752b5",
+      "Name": "ContactAddressBusinessRule"
+    },
+    "ExtendParent": true,
+    "ManagerName": "AddonSchemaManager",
+    "DependsOn": []
+  }
+}

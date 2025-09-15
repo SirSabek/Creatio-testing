@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="דף מיניאטורה של אנשי קשר" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="בחר חברה" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="הוסף כחדש" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="הזן דוא&quot;ל" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="הזן שם פרטי" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="הזן תואר בעבודה" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="הזן מספר טלפון" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="הזן שם משפחה" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="בחר סוג קשר" />
+		</Items>
+	</Group>
+</Resources>

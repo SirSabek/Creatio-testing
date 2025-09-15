@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.ca024c10-4195-4c2b-fe8e-c8f0e589e2b1.Caption" Value="Filter for Preferred language" />
+			<Item Name="Caption" Value="Contact (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

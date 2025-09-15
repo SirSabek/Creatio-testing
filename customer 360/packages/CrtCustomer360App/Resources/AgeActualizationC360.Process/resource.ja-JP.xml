@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="現在のプロセスを無効にする" />
+			<Item Name="BaseElements.StartTimerEvent1.Caption" Value="cron で開始" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="年齢実現ジョブ再実行" />
+			<Item Name="Caption" Value="年齢実現 C360" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="プロセスインスタンスのキャプション" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

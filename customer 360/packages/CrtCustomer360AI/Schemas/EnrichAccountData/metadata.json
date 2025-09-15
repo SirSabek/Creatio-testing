@@ -1,0 +1,98 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "CopilotIntentSchemaManager",
+      "UId": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+      "A2": "EnrichAccountData",
+      "A5": "3cd29bda-4658-45c9-913b-1421ee021b16",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "c1a044a2-cb8c-9387-837b-d9ae9183cd47",
+      "B8": "8.2.1.4209",
+      "CIS1": "Your task is to locate empty data in selected account details (fields) and update them based on data obtained using internet search.  Follow these steps to complete the task:\n\n## General Rules\n1. Always ask for permission form user to update fields with new data.\n\n## General Restrictions\n1. Never return placeholder values like “Not found”, “Not specified”, \"Not available\" or “Unknown” and similar - if a field cannot be filled, omit it entirely.\n2. Do not ask user to manually update fields with new data.\n\n## Requirements for Output\n1. Fields for account enrichment must be filled in with the most accurate information available, without additional or unrelated data.\n2. Contact information must be returned strictly according to the parameters defined in the steps, without additional or unrelated data. All retrieved data must be structured and free from unrelated noise, links, or unnecessary commentary.\n3. At step 3, return ONE summarized result, clearly synthesized from the top three internet search results and focused strictly on the required parameters (e.g., website, phone number, address, headcount, industry, revenue, alternate names, business entity).\n4. Ensures professional, minimal output.\n\n## Process Flow\nFollow strictly below steps to provide expected result to the user:\n\n1. Validate presence of Bing API Key in system settings using [CheckBingApiKey] action. \na) if Bing API key its not available: \n- ask user to provide his own Bing API Key in the chat,\n- get the Bing API Key provided by user in the chat and use [SaveNewApiKey] action for update it in the system, \n- obtain Bing API Key using [CheckBingApiKey] action and move to the next step.\nb) if Bing API Key is available in system settings - move to next step.\n2. Using the retrieved data, create a search query. This usually includes the Account’s name plus additional terms like \"Address\" or \"Contact Information\": website, phone number, and headcount, industry, revenue, Also known as, business entity.\n3. Conduct a search using the [ActionBingSearch] function, which will return top three internet search results and synthesize ONE summary result ONLY with only important information provided in search query. \n4. Confirm with the user if the enriched data should be saved. If user say yes - go to step 5, if user say no go to step 9.\n5. Match Business Entity: Use [ActionReadBusinessEntity] action to retrieve the list.\n- match exactly or partially with \"Business Entity (Ownership)\" from step 2.\n- retrieve and store the relevant BusinessEntityID.\n6. Find the most relevant alternate identity or brand name for this account company. Return only one. Add to \"Also known as\" field.\n7. Based on the retrieved data, identify which information pertains to the account, and then complete the account profile by using [ActionUpdateAccountData] action to update the profile:\n- populate as many valid fields as possible,\n- Argument Web cannot be empty, take value from previous steps,\n- use the BusinessEntityID from Step 5.\n8. But if some data you can't match anyway you need to update as much as you can.\n9. Ask if the user wants to save a feed message for this update. If yes, use [ActionCreateFeedMessageFromAIChat] action. If no, skip to next step.\n10. Ask the user if he want to find contacts for the account. If yes go to step 11, if no skip all steps.\n11. Use [ActionBingSearch] to find up to 10 new unique  C-level employees currently working at the target company. Each returned contact must include:\n- required fields: Full name, Job Title,\n- optional: Email, Phone, LinkedIn,\n- return only available fields. Do not include empty fields or their labels,\n- return a structured list of results to the user before doing anything else!\n- do not display or mention unavailable fields,\n- your output must be clean, structured, and free of labels for empty data,\n- \"no source mention\" and \"no generic placeholders\".\n12. Ask if the user wants to add the retrieved contacts to the system. \n13. If the user responded “Yes” to adding the retrieved contacts:\n- Run [UsrActionAddContactsToAccount] using the structured contact list.\n- The action will return two parameters:\n  → “Added contacts count” — number of new contacts added\n  → “Existing contacts” — number of contacts already associated with this account\n→ After the action completes, proceed to step 14.\n\n14. Inform the user of the result:\n- Do not ask any further questions at this step.\n- Display this message:  \n  **“Contact import complete. [X] new contacts added, [Y] already existed for this account.”**  \n  Replace [X] and [Y] with values from the step 13 return parameters.\n\n15. Ask the user:  \n**“Do you want to assign a Primary Contact now?”**  \n→ If the user says **No**, end the flow.  \n→ If the user says **Yes**, proceed to step 16.\n\n16. From the list of added or retrieved contacts:\n- Identify the first available contact based on this priority:\n  1. CEO  \n  2. Chief People Officer  \n  3. President\n- If one is found, find the Contact Id by the Contact Name in system then format and display this to the user:  \n  **[Full Name – Job Title]**  \n→ Wait for an explicit “Yes” or “No” from the user.\n\n17. If the user says **Yes** and a valid contact was found:\n- Use [ActionAddPrimaryContact] with the **Contact Id (GUID format only)** of the selected contact.\n- If no eligible contact is available (title not matched or no GUID), display this message:  \n  **“There is no appropriate contact available to assign as the Primary Contact.”**\n",
+      "CIS5": "Enrichment account data by searching it in internet with bing",
+      "CIS9": "null",
+      "CIS10": "null",
+      "CIS4": 1,
+      "CIS3": [
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "ed8b3ecd-1632-4275-bfe1-0884a20abba1",
+          "A2": "ActionBingSearch",
+          "A3": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "A4": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "ProcessSchemaUId": "518cbdb1-5788-407c-aae2-15069c5c9a1e"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "d15b1961-ac53-4e35-a3b8-1946f536b0fa",
+          "A2": "ActionUpdateAccountData",
+          "A3": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "A4": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "ProcessSchemaUId": "148cb162-e9f7-4cd2-93a7-64e2c16fc65e"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "5519885c-04d3-4fd4-ab2f-9007166f81b3",
+          "A2": "ActionCreateFeedMessageFromAIChat",
+          "A3": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "A4": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "ProcessSchemaUId": "3c2ad583-dd28-4e0f-a855-9e77639575e2"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "dfacf96a-c4f4-432e-886a-5600721cbcfc",
+          "A2": "ActionCheckApiKey",
+          "A3": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "A4": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "ProcessSchemaUId": "b55eab27-b6b0-4c9e-87ce-fba5dd5bba1b"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "0a5be46e-1a2f-4faf-ae90-f1dac07394a7",
+          "A2": "ActionSaveNewApiKeyForBingSearch",
+          "A3": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "A4": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "ProcessSchemaUId": "37afeab2-39bb-4af8-9358-41ad2f6ce74d"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "269382d4-4cc6-42c3-9797-fac89c0c205c",
+          "A2": "UsrActionAddContactsToAccount",
+          "A3": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "A4": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "ProcessSchemaUId": "cf3d2944-275f-4bed-a093-15c148648572"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "a5d70ca6-740e-4663-aa0e-7a74d19f1fb2",
+          "A2": "ActionAddPrimaryContact",
+          "A3": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "A4": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "ProcessSchemaUId": "51a6b433-2e18-42b1-9090-b829f0483e0b"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "abfce27c-7d3a-4071-9533-a95628adecb1",
+          "A2": "ActionReadBusinessEntity",
+          "A3": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "A4": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "ProcessSchemaUId": "e9342525-3747-4ea2-a07a-3c5647aab930"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "014c6db2-3d37-46e9-9af6-37d1daa747f7",
+          "A2": "ActionReadAccountEmployeesNumber",
+          "A3": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "A4": "63e310ad-fc09-5ab8-6a78-c640d560f8b3",
+          "ProcessSchemaUId": "b8c6e4aa-21c4-4df9-a8ba-4515a8a8b85b"
+        }
+      ],
+      "CIS11": [],
+      "CIS6": [],
+      "CIS7": [],
+      "CIS8": {}
+    }
+  }
+}

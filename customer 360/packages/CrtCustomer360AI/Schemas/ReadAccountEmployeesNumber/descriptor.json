@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b8c6e4aa-21c4-4df9-a8ba-4515a8a8b85b",
+    "Name": "ReadAccountEmployeesNumber",
+    "ModifiedOnUtc": "\/Date(1743424702000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Read Account employees number",
+    "DependsOn": []
+  }
+}

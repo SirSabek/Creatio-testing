@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.b4c1d25e-290c-fd49-3398-6dced7bc20d3.Caption" Value="ظهور معلومات الحساب" />
+			<Item Name="Caption" Value="صفحة نموذج جهات الاتصال (قواعد العمل)" />
+		</Items>
+	</Group>
+</Resources>

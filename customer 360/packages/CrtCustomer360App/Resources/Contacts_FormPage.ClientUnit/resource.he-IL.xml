@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="עמוד טופס אנשי קשר" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="בחר חברה" />
+			<Item Name="LocalizableStrings.AccountCategory_ariaLabel.Value" Value="רשימה נופלת" />
+			<Item Name="LocalizableStrings.AccountCategory_label.Value" Value="רשימה נופלת" />
+			<Item Name="LocalizableStrings.AccountIndustry_ariaLabel.Value" Value="רשימה נופלת" />
+			<Item Name="LocalizableStrings.AccountIndustry_label.Value" Value="רשימה נופלת" />
+			<Item Name="LocalizableStrings.AccountInfoExpansionPanel_title.Value" Value="מידע אודות החברה" />
+			<Item Name="LocalizableStrings.addRecord_e9kbl5o_caption.Value" Value="הוסף כחדש" />
+			<Item Name="LocalizableStrings.addRecord_oz5z1xx_caption.Value" Value="הוסף כחדש" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="חדש" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="כתובות" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="חפש" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="פעולות" />
+			<Item Name="LocalizableStrings.CareerAddButton_caption.Value" Value="חדש" />
+			<Item Name="LocalizableStrings.CareerExpansionPanel_title.Value" Value="נסיון תעסוקתי" />
+			<Item Name="LocalizableStrings.CareerExportDataButton_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.CareerImportDataButton_caption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.CareerRefreshButton_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.CareerSearchFilter_placeholder.Value" Value="חפש" />
+			<Item Name="LocalizableStrings.CareerSettingsButton_caption.Value" Value="פעולות" />
+			<Item Name="LocalizableStrings.ContactCommunicationOptionsAddButton_caption.Value" Value="הוסף אפשרות תקשורת" />
+			<Item Name="LocalizableStrings.Dear_placeholder.Value" Value="הזן שם חוקי" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="הזן דוא&quot;ל" />
+			<Item Name="LocalizableStrings.Gender_placeholder.Value" Value="בחר מגדר" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="מידע אודות איש הקשר" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="הזן תואר בעבודה" />
+			<Item Name="LocalizableStrings.Language_placeholder.Value" Value="בחר שפה" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="הזן מספר טלפון" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="בחר בעלים" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="כותרת הדף" />
+			<Item Name="LocalizableStrings.SalutationType_placeholder.Value" Value="בחר כותרת" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="ציר זמן" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="ציר זמן" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="ציר זמן" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="בחר סוג קשר" />
+		</Items>
+	</Group>
+</Resources>

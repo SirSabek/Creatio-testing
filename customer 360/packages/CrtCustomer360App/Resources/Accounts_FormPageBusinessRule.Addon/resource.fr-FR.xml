@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.4eb6b768-b3e6-8da1-3776-6a0f7550d3aa.Caption" Value="Visibilité des informations du contact principal" />
+			<Item Name="Caption" Value="Page du formulaire des comptes (règles métier)" />
+		</Items>
+	</Group>
+</Resources>

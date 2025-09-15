@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_1g27yyy_caption.Value" Value="Aggiungi nuovo" />
+			<Item Name="LocalizableStrings.addRecord_d7tgh1o_caption.Value" Value="Aggiungi nuovo" />
+		</Items>
+	</Group>
+</Resources>

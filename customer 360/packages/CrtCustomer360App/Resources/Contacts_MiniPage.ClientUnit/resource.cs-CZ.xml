@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Contacts mini page" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Zvolit firmu" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="Přidat nový" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Zadejte e-mail" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="Enter first name" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Zadejte pracovní pozici" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Zadejte telefonní číslo" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="Enter last name" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Vyberte typ kontaktu" />
+		</Items>
+	</Group>
+</Resources>

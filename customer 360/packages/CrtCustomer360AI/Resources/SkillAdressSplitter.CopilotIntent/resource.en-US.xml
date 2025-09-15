@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Adress splitter" />
+			<Item Name="InputParameters.FullAddress.Sys_Caption" Value="Full address" />
+			<Item Name="OutputParameters.Address.Sys_Caption" Value="Address" />
+			<Item Name="OutputParameters.City.Sys_Caption" Value="City" />
+			<Item Name="OutputParameters.Country.Sys_Caption" Value="Country" />
+		</Items>
+	</Group>
+</Resources>

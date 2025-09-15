@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "148cb162-e9f7-4cd2-93a7-64e2c16fc65e",
+    "Name": "UpdateAccountData",
+    "ModifiedOnUtc": "\/Date(1757938478000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Update Account Data",
+    "DependsOn": []
+  }
+}

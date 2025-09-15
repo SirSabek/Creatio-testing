@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Аналитика контрагентов" />
+			<Item Name="LocalizableStrings.AccountByIndustryWidget_series_0.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountByIndustryWidget_title.Value" Value="Контрагенты по отраслям" />
+			<Item Name="LocalizableStrings.AccountsByCategoryWidget_series_0.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountsByCategoryWidget_title.Value" Value="Контрагенты по категориям" />
+			<Item Name="LocalizableStrings.AccountsByEmployeeCountWidget_series_0.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountsByEmployeeCountWidget_title.Value" Value="Контрагенты по количеству сотрудников" />
+			<Item Name="LocalizableStrings.AccountsByTypeWidget_series_0.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountsByTypeWidget_title.Value" Value=" Контрагенты по типам" />
+			<Item Name="LocalizableStrings.AccountsMissingPrimaryContactWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.AccountsMissingPrimaryContactWidget_title.Value" Value="Контрагенты без основного контакта" />
+			<Item Name="LocalizableStrings.NumberOfAccountsWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.NumberOfAccountsWidget_title.Value" Value="Количество контрагентов" />
+		</Items>
+	</Group>
+</Resources>

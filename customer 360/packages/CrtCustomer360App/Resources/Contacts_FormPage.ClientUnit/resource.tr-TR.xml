@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Kişiler form sayfası" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Select account" />
+			<Item Name="LocalizableStrings.AccountCategory_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountCategory_label.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountIndustry_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountIndustry_label.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountInfoExpansionPanel_title.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.addRecord_e9kbl5o_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_oz5z1xx_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Adresler" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Excel'e Aktar" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Veri içe aktarma" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Yenile" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Ara" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.CareerAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.CareerExpansionPanel_title.Value" Value="İş tecrübesi" />
+			<Item Name="LocalizableStrings.CareerExportDataButton_caption.Value" Value="Excel'e Aktar" />
+			<Item Name="LocalizableStrings.CareerImportDataButton_caption.Value" Value="Veri içe aktarma" />
+			<Item Name="LocalizableStrings.CareerRefreshButton_caption.Value" Value="Yenile" />
+			<Item Name="LocalizableStrings.CareerSearchFilter_placeholder.Value" Value="Ara" />
+			<Item Name="LocalizableStrings.CareerSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ContactCommunicationOptionsAddButton_caption.Value" Value="Add communication option" />
+			<Item Name="LocalizableStrings.Dear_placeholder.Value" Value="Yasal adı girin" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="E -posta girin" />
+			<Item Name="LocalizableStrings.Gender_placeholder.Value" Value="Cinsiyet seç" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Contact info" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="İş unvanını girin" />
+			<Item Name="LocalizableStrings.Language_placeholder.Value" Value="Dil Seçin" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Telefon Numarasını Girin" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Sahibi Seçin" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Page title" />
+			<Item Name="LocalizableStrings.SalutationType_placeholder.Value" Value="Başlık seçin" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="İletişim Türünü seçin" />
+		</Items>
+	</Group>
+</Resources>

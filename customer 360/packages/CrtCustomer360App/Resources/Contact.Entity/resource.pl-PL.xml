@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="Kampania reklamowa" />
+			<Item Name="Columns.Channel.Caption" Value="Kanał" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Potrzeby Klienta" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="Niepoprawny email" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Wynik konwersji leadów" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="Metoda rejestracji" />
+			<Item Name="Columns.Source.Caption" Value="Źródło" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Obiekt podrzędny" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Wartości domyślne dla nadrzędnych obiektów w kolumnach" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Filtry do usuwania rekordów" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Połączenie pomiędzy kolumnami nadrzędnymi i podrzędnymi" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Filtr do wyboru kilku wierszy" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="Wszystkie pola są wymagane" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Wymagane pola w obiekcie podrzędnym" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Filtr do wyboru pojedynczego wiersza" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

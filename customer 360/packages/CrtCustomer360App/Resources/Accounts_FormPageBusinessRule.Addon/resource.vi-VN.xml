@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.4eb6b768-b3e6-8da1-3776-6a0f7550d3aa.Caption" Value="Visibility for Primary contact info" />
+			<Item Name="Caption" Value="Accounts form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

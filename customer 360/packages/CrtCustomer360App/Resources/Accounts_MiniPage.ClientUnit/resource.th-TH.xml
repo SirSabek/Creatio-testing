@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Accounts mini page" />
+			<Item Name="LocalizableStrings.addRecord_9l08qec_caption.Value" Value="เพิ่มใหม่" />
+			<Item Name="LocalizableStrings.addRecord_hdsf7rh_caption.Value" Value="เพิ่มใหม่" />
+			<Item Name="LocalizableStrings.addRecord_u32tduv_caption.Value" Value="เพิ่มใหม่" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Select industry" />
+			<Item Name="LocalizableStrings.Name_placeholder.Value" Value="Enter account name" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Enter phone number" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Select primary contact" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="เลือกประเภท" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Enter web" />
+		</Items>
+	</Group>
+</Resources>

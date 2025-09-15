@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="Рекламная кампания" />
+			<Item Name="Columns.Channel.Caption" Value="Канал" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Тип потребности" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="Email не актуальный" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Рейтинг перевода в Лид" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="Способ регистрации" />
+			<Item Name="Columns.Source.Caption" Value="Источник" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Пул 1" />
+		</Items>
+	</Group>
+</Resources>

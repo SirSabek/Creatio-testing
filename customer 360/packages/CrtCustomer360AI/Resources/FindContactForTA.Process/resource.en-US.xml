@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.DefaultSequenceFlow10.Caption" Value="No Zoominfo?" />
+			<Item Name="BaseElements.DefaultSequenceFlow9.Caption" Value="No Apollo?" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="Set ZoomInfo records count" />
+			<Item Name="BaseElements.FormulaTask3.Caption" Value="Set Apollo records count" />
+			<Item Name="BaseElements.FormulaTask4.Caption" Value="Set total row count" />
+			<Item Name="BaseElements.MergeResults.Caption" Value="Merge results" />
+			<Item Name="BaseElements.SearchContactsApollo.Caption" Value="Search Contacts with Apollo" />
+			<Item Name="BaseElements.SearchContactsZoomInfo.Caption" Value="Search Contacts with ZoomInfo" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Check Apollo, Zoominfo available 1" />
+			<Item Name="BaseElements.SubProcess1.Parameters.ApolloConnectorAvailable.Caption" Value="Is Apollo connector available" />
+			<Item Name="BaseElements.SubProcess1.Parameters.ZoominfoConnectorAvailable.Caption" Value="Is Zoominfo connector available" />
+			<Item Name="Caption" Value="Find Contact for TA" />
+			<Item Name="Description" Value="Find contacts for target account using Apollo and ZoomInfo connectors" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.AccountId.Caption" Value="Account Id" />
+			<Item Name="Parameters.ApolloRecordsCount.Caption" Value="Apollo records count" />
+			<Item Name="Parameters.ApolloRecordsCount.DisplayValue" Value="0" />
+			<Item Name="Parameters.EnrichedPersons.Caption" Value="Enriched persons" />
+			<Item Name="Parameters.EnrichedPersons.GivenName.Caption" Value="First name" />
+			<Item Name="Parameters.EnrichedPersons.GivenName.Sys_Description" Value="First name" />
+			<Item Name="Parameters.EnrichedPersons.JobTitle.Caption" Value="Job title" />
+			<Item Name="Parameters.EnrichedPersons.JobTitle.Sys_Description" Value="Job title" />
+			<Item Name="Parameters.EnrichedPersons.LinkedIn.Caption" Value="LinkedIn" />
+			<Item Name="Parameters.EnrichedPersons.LinkedIn.Sys_Description" Value="LinkedIn" />
+			<Item Name="Parameters.EnrichedPersons.Surname.Caption" Value="Last name" />
+			<Item Name="Parameters.EnrichedPersons.Surname.Sys_Description" Value="Last name" />
+			<Item Name="Parameters.JobTitle.Caption" Value="Job title" />
+			<Item Name="Parameters.JobTitle.Sys_Description" Value="Job title" />
+			<Item Name="Parameters.MrktApolloPeopleSearch.Caption" Value="Apollo search results" />
+			<Item Name="Parameters.MrktZoominfoPersonSearch.Caption" Value="ZoomInfo search results" />
+			<Item Name="Parameters.RowCount.Caption" Value="Row count" />
+			<Item Name="Parameters.RowCount.DisplayValue" Value="30" />
+			<Item Name="Parameters.ZoominfoRecordsCount.Caption" Value="ZoomInfo records count" />
+			<Item Name="Parameters.ZoominfoRecordsCount.DisplayValue" Value="0" />
+		</Items>
+	</Group>
+</Resources>

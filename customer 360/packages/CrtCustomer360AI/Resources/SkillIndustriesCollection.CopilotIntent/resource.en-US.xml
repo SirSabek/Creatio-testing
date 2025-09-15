@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MatchlIndustriesCollection" />
+			<Item Name="InputParameters.searchedName.Sys_Caption" Value="searchedName" />
+			<Item Name="InputParameters.tableName.Sys_Caption" Value="tableName" />
+			<Item Name="OutputParameters.foundName.Sys_Caption" Value="foundName" />
+		</Items>
+	</Group>
+</Resources>

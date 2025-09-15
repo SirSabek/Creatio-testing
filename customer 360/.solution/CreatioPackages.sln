@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{ea4efafc-e34c-4d77-8087-8f0f9d603cbc}") = "CrtC360InUiV2", "..\packages\CrtC360InUiV2\Files\CrtC360InUiV2.csproj", "{56b36e65-ad15-45a3-be84-3ce6b485b89c}"
+EndProject
+Project("{1d910781-edac-405d-a8dd-e9dfd1c8f3e0}") = "CrtCustomer360AI", "..\packages\CrtCustomer360AI\Files\CrtCustomer360AI.csproj", "{68ec8d88-f9d0-49da-9fd2-1c35cc30c199}"
+EndProject
+Project("{a7b55d30-a456-45d6-b6cd-52aaa55f3a8f}") = "CrtCustomer360App", "..\packages\CrtCustomer360App\Files\CrtCustomer360App.csproj", "{11f87176-7258-42ab-a7d2-25a2e1be837a}"
+EndProject
+Project("{a3cc5995-89cc-415e-8049-76e3332b06b8}") = "CrtCustomer360Mobile", "..\packages\CrtCustomer360Mobile\Files\CrtCustomer360Mobile.csproj", "{e921f98b-ddb9-446a-9337-0bac8222ef5c}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+			{56b36e65-ad15-45a3-be84-3ce6b485b89c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{56b36e65-ad15-45a3-be84-3ce6b485b89c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{56b36e65-ad15-45a3-be84-3ce6b485b89c}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{56b36e65-ad15-45a3-be84-3ce6b485b89c}.Release|Any CPU.Build.0 = Release|Any CPU
+			{68ec8d88-f9d0-49da-9fd2-1c35cc30c199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{68ec8d88-f9d0-49da-9fd2-1c35cc30c199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{68ec8d88-f9d0-49da-9fd2-1c35cc30c199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{68ec8d88-f9d0-49da-9fd2-1c35cc30c199}.Release|Any CPU.Build.0 = Release|Any CPU
+			{11f87176-7258-42ab-a7d2-25a2e1be837a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{11f87176-7258-42ab-a7d2-25a2e1be837a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{11f87176-7258-42ab-a7d2-25a2e1be837a}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{11f87176-7258-42ab-a7d2-25a2e1be837a}.Release|Any CPU.Build.0 = Release|Any CPU
+			{e921f98b-ddb9-446a-9337-0bac8222ef5c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{e921f98b-ddb9-446a-9337-0bac8222ef5c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{e921f98b-ddb9-446a-9337-0bac8222ef5c}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{e921f98b-ddb9-446a-9337-0bac8222ef5c}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

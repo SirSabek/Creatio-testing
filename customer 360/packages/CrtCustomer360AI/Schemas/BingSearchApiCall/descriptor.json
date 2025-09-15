@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "505a9338-4878-46a2-a099-ffb433b8b591",
+    "Name": "BingSearchApiCall",
+    "ModifiedOnUtc": "\/Date(1757938478000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "Bing search webservice",
+    "DependsOn": []
+  }
+}

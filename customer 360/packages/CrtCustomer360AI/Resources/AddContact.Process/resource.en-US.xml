@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddContact.Caption" Value="Add contact" />
+			<Item Name="BaseElements.AddContact.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.AddContact.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddContact.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.AddContact.Parameters.EntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddContact.Parameters.FilterEntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddContact.Parameters.RecordAddMode.Caption" Value="Record adding mode" />
+			<Item Name="BaseElements.AddContact.Parameters.RecordDefValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.AddContact.Parameters.RecordDefValues.DisplayValue" Value="{&quot;$type&quot;:&quot;Terrasoft.Core.Process.LocalizableParameterValuesList, Terrasoft.Core&quot;,&quot;$values&quot;:[{&quot;ItemUId&quot;:&quot;731c11b3-173c-47b8-a4d7-ef4445d603cc&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;cc26b1c5-4254-4287-9c15-0b5acd319811&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;16be3651-8fe2-4159-8dd0-a803d4683dd3&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#[IsOwnerSchema:false].[IsSchema:false].[Parameter:{e734cc99-8ad9-4199-af78-5ca5e62d982a}]#]&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#Name#]&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;Terrasoft.Core.Process.ProcessSchemaParameterValue, Terrasoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;5598a707-9cb1-4f9a-b813-251af302ed6f&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;a5cca792-47dd-428a-83fb-5c92bdd97ff8&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;16be3651-8fe2-4159-8dd0-a803d4683dd3&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#[IsOwnerSchema:false].[IsSchema:false].[Parameter:{e734cc99-8ad9-4199-af78-5ca5e62d982a}]#]&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#Name#]&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;Terrasoft.Core.Process.ProcessSchemaParameterValue, Terrasoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;a0648a75-1399-4b90-85d7-d0904a497951&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;8b680ac7-e46c-466c-b630-e5cb4da13a55&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;16be3651-8fe2-4159-8dd0-a803d4683dd3&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#[IsOwnerSchema:false].[IsSchema:false].[Parameter:{d8995e44-62a9-4467-a260-d5ab2f7cddcd}]#]&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#Job title#]&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;Terrasoft.Core.Process.ProcessSchemaParameterValue, Terrasoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;09a65f6c-ed21-40fe-be99-083eb7893320&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;5c6ca10e-1180-4c1e-8a50-55a72ff9bdd4&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;16be3651-8fe2-4159-8dd0-a803d4683dd3&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#[IsOwnerSchema:false].[IsSchema:false].[Parameter:{b85b33df-b35f-4c1e-8617-85c5d26392ff}]#]&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#Account#]&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;Terrasoft.Core.Process.ProcessSchemaParameterValue, Terrasoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;b295071f-7ea9-4e62-8d1a-919bf3732ff2\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;25d7c1ab-1de0-4501-b402-02e0e5a72d6e\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}}]}" />
+			<Item Name="BaseElements.AddContact.Parameters.RecordId.Caption" Value="Created record Id" />
+			<Item Name="BaseElements.AddDataUserTask2.Caption" Value="Add linkedin" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.EntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.FilterEntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordAddMode.Caption" Value="Record adding mode" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordDefValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordId.Caption" Value="Created record Id" />
+			<Item Name="BaseElements.AddDataUserTask3.Caption" Value="Add Facebook" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.EntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.FilterEntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.RecordAddMode.Caption" Value="Record adding mode" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.RecordDefValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.AddDataUserTask3.Parameters.RecordId.Caption" Value="Created record Id" />
+			<Item Name="Caption" Value="Add one contact to account (sub process)" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.Account.Caption" Value="Account" />
+			<Item Name="Parameters.Facebook.Caption" Value="Facebook" />
+			<Item Name="Parameters.JobTitle.Caption" Value="Job title" />
+			<Item Name="Parameters.Linkedin.Caption" Value="Linkedin" />
+			<Item Name="Parameters.Name.Caption" Value="Name" />
+		</Items>
+	</Group>
+</Resources>

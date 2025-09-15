@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Personas formas lapa" />
+			<Item Name="LocalizableStrings.AccountCategory_placeholder.Value" Value="Izvēlēties kategoriju" />
+			<Item Name="LocalizableStrings.AccountCommunicationOptionsAddButton_caption.Value" Value="Pievienot saziņas iespēju" />
+			<Item Name="LocalizableStrings.addRecord_3bs3f03_caption.Value" Value="Pievienot jaunu" />
+			<Item Name="LocalizableStrings.addRecord_fhp55rg_caption.Value" Value="Pievienot jaunu" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="Jauns" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Addresses" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Eksportēt uz Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Datu imports" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Atjaunot" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Meklēt" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.AlternativeName_placeholder.Value" Value="Ievadiet citu nosaukumu" />
+			<Item Name="LocalizableStrings.AnnualRevenue_placeholder.Value" Value="Izvēlieties ieņēmumus" />
+			<Item Name="LocalizableStrings.ContactsAddButton_caption.Value" Value="Jauns" />
+			<Item Name="LocalizableStrings.ContactsExpansionPanel_title.Value" Value="Contacts" />
+			<Item Name="LocalizableStrings.ContactsExportDataButton_caption.Value" Value="Eksportēt uz Excel" />
+			<Item Name="LocalizableStrings.ContactsImportDataButton_caption.Value" Value="Datu imports" />
+			<Item Name="LocalizableStrings.ContactsRefreshButton_caption.Value" Value="Atjaunot" />
+			<Item Name="LocalizableStrings.ContactsSearchFilter_placeholder.Value" Value="Meklēt" />
+			<Item Name="LocalizableStrings.ContactsSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.EmployeesNumber_placeholder.Value" Value="Izvēlieties darbinieku skaitu" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Atlasiet nozari" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Atlasīt īpašnieku" />
+			<Item Name="LocalizableStrings.Ownership_placeholder.Value" Value="Izvēlieties entītiju" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Lapas nosaukums" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Ievadiet tālruņa numuru" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Izvēlieties primāro kontaktu" />
+			<Item Name="LocalizableStrings.PrimaryContactExpansionPanel_title.Value" Value="Primary contact" />
+			<Item Name="LocalizableStrings.RelationshipButton_caption.Value" Value="Saistības" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Laika skala" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Laika skala" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Laika skala" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Izvēlēties veidu" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Ievadiet tīmekļa vietni" />
+		</Items>
+	</Group>
+</Resources>

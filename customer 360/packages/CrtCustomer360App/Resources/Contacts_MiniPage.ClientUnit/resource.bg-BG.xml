@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Мини страница с контакти" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Избери Юридическо Лице" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Въведи имейл" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="Въведи собствено име" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Въведи длъжност" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Въведи телефонен номер" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="Въведи фамилия" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Избери тип контакт" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Contacts form page" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="계정선택" />
+			<Item Name="LocalizableStrings.AccountCategory_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountCategory_label.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountIndustry_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountIndustry_label.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountInfoExpansionPanel_title.Value" Value="계정 정보" />
+			<Item Name="LocalizableStrings.addRecord_e9kbl5o_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_oz5z1xx_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="주소" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.CareerAddButton_caption.Value" Value="새로운" />
+			<Item Name="LocalizableStrings.CareerExpansionPanel_title.Value" Value="경력" />
+			<Item Name="LocalizableStrings.CareerExportDataButton_caption.Value" Value="Excel로 내보내기" />
+			<Item Name="LocalizableStrings.CareerImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.CareerRefreshButton_caption.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.CareerSearchFilter_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.CareerSettingsButton_caption.Value" Value="행실" />
+			<Item Name="LocalizableStrings.ContactCommunicationOptionsAddButton_caption.Value" Value="Add communication option" />
+			<Item Name="LocalizableStrings.Dear_placeholder.Value" Value="Enter legal name" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Enter email" />
+			<Item Name="LocalizableStrings.Gender_placeholder.Value" Value="Select gender" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="연락처 정보" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Enter job title" />
+			<Item Name="LocalizableStrings.Language_placeholder.Value" Value="Select language" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Enter phone number" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="소유자 선택" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="페이지 제목" />
+			<Item Name="LocalizableStrings.SalutationType_placeholder.Value" Value="Select title" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Select contact type" />
+		</Items>
+	</Group>
+</Resources>

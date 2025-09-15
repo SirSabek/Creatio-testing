@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3c2ad583-dd28-4e0f-a855-9e77639575e2",
+    "Name": "CreateMessageFromAIChat",
+    "ModifiedOnUtc": "\/Date(1743424792000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Create feed message from AI chat",
+    "DependsOn": []
+  }
+}

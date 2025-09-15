@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.b4c1d25e-290c-fd49-3398-6dced7bc20d3.Caption" Value="ניראות מידע על חשבון" />
+			<Item Name="Caption" Value="דף טופס אנשי קשר (חוקים עסקיים)" />
+		</Items>
+	</Group>
+</Resources>

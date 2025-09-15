@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "cf3d2944-275f-4bed-a093-15c148648572",
+    "Name": "AddContactsToAccount",
+    "ModifiedOnUtc": "\/Date(1744921490000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Add contacts to account",
+    "DependsOn": []
+  }
+}

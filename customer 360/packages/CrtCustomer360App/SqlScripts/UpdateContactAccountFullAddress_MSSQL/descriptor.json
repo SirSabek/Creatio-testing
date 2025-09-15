@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "e5a48c23-0a3a-53d3-75f3-3c3096a01e91",
+    "Name": "UpdateContactAccountFullAddress_MSSQL",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1670336851000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

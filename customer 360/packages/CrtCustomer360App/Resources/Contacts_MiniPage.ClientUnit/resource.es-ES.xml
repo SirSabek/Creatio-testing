@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Mini página de contactos" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Seleccionar Cuenta" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="Añadir nuevo" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Introducir email" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="Ingrese nombre" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Introducir título de trabajo" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Ingrese número de teléfono" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="Ingrese apellido" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Seleccionar tipo de contacto" />
+		</Items>
+	</Group>
+</Resources>

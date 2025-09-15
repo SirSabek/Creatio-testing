@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.0d03236f-2e19-aa33-630f-4c83cbf02769.Caption" Value="Tornar os elementos para somente leitura: Endereço completo" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1f864130-1057-4484-97f2-ed126ac94f50",
+    "Name": "FindContactForTA",
+    "ModifiedOnUtc": "\/Date(1744201654000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Find Contact for TA",
+    "DependsOn": []
+  }
+}

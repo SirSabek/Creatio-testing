@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сторінка запису Контакти" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Виберіть контрагента" />
+			<Item Name="LocalizableStrings.AccountCategory_ariaLabel.Value" Value="Випадаючий список" />
+			<Item Name="LocalizableStrings.AccountCategory_label.Value" Value="Випадаючий список" />
+			<Item Name="LocalizableStrings.AccountIndustry_ariaLabel.Value" Value="Випадаючий список" />
+			<Item Name="LocalizableStrings.AccountIndustry_label.Value" Value="Випадаючий список" />
+			<Item Name="LocalizableStrings.AccountInfoExpansionPanel_title.Value" Value="Контрагент" />
+			<Item Name="LocalizableStrings.addRecord_e9kbl5o_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_oz5z1xx_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Адреси" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.CareerAddButton_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.CareerExpansionPanel_title.Value" Value="Кар'єра" />
+			<Item Name="LocalizableStrings.CareerExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.CareerImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.CareerRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.CareerSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.CareerSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.ContactCommunicationOptionsAddButton_caption.Value" Value="Додати засіб зв'язку" />
+			<Item Name="LocalizableStrings.Dear_placeholder.Value" Value="Вкажіть ім'я для комунікацій" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Вкажіть email" />
+			<Item Name="LocalizableStrings.Gender_placeholder.Value" Value="Виберіть стать" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Інформація про контакт" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Вкажіть посаду" />
+			<Item Name="LocalizableStrings.Language_placeholder.Value" Value="Виберіть мову спілкування" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Вкажіть номер телефону" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Оберіть відповідального" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Назва сторінки" />
+			<Item Name="LocalizableStrings.SalutationType_placeholder.Value" Value="Виберіть форму звернення" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Виберіть тип контакту" />
+		</Items>
+	</Group>
+</Resources>

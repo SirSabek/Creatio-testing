@@ -1,0 +1,29 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cbbac2a1-5615-4236-bdea-9d58bc268afd"
+        },
+        {
+          "SchemaColumnUId": "1d6fcb73-470f-6eb7-4fe5-56fdb0119df1",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "2907adc9-c5e3-d380-9906-f4fa49641507",
+          "Value": "83a43ebc-f36b-1410-298d-001e8c82bcad",
+          "DisplayValue": "System administrators"
+        },
+        {
+          "SchemaColumnUId": "7827124e-9789-281e-e867-beb0f4196374",
+          "Value": 7
+        },
+        {
+          "SchemaColumnUId": "e19a254b-5e61-d1df-27a5-954a4bc1d2f9",
+          "Value": "63e310ad-fc09-5ab8-6a78-c640d560f8b3"
+        }
+      ]
+    }
+  ]
+}

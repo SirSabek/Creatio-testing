@@ -1,0 +1,158 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "0f95fdd9-29bb-47da-b5f6-3177f8cdd67c"
+        },
+        {
+          "SchemaColumnUId": "177e3690-29ef-4af4-8879-e9b925c47bda",
+          "ColumnName": "Name",
+          "Value": "Contact duplicates. Contact name, Web"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "142cbfa3-ad31-454c-a14c-87feb06def66"
+        },
+        {
+          "SchemaColumnUId": "177e3690-29ef-4af4-8879-e9b925c47bda",
+          "ColumnName": "Name",
+          "Value": "Account duplicates. Account name"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "446b38fa-b53d-408c-8424-f99f866ce0dd"
+        },
+        {
+          "SchemaColumnUId": "177e3690-29ef-4af4-8879-e9b925c47bda",
+          "ColumnName": "Name",
+          "Value": "Account duplicates. Account name, Phone"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "7ae56427-c378-48a5-afa0-6ce8e5c01e6c"
+        },
+        {
+          "SchemaColumnUId": "177e3690-29ef-4af4-8879-e9b925c47bda",
+          "ColumnName": "Name",
+          "Value": "Account duplicates. Account web"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "93994842-3969-4685-b7a5-e2945cb0f9e5"
+        },
+        {
+          "SchemaColumnUId": "177e3690-29ef-4af4-8879-e9b925c47bda",
+          "ColumnName": "Name",
+          "Value": "Contact duplicates. Contact  Email"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "b1536855-c180-4d39-8581-94dd00236bdf"
+        },
+        {
+          "SchemaColumnUId": "177e3690-29ef-4af4-8879-e9b925c47bda",
+          "ColumnName": "Name",
+          "Value": "Contact duplicates. Contact name"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "bf66facc-c8c7-476f-9be3-68b3b6434ca3"
+        },
+        {
+          "SchemaColumnUId": "177e3690-29ef-4af4-8879-e9b925c47bda",
+          "ColumnName": "Name",
+          "Value": "Contact duplicates. Contact Phone"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "d3607fd4-8303-40ae-b66e-000000000001"
+        },
+        {
+          "SchemaColumnUId": "177e3690-29ef-4af4-8879-e9b925c47bda",
+          "ColumnName": "Name",
+          "Value": "Contact duplicates. Contact name, Email"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "d3607fd4-8303-40ae-b66e-000000000002"
+        },
+        {
+          "SchemaColumnUId": "177e3690-29ef-4af4-8879-e9b925c47bda",
+          "ColumnName": "Name",
+          "Value": "Contact duplicates. Contact name, Phone"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "d3607fd4-8303-40ae-b66e-000000000003"
+        },
+        {
+          "SchemaColumnUId": "177e3690-29ef-4af4-8879-e9b925c47bda",
+          "ColumnName": "Name",
+          "Value": "Account duplicates. Account name, City, Email"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "d3607fd4-8303-40ae-b66e-000000000004"
+        },
+        {
+          "SchemaColumnUId": "177e3690-29ef-4af4-8879-e9b925c47bda",
+          "ColumnName": "Name",
+          "Value": "Hesap kopyaları. Hesap ismi, Şehir, Telefon"
+        }
+      ]
+    }
+  ]
+}

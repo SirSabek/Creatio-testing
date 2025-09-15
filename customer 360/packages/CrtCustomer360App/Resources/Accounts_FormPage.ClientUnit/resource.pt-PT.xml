@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Página de Contas" />
+			<Item Name="LocalizableStrings.AccountCategory_placeholder.Value" Value="Selecionar categoria" />
+			<Item Name="LocalizableStrings.AccountCommunicationOptionsAddButton_caption.Value" Value="Adicionar opções de comunicação" />
+			<Item Name="LocalizableStrings.addRecord_3bs3f03_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fhp55rg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Endereços" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Ações" />
+			<Item Name="LocalizableStrings.AlternativeName_placeholder.Value" Value="Inserir outro nome" />
+			<Item Name="LocalizableStrings.AnnualRevenue_placeholder.Value" Value="Select revenue" />
+			<Item Name="LocalizableStrings.ContactsAddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.ContactsExpansionPanel_title.Value" Value="Contacts" />
+			<Item Name="LocalizableStrings.ContactsExportDataButton_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.ContactsImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.ContactsRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.ContactsSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.ContactsSettingsButton_caption.Value" Value="Ações" />
+			<Item Name="LocalizableStrings.EmployeesNumber_placeholder.Value" Value="Select employees number" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Selecionar setor" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Selecionar proprietário" />
+			<Item Name="LocalizableStrings.Ownership_placeholder.Value" Value="Selecione a entidade" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Título da página" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Inserir número de telefone" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Selecionar contacto primário" />
+			<Item Name="LocalizableStrings.PrimaryContactExpansionPanel_title.Value" Value="Primary contact" />
+			<Item Name="LocalizableStrings.RelationshipButton_caption.Value" Value="Relacionamentos" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Linha temporal" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Linha temporal" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Linha temporal" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Selecionar tipo" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="BulkDeduplicationInfo" />
+		</Items>
+	</Group>
+</Resources>

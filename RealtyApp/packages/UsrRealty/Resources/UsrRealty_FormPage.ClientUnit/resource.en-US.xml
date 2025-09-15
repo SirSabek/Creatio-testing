@@ -15,8 +15,8 @@
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_cg0mp89_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Details" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0" />
-			<Item Name="LocalizableStrings.RealtyVisitsProcess_caption.Value" Value="Call Add Realty Visits process" />
 			<Item Name="LocalizableStrings.RealtyVisits_title.Value" Value="Realty visits" />
+			<Item Name="LocalizableStrings.RealtyVisitsProcess_caption.Value" Value="Call Add Realty Visits process" />
 			<Item Name="LocalizableStrings.RunAVGWebServiceMenuItem_caption.Value" Value="Call Get AVG web service" />
 		</Items>
 	</Group>

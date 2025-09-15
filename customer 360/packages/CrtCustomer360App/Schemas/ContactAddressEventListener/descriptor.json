@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "87183a9a-f705-46f0-8f26-2a86491608a8",
+    "Name": "ContactAddressEventListener",
+    "ModifiedOnUtc": "\/Date(1665498483000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ContactAddressEventListener",
+    "DependsOn": []
+  }
+}

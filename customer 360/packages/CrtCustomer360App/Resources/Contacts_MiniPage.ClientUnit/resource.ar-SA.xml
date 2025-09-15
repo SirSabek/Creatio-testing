@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="الصفحة المصغرة لجهات الاتصال" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="حدد حساب" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="أدخل البريد الإلكتروني" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="أدخل الاسم الأول" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="أدخل عنوان الوظيفة" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="إدخال رقم الهاتف" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="أدخل اسم العائلة" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="تحديد نوع جهة الاتصال" />
+		</Items>
+	</Group>
+</Resources>

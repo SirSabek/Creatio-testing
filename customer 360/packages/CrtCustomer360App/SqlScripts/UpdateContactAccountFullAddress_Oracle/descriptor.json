@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "4cf6af3c-81f7-d48b-5e42-d447f630eb69",
+    "Name": "UpdateContactAccountFullAddress_Oracle",
+    "DBEngineType": 1,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1670337130000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

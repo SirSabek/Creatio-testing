@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="Ajouter une adresse" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Considérer l'heure dans le filtre" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Filtres des sources de données" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Objet" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.FilterEntitySchemaId.Caption" Value="Objet" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordAddMode.Caption" Value="Mode d'ajout d'enregistrement" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Caption" Value="Définir la valeur des colonnes" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordId.Caption" Value="Id de l'enregistrement créé" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Changer les données du compte" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Considérer l'heure dans le filtre" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Filtres des sources de données" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Objet" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.Caption" Value="Poursuivre l'exécution en cas d'erreur" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Si l'objet remplit les conditions suivantes" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Définir la valeur des colonnes" />
+			<Item Name="Caption" Value="Mettre à jour les données du compte" />
+			<Item Name="Description" Value="Fonction pour changer les données du compte" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Ligne 1" />
+			<Item Name="NotificationCaption.Caption" Value="Légende de l'instance du processus" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.AccountID.Caption" Value="AccountID" />
+			<Item Name="Parameters.AccountID.Sys_Description" Value="Identifiant unique de compte dans l'application Creatio" />
+			<Item Name="Parameters.AlsoKnownAs.Caption" Value="Également connu sous le nom de" />
+			<Item Name="Parameters.AlsoKnownAs.Sys_Description" Value="Nom alternatif de la société" />
+			<Item Name="Parameters.FullAddress.Caption" Value="FullAddress" />
+			<Item Name="Parameters.FullAddress.Sys_Description" Value="Adresse complète du bureau de l'organisation, y compris le pays, la ville, le code postal, etc" />
+			<Item Name="Parameters.PhoneNumber.Caption" Value="numéro de téléphone" />
+			<Item Name="Parameters.PhoneNumber.Sys_Description" Value="numéro de téléphone de l'entreprise" />
+			<Item Name="Parameters.Web.Caption" Value="Web" />
+			<Item Name="Parameters.Web.Sys_Description" Value="adresse du site web de la société" />
+		</Items>
+	</Group>
+</Resources>

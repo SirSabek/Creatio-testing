@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MobileFUIAccountRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.AccountAddressDetailV2EmbeddedDetailAccount_caption.Value" Value="ที่อยู่" />
+			<Item Name="LocalizableStrings.AccountCommunicationDetailEmbeddedDetailAccount_caption.Value" Value="ตัวเลือกการติดต่อสื่อสาร" />
+			<Item Name="LocalizableStrings.AccountContactsDetailV2EmbeddedDetailAccount_caption.Value" Value="ผู้ติดต่อ" />
+			<Item Name="LocalizableStrings.AccountTimelineTab_caption.Value" Value="ไทมไลน์" />
+			<Item Name="LocalizableStrings.infoColumnSetAccount_caption.Value" Value="ข้อมูลบัญชี" />
+			<Item Name="LocalizableStrings.profileColumnSetAccount_caption.Value" Value="โปรไฟล์" />
+			<Item Name="LocalizableStrings.TabAttachments_caption.Value" Value="สิ่งที่แนบ" />
+			<Item Name="LocalizableStrings.TabFeed_caption.Value" Value="ฟีด" />
+		</Items>
+	</Group>
+</Resources>

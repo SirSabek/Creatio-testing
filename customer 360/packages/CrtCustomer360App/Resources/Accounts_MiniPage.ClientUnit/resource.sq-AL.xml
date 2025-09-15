@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Faqja e llogarive mini" />
+			<Item Name="LocalizableStrings.addRecord_9l08qec_caption.Value" Value="Shto të re" />
+			<Item Name="LocalizableStrings.addRecord_hdsf7rh_caption.Value" Value="Shto të re" />
+			<Item Name="LocalizableStrings.addRecord_u32tduv_caption.Value" Value="Shto të re" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Përzgjidh industrinë" />
+			<Item Name="LocalizableStrings.Name_placeholder.Value" Value="Vendos emrin e llogarisë" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Vendos numër telefoni" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Përzgjidh kontaktin parësor" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Përzgjidh llojin" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Vendos rrjetin" />
+		</Items>
+	</Group>
+</Resources>

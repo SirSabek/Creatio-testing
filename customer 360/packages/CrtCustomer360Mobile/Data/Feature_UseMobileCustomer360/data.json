@@ -1,0 +1,20 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "629e1ff5-f4b6-4d41-9621-5636e0c4be3c"
+        },
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "UseMobileCustomer360"
+        },
+        {
+          "SchemaColumnUId": "e04c95c8-b8d3-5e4d-c0b4-789430916f33",
+          "Value": 1
+        }
+      ]
+    }
+  ]
+}

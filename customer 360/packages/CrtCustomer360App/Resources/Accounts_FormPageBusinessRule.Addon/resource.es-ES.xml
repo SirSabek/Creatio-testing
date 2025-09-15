@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.4eb6b768-b3e6-8da1-3776-6a0f7550d3aa.Caption" Value="Visibilidad para información de contacto principal" />
+			<Item Name="Caption" Value="Página del formulario de cuentas (Reglas de negocio)" />
+		</Items>
+	</Group>
+</Resources>

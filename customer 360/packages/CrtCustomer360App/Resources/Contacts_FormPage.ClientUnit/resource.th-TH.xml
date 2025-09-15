@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Contacts form page" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="เลือกลูกค้า" />
+			<Item Name="LocalizableStrings.AccountCategory_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountCategory_label.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountIndustry_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountIndustry_label.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.AccountInfoExpansionPanel_title.Value" Value="ข้อมูลบัญชี" />
+			<Item Name="LocalizableStrings.addRecord_e9kbl5o_caption.Value" Value="เพิ่มใหม่" />
+			<Item Name="LocalizableStrings.addRecord_oz5z1xx_caption.Value" Value="เพิ่มใหม่" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="ใหม่" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="ที่อยู่" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="ส่งออกไปยังเอกเซล" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="รีเฟรช" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="ค้นหา" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="การกระทำ" />
+			<Item Name="LocalizableStrings.CareerAddButton_caption.Value" Value="ใหม่" />
+			<Item Name="LocalizableStrings.CareerExpansionPanel_title.Value" Value="ประสบการณ์ทำงาน" />
+			<Item Name="LocalizableStrings.CareerExportDataButton_caption.Value" Value="ส่งออกไปยังเอกเซล" />
+			<Item Name="LocalizableStrings.CareerImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.CareerRefreshButton_caption.Value" Value="รีเฟรช" />
+			<Item Name="LocalizableStrings.CareerSearchFilter_placeholder.Value" Value="ค้นหา" />
+			<Item Name="LocalizableStrings.CareerSettingsButton_caption.Value" Value="การกระทำ" />
+			<Item Name="LocalizableStrings.ContactCommunicationOptionsAddButton_caption.Value" Value="Add communication option" />
+			<Item Name="LocalizableStrings.Dear_placeholder.Value" Value="Enter legal name" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Enter email" />
+			<Item Name="LocalizableStrings.Gender_placeholder.Value" Value="Select gender" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="ข้อมูลการติดต่อ" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Enter job title" />
+			<Item Name="LocalizableStrings.Language_placeholder.Value" Value="Select language" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Enter phone number" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="เลือกเจ้าของ" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="ชื่อเรื่องหน้า" />
+			<Item Name="LocalizableStrings.SalutationType_placeholder.Value" Value="Select title" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="ไทมไลน์" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="ไทมไลน์" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="ไทมไลน์" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Select contact type" />
+		</Items>
+	</Group>
+</Resources>

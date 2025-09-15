@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="Ad campaign" />
+			<Item Name="Columns.Channel.Caption" Value="Kanali" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Nevoja e klientit" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="Email i pavlefshëm" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Rezultati i konvertimit të klientit të mundshëm" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="Metoda e regjistrimit" />
+			<Item Name="Columns.Source.Caption" Value="Burimi" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Objekt varësie" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Vlerat e paracaktuara për kolonat e objektit prind" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Filtrat për fshirjen e të dhënave" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Lidhja ndërmjet kolonave të objekteve prind dhe vartëse" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Filtro për të përzgjedhur disa rreshta" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="Të gjitha fushat janë të detyrueshme" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Fushat e detyrueshme në objektin e varësisë" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Filtro për të përzgjedhur një rresht të vetëm" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

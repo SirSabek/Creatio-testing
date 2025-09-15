@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9cde062d-3667-4262-b6ea-df03223992c9",
+    "Name": "Contacts_ListPage",
+    "ModifiedOnUtc": "\/Date(1757938479000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Contacts list page",
+    "DependsOn": []
+  }
+}

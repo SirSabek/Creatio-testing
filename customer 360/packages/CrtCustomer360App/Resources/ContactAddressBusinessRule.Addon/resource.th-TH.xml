@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.66500527-730a-d38f-fcf6-2584dcc189e5.Caption" Value="Make elements read-only: Full address" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MobileContactEditScreen" />
+			<Item Name="LocalizableStrings.ContactAddressDetailV2EmbeddedDetailContact_caption.Value" Value="Адреса" />
+			<Item Name="LocalizableStrings.ContactCareerDetailV2EmbeddedDetailContact_caption.Value" Value="Опыт работы" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailEmbeddedDetailContact_caption.Value" Value="Средства связи" />
+			<Item Name="LocalizableStrings.infoColumnSetContact_caption.Value" Value="Информация о контакте" />
+			<Item Name="LocalizableStrings.profileColumnSetContact_caption.Value" Value="Профиль" />
+		</Items>
+	</Group>
+</Resources>

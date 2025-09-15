@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "37afeab2-39bb-4af8-9358-41ad2f6ce74d",
+    "Name": "SaveNewApiKey",
+    "ModifiedOnUtc": "\/Date(1757938478000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Save new ApiKey for Bing Search",
+    "DependsOn": []
+  }
+}

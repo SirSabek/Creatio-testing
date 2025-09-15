@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="連絡先ミニページ" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Select account" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="新規追加" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="メールアドレスを入力してください" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="名を入力してください" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="肩書きを入力してください" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="電話番号を入力してください" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="姓を入力してください" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="連絡先の種類を選択してください" />
+		</Items>
+	</Group>
+</Resources>

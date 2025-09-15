@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="כבה את התהליך הנוכחי" />
+			<Item Name="BaseElements.StartTimerEvent1.Caption" Value="התחל על זמן קצה" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="הפסקת עבודה על עדכון גיל" />
+			<Item Name="Caption" Value="הגיל של C360" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="סט נתיב 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="נתיב 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance title" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#שם תהליך#]" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e03d55b6-8478-49d9-86b1-b8838386339d",
+    "Name": "AgeActualizationC360",
+    "ModifiedOnUtc": "\/Date(1757938479000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Age Actualization C360",
+    "DependsOn": []
+  }
+}

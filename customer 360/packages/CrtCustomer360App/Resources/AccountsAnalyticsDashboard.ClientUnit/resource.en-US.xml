@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Accounts analytics" />
+			<Item Name="LocalizableStrings.AccountByIndustryWidget_label.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountByIndustryWidget_series_0.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountByIndustryWidget_title.Value" Value="Accounts by industry" />
+			<Item Name="LocalizableStrings.AccountsByCategoryChartWidget_label.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountsByCategoryWidget_label.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountsByCategoryWidget_series_0.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountsByCategoryWidget_title.Value" Value="Accounts by category" />
+			<Item Name="LocalizableStrings.AccountsByEmployeeCountChartWidget_label.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountsByEmployeeCountWidget_label.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountsByEmployeeCountWidget_series_0.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountsByEmployeeCountWidget_title.Value" Value="Accounts by number of employees" />
+			<Item Name="LocalizableStrings.AccountsByTypeChartWidget_label.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountsByTypeWidget_label.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountsByTypeWidget_series_0.Value" Value="Account" />
+			<Item Name="LocalizableStrings.AccountsByTypeWidget_title.Value" Value="Accounts by type" />
+			<Item Name="LocalizableStrings.AccountsMissingPrimaryContactWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.AccountsMissingPrimaryContactWidget_title.Value" Value=" Accounts without primary contact" />
+			<Item Name="LocalizableStrings.ChartWidgetAccountsByEmployeeCount_label.Value" Value="Account" />
+			<Item Name="LocalizableStrings.NumberOfAccountsWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.NumberOfAccountsWidget_title.Value" Value="Number of accounts" />
+		</Items>
+	</Group>
+</Resources>

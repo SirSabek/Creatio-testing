@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница записи Контакты" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Выберите контрагента" />
+			<Item Name="LocalizableStrings.AccountInfoExpansionPanel_title.Value" Value="Контрагент" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="Адреса" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.CareerAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.CareerExpansionPanel_title.Value" Value="Карьера" />
+			<Item Name="LocalizableStrings.CareerExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.CareerImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.CareerRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.CareerSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.CareerSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.ContactCommunicationOptionsAddButton_caption.Value" Value="Добавить средство связи" />
+			<Item Name="LocalizableStrings.Dear_placeholder.Value" Value="Укажите имя для коммуникаций" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Укажите email" />
+			<Item Name="LocalizableStrings.Gender_placeholder.Value" Value="Выберите пол" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Информация о контакте" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Укажите должность" />
+			<Item Name="LocalizableStrings.Language_placeholder.Value" Value="Выберите язык общения" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Укажите номер телефона" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Выберите ответственного" />
+			<Item Name="LocalizableStrings.SalutationType_placeholder.Value" Value="Выберите форму обращения" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Выберите тип контакта" />
+		</Items>
+	</Group>
+</Resources>

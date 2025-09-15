@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.b4c1d25e-290c-fd49-3398-6dced7bc20d3.Caption" Value="Visibility for AccountInfo" />
+			<Item Name="Caption" Value="Contacts form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

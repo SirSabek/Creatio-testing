@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="連絡先フォームページ" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Select account" />
+			<Item Name="LocalizableStrings.AccountCategory_ariaLabel.Value" Value="ドロップダウン" />
+			<Item Name="LocalizableStrings.AccountCategory_label.Value" Value="ドロップダウン" />
+			<Item Name="LocalizableStrings.AccountIndustry_ariaLabel.Value" Value="ドロップダウン" />
+			<Item Name="LocalizableStrings.AccountIndustry_label.Value" Value="ドロップダウン" />
+			<Item Name="LocalizableStrings.AccountInfoExpansionPanel_title.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.addRecord_e9kbl5o_caption.Value" Value="新規追加" />
+			<Item Name="LocalizableStrings.addRecord_oz5z1xx_caption.Value" Value="新規追加" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="新規" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="住所" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.CareerAddButton_caption.Value" Value="新規" />
+			<Item Name="LocalizableStrings.CareerExpansionPanel_title.Value" Value="職務経歴" />
+			<Item Name="LocalizableStrings.CareerExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.CareerImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.CareerRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.CareerSearchFilter_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.CareerSettingsButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.ContactCommunicationOptionsAddButton_caption.Value" Value="通信オプションを追加" />
+			<Item Name="LocalizableStrings.Dear_placeholder.Value" Value="正式名称を入力" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="メールアドレスを入力してください" />
+			<Item Name="LocalizableStrings.Gender_placeholder.Value" Value="性別を選択してください" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="連絡先情報" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="肩書きを入力してください" />
+			<Item Name="LocalizableStrings.Language_placeholder.Value" Value="言語を選択" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="電話番号を入力してください" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="Select owner" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="ページタイトル" />
+			<Item Name="LocalizableStrings.SalutationType_placeholder.Value" Value="タイトルを選択してください" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="タイムライン" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="タイムライン" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="タイムライン" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="連絡先の種類を選択してください" />
+		</Items>
+	</Group>
+</Resources>

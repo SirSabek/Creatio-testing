@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Faqja e kontakteve mini" />
+			<Item Name="LocalizableStrings.Account_placeholder.Value" Value="Përzgjidh llogarinë" />
+			<Item Name="LocalizableStrings.addRecord_3b5w93f_caption.Value" Value="Shto të re" />
+			<Item Name="LocalizableStrings.Email_placeholder.Value" Value="Vendos email" />
+			<Item Name="LocalizableStrings.GivenName_placeholder.Value" Value="Vendos emrin" />
+			<Item Name="LocalizableStrings.JobTitle_placeholder.Value" Value="Vendos titullin e punës" />
+			<Item Name="LocalizableStrings.MobilePhone_placeholder.Value" Value="Vendos numër telefoni" />
+			<Item Name="LocalizableStrings.Surname_placeholder.Value" Value="Vendos mbiemrin" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Përzgjidh llojin e kontaktit" />
+		</Items>
+	</Group>
+</Resources>

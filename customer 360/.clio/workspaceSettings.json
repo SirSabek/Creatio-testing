@@ -1,0 +1,9 @@
+{
+  "Packages": [
+    "CrtC360InUiV2",
+    "CrtCustomer360Mobile",
+    "CrtCustomer360App",
+    "CrtCustomer360AI"
+  ],
+  "ApplicationVersion": "8.1.3"
+}

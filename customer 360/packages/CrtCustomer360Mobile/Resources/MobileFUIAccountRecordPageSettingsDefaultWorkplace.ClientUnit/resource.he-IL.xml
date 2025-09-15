@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MobileFUIAccountRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.AccountAddressDetailV2EmbeddedDetailAccount_caption.Value" Value="כתובות" />
+			<Item Name="LocalizableStrings.AccountCommunicationDetailEmbeddedDetailAccount_caption.Value" Value="אפשרויות תקשורת" />
+			<Item Name="LocalizableStrings.AccountContactsDetailV2EmbeddedDetailAccount_caption.Value" Value="אנשי קשר" />
+			<Item Name="LocalizableStrings.AccountTimelineTab_caption.Value" Value="ציר זמן" />
+			<Item Name="LocalizableStrings.infoColumnSetAccount_caption.Value" Value="מידע אודות החברה" />
+			<Item Name="LocalizableStrings.profileColumnSetAccount_caption.Value" Value="פרופיל" />
+			<Item Name="LocalizableStrings.TabAttachments_caption.Value" Value="הצמדה" />
+			<Item Name="LocalizableStrings.TabFeed_caption.Value" Value="לוח הודעות" />
+		</Items>
+	</Group>
+</Resources>

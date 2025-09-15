@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Hesaplar mini sayfası" />
+			<Item Name="LocalizableStrings.addRecord_9l08qec_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_hdsf7rh_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_u32tduv_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="Endüstri seçin" />
+			<Item Name="LocalizableStrings.Name_placeholder.Value" Value="Hesap Adını Girin" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="Telefon Numarasını Girin" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="Birincil Kişi Seçin" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="Türü seçin" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="Web'e girin" />
+		</Items>
+	</Group>
+</Resources>

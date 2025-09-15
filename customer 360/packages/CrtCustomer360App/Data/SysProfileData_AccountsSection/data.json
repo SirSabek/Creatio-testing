@@ -1,0 +1,43 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "74ed5887-7f02-446f-afae-cf5a14abb992"
+        },
+        {
+          "SchemaColumnUId": "03a27b75-6d7f-4be4-b0fd-f03ffd8a7aab",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "216b38f5-e2c3-462b-ae2e-1df80fc21b33",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "3bb9d182-ad73-4379-9d51-2003c862a90c",
+          "Value": "Schema__Accounts_ListPage"
+        },
+        {
+          "SchemaColumnUId": "6851587b-0b7a-45cb-a5a5-31994420d81b",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "986fc9ee-72b2-4cc9-af5e-ed64af54d30f",
+          "Value": "eyJuYW1lIjoiIiwic2NoZW1hIjp7InZpZXdDb25maWdEaWZmIjpbXSwidmlld01vZGVsQ29uZmlnIjp7ImF0dHJpYnV0ZXMiOnsiSXRlbXMiOnsibW9kZWxDb25maWciOnsic29ydGluZ0NvbmZpZyI6eyJkZWZhdWx0IjpudWxsfX19LCJJdGVtc1NvcnRpbmciOnsidmFsdWUiOlt7ImRpcmVjdGlvbiI6ImFzYyIsImNvbHVtbk5hbWUiOiJOYW1lIn1dfX19LCJtb2RlbENvbmZpZyI6e319LCJsb2NhbGl6YWJsZUltYWdlcyI6e30sImxvY2FsaXphYmxlU3RyaW5ncyI6e319"
+        },
+        {
+          "SchemaColumnUId": "99d21524-ccad-45c1-998d-e9de6a6412af",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "fd26b95c-06ba-4595-915e-bc5657d10842",
+          "Value": "null",
+          "DisplayValue": ""
+        }
+      ]
+    }
+  ]
+}

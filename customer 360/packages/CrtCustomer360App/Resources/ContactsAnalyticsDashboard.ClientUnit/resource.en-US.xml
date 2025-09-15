@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Contacts analytics" />
+			<Item Name="LocalizableStrings.ContactsByJobTitleChartWidget_label.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.ContactsByJobTitleWidget_label.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.ContactsByJobTitleWidget_series_0.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.ContactsByJobTitleWidget_title.Value" Value="Contacts by job title" />
+			<Item Name="LocalizableStrings.ContactsByPreferredLanguageWidget_label.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.ContactsByPreferredLanguageWidget_series_0.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.ContactsByPreferredLanguageWidget_title.Value" Value="Contacts by preferred language" />
+			<Item Name="LocalizableStrings.ContactsByPrefferedLanguageChartWidget_label.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.ContactsByPrefferedLanguageWidget_label.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.ContactsByTypeWidget_label.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.ContactsByTypeWidget_series_0.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.ContactsByTypeWidget_title.Value" Value="Contacts by type" />
+			<Item Name="LocalizableStrings.ContactsWithoutAccountWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.ContactsWithoutAccountWidget_title.Value" Value="Contacts without account" />
+			<Item Name="LocalizableStrings.ContactsWithoutCommunicationOptionWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.ContactsWithoutCommunicationOptionWidget_title.Value" Value="Contacts without communication option" />
+			<Item Name="LocalizableStrings.NewContactsThisMonthWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.NewContactsThisMonthWidget_title.Value" Value="New contacts current month" />
+			<Item Name="LocalizableStrings.NumberOfContactsWidget_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.NumberOfContactsWidget_title.Value" Value="Number of contacts" />
+		</Items>
+	</Group>
+</Resources>

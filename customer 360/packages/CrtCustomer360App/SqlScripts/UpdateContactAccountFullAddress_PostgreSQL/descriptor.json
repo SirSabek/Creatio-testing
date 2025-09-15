@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "e4a3cea7-062d-0627-aa23-fb2250ad6849",
+    "Name": "UpdateContactAccountFullAddress_PostgreSQL",
+    "DBEngineType": 2,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1670337271000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

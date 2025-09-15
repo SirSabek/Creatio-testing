@@ -1,0 +1,70 @@
+﻿{
+  "Descriptor": {
+    "UId": "6e74a28e-1fd7-7b1d-73c3-fd16993c5377",
+    "Name": "DuplicatesRule",
+    "ModifiedOnUtc": "\/Date(1748869332000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "f9838ef2-f0f9-448c-b968-e36103b33919",
+      "Name": "DuplicatesRule"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ee552907-b04c-4a84-9320-7370ea59ebdd",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UseAtSave",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "dfa9bd8a-dbc4-405a-9c29-701dc6bc6599",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Object",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "0c715ab8-cf10-44ce-b83e-7d287053d3a1",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SearchObject",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "177e3690-29ef-4af4-8879-e9b925c47bda",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "2739c1c8-709b-477a-bf07-f85fc4c70d31",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ProcedureName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "931042d0-27db-46dd-b76f-9316a51f2af2",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "RuleBody",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "c5b7aaf3-72ad-43e0-bcbf-bfac66d50e2a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "IsActive",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      }
+    ]
+  }
+}

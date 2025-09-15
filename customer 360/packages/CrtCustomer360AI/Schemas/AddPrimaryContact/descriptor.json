@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "51a6b433-2e18-42b1-9090-b829f0483e0b",
+    "Name": "AddPrimaryContact",
+    "ModifiedOnUtc": "\/Date(1744829304000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Add Primary contact",
+    "DependsOn": []
+  }
+}

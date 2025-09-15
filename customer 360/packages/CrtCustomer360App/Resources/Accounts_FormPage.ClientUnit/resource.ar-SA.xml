@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="صفحة نموذج الحسابات" />
+			<Item Name="LocalizableStrings.AccountCategory_placeholder.Value" Value="اختر الفئة" />
+			<Item Name="LocalizableStrings.AccountCommunicationOptionsAddButton_caption.Value" Value="إضافة خيار الاتصال" />
+			<Item Name="LocalizableStrings.addRecord_3bs3f03_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fhp55rg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AddressAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.AddressExpansionPanel_title.Value" Value="عناوين" />
+			<Item Name="LocalizableStrings.AddressExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.AddressImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.AddressRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.AddressSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.AddressSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.AlternativeName_placeholder.Value" Value="أدخل اسم آخر" />
+			<Item Name="LocalizableStrings.AnnualRevenue_placeholder.Value" Value="حدد الإيرادات" />
+			<Item Name="LocalizableStrings.ContactsAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.ContactsExpansionPanel_title.Value" Value="Contacts" />
+			<Item Name="LocalizableStrings.ContactsExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.ContactsImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.ContactsRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.ContactsSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.ContactsSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.EmployeesNumber_placeholder.Value" Value="حدد عدد الموظفين" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="معلومات عن الحساب" />
+			<Item Name="LocalizableStrings.Industry_placeholder.Value" Value="حدد الصناعة" />
+			<Item Name="LocalizableStrings.Owner_placeholder.Value" Value="حدد مالك" />
+			<Item Name="LocalizableStrings.Ownership_placeholder.Value" Value="حدد الكيان" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="عنوان الصفحة" />
+			<Item Name="LocalizableStrings.Phone_placeholder.Value" Value="إدخال رقم الهاتف" />
+			<Item Name="LocalizableStrings.PrimaryContact_placeholder.Value" Value="حدد جهة الاتصال الرئيسية" />
+			<Item Name="LocalizableStrings.PrimaryContactExpansionPanel_title.Value" Value="جهة الاتصال الأولية" />
+			<Item Name="LocalizableStrings.RelationshipButton_caption.Value" Value="العلاقات" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="الجدول الزمني" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="الجدول الزمني" />
+			<Item Name="LocalizableStrings.TimelineTab_caption.Value" Value="الجدول الزمني" />
+			<Item Name="LocalizableStrings.Type_placeholder.Value" Value="حدد النوع" />
+			<Item Name="LocalizableStrings.Web_placeholder.Value" Value="أدخل الويب" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,31 @@
+﻿{
+  "Descriptor": {
+    "UId": "99158cb9-b1b4-3a1d-beb0-7157e0414e73",
+    "PackageVersion": "7.8.0",
+    "Name": "CrtC360InUiV2",
+    "Type": 1,
+    "InstallBehavior": 1,
+    "ModifiedOnUtc": "\/Date(1732030532000)\/",
+    "Maintainer": "Creatio",
+    "ProjectPath": "Files/CrtC360InUiV2.csproj",
+    "DependsOn": [
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      },
+      {
+        "UId": "36c1a9a5-2dde-4fff-a39a-d2fadcab5bd4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtProductivityApp",
+        "Type": 1
+      },
+      {
+        "UId": "a17d52e6-97ab-6f7f-17aa-f0e197e488ea",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIv2"
+      }
+    ]
+  }
+}

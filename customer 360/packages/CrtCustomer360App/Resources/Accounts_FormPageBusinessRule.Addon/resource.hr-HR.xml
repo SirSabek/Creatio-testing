@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.4eb6b768-b3e6-8da1-3776-6a0f7550d3aa.Caption" Value="Vidljivost za informacije Primarnog kontakta" />
+			<Item Name="Caption" Value="Stranica obrasca za račune (Poslovna pravila)" />
+		</Items>
+	</Group>
+</Resources>

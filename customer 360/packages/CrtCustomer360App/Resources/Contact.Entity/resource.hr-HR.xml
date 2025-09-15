@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdCampaign.Caption" Value="Oglasna kampanja" />
+			<Item Name="Columns.Channel.Caption" Value="Kanal" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Potreba korisnika" />
+			<Item Name="Columns.IsNonActualEmail.Caption" Value="Nevažeća e-pošta" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Rezultat konverzije potencijalnog klijenta" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="Način registracije" />
+			<Item Name="Columns.Source.Caption" Value="Izvor" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Podređeni objekt" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Zadane vrijednosti za stupce nadređenog objekta" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Filtri za brisanje zapisa" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Veza između stupaca nadređenih i podređenih objekata" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Filtrirajte za odabir nekoliko redaka" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="Sva polja su obavezna" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Obavezna polja u podređenom objektu" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Filtriraj za odabir jednog retka" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "47709280-614f-4fdc-9bba-eed11f447dc8",
+    "Name": "AccountsAnalyticsDashboard",
+    "ModifiedOnUtc": "\/Date(1757938479000)\/",
+    "Parent": {
+      "UId": "eb4d4a67-25d8-fcfa-7851-c4c91efb7b9c",
+      "Name": "BaseDashboardTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Accounts analytics",
+    "DependsOn": []
+  }
+}

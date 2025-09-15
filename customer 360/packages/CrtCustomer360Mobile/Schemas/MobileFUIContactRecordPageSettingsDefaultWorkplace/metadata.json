@@ -1,0 +1,86 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+      "A2": "MobileFUIContactRecordPageSettingsDefaultWorkplace",
+      "A5": "6d64db15-5fd7-4c4e-bcb4-8a53597e0ddf",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "46f42115-1ba4-b78a-6d91-112ab05a0694",
+          "A2": "primaryColumnSetContact_caption",
+          "A3": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A4": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A5": "6d64db15-5fd7-4c4e-bcb4-8a53597e0ddf"
+        },
+        {
+          "UId": "f101eeee-aebe-4a1d-97f2-d0857cd56e96",
+          "A2": "profileColumnSetContact_caption",
+          "A3": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A4": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A5": "6d64db15-5fd7-4c4e-bcb4-8a53597e0ddf"
+        },
+        {
+          "UId": "241a8d88-a006-4333-a97a-4f440f23f917",
+          "A2": "infoColumnSetContact_caption",
+          "A3": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A4": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A5": "6d64db15-5fd7-4c4e-bcb4-8a53597e0ddf"
+        },
+        {
+          "UId": "46212057-8b1e-46f9-9071-77d503d90b9d",
+          "A2": "ContactCareerDetailV2EmbeddedDetailContact_caption",
+          "A3": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A4": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A5": "6d64db15-5fd7-4c4e-bcb4-8a53597e0ddf"
+        },
+        {
+          "UId": "59542ee2-bdd7-5b36-2d34-8a7b60e9d4aa",
+          "A2": "ContactAddressDetailV2EmbeddedDetailContact_caption",
+          "A3": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A4": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A5": "6d64db15-5fd7-4c4e-bcb4-8a53597e0ddf"
+        },
+        {
+          "UId": "0c80c2d4-a252-d1e7-2c22-e49cd4dd27f7",
+          "A2": "ContactCommunicationDetailEmbeddedDetailContact_caption",
+          "A3": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A4": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A5": "3ffcced0-365d-4b98-8f86-8625cc871cab"
+        },
+        {
+          "UId": "46507834-0e80-3503-abb2-42efc1ac701e",
+          "A2": "ContactTimelineTab_caption",
+          "A3": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A4": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A5": "3ffcced0-365d-4b98-8f86-8625cc871cab"
+        },
+        {
+          "UId": "5067b5a1-6726-9ef0-8733-7a9463539eac",
+          "A2": "TabFeed_caption",
+          "A3": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A4": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A5": "3ffcced0-365d-4b98-8f86-8625cc871cab"
+        },
+        {
+          "UId": "ce799c36-61d1-3a4c-f21e-64144ff0f29e",
+          "A2": "TabAttachments_caption",
+          "A3": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A4": "5a4005bf-8bfc-4fbb-b6bf-0e17e324ccdf",
+          "A5": "3ffcced0-365d-4b98-8f86-8625cc871cab"
+        }
+      ],
+      "B3": [],
+      "B6": "379003f3-74dc-4305-c4de-04f43be2bfb0",
+      "B8": "0.0.0.0",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}
